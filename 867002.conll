@@ -1,0 +1,23 @@
+# sent_id = 867002
+1	Donc	_	Word	Word	_	5	L	_	_
+2	,	_	Punctuation	Punctuation	_	5	U	_	_
+3	jusqu’	_	Word	Word	_	5	L	_	_
+4	à	_	Word	Word	_	3	Terminal	_	_
+5	preuve	_	Word	Word	_	0	ROOT	_	_
+6	contraire	_	Word	Word	_	5	D	_	_
+7	,	_	Punctuation	Punctuation	_	5	U	_	_
+8	je	_	Word	Word	_	9	A	_	_
+9	nie	_	Word	Word	_	0	ROOT	_	_
+10	que	_	Word	Word	_	9	F	_	_
+11	baleines	_	Word	Word	_	0	ROOT	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	cachalots	_	Word	Word	_	11	C	_	_
+14	ou	_	Word	Word	_	11	N	_	_
+15	licornes	_	Word	Word	_	11	C	_	_
+16	puissent	_	Word	Word	_	17	E	_	_
+17	produire	_	Word	Word	_	0	ROOT	_	_
+18	un	_	Word	Word	_	20	E	_	_
+19	pareil	_	Word	Word	_	20	E	_	_
+20	effet	_	Word	Word	_	0	ROOT	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

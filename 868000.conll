@@ -1,0 +1,29 @@
+# sent_id = 868000
+1	—	_	Punctuation	Punctuation	_	20	U	_	_
+2	Alors	_	Word	Word	_	20	L	_	_
+3	,	_	Punctuation	Punctuation	_	20	U	_	_
+4	monsieur	_	Word	Word	_	6	E	_	_
+5	le	_	Word	Word	_	6	E	_	_
+6	naturaliste	_	Word	Word	_	0	ROOT	_	_
+7	,	_	Punctuation	Punctuation	_	20	U	_	_
+8	reprit	_	Word	Word	_	0	ROOT	_	_
+9	Ned	_	Word	Word	_	8	A	_	_
+10	Land	_	Word	Word	_	9	Terminal	_	_
+11	d’	_	Word	Word	_	13	R	_	_
+12	un	_	Word	Word	_	13	E	_	_
+13	ton	_	Word	Word	_	0	ROOT	_	_
+14	assez	_	Word	Word	_	15	E	_	_
+15	narquois	_	Word	Word	_	0	ROOT	_	_
+16	,	_	Punctuation	Punctuation	_	20	U	_	_
+17	vous	_	Word	Word	_	20	F	_	_
+18	persistez	_	Word	Word	_	20	E	_	_
+19	à	_	Word	Word	_	20	F	_	_
+20	admettre	_	Word	Word	_	0	ROOT	_	_
+21	l’	_	Word	Word	_	22	E	_	_
+22	existence	_	Word	Word	_	0	ROOT	_	_
+23	d’	_	Word	Word	_	26	R	_	_
+24	un	_	Word	Word	_	26	E	_	_
+25	énorme	_	Word	Word	_	26	E	_	_
+26	cétacé…	_	Word	Word	_	0	ROOT	_	_
+27	?	_	Punctuation	Punctuation	_	26	U	_	_
+

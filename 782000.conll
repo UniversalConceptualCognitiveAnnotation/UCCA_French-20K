@@ -1,0 +1,14 @@
+# sent_id = 782000
+1	Nos	_	Word	Word	_	2	E	_	_
+2	bagages	_	Word	Word	_	0	ROOT	_	_
+3	furent	_	Word	Word	_	5	F	_	_
+4	immédiatement	_	Word	Word	_	5	D	_	_
+5	transbordés	_	Word	Word	_	0	ROOT	_	_
+6	sur	_	Word	Word	_	8	R	_	_
+7	le	_	Word	Word	_	8	E	_	_
+8	pont	_	Word	Word	_	0	ROOT	_	_
+9	de	_	Word	Word	_	11	R	_	_
+10	la	_	Word	Word	_	11	E	_	_
+11	frégate	_	Word	Word	_	0	ROOT	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

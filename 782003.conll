@@ -1,0 +1,30 @@
+# sent_id = 782003
+1	Un	_	Word	Word	_	0	ROOT	_	_
+2	des	_	Word	Word	_	3	E	_	_
+2	des	_	Word	Word	_	1	R	_	_
+3	matelots	_	Word	Word	_	0	ROOT	_	_
+4	me	_	Word	Word	_	5	A	_	_
+5	conduisit	_	Word	Word	_	0	ROOT	_	_
+6	sur	_	Word	Word	_	8	R	_	_
+7	la	_	Word	Word	_	8	E	_	_
+8	dunette	_	Word	Word	_	0	ROOT	_	_
+9	,	_	Punctuation	Punctuation	_	5	U	_	_
+10	où	_	Word	Word	_	5	L	_	_
+11	je	_	Word	Word	_	15	A	_	_
+12	me	_	Word	Word	_	13	E	_	_
+13	trouvai	_	Word	Word	_	0	ROOT	_	_
+14	en	_	Word	Word	_	15	R	_	_
+15	présence	_	Word	Word	_	0	ROOT	_	_
+16	d’	_	Word	Word	_	18	R	_	_
+17	un	_	Word	Word	_	18	E	_	_
+18	officier	_	Word	Word	_	24	A	_	_
+19	de	_	Word	Word	_	21	R	_	_
+20	bonne	_	Word	Word	_	21	E	_	_
+21	mine	_	Word	Word	_	0	ROOT	_	_
+22	qui	_	Word	Word	_	24	R	_	_
+23	me	_	Word	Word	_	24	A	_	_
+24	tendit	_	Word	Word	_	0	ROOT	_	_
+25	la	_	Word	Word	_	26	E	_	_
+26	main	_	Word	Word	_	0	ROOT	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+

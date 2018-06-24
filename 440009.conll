@@ -1,0 +1,31 @@
+# sent_id = 440009
+1	Pourquoi	_	Word	Word	_	3	A	_	_
+2	ne	_	Word	Word	_	3	D	_	_
+3	cacherait-elle	_	Word	Word	_	0	ROOT	_	_
+4	pas	_	Word	Word	_	2	Terminal	_	_
+5	dans	_	Word	Word	_	7	R	_	_
+6	son	_	Word	Word	_	7	E	_	_
+7	sein	_	Word	Word	_	0	ROOT	_	_
+8	les	_	Word	Word	_	10	E	_	_
+9	dernières	_	Word	Word	_	10	E	_	_
+10	variétés	_	Word	Word	_	0	ROOT	_	_
+11	de	_	Word	Word	_	13	R	_	_
+12	ces	_	Word	Word	_	13	E	_	_
+13	espèces	_	Word	Word	_	25	E	_	_
+13	espèces	_	Word	Word	_	18	E	_	_
+14	titanesques	_	Word	Word	_	13	E	_	_
+15	,	_	Punctuation	Punctuation	_	13	U	_	_
+16	dont	_	Word	Word	_	19	R	_	_
+17	les	_	Word	Word	_	18	E	_	_
+18	années	_	Word	Word	_	0	ROOT	_	_
+19	sont	_	Word	Word	_	25	S	_	_
+20	des	_	Word	Word	_	21	E	_	_
+21	siècles	_	Word	Word	_	0	ROOT	_	_
+22	,	_	Punctuation	Punctuation	_	19	U	_	_
+23	et	_	Word	Word	_	19	L	_	_
+24	les	_	Word	Word	_	25	E	_	_
+25	siècles	_	Word	Word	_	0	ROOT	_	_
+26	des	_	Word	Word	_	27	E	_	_
+27	millénaires	_	Word	Word	_	0	ROOT	_	_
+28	?	_	Punctuation	Punctuation	_	27	U	_	_
+

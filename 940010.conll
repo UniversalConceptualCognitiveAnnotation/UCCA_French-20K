@@ -1,0 +1,15 @@
+# sent_id = 940010
+1	—	_	Punctuation	Punctuation	_	7	U	_	_
+2	Eh	_	Word	Word	_	7	L	_	_
+3	bien	_	Word	Word	_	2	Terminal	_	_
+4	,	_	Punctuation	Punctuation	_	7	U	_	_
+5	monsieur	_	Word	Word	_	7	A	_	_
+6	n’	_	Word	Word	_	7	D	_	_
+7	aura	_	Word	Word	_	0	ROOT	_	_
+8	que	_	Word	Word	_	6	Terminal	_	_
+9	ce	_	Word	Word	_	12	F	_	_
+10	qu’	_	Word	Word	_	12	R	_	_
+11	il	_	Word	Word	_	12	A	_	_
+12	mérite	_	Word	Word	_	0	ROOT	_	_
+13	!	_	Punctuation	Punctuation	_	12	U	_	_
+

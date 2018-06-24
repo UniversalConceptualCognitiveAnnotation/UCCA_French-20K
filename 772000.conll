@@ -1,0 +1,23 @@
+# sent_id = 772000
+1	Ce	_	Word	Word	_	2	E	_	_
+2	garçon	_	Word	Word	_	0	ROOT	_	_
+3	avait	_	Word	Word	_	5	F	_	_
+4	trente	_	Word	Word	_	5	E	_	_
+5	ans	_	Word	Word	_	0	ROOT	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	et	_	Word	Word	_	5	L	_	_
+8	son	_	Word	Word	_	9	E	_	_
+9	âge	_	Word	Word	_	15	C	_	_
+10	était	_	Word	Word	_	11	F	_	_
+11	à	_	Word	Word	_	0	ROOT	_	_
+12	celui	_	Word	Word	_	15	F	_	_
+13	de	_	Word	Word	_	15	R	_	_
+14	son	_	Word	Word	_	15	E	_	_
+15	maître	_	Word	Word	_	0	ROOT	_	_
+16	comme	_	Word	Word	_	5	L	_	_
+17	quinze	_	Word	Word	_	19	A	_	_
+18	est	_	Word	Word	_	19	F	_	_
+19	à	_	Word	Word	_	0	ROOT	_	_
+20	vingt	_	Word	Word	_	19	A	_	_
+21	.	_	Punctuation	Punctuation	_	19	U	_	_
+

@@ -1,0 +1,23 @@
+# sent_id = 868001
+1	—	_	Punctuation	Punctuation	_	2	U	_	_
+2	Oui	_	Word	Word	_	0	ROOT	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	Ned	_	Word	Word	_	2	Terminal	_	_
+5	,	_	Punctuation	Punctuation	_	2	U	_	_
+6	je	_	Word	Word	_	9	A	_	_
+7	vous	_	Word	Word	_	9	A	_	_
+8	le	_	Word	Word	_	9	A	_	_
+9	répète	_	Word	Word	_	0	ROOT	_	_
+10	avec	_	Word	Word	_	12	R	_	_
+11	une	_	Word	Word	_	12	E	_	_
+12	conviction	_	Word	Word	_	15	A	_	_
+13	qui	_	Word	Word	_	15	R	_	_
+14	s’	_	Word	Word	_	15	E	_	_
+15	appuie	_	Word	Word	_	0	ROOT	_	_
+16	sur	_	Word	Word	_	18	R	_	_
+17	la	_	Word	Word	_	18	E	_	_
+18	logique	_	Word	Word	_	0	ROOT	_	_
+19	des	_	Word	Word	_	20	R	_	_
+20	faits	_	Word	Word	_	0	ROOT	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

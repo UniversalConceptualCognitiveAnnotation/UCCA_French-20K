@@ -1,0 +1,22 @@
+# sent_id = 87000
+1	Alors	_	Word	Word	_	2	L	_	_
+2	éclata	_	Word	Word	_	0	ROOT	_	_
+3	l\u2019	_	Word	Word	_	5	E	_	_
+4	interminable	_	Word	Word	_	5	E	_	_
+5	polémique	_	Word	Word	_	0	ROOT	_	_
+6	des	_	Word	Word	_	7	R	_	_
+7	crédules	_	Word	Word	_	0	ROOT	_	_
+8	et	_	Word	Word	_	7	N	_	_
+9	des	_	Word	Word	_	10	R	_	_
+10	incrédules	_	Word	Word	_	0	ROOT	_	_
+11	dans	_	Word	Word	_	13	R	_	_
+11	dans	_	Word	Word	_	17	R	_	_
+12	les	_	Word	Word	_	13	E	_	_
+13	sociétés	_	Word	Word	_	0	ROOT	_	_
+14	savantes	_	Word	Word	_	13	E	_	_
+15	et	_	Word	Word	_	13	N	_	_
+16	les	_	Word	Word	_	17	E	_	_
+17	journaux	_	Word	Word	_	0	ROOT	_	_
+18	scientifiques	_	Word	Word	_	17	E	_	_
+19	.	_	Punctuation	Punctuation	_	17	U	_	_
+

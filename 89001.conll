@@ -1,0 +1,26 @@
+# sent_id = 89001
+1	Il	_	Word	Word	_	4	F	_	_
+2	ne	_	Word	Word	_	4	D	_	_
+3	s\u2019	_	Word	Word	_	4	F	_	_
+4	agit	_	Word	Word	_	18	P	_	_
+5	plus	_	Word	Word	_	2	Terminal	_	_
+6	alors	_	Word	Word	_	4	D	_	_
+7	d\u2019	_	Word	Word	_	9	R	_	_
+8	un	_	Word	Word	_	9	E	_	_
+9	problème	_	Word	Word	_	12	A	_	_
+10	scientifique	_	Word	Word	_	9	E	_	_
+11	à	_	Word	Word	_	12	R	_	_
+12	résoudre	_	Word	Word	_	0	ROOT	_	_
+13	,	_	Punctuation	Punctuation	_	4	U	_	_
+14	mais	_	Word	Word	_	4	L	_	_
+15	bien	_	Word	Word	_	14	Terminal	_	_
+16	d\u2019	_	Word	Word	_	18	R	_	_
+17	un	_	Word	Word	_	18	E	_	_
+18	danger	_	Word	Word	_	23	A	_	_
+19	réel	_	Word	Word	_	18	E	_	_
+20	,	_	Punctuation	Punctuation	_	18	U	_	_
+21	sérieux	_	Word	Word	_	18	E	_	_
+22	à	_	Word	Word	_	23	R	_	_
+23	éviter	_	Word	Word	_	0	ROOT	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+
