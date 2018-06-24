@@ -1,0 +1,26 @@
+# sent_id = 937002
+# text = Peut-être , et pour la première fois , ses nerfs vibraient - ils sous l’ action d’ un sentiment de curiosité .
+# doc_id = 
+1	Peut-être	_	Word	Word	_	0	root	0:root	_
+2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+3	et	_	Word	Word	_	1	N	1:N	_
+4	pour	_	Word	Word	_	7	R	7:R	_
+5	la	_	Word	Word	_	7	E	7:E	_
+6	première	_	Word	Word	_	7	E	7:E	_
+7	fois	_	Word	Word	_	1	orphan	1:orphan	_
+8	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+9	ses	_	Word	Word	_	10	E	10:E	_
+10	nerfs	_	Word	Word	_	1	orphan	1:orphan	_
+11	vibraient	_	Word	Word	_	1	orphan	1:orphan	_
+12	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	ils	_	Word	Word	_	11	F	11:F	_
+14	sous	_	Word	Word	_	16	R	16:R	_
+15	l’	_	Word	Word	_	16	E	16:E	_
+16	action	_	Word	Word	_	1	orphan	1:orphan	_
+17	d’	_	Word	Word	_	16	R	16:R	_
+18	un	_	Word	Word	_	19	E	19:E	_
+19	sentiment	_	Word	Word	_	1	orphan	1:orphan	_
+20	de	_	Word	Word	_	19	R	19:R	_
+21	curiosité	_	Word	Word	_	1	orphan	1:orphan	_
+22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+

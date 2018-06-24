@@ -1,0 +1,24 @@
+# sent_id = 938000
+# text = « Allons , Conseil , lui dis - je , voilà une dernière occasion d’ empocher deux mille dollars .
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Allons	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	Conseil	_	Word	Word	_	2	flat	2:flat	_
+5	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	lui	_	Word	Word	_	7	A	7:A	_
+7	dis	_	Word	Word	_	2	orphan	2:orphan	_
+8	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	je	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+11	voilà	_	Word	Word	_	2	orphan	2:orphan	_
+12	une	_	Word	Word	_	14	E	14:E	_
+13	dernière	_	Word	Word	_	14	E	14:E	_
+14	occasion	_	Word	Word	_	2	orphan	2:orphan	_
+15	d’	_	Word	Word	_	16	F	16:F	_
+16	empocher	_	Word	Word	_	2	orphan	2:orphan	_
+17	deux	_	Word	Word	_	18	E	18:E	_
+18	mille	_	Word	Word	_	2	orphan	2:orphan	_
+19	dollars	_	Word	Word	_	2	orphan	2:orphan	_
+20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+

@@ -1,0 +1,16 @@
+# sent_id = 923001
+# text = Est - ce que nous ne courons pas à l’ aventure ?
+# doc_id = 
+1	Est	_	Word	Word	_	11	H	11:H	_
+2	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+3	ce	_	Word	Word	_	11	flat	11:flat	_
+4	que	_	Word	Word	_	11	flat	11:flat	_
+5	nous	_	Word	Word	_	11	A	11:A	_
+6	ne	_	Word	Word	_	11	D	11:D	_
+7	courons	_	Word	Word	_	11	E	11:E	_
+8	pas	_	Word	Word	_	6	flat	6:flat	_
+9	à	_	Word	Word	_	11	R	11:R	_
+10	l’	_	Word	Word	_	11	E	11:E	_
+11	aventure	_	Word	Word	_	0	root	0:root	_
+12	?	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+

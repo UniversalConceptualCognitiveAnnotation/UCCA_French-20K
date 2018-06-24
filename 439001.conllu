@@ -1,0 +1,10 @@
+# sent_id = 439001
+# text = Je me réservais une échappatoire .
+# doc_id = 
+1	Je	_	Word	Word	_	3	A	3:A	_
+2	me	_	Word	Word	_	3	A	3:A	_
+3	réservais	_	Word	Word	_	0	root	0:root	_
+4	une	_	Word	Word	_	5	E	5:E	_
+5	échappatoire	_	Word	Word	_	3	orphan	3:orphan	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+

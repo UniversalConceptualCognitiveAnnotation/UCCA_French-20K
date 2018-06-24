@@ -1,0 +1,29 @@
+# sent_id = 861001
+# text = Nous avions dépassé le tropique du Capricorne , et le détroit de Magellan s’ ouvrait à moins de sept cent milles dans le sud .
+# doc_id = 
+1	Nous	_	Word	Word	_	3	A	3:A	_
+2	avions	_	Word	Word	_	3	F	3:F	_
+3	dépassé	_	Word	Word	_	0	root	0:root	_
+4	le	_	Word	Word	_	5	E	5:E	_
+5	tropique	_	Word	Word	_	3	orphan	3:orphan	_
+6	du	_	Word	Word	_	7	R	7:R	_
+7	Capricorne	_	Word	Word	_	3	orphan	3:orphan	_
+8	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+9	et	_	Word	Word	_	3	L	3:L	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	détroit	_	Word	Word	_	3	orphan	3:orphan	_
+12	de	_	Word	Word	_	13	R	13:R	_
+13	Magellan	_	Word	Word	_	3	orphan	3:orphan	_
+14	s’	_	Word	Word	_	15	E	15:E	_
+15	ouvrait	_	Word	Word	_	3	orphan	3:orphan	_
+16	à	_	Word	Word	_	17	R	17:R	_
+17	moins	_	Word	Word	_	3	orphan	3:orphan	_
+18	de	_	Word	Word	_	17	R	17:R	_
+19	sept	_	Word	Word	_	20	E	20:E	_
+20	cent	_	Word	Word	_	3	orphan	3:orphan	_
+21	milles	_	Word	Word	_	3	orphan	3:orphan	_
+22	dans	_	Word	Word	_	24	R	24:R	_
+23	le	_	Word	Word	_	24	E	24:E	_
+24	sud	_	Word	Word	_	3	orphan	3:orphan	_
+25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+

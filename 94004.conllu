@@ -1,0 +1,27 @@
+# sent_id = 94004
+# text = Ceci dit , personne ne s\u2019 étonnera du retentissement que provoqua l\u2019 accident arrivé à l\u2019 un de ses plus beaux steamers .
+# doc_id = 
+1	Ceci	_	Word	Word	_	7	L	7:L	_
+2	dit	_	Word	Word	_	1	flat	1:flat	_
+3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+4	personne	_	Word	Word	_	7	A	7:A	_
+5	ne	_	Word	Word	_	7	D	7:D	_
+6	s\u2019	_	Word	Word	_	7	E	7:E	_
+7	étonnera	_	Word	Word	_	0	root	0:root	_
+8	du	_	Word	Word	_	9	R	9:R	_
+9	retentissement	_	Word	Word	_	7	orphan	7:orphan	_
+10	que	_	Word	Word	_	11	R	11:R	_
+11	provoqua	_	Word	Word	_	7	orphan	7:orphan	_
+12	l\u2019	_	Word	Word	_	13	E	13:E	_
+13	accident	_	Word	Word	_	7	orphan	7:orphan	_
+14	arrivé	_	Word	Word	_	7	orphan	7:orphan	_
+15	à	_	Word	Word	_	22	R	22:R	_
+16	l\u2019	_	Word	Word	_	17	E	17:E	_
+17	un	_	Word	Word	_	7	orphan	7:orphan	_
+18	de	_	Word	Word	_	17	R	17:R	_
+19	ses	_	Word	Word	_	22	E	22:E	_
+20	plus	_	Word	Word	_	22	E	22:E	_
+21	beaux	_	Word	Word	_	22	E	22:E	_
+22	steamers	_	Word	Word	_	7	orphan	7:orphan	_
+23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+

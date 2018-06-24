@@ -1,0 +1,28 @@
+# sent_id = 777000
+# text = – Tu sais , mon ami , il s’ agit du monstre ... du fameux narwal ... Nous allons en purger les mers !
+# doc_id = 
+1	–	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Tu	_	Word	Word	_	0	root	0:root	_
+3	sais	_	Word	Word	_	2	orphan	2:orphan	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	mon	_	Word	Word	_	6	E	6:E	_
+6	ami	_	Word	Word	_	2	orphan	2:orphan	_
+7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+8	il	_	Word	Word	_	9	F	9:F	_
+9	s’	_	Word	Word	_	2	orphan	2:orphan	_
+10	agit	_	Word	Word	_	9	flat	9:flat	_
+11	du	_	Word	Word	_	12	R	12:R	_
+12	monstre	_	Word	Word	_	2	orphan	2:orphan	_
+13	...	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+14	du	_	Word	Word	_	16	R	16:R	_
+15	fameux	_	Word	Word	_	16	E	16:E	_
+16	narwal	_	Word	Word	_	2	orphan	2:orphan	_
+17	...	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+18	Nous	_	Word	Word	_	21	A	21:A	_
+19	allons	_	Word	Word	_	21	E	21:E	_
+20	en	_	Word	Word	_	21	A	21:A	_
+21	purger	_	Word	Word	_	2	orphan	2:orphan	_
+22	les	_	Word	Word	_	23	E	23:E	_
+23	mers	_	Word	Word	_	2	orphan	2:orphan	_
+24	!	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+

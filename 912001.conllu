@@ -1,0 +1,39 @@
+# sent_id = 912001
+# text = Mais l’ un d’ eux , le capitaine du Monroe , sachant que Ned Land était embarqué à bord de l' Abraham-Lincoln , demanda son aide pour chasser une baleine qui était en vue .
+# doc_id = 
+1	Mais	_	Word	Word	_	24	L	24:L	_
+2	l’	_	Word	Word	_	3	E	3:E	_
+3	un	_	Word	Word	_	0	root	0:root	_
+4	d’	_	Word	Word	_	3	R	3:R	_
+5	eux	_	Word	Word	_	3	orphan	3:orphan	_
+6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	le	_	Word	Word	_	8	E	8:E	_
+8	capitaine	_	Word	Word	_	3	orphan	3:orphan	_
+9	du	_	Word	Word	_	10	R	10:R	_
+10	Monroe	_	Word	Word	_	3	orphan	3:orphan	_
+11	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+12	sachant	_	Word	Word	_	3	orphan	3:orphan	_
+13	que	_	Word	Word	_	12	F	12:F	_
+14	Ned	_	Word	Word	_	17	A	17:A	_
+15	Land	_	Word	Word	_	14	flat	14:flat	_
+16	était	_	Word	Word	_	17	F	17:F	_
+17	embarqué	_	Word	Word	_	3	orphan	3:orphan	_
+18	à	_	Word	Word	_	19	R	19:R	_
+19	bord	_	Word	Word	_	3	orphan	3:orphan	_
+20	de	_	Word	Word	_	19	R	19:R	_
+21	l'	_	Word	Word	_	22	E	22:E	_
+22	Abraham-Lincoln	_	Word	Word	_	3	orphan	3:orphan	_
+23	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	demanda	_	Word	Word	_	3	orphan	3:orphan	_
+25	son	_	Word	Word	_	26	A	26:A	_
+26	aide	_	Word	Word	_	3	orphan	3:orphan	_
+27	pour	_	Word	Word	_	28	R	28:R	_
+28	chasser	_	Word	Word	_	3	orphan	3:orphan	_
+29	une	_	Word	Word	_	30	E	30:E	_
+30	baleine	_	Word	Word	_	3	orphan	3:orphan	_
+31	qui	_	Word	Word	_	34	R	34:R	_
+32	était	_	Word	Word	_	34	F	34:F	_
+33	en	_	Word	Word	_	34	R	34:R	_
+34	vue	_	Word	Word	_	3	orphan	3:orphan	_
+35	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+

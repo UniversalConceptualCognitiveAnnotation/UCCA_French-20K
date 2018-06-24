@@ -1,0 +1,23 @@
+# sent_id = 940001
+# text = C’ est une sotte affaire , après tout , et dans laquelle nous nous sommes lancés trop légèrement .
+# doc_id = 
+1	C’	_	Word	Word	_	2	A	2:A	_
+2	est	_	Word	Word	_	0	root	0:root	_
+3	une	_	Word	Word	_	5	E	5:E	_
+4	sotte	_	Word	Word	_	5	E	5:E	_
+5	affaire	_	Word	Word	_	2	orphan	2:orphan	_
+6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+7	après	_	Word	Word	_	8	R	8:R	_
+8	tout	_	Word	Word	_	2	orphan	2:orphan	_
+9	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+10	et	_	Word	Word	_	2	L	2:L	_
+11	dans	_	Word	Word	_	2	orphan	2:orphan	_
+12	laquelle	_	Word	Word	_	16	F	16:F	_
+13	nous	_	Word	Word	_	16	A	16:A	_
+14	nous	_	Word	Word	_	16	E	16:E	_
+15	sommes	_	Word	Word	_	16	F	16:F	_
+16	lancés	_	Word	Word	_	2	orphan	2:orphan	_
+17	trop	_	Word	Word	_	18	E	18:E	_
+18	légèrement	_	Word	Word	_	2	orphan	2:orphan	_
+19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+

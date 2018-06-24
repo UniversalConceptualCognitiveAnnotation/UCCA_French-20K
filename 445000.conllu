@@ -1,0 +1,29 @@
+# sent_id = 445000
+# text = Donc , la frégate armée pour une campagne lointaine et pourvue de formidables engins de pêche , on ne savait plus où la diriger .
+# doc_id = 
+1	Donc	_	Word	Word	_	20	L	20:L	_
+2	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+3	la	_	Word	Word	_	4	E	4:E	_
+4	frégate	_	Word	Word	_	0	root	0:root	_
+5	armée	_	Word	Word	_	4	orphan	4:orphan	_
+6	pour	_	Word	Word	_	8	R	8:R	_
+7	une	_	Word	Word	_	8	E	8:E	_
+8	campagne	_	Word	Word	_	4	orphan	4:orphan	_
+9	lointaine	_	Word	Word	_	8	E	8:E	_
+10	et	_	Word	Word	_	5	L	5:L	_
+11	pourvue	_	Word	Word	_	4	orphan	4:orphan	_
+12	de	_	Word	Word	_	14	R	14:R	_
+13	formidables	_	Word	Word	_	14	E	14:E	_
+14	engins	_	Word	Word	_	4	orphan	4:orphan	_
+15	de	_	Word	Word	_	16	R	16:R	_
+16	pêche	_	Word	Word	_	4	orphan	4:orphan	_
+17	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+18	on	_	Word	Word	_	20	A	20:A	_
+19	ne	_	Word	Word	_	20	D	20:D	_
+20	savait	_	Word	Word	_	4	orphan	4:orphan	_
+21	plus	_	Word	Word	_	19	flat	19:flat	_
+22	où	_	Word	Word	_	24	A	24:A	_
+23	la	_	Word	Word	_	24	A	24:A	_
+24	diriger	_	Word	Word	_	4	orphan	4:orphan	_
+25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+

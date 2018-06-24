@@ -1,0 +1,48 @@
+# sent_id = 866001
+# text = Que le vulgaire croie à des comètes extraordinaires qui traversent l’ espace , ou à l’ existence de monstres antédiluviens qui peuplent l’ intérieur du globe , passe encore , mais ni l’ astronome , ni le géologue n’ admettent de telles chimères .
+# doc_id = 
+1	Que	_	Word	Word	_	28	L	28:L	_
+2	le	_	Word	Word	_	3	E	3:E	_
+3	vulgaire	_	Word	Word	_	0	root	0:root	_
+4	croie	_	Word	Word	_	3	orphan	3:orphan	_
+5	à	_	Word	Word	_	7	R	7:R	_
+6	des	_	Word	Word	_	7	E	7:E	_
+7	comètes	_	Word	Word	_	3	orphan	3:orphan	_
+8	extraordinaires	_	Word	Word	_	7	E	7:E	_
+9	qui	_	Word	Word	_	10	R	10:R	_
+10	traversent	_	Word	Word	_	3	orphan	3:orphan	_
+11	l’	_	Word	Word	_	12	E	12:E	_
+12	espace	_	Word	Word	_	3	orphan	3:orphan	_
+13	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+14	ou	_	Word	Word	_	7	N	7:N	_
+15	à	_	Word	Word	_	17	R	17:R	_
+16	l’	_	Word	Word	_	17	E	17:E	_
+17	existence	_	Word	Word	_	3	orphan	3:orphan	_
+18	de	_	Word	Word	_	19	R	19:R	_
+19	monstres	_	Word	Word	_	3	orphan	3:orphan	_
+20	antédiluviens	_	Word	Word	_	19	E	19:E	_
+21	qui	_	Word	Word	_	22	R	22:R	_
+22	peuplent	_	Word	Word	_	3	orphan	3:orphan	_
+23	l’	_	Word	Word	_	24	E	24:E	_
+24	intérieur	_	Word	Word	_	3	orphan	3:orphan	_
+25	du	_	Word	Word	_	24	R	24:R	_
+26	globe	_	Word	Word	_	3	orphan	3:orphan	_
+27	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+28	passe	_	Word	Word	_	3	orphan	3:orphan	_
+29	encore	_	Word	Word	_	28	D	28:D	_
+30	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+31	mais	_	Word	Word	_	28	L	28:L	_
+32	ni	_	Word	Word	_	34	E	34:E	_
+33	l’	_	Word	Word	_	34	E	34:E	_
+34	astronome	_	Word	Word	_	3	orphan	3:orphan	_
+35	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+36	ni	_	Word	Word	_	38	E	38:E	_
+37	le	_	Word	Word	_	38	E	38:E	_
+38	géologue	_	Word	Word	_	3	orphan	3:orphan	_
+39	n’	_	Word	Word	_	40	D	40:D	_
+40	admettent	_	Word	Word	_	3	orphan	3:orphan	_
+41	de	_	Word	Word	_	43	E	43:E	_
+42	telles	_	Word	Word	_	43	E	43:E	_
+43	chimères	_	Word	Word	_	3	orphan	3:orphan	_
+44	.	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+

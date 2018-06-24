@@ -1,0 +1,18 @@
+# sent_id = 871000
+# text = — Vraiment ? dit Ned qui me regardait en clignant de l’ œil .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Vraiment	_	Word	Word	_	0	root	0:root	_
+3	?	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	dit	_	Word	Word	_	2	orphan	2:orphan	_
+5	Ned	_	Word	Word	_	4	A	4:A	_
+6	qui	_	Word	Word	_	2	L	2:L	_
+7	me	_	Word	Word	_	8	A	8:A	_
+8	regardait	_	Word	Word	_	2	orphan	2:orphan	_
+9	en	_	Word	Word	_	10	F	10:F	_
+10	clignant	_	Word	Word	_	2	orphan	2:orphan	_
+11	de	_	Word	Word	_	13	R	13:R	_
+12	l’	_	Word	Word	_	13	E	13:E	_
+13	œil	_	Word	Word	_	2	orphan	2:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

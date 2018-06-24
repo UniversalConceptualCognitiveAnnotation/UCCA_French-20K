@@ -1,0 +1,57 @@
+# sent_id = 79000
+# text = Les faits relatifs à cette apparition , consignés aux divers livres de bord , s\u2019 accordaient assez exactement sur la structure de l\u2019 objet ou de l\u2019 être en question , la vitesse inouïe de ses mouvements , la puissance surprenante de sa locomotion , la vie particulière dont il semblait doué .
+# doc_id = 
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	faits	_	Word	Word	_	0	root	0:root	_
+3	relatifs	_	Word	Word	_	2	orphan	2:orphan	_
+4	à	_	Word	Word	_	6	R	6:R	_
+5	cette	_	Word	Word	_	6	E	6:E	_
+6	apparition	_	Word	Word	_	2	orphan	2:orphan	_
+7	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+8	consignés	_	Word	Word	_	2	orphan	2:orphan	_
+9	aux	_	Word	Word	_	11	R	11:R	_
+10	divers	_	Word	Word	_	11	E	11:E	_
+11	livres	_	Word	Word	_	2	orphan	2:orphan	_
+12	de	_	Word	Word	_	13	R	13:R	_
+13	bord	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+15	s\u2019	_	Word	Word	_	16	E	16:E	_
+16	accordaient	_	Word	Word	_	2	orphan	2:orphan	_
+17	assez	_	Word	Word	_	18	E	18:E	_
+18	exactement	_	Word	Word	_	2	orphan	2:orphan	_
+19	sur	_	Word	Word	_	21	R	21:R	_
+20	la	_	Word	Word	_	21	E	21:E	_
+21	structure	_	Word	Word	_	2	orphan	2:orphan	_
+22	de	_	Word	Word	_	24	R	24:R	_
+23	l\u2019	_	Word	Word	_	24	E	24:E	_
+24	objet	_	Word	Word	_	2	orphan	2:orphan	_
+25	ou	_	Word	Word	_	24	N	24:N	_
+26	de	_	Word	Word	_	28	R	28:R	_
+27	l\u2019	_	Word	Word	_	28	E	28:E	_
+28	être	_	Word	Word	_	2	orphan	2:orphan	_
+29	en	_	Word	Word	_	30	R	30:R	_
+30	question	_	Word	Word	_	2	orphan	2:orphan	_
+31	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+32	la	_	Word	Word	_	33	E	33:E	_
+33	vitesse	_	Word	Word	_	2	orphan	2:orphan	_
+34	inouïe	_	Word	Word	_	33	E	33:E	_
+35	de	_	Word	Word	_	37	R	37:R	_
+36	ses	_	Word	Word	_	37	E	37:E	_
+37	mouvements	_	Word	Word	_	2	orphan	2:orphan	_
+38	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+39	la	_	Word	Word	_	40	E	40:E	_
+40	puissance	_	Word	Word	_	2	orphan	2:orphan	_
+41	surprenante	_	Word	Word	_	40	E	40:E	_
+42	de	_	Word	Word	_	44	R	44:R	_
+43	sa	_	Word	Word	_	44	E	44:E	_
+44	locomotion	_	Word	Word	_	2	orphan	2:orphan	_
+45	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+46	la	_	Word	Word	_	47	E	47:E	_
+47	vie	_	Word	Word	_	2	orphan	2:orphan	_
+48	particulière	_	Word	Word	_	47	E	47:E	_
+49	dont	_	Word	Word	_	52	R	52:R	_
+50	il	_	Word	Word	_	52	A	52:A	_
+51	semblait	_	Word	Word	_	52	E	52:E	_
+52	doué	_	Word	Word	_	2	orphan	2:orphan	_
+53	.	_	Punctuation	Punctuation	_	52	punct	52:punct	_
+

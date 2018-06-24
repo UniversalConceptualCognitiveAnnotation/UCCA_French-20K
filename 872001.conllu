@@ -1,0 +1,14 @@
+# sent_id = 872001
+# text = On fait ce qu’ on veut avec les chiffres !
+# doc_id = 
+1	On	_	Word	Word	_	2	A	2:A	_
+2	fait	_	Word	Word	_	0	root	0:root	_
+3	ce	_	Word	Word	_	6	F	6:F	_
+4	qu’	_	Word	Word	_	6	F	6:F	_
+5	on	_	Word	Word	_	6	A	6:A	_
+6	veut	_	Word	Word	_	2	orphan	2:orphan	_
+7	avec	_	Word	Word	_	9	R	9:R	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	chiffres	_	Word	Word	_	2	orphan	2:orphan	_
+10	!	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

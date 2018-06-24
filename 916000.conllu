@@ -1,0 +1,56 @@
+# sent_id = 916000
+# text = Le 6 juillet , vers trois heures du soir , I' Abraham Lincoln , à quinze milles dans le sud , doubla cet îlot solitaire , ce roc perdu à l’ extrémité du continent américain , auquel des marins hollandais imposèrent le nom de leur villa natale , le cap Horn .
+# doc_id = 
+1	Le	_	Word	Word	_	2	E	2:E	_
+2	6	_	Word	Word	_	0	root	0:root	_
+3	juillet	_	Word	Word	_	2	flat	2:flat	_
+4	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+5	vers	_	Word	Word	_	7	R	7:R	_
+6	trois	_	Word	Word	_	7	E	7:E	_
+7	heures	_	Word	Word	_	2	orphan	2:orphan	_
+8	du	_	Word	Word	_	9	R	9:R	_
+9	soir	_	Word	Word	_	2	orphan	2:orphan	_
+10	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+11	I'	_	Word	Word	_	12	E	12:E	_
+12	Abraham	_	Word	Word	_	2	orphan	2:orphan	_
+13	Lincoln	_	Word	Word	_	12	flat	12:flat	_
+14	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+15	à	_	Word	Word	_	17	R	17:R	_
+16	quinze	_	Word	Word	_	17	E	17:E	_
+17	milles	_	Word	Word	_	2	orphan	2:orphan	_
+18	dans	_	Word	Word	_	20	R	20:R	_
+19	le	_	Word	Word	_	20	E	20:E	_
+20	sud	_	Word	Word	_	2	orphan	2:orphan	_
+21	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+22	doubla	_	Word	Word	_	2	orphan	2:orphan	_
+23	cet	_	Word	Word	_	24	E	24:E	_
+24	îlot	_	Word	Word	_	2	orphan	2:orphan	_
+25	solitaire	_	Word	Word	_	24	E	24:E	_
+26	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+27	ce	_	Word	Word	_	28	E	28:E	_
+28	roc	_	Word	Word	_	2	orphan	2:orphan	_
+29	perdu	_	Word	Word	_	28	E	28:E	_
+30	à	_	Word	Word	_	32	R	32:R	_
+31	l’	_	Word	Word	_	32	E	32:E	_
+32	extrémité	_	Word	Word	_	2	orphan	2:orphan	_
+33	du	_	Word	Word	_	32	R	32:R	_
+34	continent	_	Word	Word	_	2	orphan	2:orphan	_
+35	américain	_	Word	Word	_	34	E	34:E	_
+36	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+37	auquel	_	Word	Word	_	41	R	41:R	_
+38	des	_	Word	Word	_	39	E	39:E	_
+39	marins	_	Word	Word	_	2	orphan	2:orphan	_
+40	hollandais	_	Word	Word	_	39	E	39:E	_
+41	imposèrent	_	Word	Word	_	2	orphan	2:orphan	_
+42	le	_	Word	Word	_	43	E	43:E	_
+43	nom	_	Word	Word	_	2	orphan	2:orphan	_
+44	de	_	Word	Word	_	46	R	46:R	_
+45	leur	_	Word	Word	_	46	E	46:E	_
+46	villa	_	Word	Word	_	2	orphan	2:orphan	_
+47	natale	_	Word	Word	_	46	E	46:E	_
+48	,	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+49	le	_	Word	Word	_	50	E	50:E	_
+50	cap	_	Word	Word	_	2	orphan	2:orphan	_
+51	Horn	_	Word	Word	_	50	E	50:E	_
+52	.	_	Punctuation	Punctuation	_	50	punct	50:punct	_
+

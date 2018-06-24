@@ -1,0 +1,21 @@
+# sent_id = 940007
+# text = — Effectivement , répondit tranquillement Conseil , je pense que l’ on se moquera de monsieur .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Effectivement	_	Word	Word	_	4	L	4:L	_
+3	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	répondit	_	Word	Word	_	0	root	0:root	_
+5	tranquillement	_	Word	Word	_	4	D	4:D	_
+6	Conseil	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	je	_	Word	Word	_	9	A	9:A	_
+9	pense	_	Word	Word	_	4	orphan	4:orphan	_
+10	que	_	Word	Word	_	9	F	9:F	_
+11	l’	_	Word	Word	_	13	F	13:F	_
+12	on	_	Word	Word	_	13	A	13:A	_
+13	se	_	Word	Word	_	4	orphan	4:orphan	_
+14	moquera	_	Word	Word	_	13	flat	13:flat	_
+15	de	_	Word	Word	_	16	R	16:R	_
+16	monsieur	_	Word	Word	_	4	orphan	4:orphan	_
+17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+

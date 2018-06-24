@@ -1,0 +1,21 @@
+# sent_id = 935000
+# text = La frégate se trouvait alors par 31°15’ de latitude nord et par 136°42’ de longitude est .
+# doc_id = 
+1	La	_	Word	Word	_	2	E	2:E	_
+2	frégate	_	Word	Word	_	0	root	0:root	_
+3	se	_	Word	Word	_	4	E	4:E	_
+4	trouvait	_	Word	Word	_	2	orphan	2:orphan	_
+5	alors	_	Word	Word	_	4	D	4:D	_
+6	par	_	Word	Word	_	7	R	7:R	_
+7	31°15’	_	Word	Word	_	2	orphan	2:orphan	_
+8	de	_	Word	Word	_	9	R	9:R	_
+9	latitude	_	Word	Word	_	2	orphan	2:orphan	_
+10	nord	_	Word	Word	_	9	E	9:E	_
+11	et	_	Word	Word	_	7	N	7:N	_
+12	par	_	Word	Word	_	13	R	13:R	_
+13	136°42’	_	Word	Word	_	2	orphan	2:orphan	_
+14	de	_	Word	Word	_	15	R	15:R	_
+15	longitude	_	Word	Word	_	2	orphan	2:orphan	_
+16	est	_	Word	Word	_	15	E	15:E	_
+17	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

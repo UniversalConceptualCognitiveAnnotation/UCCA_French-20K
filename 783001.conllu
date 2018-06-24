@@ -1,0 +1,9 @@
+# sent_id = 783001
+# text = me dit - il .
+# doc_id = 
+1	me	_	Word	Word	_	2	A	2:A	_
+2	dit	_	Word	Word	_	0	root	0:root	_
+3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	il	_	Word	Word	_	2	A	2:A	_
+5	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+

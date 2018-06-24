@@ -1,0 +1,36 @@
+# sent_id = 872008
+# text = Ce qui équivaut à dire que si vous pouviez atteindre cette profondeur dans l’ Océan , chaque centimètre carré de la surface de votre corps subirait une pression de mille kilogrammes .
+# doc_id = 
+1	Ce	_	Word	Word	_	3	F	3:F	_
+2	qui	_	Word	Word	_	3	F	3:F	_
+3	équivaut	_	Word	Word	_	0	root	0:root	_
+4	à	_	Word	Word	_	5	F	5:F	_
+5	dire	_	Word	Word	_	3	orphan	3:orphan	_
+6	que	_	Word	Word	_	3	L	3:L	_
+7	si	_	Word	Word	_	3	L	3:L	_
+8	vous	_	Word	Word	_	10	A	10:A	_
+9	pouviez	_	Word	Word	_	10	E	10:E	_
+10	atteindre	_	Word	Word	_	3	orphan	3:orphan	_
+11	cette	_	Word	Word	_	12	E	12:E	_
+12	profondeur	_	Word	Word	_	3	orphan	3:orphan	_
+13	dans	_	Word	Word	_	15	R	15:R	_
+14	l’	_	Word	Word	_	15	E	15:E	_
+15	Océan	_	Word	Word	_	3	orphan	3:orphan	_
+16	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+17	chaque	_	Word	Word	_	19	E	19:E	_
+18	centimètre	_	Word	Word	_	19	E	19:E	_
+19	carré	_	Word	Word	_	3	orphan	3:orphan	_
+20	de	_	Word	Word	_	22	R	22:R	_
+21	la	_	Word	Word	_	22	E	22:E	_
+22	surface	_	Word	Word	_	3	orphan	3:orphan	_
+23	de	_	Word	Word	_	25	R	25:R	_
+24	votre	_	Word	Word	_	25	E	25:E	_
+25	corps	_	Word	Word	_	3	orphan	3:orphan	_
+26	subirait	_	Word	Word	_	3	orphan	3:orphan	_
+27	une	_	Word	Word	_	28	E	28:E	_
+28	pression	_	Word	Word	_	3	orphan	3:orphan	_
+29	de	_	Word	Word	_	31	R	31:R	_
+30	mille	_	Word	Word	_	31	E	31:E	_
+31	kilogrammes	_	Word	Word	_	3	orphan	3:orphan	_
+32	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+

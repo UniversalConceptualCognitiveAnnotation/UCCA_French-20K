@@ -1,0 +1,12 @@
+# sent_id = 932004
+# text = Les lunettes fonctionnèrent avec une activité fiévreuse .
+# doc_id = 
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	lunettes	_	Word	Word	_	0	root	0:root	_
+3	fonctionnèrent	_	Word	Word	_	2	orphan	2:orphan	_
+4	avec	_	Word	Word	_	6	R	6:R	_
+5	une	_	Word	Word	_	6	E	6:E	_
+6	activité	_	Word	Word	_	2	orphan	2:orphan	_
+7	fiévreuse	_	Word	Word	_	6	E	6:E	_
+8	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

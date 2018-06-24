@@ -1,0 +1,31 @@
+# sent_id = 435000
+# text = « En effet , le narwal est armé d\u2019 une sorte d\u2019 épée d\u2019 ivoire , d\u2019 une hallebarde , suivant l\u2019 expression de certains naturalistes .
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	En	_	Word	Word	_	3	R	3:R	_
+3	effet	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+5	le	_	Word	Word	_	6	E	6:E	_
+6	narwal	_	Word	Word	_	3	orphan	3:orphan	_
+7	est	_	Word	Word	_	8	F	8:F	_
+8	armé	_	Word	Word	_	3	orphan	3:orphan	_
+9	d\u2019	_	Word	Word	_	13	R	13:R	_
+10	une	_	Word	Word	_	11	E	11:E	_
+11	sorte	_	Word	Word	_	3	orphan	3:orphan	_
+12	d\u2019	_	Word	Word	_	11	R	11:R	_
+13	épée	_	Word	Word	_	3	orphan	3:orphan	_
+14	d\u2019	_	Word	Word	_	15	R	15:R	_
+15	ivoire	_	Word	Word	_	3	orphan	3:orphan	_
+16	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+17	d\u2019	_	Word	Word	_	19	R	19:R	_
+18	une	_	Word	Word	_	19	E	19:E	_
+19	hallebarde	_	Word	Word	_	3	orphan	3:orphan	_
+20	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+21	suivant	_	Word	Word	_	23	R	23:R	_
+22	l\u2019	_	Word	Word	_	23	E	23:E	_
+23	expression	_	Word	Word	_	3	orphan	3:orphan	_
+24	de	_	Word	Word	_	26	R	26:R	_
+25	certains	_	Word	Word	_	26	E	26:E	_
+26	naturalistes	_	Word	Word	_	3	orphan	3:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

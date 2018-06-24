@@ -1,0 +1,23 @@
+# sent_id = 87000
+# text = Alors éclata l\u2019 interminable polémique des crédules et des incrédules dans les sociétés savantes et les journaux scientifiques .
+# doc_id = 
+1	Alors	_	Word	Word	_	2	L	2:L	_
+2	éclata	_	Word	Word	_	0	root	0:root	_
+3	l\u2019	_	Word	Word	_	5	E	5:E	_
+4	interminable	_	Word	Word	_	5	E	5:E	_
+5	polémique	_	Word	Word	_	2	orphan	2:orphan	_
+6	des	_	Word	Word	_	7	R	7:R	_
+7	crédules	_	Word	Word	_	2	orphan	2:orphan	_
+8	et	_	Word	Word	_	7	N	7:N	_
+9	des	_	Word	Word	_	10	R	10:R	_
+10	incrédules	_	Word	Word	_	2	orphan	2:orphan	_
+11	dans	_	Word	Word	_	13	R	13:R	_
+12	les	_	Word	Word	_	13	E	13:E	_
+13	sociétés	_	Word	Word	_	2	orphan	2:orphan	_
+14	savantes	_	Word	Word	_	13	E	13:E	_
+15	et	_	Word	Word	_	13	N	13:N	_
+16	les	_	Word	Word	_	17	E	17:E	_
+17	journaux	_	Word	Word	_	2	orphan	2:orphan	_
+18	scientifiques	_	Word	Word	_	17	E	17:E	_
+19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+

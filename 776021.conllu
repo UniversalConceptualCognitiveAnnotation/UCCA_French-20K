@@ -1,0 +1,14 @@
+# sent_id = 776021
+# text = Un chemin un peu moins direct , voilà tout .
+# doc_id = 
+1	Un	_	Word	Word	_	2	E	2:E	_
+2	chemin	_	Word	Word	_	0	root	0:root	_
+3	un	_	Word	Word	_	5	E	5:E	_
+4	peu	_	Word	Word	_	3	flat	3:flat	_
+5	moins	_	Word	Word	_	2	orphan	2:orphan	_
+6	direct	_	Word	Word	_	2	orphan	2:orphan	_
+7	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+8	voilà	_	Word	Word	_	2	D	2:D	_
+9	tout	_	Word	Word	_	8	flat	8:flat	_
+10	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+

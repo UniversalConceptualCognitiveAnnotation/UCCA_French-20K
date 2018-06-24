@@ -1,0 +1,32 @@
+# sent_id = 440009
+# text = Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
+# doc_id = 
+1	Pourquoi	_	Word	Word	_	3	A	3:A	_
+2	ne	_	Word	Word	_	3	D	3:D	_
+3	cacherait-elle	_	Word	Word	_	0	root	0:root	_
+4	pas	_	Word	Word	_	2	flat	2:flat	_
+5	dans	_	Word	Word	_	7	R	7:R	_
+6	son	_	Word	Word	_	7	E	7:E	_
+7	sein	_	Word	Word	_	3	orphan	3:orphan	_
+8	les	_	Word	Word	_	10	E	10:E	_
+9	dernières	_	Word	Word	_	10	E	10:E	_
+10	variétés	_	Word	Word	_	3	orphan	3:orphan	_
+11	de	_	Word	Word	_	13	R	13:R	_
+12	ces	_	Word	Word	_	13	E	13:E	_
+13	espèces	_	Word	Word	_	3	orphan	3:orphan	_
+14	titanesques	_	Word	Word	_	13	E	13:E	_
+15	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+16	dont	_	Word	Word	_	19	R	19:R	_
+17	les	_	Word	Word	_	18	E	18:E	_
+18	années	_	Word	Word	_	3	orphan	3:orphan	_
+19	sont	_	Word	Word	_	3	orphan	3:orphan	_
+20	des	_	Word	Word	_	21	E	21:E	_
+21	siècles	_	Word	Word	_	3	orphan	3:orphan	_
+22	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+23	et	_	Word	Word	_	19	L	19:L	_
+24	les	_	Word	Word	_	25	E	25:E	_
+25	siècles	_	Word	Word	_	3	orphan	3:orphan	_
+26	des	_	Word	Word	_	27	E	27:E	_
+27	millénaires	_	Word	Word	_	3	orphan	3:orphan	_
+28	?	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+

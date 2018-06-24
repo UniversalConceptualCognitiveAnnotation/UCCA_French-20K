@@ -1,0 +1,25 @@
+# sent_id = 867002
+# text = Donc , jusqu’ à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet .
+# doc_id = 
+1	Donc	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+3	jusqu’	_	Word	Word	_	5	L	5:L	_
+4	à	_	Word	Word	_	3	flat	3:flat	_
+5	preuve	_	Word	Word	_	0	root	0:root	_
+6	contraire	_	Word	Word	_	5	D	5:D	_
+7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+8	je	_	Word	Word	_	9	A	9:A	_
+9	nie	_	Word	Word	_	5	orphan	5:orphan	_
+10	que	_	Word	Word	_	9	F	9:F	_
+11	baleines	_	Word	Word	_	5	orphan	5:orphan	_
+12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	cachalots	_	Word	Word	_	11	C	11:C	_
+14	ou	_	Word	Word	_	11	N	11:N	_
+15	licornes	_	Word	Word	_	11	C	11:C	_
+16	puissent	_	Word	Word	_	17	E	17:E	_
+17	produire	_	Word	Word	_	5	orphan	5:orphan	_
+18	un	_	Word	Word	_	20	E	20:E	_
+19	pareil	_	Word	Word	_	20	E	20:E	_
+20	effet	_	Word	Word	_	5	orphan	5:orphan	_
+21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+

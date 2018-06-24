@@ -1,0 +1,12 @@
+# sent_id = 776014
+# text = – On le nourrira pendant notre absence .
+# doc_id = 
+1	–	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	On	_	Word	Word	_	4	A	4:A	_
+3	le	_	Word	Word	_	4	A	4:A	_
+4	nourrira	_	Word	Word	_	0	root	0:root	_
+5	pendant	_	Word	Word	_	7	R	7:R	_
+6	notre	_	Word	Word	_	7	E	7:E	_
+7	absence	_	Word	Word	_	4	orphan	4:orphan	_
+8	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+

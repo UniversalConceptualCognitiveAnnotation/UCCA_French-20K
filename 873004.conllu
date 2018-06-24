@@ -1,0 +1,32 @@
+# sent_id = 873004
+# text = Et si vous n’ êtes pas écrasé par une telle pression , c’ est que l’air pénètre à l’ intérieur de votre corps avec une pression égale .
+# doc_id = 
+1	Et	_	Word	Word	_	7	L	7:L	_
+2	si	_	Word	Word	_	7	L	7:L	_
+3	vous	_	Word	Word	_	7	A	7:A	_
+4	n’	_	Word	Word	_	7	D	7:D	_
+5	êtes	_	Word	Word	_	7	F	7:F	_
+6	pas	_	Word	Word	_	4	flat	4:flat	_
+7	écrasé	_	Word	Word	_	0	root	0:root	_
+8	par	_	Word	Word	_	11	R	11:R	_
+9	une	_	Word	Word	_	11	E	11:E	_
+10	telle	_	Word	Word	_	11	E	11:E	_
+11	pression	_	Word	Word	_	7	orphan	7:orphan	_
+12	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+13	c’	_	Word	Word	_	7	L	7:L	_
+14	est	_	Word	Word	_	13	flat	13:flat	_
+15	que	_	Word	Word	_	13	flat	13:flat	_
+16	l’air	_	Word	Word	_	17	A	17:A	_
+17	pénètre	_	Word	Word	_	7	orphan	7:orphan	_
+18	à	_	Word	Word	_	20	R	20:R	_
+19	l’	_	Word	Word	_	20	E	20:E	_
+20	intérieur	_	Word	Word	_	7	orphan	7:orphan	_
+21	de	_	Word	Word	_	20	R	20:R	_
+22	votre	_	Word	Word	_	23	E	23:E	_
+23	corps	_	Word	Word	_	7	orphan	7:orphan	_
+24	avec	_	Word	Word	_	26	R	26:R	_
+25	une	_	Word	Word	_	26	E	26:E	_
+26	pression	_	Word	Word	_	7	orphan	7:orphan	_
+27	égale	_	Word	Word	_	26	E	26:E	_
+28	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

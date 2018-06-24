@@ -1,0 +1,18 @@
+# sent_id = 850003
+# text = Je laisse à penser si les yeux s’ exerçaient à bord de l’Abraham-Lincoln .
+# doc_id = 
+1	Je	_	Word	Word	_	9	G	9:G	_
+2	laisse	_	Word	Word	_	1	flat	1:flat	_
+3	à	_	Word	Word	_	1	flat	1:flat	_
+4	penser	_	Word	Word	_	1	flat	1:flat	_
+5	si	_	Word	Word	_	1	flat	1:flat	_
+6	les	_	Word	Word	_	7	E	7:E	_
+7	yeux	_	Word	Word	_	0	root	0:root	_
+8	s’	_	Word	Word	_	9	E	9:E	_
+9	exerçaient	_	Word	Word	_	7	orphan	7:orphan	_
+10	à	_	Word	Word	_	11	R	11:R	_
+11	bord	_	Word	Word	_	7	orphan	7:orphan	_
+12	de	_	Word	Word	_	11	R	11:R	_
+13	l’Abraham-Lincoln	_	Word	Word	_	7	orphan	7:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

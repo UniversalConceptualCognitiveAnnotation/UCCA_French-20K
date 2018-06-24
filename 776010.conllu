@@ -1,0 +1,8 @@
+# sent_id = 776010
+# text = fit observer Conseil .
+# doc_id = 
+1	fit	_	Word	Word	_	2	F	2:F	_
+2	observer	_	Word	Word	_	0	root	0:root	_
+3	Conseil	_	Word	Word	_	2	A	2:A	_
+4	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+

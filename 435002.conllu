@@ -1,0 +1,27 @@
+# sent_id = 435002
+# text = On a trouvé quelques - unes de ces dents implantées dans le corps des baleines que le narwal attaque toujours avec succès .
+# doc_id = 
+1	On	_	Word	Word	_	3	A	3:A	_
+2	a	_	Word	Word	_	3	F	3:F	_
+3	trouvé	_	Word	Word	_	0	root	0:root	_
+4	quelques	_	Word	Word	_	3	orphan	3:orphan	_
+5	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	unes	_	Word	Word	_	4	flat	4:flat	_
+7	de	_	Word	Word	_	4	R	4:R	_
+8	ces	_	Word	Word	_	9	E	9:E	_
+9	dents	_	Word	Word	_	3	orphan	3:orphan	_
+10	implantées	_	Word	Word	_	3	orphan	3:orphan	_
+11	dans	_	Word	Word	_	13	R	13:R	_
+12	le	_	Word	Word	_	13	E	13:E	_
+13	corps	_	Word	Word	_	3	orphan	3:orphan	_
+14	des	_	Word	Word	_	15	R	15:R	_
+15	baleines	_	Word	Word	_	3	orphan	3:orphan	_
+16	que	_	Word	Word	_	19	R	19:R	_
+17	le	_	Word	Word	_	18	E	18:E	_
+18	narwal	_	Word	Word	_	3	orphan	3:orphan	_
+19	attaque	_	Word	Word	_	3	orphan	3:orphan	_
+20	toujours	_	Word	Word	_	19	D	19:D	_
+21	avec	_	Word	Word	_	22	R	22:R	_
+22	succès	_	Word	Word	_	3	orphan	3:orphan	_
+23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+
