@@ -1,22 +1,32 @@
-cache: apt
 dist: trusty
 sudo: false
 language: python
+python: 3.6
 cache:
+  apt: true
   pip: true
-  directories:
-  - $HOME/virtualenv
-python:
-  - "3.6"
-install:
-  - pip install -U ucca
+install: pip install -U ucca
 env:
   global:
+    - SCRIPTS=https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/scripts
     - secure: "1WfxAgyRd6g/s/ubZTH4zZeyyvV4iKMPqDdLivL0CjAqiO9q+4I5lVsOYsVZjd0YHam3wfJuk0hS7kpigcGW1USULbi9HgEK9ofZ7cglpdJb7E8fLgNA7Sl6PVj9avYIoGlRWhtFDnm2/LYTpBJwpK0JAslftKkX/gDZwRpQPnbqzhl4102pTKgQqYqVl0RZBRljsG54+gYY3KC0/+mLN78mccAEgAAAcizJg9bEZVlKVAgvU0H5CYBrr4bxEkFdRyYIKG7gZisk4SKXfW/iAySLgVo8lC++XcKP4r4p+CMAU0z4NtQzh2Rt602c3Dkw9omGMsnmWgdf7ZmTPJTWXTUauVYVIJ1O7rO+TrKIZsxbH7hiF2g8m49t7OyPMLSfaN+3adU8R6Z6ZknlPjoqdIFx9k+n0BrfQBQyo42FYm3gnU/ZQe5JB5fJlbnB3cZIDboxSBJKV0qLYyKca6Va19oSN5LoVh0l4xC3e4dGdi8wRgwSoy2cmkjvfCr/FyqjROhhBctm8kq0QHOE4sBWEOP2q60KhIhSa6Y5y+uVJM5CzplLcQIIbqECQaGYYDZn9y86ZxPa+V9u5wevdV7P6q9ckuWTqg9TJW0fUzqrSGtcI7A/9uOqRY1xBgRm0wXpyQn0zcTSZXy5Qca3TREIVdZDrim5VpEbKHsMqHS7OKA="
-  matrix:
-  - DATASET=xml
-script:
-  - python -m scripts.validate $DATASET || echo Ignoring validation failures
-after_success:
-  - curl https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/.visualize.sh | bash
+jobs:
+  include:
+    - script: python -m scripts.validate xml || echo Ignoring validation failures
+    - stage: split
+      script: curl $SCRIPTS/split_to_sentences.sh | bash
+    - stage: convert
+      script: curl $SCRIPTS/visualize.sh | bash
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=sdp
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=conll
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=conllu
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=export
+after_success: curl $SCRIPTS/push.sh | bash
 
