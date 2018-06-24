@@ -1,0 +1,10 @@
+1	–	_	Punctuation	-	-	_	_	U	_
+2	Nous	_	Word	-	-	_	_	A	_
+3	ne	_	Word	-	+	_	_	D	_
+4	retournons	_	Word	-	+	_	_	_	_
+5	donc	_	Word	-	-	_	_	L	_
+6	pas	_	Word	-	-	_	Terminal	_	_
+7	à	_	Word	-	-	_	_	_	R
+8	Paris	_	Word	-	+	_	_	_	_
+9	?	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,17 @@
+1	L	_	Word	-	-	_	E	_	_	_	_
+2	'	_	Punctuation	-	-	_	U	_	_	_	_
+3	Abraham-Lincoln	_	Word	-	+	_	_	_	_	A	A
+4	n’	_	Word	-	-	_	_	_	D	_	_
+5	avait	_	Word	-	+	_	_	_	E	_	_
+6	rien	_	Word	-	-	_	_	_	A	_	_
+7	à	_	Word	-	-	_	_	Terminal	_	_	_
+8	se	_	Word	-	-	_	_	_	A	_	_
+9	reprocher	_	Word	-	+	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_
+11	ayant	_	Word	-	-	_	_	_	_	F	_
+12	tout	_	Word	-	-	_	_	_	_	_	_
+13	fait	_	Word	-	+	_	_	_	_	_	_
+14	pour	_	Word	-	-	_	_	_	L	_	_
+15	réussir	_	Word	-	+	_	_	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+

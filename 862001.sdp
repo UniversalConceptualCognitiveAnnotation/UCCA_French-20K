@@ -1,0 +1,27 @@
+1	J’	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	amenai	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+3	tout	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+4	naturellement	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	la	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+6	conversation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	sur	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+8	la	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+9	licorne	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+10	géante	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+12	et	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+13	j’	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+14	examinai	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+15	les	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+16	diverses	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+17	chances	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+18	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+19	succès	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+20	ou	_	Word	-	-	_	_	_	_	_	_	_	N	_	_
+21	d’	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+22	insuccès	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+23	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+24	notre	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+25	expédition	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

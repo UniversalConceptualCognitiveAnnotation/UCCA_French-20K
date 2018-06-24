@@ -1,0 +1,9 @@
+1	car	_	Word	-	-	_	_	L
+2	je	_	Word	-	-	_	_	A
+3	ne	_	Word	-	+	_	_	D
+4	veux	_	Word	-	-	_	_	E
+5	rien	_	Word	-	-	_	Terminal	_
+6	te	_	Word	-	-	_	_	A
+7	cacher	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

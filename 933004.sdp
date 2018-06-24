@@ -1,0 +1,19 @@
+1	Mais	_	Word	-	-	_	_	_	L	_	_	_	_
+2	le	_	Word	-	-	_	E	_	_	_	_	_	_
+3	soir	_	Word	-	+	_	_	_	_	_	_	_	_
+4	du	_	Word	-	-	_	R	_	_	_	_	_	_
+5	4	_	Word	-	-	_	_	E	_	_	_	_	_
+6	novembre	_	Word	-	+	_	_	_	_	_	_	_	_
+7	arriva	_	Word	-	+	_	_	_	_	_	_	_	_
+8	sans	_	Word	-	+	_	_	_	L	_	_	_	_
+9	que	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+10	se	_	Word	-	-	_	_	_	_	_	F	_	_
+11	fût	_	Word	-	-	_	_	_	_	_	F	_	_
+12	dévoilé	_	Word	-	+	_	_	_	_	_	_	_	_
+13	ce	_	Word	-	-	_	_	_	_	_	_	E	_
+14	mystère	_	Word	-	+	_	_	_	_	_	_	_	_
+15	sous	_	Word	-	-	_	_	_	_	_	_	_	R
+16	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+17	marin	_	Word	-	+	_	_	_	_	_	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

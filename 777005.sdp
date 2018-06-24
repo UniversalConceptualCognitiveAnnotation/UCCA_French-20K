@@ -1,0 +1,20 @@
+1	Mais	_	Word	-	-	_	L	_	_	_	_	_
+2	nous	_	Word	-	-	_	A	_	_	_	_	_
+3	irons	_	Word	-	+	_	_	_	_	_	_	_
+4	quand	_	Word	-	+	_	L	_	_	_	_	_
+5	même	_	Word	-	-	_	_	Terminal	_	_	_	_
+6	!	_	Punctuation	-	-	_	U	_	_	_	_	_
+7	Nous	_	Word	-	-	_	_	_	A	_	_	_
+8	avons	_	Word	-	+	_	_	_	_	_	_	_
+9	un	_	Word	-	-	_	_	_	_	E	_	_
+10	commandant	_	Word	-	+	_	_	_	_	_	_	A
+11	qui	_	Word	-	-	_	_	_	_	_	_	R
+12	n’	_	Word	-	+	_	_	_	_	_	_	D
+13	a	_	Word	-	+	_	_	_	_	_	_	_
+14	pas	_	Word	-	-	_	_	_	_	_	Terminal	_
+15	froid	_	Word	-	-	_	_	_	_	_	_	Terminal
+16	aux	_	Word	-	-	_	_	_	_	_	_	Terminal
+17	yeux	_	Word	-	-	_	_	_	_	_	_	Terminal
+18	!	_	Punctuation	-	-	_	_	_	_	_	_	U
+19	...	_	Punctuation	-	-	_	_	_	_	_	_	U
+

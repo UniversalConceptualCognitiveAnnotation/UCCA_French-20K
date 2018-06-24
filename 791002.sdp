@@ -1,0 +1,10 @@
+1	–	_	Punctuation	-	-	_	_	U	_
+2	Oui	_	Word	-	+	_	_	A	_
+3	,	_	Punctuation	-	-	_	U	_	_
+4	monsieur	_	Word	-	-	_	Terminal	_	_
+5	,	_	Punctuation	-	-	_	U	_	_
+6	répondit	_	Word	-	+	_	_	_	_
+7	l’	_	Word	-	-	_	_	_	E
+8	ingénieur	_	Word	-	+	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	U
+

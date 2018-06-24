@@ -1,0 +1,9 @@
+1	Je	_	Word	-	-	_	A	_	A
+2	parlai	_	Word	-	+	_	_	_	_
+3	faute	_	Word	-	+	_	L	_	_
+4	de	_	Word	-	-	_	_	Terminal	_
+5	pouvoir	_	Word	-	-	_	_	_	E
+6	me	_	Word	-	-	_	_	_	E
+7	taire	_	Word	-	+	_	_	_	_
+8	.	_	Punctuation	-	-	_	_	_	U
+

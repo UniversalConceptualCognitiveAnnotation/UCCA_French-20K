@@ -1,0 +1,25 @@
+1	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+2	Tu	_	Word	-	-	_	_	_	_	_	_	_	_
+3	sais	_	Word	-	+	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+5	mon	_	Word	-	-	_	_	E	_	_	_	_	_
+6	ami	_	Word	-	+	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+8	il	_	Word	-	-	_	_	_	F	_	_	_	_
+9	s’	_	Word	-	+	_	_	_	_	_	_	_	_
+10	agit	_	Word	-	-	_	_	_	Terminal	_	_	_	_
+11	du	_	Word	-	-	_	_	_	_	R	_	_	_
+12	monstre	_	Word	-	+	_	_	_	_	_	_	_	_
+13	...	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+14	du	_	Word	-	-	_	_	_	_	_	R	_	_
+15	fameux	_	Word	-	-	_	_	_	_	_	E	_	_
+16	narwal	_	Word	-	+	_	_	_	_	_	_	_	_
+17	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+18	Nous	_	Word	-	-	_	_	_	_	_	_	A	_
+19	allons	_	Word	-	-	_	_	_	_	_	_	E	_
+20	en	_	Word	-	-	_	_	_	_	_	_	A	_
+21	purger	_	Word	-	+	_	_	_	_	_	_	_	_
+22	les	_	Word	-	-	_	_	_	_	_	_	_	E
+23	mers	_	Word	-	+	_	_	_	_	_	_	_	_
+24	!	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+
