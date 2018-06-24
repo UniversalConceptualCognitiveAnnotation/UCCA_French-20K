@@ -1,0 +1,28 @@
+#BOS 931000
+Une	Word	--	Terminal	500
+représentation	Word	--	Terminal	501
+dans	Word	--	Terminal	502
+ce	Word	--	Terminal	503
+sens	Word	--	Terminal	504
+fut	Word	--	Terminal	505
+faite	Word	--	Terminal	506
+au	Word	--	Terminal	507
+commandant	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	C	510
+#502	FN	--	R	511
+#503	FN	--	E	511
+#504	FN	--	C	511
+#505	FN	--	F	510
+#506	FN	--	E	510
+#507	FN	--	R	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	P	514
+#511	FN	--	A	514
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 931000

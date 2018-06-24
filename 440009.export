@@ -1,0 +1,70 @@
+#BOS 440009
+Pourquoi	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+cacherait-elle	Word	--	Terminal	502
+pas	Word	--	Terminal	501
+dans	Word	--	Terminal	503
+son	Word	--	Terminal	504
+sein	Word	--	Terminal	505
+les	Word	--	Terminal	506
+dernières	Word	--	Terminal	507
+variétés	Word	--	Terminal	508
+de	Word	--	Terminal	509
+ces	Word	--	Terminal	510
+espèces	Word	--	Terminal	511
+titanesques	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+dont	Word	--	Terminal	514
+les	Word	--	Terminal	515
+années	Word	--	Terminal	516
+sont	Word	--	Terminal	517
+des	Word	--	Terminal	518
+siècles	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+et	Word	--	Terminal	521
+les	Word	--	Terminal	522
+siècles	Word	--	Terminal	523
+des	Word	--	Terminal	524
+millénaires	Word	--	Terminal	525
+?	Punctuation	--	Terminal	526
+#500	FN	--	A	538
+#501	FN	--	D	538
+#502	FN	--	P	538
+#503	FN	--	R	527
+#504	FN	--	E	527
+#505	FN	--	C	527
+#506	FN	--	E	536
+#507	FN	--	E	536
+#508	FN	--	C	536
+#509	FN	--	R	535
+#510	FN	--	E	535
+#511	FN	--	C	535	E*	528	E*	529
+#512	FN	--	E	535
+#513	PNCT	--	U	535
+#514	FN	--	R	533
+#515	FN	--	E	529
+#516	FN	--	C	529
+#517	FN	--	S	533	S*	532
+#518	FN	--	E	530
+#519	FN	--	C	530
+#520	PNCT	--	U	534
+#521	FN	--	L	534	LR	537
+#522	FN	--	E	528
+#523	FN	--	C	528
+#524	FN	--	E	531
+#525	FN	--	C	531
+#526	PNCT	--	U	531
+#527	FN	--	A	538
+#528	FN	--	A	532
+#529	FN	--	A	533
+#530	FN	--	A	533
+#531	FN	--	A	532
+#532	FN	--	H	534	LA	537
+#533	FN	--	H	534	LA	537
+#534	FN	--	E	535
+#535	FN	--	E	536
+#536	FN	--	A	538
+#537	LKG	--	--	0
+#538	FN	--	H	539
+#539	FN	--	--	0
+#EOS 440009

@@ -1,0 +1,29 @@
+#BOS 93000
+Personne	Word	--	Terminal	500
+n\u2019	Word	--	Terminal	501
+ignore	Word	--	Terminal	502
+le	Word	--	Terminal	503
+nom	Word	--	Terminal	504
+du	Word	--	Terminal	505
+célèbre	Word	--	Terminal	506
+armateur	Word	--	Terminal	507
+anglais	Word	--	Terminal	508
+Cunard	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	P	514
+#503	FN	--	E	513
+#504	FN	--	C	513
+#505	FN	--	R	512
+#506	FN	--	E	511
+#507	FN	--	C	511
+#508	FN	--	E	511
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	E	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 93000

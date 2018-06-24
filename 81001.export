@@ -1,0 +1,37 @@
+#BOS 81001
+Quant	Word	--	Terminal	500
+à	Word	--	Terminal	500
+la	Word	--	Terminal	501
+rejeter	Word	--	Terminal	502
+au	Word	--	Terminal	503
+rang	Word	--	Terminal	504
+des	Word	--	Terminal	505
+fables	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+il	Word	--	Terminal	508
+fallait	Word	--	Terminal	509
+y	Word	--	Terminal	510
+renoncer	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	520
+#501	FN	--	A	517
+#502	FN	--	P	517
+#503	FN	--	R	513
+#504	FN	--	C	513
+#505	FN	--	R	513
+#506	FN	--	C	514
+#507	PNCT	--	U	520
+#508	FN	--	F	519
+#509	FN	--	E	515
+#510	FN	--	A	519
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	E	514
+#514	FN	--	A	517
+#515	FN	--	P	519
+#516	FN	--	A	517
+#517	FN	--	H	520
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 81001

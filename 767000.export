@@ -1,0 +1,86 @@
+#BOS 767000
+Mais	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+en	Word	--	Terminal	502
+attendant	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+il	Word	--	Terminal	505
+me	Word	--	Terminal	506
+fallait	Word	--	Terminal	507
+chercher	Word	--	Terminal	508
+ce	Word	--	Terminal	509
+narwal	Word	--	Terminal	510
+dans	Word	--	Terminal	511
+le	Word	--	Terminal	512
+nord	Word	--	Terminal	513
+de	Word	--	Terminal	514
+l’	Word	--	Terminal	515
+océan	Word	--	Terminal	516
+Pacifique	Word	--	Terminal	517
+;	Punctuation	--	Terminal	518
+ce	Word	--	Terminal	519
+qui	Word	--	Terminal	520
+,	Punctuation	--	Terminal	521
+pour	Word	--	Terminal	522
+revenir	Word	--	Terminal	523
+en	Word	--	Terminal	524
+France	Word	--	Terminal	525
+,	Punctuation	--	Terminal	526
+était	Word	--	Terminal	527
+prendre	Word	--	Terminal	528
+le	Word	--	Terminal	529
+chemin	Word	--	Terminal	530
+des	Word	--	Terminal	531
+antipodes	Word	--	Terminal	532
+.	Punctuation	--	Terminal	533
+#500	FN	--	L	547	LR	549
+#501	PNCT	--	U	547
+#502	FN	--	R	534
+#503	FN	--	C	534
+#504	PNCT	--	U	547
+#505	FN	--	F	543
+#506	FN	--	A	543	A*	540	A*	544	A*	541
+#507	FN	--	P	543
+#508	FN	--	P	541
+#509	FN	--	E	535
+#510	FN	--	C	535
+#511	FN	--	R	537
+#512	FN	--	E	536
+#513	FN	--	C	536
+#514	FN	--	R	536
+#515	FN	--	E	537
+#516	FN	--	C	537
+#517	FN	--	E	537
+#518	PNCT	--	U	547
+#519	FN	--	F	547
+#520	FN	--	F	547
+#521	PNCT	--	U	547
+#522	FN	--	L	547	LR	545
+#523	FN	--	P	540
+#524	FN	--	R	538
+#525	FN	--	C	538
+#526	PNCT	--	U	547
+#527	FN	--	S	546
+#528	FN	--	P	544
+#529	FN	--	E	542
+#530	FN	--	C	542
+#531	FN	--	R	539
+#532	FN	--	C	539
+#533	PNCT	--	U	539
+#534	FN	--	L	547	LR	548
+#535	FN	--	A	541
+#536	FN	--	E	537
+#537	FN	--	A	541
+#538	FN	--	A	540
+#539	FN	--	E	542
+#540	FN	--	H	547	LA	545
+#541	FN	--	A	543	A*	546
+#542	FN	--	A	544
+#543	FN	--	H	547	LA	548	LA	549
+#544	FN	--	A	546
+#545	LKG	--	--	0
+#546	FN	--	H	547
+#547	FN	--	--	0
+#548	LKG	--	--	0
+#549	LKG	--	--	0
+#EOS 767000

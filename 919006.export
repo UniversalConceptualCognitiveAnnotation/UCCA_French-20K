@@ -1,0 +1,42 @@
+#BOS 919006
+Chacun	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+la	Word	--	Terminal	502
+poitrine	Word	--	Terminal	503
+haletante	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+l’	Word	--	Terminal	506
+œil	Word	--	Terminal	507
+trouble	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+observait	Word	--	Terminal	510
+la	Word	--	Terminal	511
+marche	Word	--	Terminal	512
+du	Word	--	Terminal	513
+cétacé	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	522	E*	516	E*	517
+#501	PNCT	--	U	517
+#502	FN	--	E	517
+#503	FN	--	C	517
+#504	FN	--	P	518
+#505	PNCT	--	U	523
+#506	FN	--	E	516
+#507	FN	--	C	516
+#508	FN	--	S	519
+#509	PNCT	--	U	523
+#510	FN	--	P	522
+#511	FN	--	E	521
+#512	FN	--	C	521
+#513	FN	--	R	520
+#514	FN	--	C	520
+#515	PNCT	--	U	520
+#516	FN	--	A	519
+#517	FN	--	A	518
+#518	FN	--	H	523
+#519	FN	--	H	523
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 919006

@@ -1,0 +1,92 @@
+#BOS 776008
+Serre	Word	--	Terminal	500
+dans	Word	--	Terminal	501
+ma	Word	--	Terminal	502
+malle	Word	--	Terminal	503
+tous	Word	--	Terminal	504
+mes	Word	--	Terminal	505
+ustensiles	Word	--	Terminal	506
+de	Word	--	Terminal	507
+voyage	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+des	Word	--	Terminal	510
+habits	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+des	Word	--	Terminal	513
+chemises	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+des	Word	--	Terminal	516
+chaussettes	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+sans	Word	--	Terminal	519
+compter	Word	--	Terminal	520
+,	Punctuation	--	Terminal	521
+mais	Word	--	Terminal	522
+le	Word	--	Terminal	523
+plus	Word	--	Terminal	524
+que	Word	--	Terminal	525
+tu	Word	--	Terminal	526
+pourras	Word	--	Terminal	527
+,	Punctuation	--	Terminal	528
+et	Word	--	Terminal	529
+hâte	Word	--	Terminal	530
+-	Punctuation	--	Terminal	531
+toi	Word	--	Terminal	532
+!	Punctuation	--	Terminal	533
+#500	FN	--	P	544	P*	551	C*	534
+#501	FN	--	R	535
+#502	FN	--	E	535
+#503	FN	--	C	535
+#504	FN	--	E	542
+#505	FN	--	E	542
+#506	FN	--	C	542
+#507	FN	--	R	536
+#508	FN	--	C	536
+#509	PNCT	--	U	543
+#510	FN	--	E	537
+#511	FN	--	C	537
+#512	PNCT	--	U	543
+#513	FN	--	E	538
+#514	FN	--	C	538
+#515	PNCT	--	U	543
+#516	FN	--	E	539
+#517	FN	--	C	539
+#518	PNCT	--	U	553
+#519	FN	--	L	553	LR	549
+#520	FN	--	P	546
+#521	PNCT	--	U	553
+#522	FN	--	L	553	LR	555
+#523	FN	--	E	548
+#524	FN	--	E	548
+#525	FN	--	R	547
+#526	FN	--	A	547
+#527	FN	--	E	534
+#528	PNCT	--	U	553
+#529	FN	--	L	553	LR	554
+#530	FN	--	C	540
+#531	PNCT	--	U	540
+#532	FN	--	E	540
+#533	PNCT	--	U	540
+#534	FN	--	P	547
+#535	FN	--	A	544	A*	551
+#536	FN	--	E	542
+#537	FN	--	C	543
+#538	FN	--	C	543
+#539	FN	--	C	543
+#540	FN	--	P	552
+#541	FN	--	A	544
+#542	FN	--	C	543
+#543	FN	--	A	544	A*	546	C*	548	A*	547
+#544	FN	--	H	553	LA	549
+#545	FN	--	A	546
+#546	FN	--	H	553	LA	555	LA	549
+#547	FN	--	E	548
+#548	FN	--	A	551
+#549	LKG	--	--	0
+#550	FN	--	A	552
+#551	FN	--	H	553	LA	554	LA	555
+#552	FN	--	H	553	LA	554
+#553	FN	--	--	0
+#554	LKG	--	--	0
+#555	LKG	--	--	0
+#EOS 776008

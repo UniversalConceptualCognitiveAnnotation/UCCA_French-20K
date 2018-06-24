@@ -1,0 +1,20 @@
+#BOS 776007
+–	Punctuation	--	Terminal	500
+Pas	Word	--	Terminal	501
+un	Word	--	Terminal	502
+instant	Word	--	Terminal	503
+à	Word	--	Terminal	504
+perdre	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	PNCT	--	U	509
+#501	FN	--	E	507
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	FN	--	F	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	A	509
+#508	FN	--	P	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 776007

@@ -1,0 +1,57 @@
+#BOS 426000
+À	Word	--	Terminal	500
+mon	Word	--	Terminal	501
+arrivée	Word	--	Terminal	502
+à	Word	--	Terminal	503
+New	Word	--	Terminal	504
+York	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+plusieurs	Word	--	Terminal	506
+personnes	Word	--	Terminal	507
+m	Word	--	Terminal	508
+\u2019	Punctuation	--	Terminal	509
+avaient	Word	--	Terminal	510
+fait	Word	--	Terminal	511
+l\u2019honneur	Word	--	Terminal	512
+de	Word	--	Terminal	513
+me	Word	--	Terminal	514
+consulter	Word	--	Terminal	515
+sur	Word	--	Terminal	516
+le	Word	--	Terminal	517
+phénomène	Word	--	Terminal	518
+en	Word	--	Terminal	519
+question	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	L	531	LR	529
+#501	FN	--	A	527
+#502	FN	--	P	527
+#503	FN	--	R	522
+#504	FN	--	C	522
+#505	PNCT	--	U	531
+#506	FN	--	E	523
+#507	FN	--	C	523
+#508	FN	--	E	524
+#509	PNCT	--	U	524
+#510	FN	--	F	524
+#511	FN	--	F	524
+#512	FN	--	C	524
+#513	FN	--	F	525
+#514	FN	--	A	530
+#515	FN	--	C	525
+#516	FN	--	R	528
+#517	FN	--	E	528
+#518	FN	--	C	528
+#519	FN	--	R	526
+#520	FN	--	C	526
+#521	PNCT	--	U	526
+#522	FN	--	A	527
+#523	FN	--	A	530
+#524	FN	--	E	525
+#525	FN	--	P	530
+#526	FN	--	E	528
+#527	FN	--	H	531	LA	529
+#528	FN	--	A	530
+#529	LKG	--	--	0
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 426000

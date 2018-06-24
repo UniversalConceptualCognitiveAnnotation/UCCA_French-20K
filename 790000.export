@@ -1,0 +1,72 @@
+#BOS 790000
+Mais	Word	--	Terminal	500
+le	Word	--	Terminal	501
+commandant	Word	--	Terminal	502
+Farragut	Word	--	Terminal	503
+ne	Word	--	Terminal	504
+voulait	Word	--	Terminal	505
+perdre	Word	--	Terminal	506
+ni	Word	--	Terminal	507
+un	Word	--	Terminal	508
+jour	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+ni	Word	--	Terminal	511
+une	Word	--	Terminal	512
+heure	Word	--	Terminal	513
+pour	Word	--	Terminal	514
+rallier	Word	--	Terminal	515
+les	Word	--	Terminal	516
+mers	Word	--	Terminal	517
+dans	Word	--	Terminal	518
+lesquelles	Word	--	Terminal	519
+l’	Word	--	Terminal	520
+animal	Word	--	Terminal	521
+venait	Word	--	Terminal	522
+d’	Word	--	Terminal	523
+être	Word	--	Terminal	524
+signalé	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	L	541	LR	539
+#501	FN	--	E	527
+#502	FN	--	C	527
+#503	FN	--	C	528	A*	540
+#504	FN	--	D	536
+#505	FN	--	E	529
+#506	FN	--	C	529
+#507	FN	--	E	530
+#508	FN	--	E	530
+#509	FN	--	C	530
+#510	PNCT	--	U	535
+#511	FN	--	E	531
+#512	FN	--	E	531
+#513	FN	--	C	531
+#514	FN	--	L	541	LR	542
+#515	FN	--	P	540
+#516	FN	--	E	538
+#517	FN	--	C	538	C*	532
+#518	FN	--	R	532
+#519	FN	--	R	537
+#520	FN	--	E	533
+#521	FN	--	C	533
+#522	FN	--	E	534
+#523	FN	--	F	534
+#524	FN	--	F	534
+#525	FN	--	C	534
+#526	PNCT	--	U	534
+#527	FN	--	E	528
+#528	FN	--	A	536
+#529	FN	--	P	536
+#530	FN	--	C	535
+#531	FN	--	C	535
+#532	FN	--	A	537
+#533	FN	--	A	537
+#534	FN	--	P	537
+#535	FN	--	A	536
+#536	FN	--	H	541	LA	542	LA	539
+#537	FN	--	E	538
+#538	FN	--	A	540
+#539	LKG	--	--	0
+#540	FN	--	H	541	LA	542
+#541	FN	--	--	0
+#542	LKG	--	--	0
+#EOS 790000

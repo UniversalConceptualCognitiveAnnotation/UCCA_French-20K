@@ -1,0 +1,34 @@
+#BOS 927000
+Et	Word	--	Terminal	500
+en	Word	--	Terminal	501
+effet	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+la	Word	--	Terminal	504
+réaction	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+tarda	Word	--	Terminal	507
+pas	Word	--	Terminal	506
+à	Word	--	Terminal	508
+se	Word	--	Terminal	509
+produire	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	516	LR	518
+#501	FN	--	R	511
+#502	FN	--	C	511
+#503	PNCT	--	U	516
+#504	FN	--	E	512
+#505	FN	--	C	512
+#506	FN	--	E	513
+#507	FN	--	C	513
+#508	FN	--	F	514
+#509	FN	--	C	514
+#510	PNCT	--	U	514
+#511	FN	--	L	516	LR	517
+#512	FN	--	A	515
+#513	FN	--	E	514
+#514	FN	--	P	515
+#515	FN	--	H	516	LA	517	LA	518
+#516	FN	--	--	0
+#517	LKG	--	--	0
+#518	LKG	--	--	0
+#EOS 927000

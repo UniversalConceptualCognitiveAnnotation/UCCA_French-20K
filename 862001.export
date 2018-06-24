@@ -1,0 +1,67 @@
+#BOS 862001
+J’	Word	--	Terminal	500
+amenai	Word	--	Terminal	501
+tout	Word	--	Terminal	502
+naturellement	Word	--	Terminal	503
+la	Word	--	Terminal	504
+conversation	Word	--	Terminal	505
+sur	Word	--	Terminal	506
+la	Word	--	Terminal	507
+licorne	Word	--	Terminal	508
+géante	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+et	Word	--	Terminal	511
+j’	Word	--	Terminal	512
+examinai	Word	--	Terminal	513
+les	Word	--	Terminal	514
+diverses	Word	--	Terminal	515
+chances	Word	--	Terminal	516
+de	Word	--	Terminal	517
+succès	Word	--	Terminal	518
+ou	Word	--	Terminal	519
+d’	Word	--	Terminal	520
+insuccès	Word	--	Terminal	521
+de	Word	--	Terminal	522
+notre	Word	--	Terminal	523
+expédition	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	A	532
+#501	FN	--	P	532
+#502	FN	--	E	526
+#503	FN	--	C	526
+#504	FN	--	E	527
+#505	FN	--	C	527
+#506	FN	--	R	528
+#507	FN	--	E	528
+#508	FN	--	C	528
+#509	FN	--	E	528
+#510	PNCT	--	U	537
+#511	FN	--	L	537	LR	538
+#512	FN	--	A	536
+#513	FN	--	P	536
+#514	FN	--	E	535
+#515	FN	--	E	535
+#516	FN	--	C	535
+#517	FN	--	R	529
+#518	FN	--	C	529
+#519	FN	--	N	533
+#520	FN	--	R	530
+#521	FN	--	C	530
+#522	FN	--	R	531
+#523	FN	--	E	531
+#524	FN	--	C	531
+#525	PNCT	--	U	531
+#526	FN	--	D	532
+#527	FN	--	A	532
+#528	FN	--	A	532
+#529	FN	--	C	533
+#530	FN	--	C	533
+#531	FN	--	A	534
+#532	FN	--	H	537	LA	538
+#533	FN	--	P	534
+#534	FN	--	E	535
+#535	FN	--	A	536
+#536	FN	--	H	537	LA	538
+#537	FN	--	--	0
+#538	LKG	--	--	0
+#EOS 862001

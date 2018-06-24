@@ -1,0 +1,54 @@
+#BOS 423002
+D\u2019	Word	--	Terminal	500
+ailleurs	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+comment	Word	--	Terminal	502
+admettre	Word	--	Terminal	503
+que	Word	--	Terminal	504
+la	Word	--	Terminal	505
+construction	Word	--	Terminal	506
+de	Word	--	Terminal	507
+ce	Word	--	Terminal	508
+bateau	Word	--	Terminal	509
+sous	Word	--	Terminal	510
+-	Punctuation	--	Terminal	511
+marin	Word	--	Terminal	512
+eût	Word	--	Terminal	513
+échappé	Word	--	Terminal	514
+aux	Word	--	Terminal	515
+yeux	Word	--	Terminal	516
+du	Word	--	Terminal	517
+public	Word	--	Terminal	518
+?	Punctuation	--	Terminal	519
+#500	FN	--	L	529	LR	530
+#501	PNCT	--	U	529
+#502	FN	--	F	528
+#503	FN	--	P	528
+#504	FN	--	R	527
+#505	FN	--	E	520
+#506	FN	--	C	520
+#507	FN	--	R	525
+#508	FN	--	E	525
+#509	FN	--	C	525
+#510	FN	--	R	521
+#511	PNCT	--	U	521
+#512	FN	--	C	521
+#513	FN	--	F	522
+#514	FN	--	C	522
+#515	FN	--	R	524
+#516	FN	--	C	524
+#517	FN	--	R	523
+#518	FN	--	C	523
+#519	PNCT	--	U	523
+#520	FN	--	P	526
+#521	FN	--	E	525
+#522	FN	--	P	527
+#523	FN	--	E	524
+#524	FN	--	A	527
+#525	FN	--	A	526
+#526	FN	--	A	527
+#527	FN	--	A	528
+#528	FN	--	H	529	LA	530
+#529	FN	--	--	0
+#530	LKG	--	--	0
+#EOS 423002

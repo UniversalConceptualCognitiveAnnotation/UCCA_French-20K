@@ -1,0 +1,42 @@
+#BOS 848001
+Le	Word	--	Terminal	500
+commandant	Word	--	Terminal	501
+Farragut	Word	--	Terminal	502
+était	Word	--	Terminal	503
+un	Word	--	Terminal	504
+bon	Word	--	Terminal	505
+marin	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+digne	Word	--	Terminal	508
+de	Word	--	Terminal	509
+la	Word	--	Terminal	510
+frégate	Word	--	Terminal	511
+qu’	Word	--	Terminal	512
+il	Word	--	Terminal	513
+commandait	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	516
+#501	FN	--	C	516
+#502	FN	--	C	517	A*	522
+#503	FN	--	S	520
+#504	FN	--	E	518
+#505	FN	--	E	518
+#506	FN	--	C	518
+#507	PNCT	--	U	523
+#508	FN	--	S	522
+#509	FN	--	R	521
+#510	FN	--	E	521
+#511	FN	--	C	521	A*	519
+#512	FN	--	R	519
+#513	FN	--	A	519
+#514	FN	--	P	519
+#515	PNCT	--	U	519
+#516	FN	--	E	517
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	E	521
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 848001

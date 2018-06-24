@@ -1,0 +1,53 @@
+#BOS 867000
+—	Punctuation	--	Terminal	500
+Cependant	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Ned	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+on	Word	--	Terminal	505
+cite	Word	--	Terminal	506
+des	Word	--	Terminal	507
+bâtiments	Word	--	Terminal	508
+que	Word	--	Terminal	509
+la	Word	--	Terminal	510
+dent	Word	--	Terminal	511
+du	Word	--	Terminal	512
+narwal	Word	--	Terminal	513
+a	Word	--	Terminal	514
+traversés	Word	--	Terminal	515
+de	Word	--	Terminal	516
+part	Word	--	Terminal	517
+en	Word	--	Terminal	518
+part	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	PNCT	--	U	528
+#501	FN	--	L	528	LR	529
+#502	PNCT	--	U	528
+#503	FN	--	H	528
+#504	PNCT	--	U	528
+#505	FN	--	A	527
+#506	FN	--	P	527
+#507	FN	--	E	526
+#508	FN	--	C	526	A*	525
+#509	FN	--	R	525
+#510	FN	--	E	524
+#511	FN	--	C	524
+#512	FN	--	R	521
+#513	FN	--	C	521
+#514	FN	--	F	522
+#515	FN	--	C	522
+#516	FN	--	R	523
+#517	FN	--	C	523
+#518	FN	--	R	523
+#519	FN	--	C	523
+#520	PNCT	--	U	523
+#521	FN	--	E	524
+#522	FN	--	P	525
+#523	FN	--	D	525
+#524	FN	--	A	525
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	H	528	LA	529
+#528	FN	--	--	0
+#529	LKG	--	--	0
+#EOS 867000

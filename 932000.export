@@ -1,0 +1,22 @@
+#BOS 932000
+Cette	Word	--	Terminal	500
+promesse	Word	--	Terminal	501
+fut	Word	--	Terminal	502
+faite	Word	--	Terminal	503
+le	Word	--	Terminal	504
+2	Word	--	Terminal	505
+novembre	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	E	507
+#501	FN	--	C	507
+#502	FN	--	F	508
+#503	FN	--	C	508
+#504	FN	--	E	509
+#505	FN	--	C	509
+#506	PNCT	--	U	509
+#507	FN	--	A	510
+#508	FN	--	P	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 932000

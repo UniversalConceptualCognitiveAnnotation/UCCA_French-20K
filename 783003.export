@@ -1,0 +1,16 @@
+#BOS 783003
+Le	Word	--	Terminal	500
+commandant	Word	--	Terminal	501
+Farragut	Word	--	Terminal	502
+?	Punctuation	--	Terminal	503
+#500	FN	--	E	504
+#501	FN	--	C	504
+#502	FN	--	C	505
+#503	PNCT	--	U	505
+#504	FN	--	E	505
+#505	FN	--	A	508
+#506	FN	--	A	508
+#507	FN	--	S	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 783003

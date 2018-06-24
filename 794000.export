@@ -1,0 +1,89 @@
+#BOS 794000
+Alors	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+la	Word	--	Terminal	502
+frégate	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+suivant	Word	--	Terminal	505
+du	Word	--	Terminal	506
+côté	Word	--	Terminal	507
+de	Word	--	Terminal	508
+New	Word	--	Terminal	509
+-	Punctuation	--	Terminal	510
+Jersey	Word	--	Terminal	509
+l’	Word	--	Terminal	511
+admirable	Word	--	Terminal	512
+rive	Word	--	Terminal	513
+droite	Word	--	Terminal	514
+du	Word	--	Terminal	515
+fleuve	Word	--	Terminal	516
+toute	Word	--	Terminal	517
+chargée	Word	--	Terminal	518
+de	Word	--	Terminal	519
+villas	Word	--	Terminal	520
+,	Punctuation	--	Terminal	521
+passa	Word	--	Terminal	522
+entre	Word	--	Terminal	523
+les	Word	--	Terminal	524
+forts	Word	--	Terminal	525
+qui	Word	--	Terminal	526
+la	Word	--	Terminal	527
+saluèrent	Word	--	Terminal	528
+de	Word	--	Terminal	529
+leurs	Word	--	Terminal	530
+plus	Word	--	Terminal	531
+gros	Word	--	Terminal	532
+canons	Word	--	Terminal	533
+.	Punctuation	--	Terminal	534
+#500	FN	--	L	548	LR	550
+#501	PNCT	--	U	548
+#502	FN	--	E	535
+#503	FN	--	C	535	A*	547
+#504	PNCT	--	U	547
+#505	FN	--	P	547
+#506	FN	--	R	536
+#507	FN	--	C	536
+#508	FN	--	R	536
+#509	FN	--	C	537
+#510	PNCT	--	U	537
+#511	FN	--	E	546
+#512	FN	--	E	546
+#513	FN	--	C	546
+#514	FN	--	E	546
+#515	FN	--	R	538
+#516	FN	--	C	538
+#517	FN	--	D	545
+#518	FN	--	S	545
+#519	FN	--	R	539
+#520	FN	--	C	539
+#521	PNCT	--	U	548
+#522	FN	--	P	543
+#523	FN	--	R	540
+#524	FN	--	E	540
+#525	FN	--	C	540	A*	544
+#526	FN	--	L	548	LR	549
+#527	FN	--	A	544
+#528	FN	--	P	544
+#529	FN	--	R	542
+#530	FN	--	E	542
+#531	FN	--	E	541
+#532	FN	--	C	541
+#533	FN	--	C	542
+#534	PNCT	--	U	542
+#535	FN	--	A	543
+#536	FN	--	E	537
+#537	FN	--	A	547
+#538	FN	--	E	546
+#539	FN	--	A	545
+#540	FN	--	A	543
+#541	FN	--	E	542
+#542	FN	--	A	544
+#543	FN	--	H	548	LA	549	LA	550
+#544	FN	--	H	548	LA	549
+#545	FN	--	E	546
+#546	FN	--	A	547
+#547	FN	--	H	548
+#548	FN	--	--	0
+#549	LKG	--	--	0
+#550	LKG	--	--	0
+#EOS 794000

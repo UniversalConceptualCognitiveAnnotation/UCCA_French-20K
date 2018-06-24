@@ -1,0 +1,48 @@
+#BOS 91004
+Le	Word	--	Terminal	500
+relèvement	Word	--	Terminal	501
+du	Word	--	Terminal	502
+lieu	Word	--	Terminal	503
+fut	Word	--	Terminal	504
+exactement	Word	--	Terminal	505
+pris	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+et	Word	--	Terminal	508
+le	Word	--	Terminal	509
+Moravian	Word	--	Terminal	510
+continua	Word	--	Terminal	511
+sa	Word	--	Terminal	512
+route	Word	--	Terminal	513
+sans	Word	--	Terminal	514
+avaries	Word	--	Terminal	515
+apparentes	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	523
+#501	FN	--	C	523
+#502	FN	--	R	518
+#503	FN	--	C	518
+#504	FN	--	F	519
+#505	FN	--	D	524
+#506	FN	--	C	519
+#507	PNCT	--	U	526
+#508	FN	--	L	526	LR	527
+#509	FN	--	E	520
+#510	FN	--	C	520
+#511	FN	--	P	525
+#512	FN	--	E	521
+#513	FN	--	C	521
+#514	FN	--	R	522
+#515	FN	--	C	522
+#516	FN	--	E	522
+#517	PNCT	--	U	522
+#518	FN	--	E	523
+#519	FN	--	P	524
+#520	FN	--	A	525
+#521	FN	--	A	525
+#522	FN	--	D	525
+#523	FN	--	A	524
+#524	FN	--	H	526	LA	527
+#525	FN	--	H	526	LA	527
+#526	FN	--	--	0
+#527	LKG	--	--	0
+#EOS 91004

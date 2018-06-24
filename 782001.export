@@ -1,0 +1,19 @@
+#BOS 782001
+Je	Word	--	Terminal	500
+me	Word	--	Terminal	501
+précipitai	Word	--	Terminal	502
+à	Word	--	Terminal	503
+bord	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	509
+#501	FN	--	E	506
+#502	FN	--	C	506
+#503	FN	--	R	507
+#504	FN	--	C	507
+#505	PNCT	--	U	507
+#506	FN	--	P	509
+#507	FN	--	E	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 782001

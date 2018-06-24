@@ -1,0 +1,44 @@
+#BOS 922002
+Mais	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+huit	Word	--	Terminal	502
+heures	Word	--	Terminal	503
+sur	Word	--	Terminal	504
+douze	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+cet	Word	--	Terminal	507
+entêté	Word	--	Terminal	508
+Canadien	Word	--	Terminal	509
+lisait	Word	--	Terminal	510
+ou	Word	--	Terminal	511
+dormait	Word	--	Terminal	512
+dans	Word	--	Terminal	513
+sa	Word	--	Terminal	514
+cabine	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	524
+#501	PNCT	--	U	524
+#502	FN	--	E	517
+#503	FN	--	C	517	C*	518
+#504	FN	--	R	519
+#505	FN	--	E	518
+#506	PNCT	--	U	523
+#507	FN	--	E	520
+#508	FN	--	E	520
+#509	FN	--	C	520
+#510	FN	--	C	521
+#511	FN	--	N	521
+#512	FN	--	C	521
+#513	FN	--	R	522
+#514	FN	--	E	522
+#515	FN	--	C	522
+#516	PNCT	--	U	522
+#517	FN	--	C	519
+#518	FN	--	C	519
+#519	FN	--	D	523
+#520	FN	--	A	523
+#521	FN	--	P	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 922002

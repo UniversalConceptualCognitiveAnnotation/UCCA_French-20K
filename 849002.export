@@ -1,0 +1,64 @@
+#BOS 849002
+Plus	Word	--	Terminal	500
+d’	Word	--	Terminal	501
+un	Word	--	Terminal	502
+s’	Word	--	Terminal	503
+imposait	Word	--	Terminal	504
+un	Word	--	Terminal	505
+quart	Word	--	Terminal	506
+volontaire	Word	--	Terminal	507
+dans	Word	--	Terminal	508
+les	Word	--	Terminal	509
+barres	Word	--	Terminal	510
+de	Word	--	Terminal	511
+perroquet	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+qui	Word	--	Terminal	514
+eût	Word	--	Terminal	515
+maudit	Word	--	Terminal	516
+une	Word	--	Terminal	517
+telle	Word	--	Terminal	518
+corvée	Word	--	Terminal	519
+en	Word	--	Terminal	520
+toute	Word	--	Terminal	521
+autre	Word	--	Terminal	522
+circonstance	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	E	525
+#501	FN	--	F	525
+#502	FN	--	C	525	A*	534
+#503	FN	--	E	526
+#504	FN	--	C	526
+#505	FN	--	E	527
+#506	FN	--	E	527
+#507	FN	--	C	527
+#508	FN	--	R	532
+#509	FN	--	E	532
+#510	FN	--	C	532
+#511	FN	--	R	528
+#512	FN	--	C	528
+#513	PNCT	--	U	535
+#514	FN	--	L	535	LR	536
+#515	FN	--	F	529
+#516	FN	--	C	529
+#517	FN	--	E	530
+#518	FN	--	E	530
+#519	FN	--	C	530
+#520	FN	--	R	531
+#521	FN	--	E	531
+#522	FN	--	E	531
+#523	FN	--	C	531
+#524	PNCT	--	U	531
+#525	FN	--	A	533
+#526	FN	--	P	533
+#527	FN	--	A	533
+#528	FN	--	E	532
+#529	FN	--	P	534
+#530	FN	--	A	534
+#531	FN	--	A	534
+#532	FN	--	A	533
+#533	FN	--	H	535	LA	536
+#534	FN	--	H	535	LA	536
+#535	FN	--	--	0
+#536	LKG	--	--	0
+#EOS 849002

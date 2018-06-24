@@ -1,0 +1,22 @@
+#BOS 427001
+Je	Word	--	Terminal	500
+parlai	Word	--	Terminal	501
+faute	Word	--	Terminal	502
+de	Word	--	Terminal	502
+pouvoir	Word	--	Terminal	503
+me	Word	--	Terminal	504
+taire	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	507	A*	509
+#501	FN	--	P	507
+#502	FN	--	L	510	LR	511
+#503	FN	--	E	508
+#504	FN	--	E	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	H	510	LA	511
+#508	FN	--	P	509
+#509	FN	--	H	510	LA	511
+#510	FN	--	--	0
+#511	LKG	--	--	0
+#EOS 427001

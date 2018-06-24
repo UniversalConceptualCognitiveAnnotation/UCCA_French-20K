@@ -1,0 +1,21 @@
+#BOS 872000
+—	Punctuation	--	Terminal	500
+Oh	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+les	Word	--	Terminal	501
+chiffres	Word	--	Terminal	501
+!	Punctuation	--	Terminal	503
+répliqua	Word	--	Terminal	504
+Ned	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	PNCT	--	U	508
+#501	FN	--	H	509	A*	508
+#502	PNCT	--	U	509
+#503	PNCT	--	U	509
+#504	FN	--	P	508
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 872000

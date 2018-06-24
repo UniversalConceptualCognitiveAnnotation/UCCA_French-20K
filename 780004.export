@@ -1,0 +1,55 @@
+#BOS 780004
+Je	Word	--	Terminal	500
+fis	Word	--	Terminal	501
+ouvrir	Word	--	Terminal	502
+un	Word	--	Terminal	503
+crédit	Word	--	Terminal	504
+suffisant	Word	--	Terminal	505
+au	Word	--	Terminal	506
+babiroussa	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+et	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+Conseil	Word	--	Terminal	511
+me	Word	--	Terminal	512
+suivant	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+je	Word	--	Terminal	515
+sautai	Word	--	Terminal	516
+dans	Word	--	Terminal	517
+une	Word	--	Terminal	518
+voiture	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	529
+#501	FN	--	F	521
+#502	FN	--	C	521
+#503	FN	--	E	528
+#504	FN	--	C	528	A*	526
+#505	FN	--	S	526
+#506	FN	--	R	522
+#507	FN	--	C	522
+#508	PNCT	--	U	530
+#509	FN	--	L	530	LR	531
+#510	PNCT	--	U	530
+#511	FN	--	A	523
+#512	FN	--	A	523
+#513	FN	--	P	523
+#514	PNCT	--	U	530
+#515	FN	--	A	527
+#516	FN	--	P	527
+#517	FN	--	R	524
+#518	FN	--	E	524
+#519	FN	--	C	524
+#520	PNCT	--	U	524
+#521	FN	--	P	529
+#522	FN	--	A	526
+#523	FN	--	H	530
+#524	FN	--	A	527
+#525	FN	--	A	529
+#526	FN	--	E	528
+#527	FN	--	H	530	LA	531
+#528	FN	--	A	529
+#529	FN	--	H	530	LA	531
+#530	FN	--	--	0
+#531	LKG	--	--	0
+#EOS 780004

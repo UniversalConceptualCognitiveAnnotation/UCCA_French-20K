@@ -1,0 +1,20 @@
+#BOS 770002
+Mais	Word	--	Terminal	500
+sa	Word	--	Terminal	501
+science	Word	--	Terminal	502
+s’	Word	--	Terminal	503
+arrêtait	Word	--	Terminal	504
+là	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	510
+#501	FN	--	E	507
+#502	FN	--	C	507
+#503	FN	--	E	508
+#504	FN	--	C	508
+#505	FN	--	A	509
+#506	PNCT	--	U	509
+#507	FN	--	A	509
+#508	FN	--	P	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 770002

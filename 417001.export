@@ -1,0 +1,44 @@
+#BOS 417001
+J\u2019	Word	--	Terminal	500
+avais	Word	--	Terminal	501
+lu	Word	--	Terminal	502
+et	Word	--	Terminal	503
+relu	Word	--	Terminal	504
+tous	Word	--	Terminal	505
+les	Word	--	Terminal	506
+journaux	Word	--	Terminal	507
+américains	Word	--	Terminal	508
+et	Word	--	Terminal	509
+européens	Word	--	Terminal	510
+sans	Word	--	Terminal	511
+être	Word	--	Terminal	512
+plus	Word	--	Terminal	513
+avancé	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	522	A*	523
+#501	FN	--	F	521
+#502	FN	--	C	516
+#503	FN	--	N	516
+#504	FN	--	C	516
+#505	FN	--	E	517	E*	518
+#506	FN	--	E	517	E*	518
+#507	FN	--	C	517	C*	518
+#508	FN	--	E	517
+#509	FN	--	N	519
+#510	FN	--	E	518
+#511	FN	--	L	524	LR	525
+#512	FN	--	F	520
+#513	FN	--	E	520
+#514	FN	--	C	520
+#515	PNCT	--	U	520
+#516	FN	--	C	521
+#517	FN	--	C	519
+#518	FN	--	C	519
+#519	FN	--	A	522
+#520	FN	--	S	523
+#521	FN	--	P	522
+#522	FN	--	H	524
+#523	FN	--	H	524	LA	525
+#524	FN	--	--	0
+#525	LKG	--	--	0
+#EOS 417001
