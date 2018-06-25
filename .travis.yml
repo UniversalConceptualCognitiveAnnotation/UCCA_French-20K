@@ -18,6 +18,8 @@ jobs:
     - stage: convert
       script: curl $SCRIPTS/visualize.sh | bash
       env: FORMAT=visualize
+    - script: curl $SCRIPTS/sentences_to_xml.sh | bash
+      env: FORMAT=xml
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=sdp
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
