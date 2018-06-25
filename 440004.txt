@@ -1,0 +1,12 @@
+# ::id 440004
+# ::tok Or la mer est précisément leur meilleur véhicule , le seul milieu où ces géants près desquels les animaux terrestres , éléphants ou rhinocéros , ne sont que des nains , \u2013 puissent se produire et se développer .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label
+       :P label
+       :N label)

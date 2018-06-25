@@ -1,0 +1,9 @@
+# ::id 776012
+# ::tok – Quoi ! les archiotherium , les hyracotherium , les oréodons , les chéropotamus et autres carcasses de monsieur ? – On les gardera à l’ hôtel .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :N label
+       :R label
+       :E label)

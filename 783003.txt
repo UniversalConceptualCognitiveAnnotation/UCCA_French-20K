@@ -1,0 +1,7 @@
+# ::id 783003
+# ::tok Le commandant Farragut ?
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label)

@@ -1,0 +1,10 @@
+# ::id 426005
+# ::tok Mais bientôt , collé au mur , je dus m\u2019expliquer catégoriquement .
+(label :L label
+       :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 776013
+# ::tok – Et le babiroussa vivant de monsieur ?
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

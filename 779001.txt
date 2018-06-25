@@ -1,0 +1,12 @@
+# ::id 779001
+# ::tok Conseil avait fait en un tour de main , et j’ étais sûr que rien ne manquait , car ce garçon classait les chemises et les habits aussi bien que les oiseaux ou les mammifères .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :S label
+       :C label
+       :R label
+       :E label
+       :N label)

@@ -1,0 +1,9 @@
+# ::id 940002
+# ::tok Que de temps perdu , que d’ émotions inutiles !
+(label :H label
+       :A label
+       :P label
+       :S label
+       :E label
+       :C label
+       :R label)

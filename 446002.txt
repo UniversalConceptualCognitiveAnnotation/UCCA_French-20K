@@ -1,0 +1,7 @@
+# ::id 446002
+# ::tok Ses vivres étaient embarqués .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

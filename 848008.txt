@@ -1,0 +1,8 @@
+# ::id 848008
+# ::tok Ou le commandant Farragut tuerait le narwal , ou le narwal tuerait le commandant Farragut .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label)

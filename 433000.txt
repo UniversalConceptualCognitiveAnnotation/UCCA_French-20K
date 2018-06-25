@@ -1,0 +1,10 @@
+# ::id 433000
+# ::tok « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l\u2019 animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l\u2019 existence d\u2019un Narwal géant .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :D label
+       :E label)

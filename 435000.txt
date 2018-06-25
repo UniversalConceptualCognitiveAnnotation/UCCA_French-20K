@@ -1,0 +1,9 @@
+# ::id 435000
+# ::tok « En effet , le narwal est armé d\u2019 une sorte d\u2019 épée d\u2019 ivoire , d\u2019 une hallebarde , suivant l\u2019 expression de certains naturalistes .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :S label
+       :E label)

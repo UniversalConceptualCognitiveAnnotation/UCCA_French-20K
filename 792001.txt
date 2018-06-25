@@ -1,0 +1,9 @@
+# ::id 792001
+# ::tok La vapeur siffla en se précipitant dans les tiroirs entr’ouverts .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

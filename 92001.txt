@@ -1,0 +1,10 @@
+# ::id 92001
+# ::tok Seulement , grâce à la nationalité du navire victime de ce nouvel abordage , grâce à la réputation de la Compagnie à laquelle ce navire appartenait , l\u2019événement eut un retentissement immense
+(label :L label
+       :H label
+       :A label
+       :P label
+       :N label
+       :C label
+       :E label
+       :R label)

@@ -1,0 +1,8 @@
+# ::id 853002
+# ::tok Il avait Ned Land , le roi des harponneurs .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 768000
+# ::tok « Conseil ! » criai - je d’ une voix impatiente .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label)

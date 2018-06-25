@@ -1,0 +1,10 @@
+# ::id 940004
+# ::tok Et j’ aurais déjà classé les fossiles de monsieur !
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label)

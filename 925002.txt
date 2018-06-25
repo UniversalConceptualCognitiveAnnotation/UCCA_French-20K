@@ -1,0 +1,13 @@
+# ::id 925002
+# ::tok Le commandant Farragut pensait , avec raison , qu’ il valait mieux fréquenter les eaux profondes , et s’ éloigner des continents ou des îles dont l’ animal avait toujours paru éviter l’ approche , « sans doute parce qu’ il n’ y avait pas assez d’ eau pour lui !
+(label :H label
+       :G label
+       :L label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label
+       :S label
+       :D label
+       :N label)

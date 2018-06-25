@@ -1,0 +1,8 @@
+# ::id 95001
+# ::tok Il marchait avec une vitesse de treize n&#x153;uds quarante-trois centièmes sous la poussée de ses mille chevaux - vapeur .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

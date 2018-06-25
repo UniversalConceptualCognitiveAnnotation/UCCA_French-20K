@@ -1,0 +1,7 @@
+# ::id 848003
+# ::tok Il en était l’ âme .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label)

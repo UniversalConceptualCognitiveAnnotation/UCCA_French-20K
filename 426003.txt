@@ -1,0 +1,7 @@
+# ::id 426003
+# ::tok Mon avis me fut demandé .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

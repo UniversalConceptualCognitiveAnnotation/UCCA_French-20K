@@ -1,0 +1,9 @@
+# ::id 776022
+# ::tok Nous prenons passage sur l’ Abraham - Lincoln ... – Comme il conviendra à monsieur , répondit paisiblement Conseil .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label
+       :E label)

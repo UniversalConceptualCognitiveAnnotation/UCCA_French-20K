@@ -1,0 +1,9 @@
+# ::id 446006
+# ::tok On ne lui eût pas pardonné une demi - journée de retard !
+(label :H label
+       :A label
+       :D label
+       :P label
+       :C label
+       :E label
+       :R label)

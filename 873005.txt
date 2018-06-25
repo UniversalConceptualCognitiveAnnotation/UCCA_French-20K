@@ -1,0 +1,12 @@
+# ::id 873005
+# ::tok De là un équilibre parfait entre la poussée intérieure et la poussée extérieure , qui se neutralisent , ce qui vous permet de les supporter sans peine .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :S label
+       :D label
+       :A label
+       :P label
+       :E label
+       :N label)

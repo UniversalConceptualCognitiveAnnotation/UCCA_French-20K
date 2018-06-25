@@ -1,0 +1,8 @@
+# ::id 867003
+# ::tok — Écoutez-moi , Ned… — Non , monsieur le professeur , non . Tout ce que vous voudrez excepté cela .
+(label :H label
+       :P label
+       :A label
+       :C label
+       :E label
+       :R label)

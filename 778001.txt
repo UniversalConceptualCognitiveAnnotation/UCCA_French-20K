@@ -1,0 +1,7 @@
+# ::id 778001
+# ::tok – Et songes - y bien !
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label)

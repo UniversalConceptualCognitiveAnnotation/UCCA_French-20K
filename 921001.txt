@@ -1,0 +1,9 @@
+# ::id 921001
+# ::tok Le voyage s’ accomplissait dans les meilleures conditions .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

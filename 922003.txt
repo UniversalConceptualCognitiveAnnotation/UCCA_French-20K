@@ -1,0 +1,9 @@
+# ::id 922003
+# ::tok Cent fois , je lui reprochai son indifférence .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :S label)

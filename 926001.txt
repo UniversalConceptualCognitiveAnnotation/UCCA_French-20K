@@ -1,0 +1,10 @@
+# ::id 926001
+# ::tok Et , pour tout dire , on ne vivait plus à bord .
+(label :L label
+       :G label
+       :H label
+       :A label
+       :D label
+       :P label
+       :R label
+       :C label)

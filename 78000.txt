@@ -1,0 +1,12 @@
+# ::id 78000
+# ::tok En effet , depuis quelque temps , plusieurs navires s\u2019 étaient rencontrés sur mer avec « une chose énorme » un objet long , fusiforme , parfois phosphorescent , infiniment plus vaste et plus rapide qu\u2019 une baleine .
+(label :L label
+       :H label
+       :E label
+       :C label
+       :D label
+       :A label
+       :P label
+       :R label
+       :S label
+       :N label)

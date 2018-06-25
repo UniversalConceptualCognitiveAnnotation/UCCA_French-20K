@@ -1,0 +1,6 @@
+# ::id 777003
+# ::tok On ne sait pas où l’ on va !
+(label :H label
+       :A label
+       :D label
+       :P label)

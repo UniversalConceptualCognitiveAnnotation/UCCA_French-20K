@@ -1,0 +1,11 @@
+# ::id 854000
+# ::tok Ned Land était un Canadien , d’ une habileté de main peu commune , et qui ne connaissait pas d’ égal dans son périlleux métier .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :N label
+       :D label
+       :P label)

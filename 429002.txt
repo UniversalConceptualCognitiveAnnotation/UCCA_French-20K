@@ -1,0 +1,8 @@
+# ::id 429002
+# ::tok Que se passe - t - il dans ces abîmes reculés ?
+(label :H label
+       :A label
+       :P label
+       :C label
+       :R label
+       :E label)

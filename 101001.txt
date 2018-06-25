@@ -1,0 +1,8 @@
+# ::id 101001
+# ::tok Ils ne purent en croire leurs yeux .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

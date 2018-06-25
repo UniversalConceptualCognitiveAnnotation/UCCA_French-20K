@@ -1,0 +1,10 @@
+# ::id 100002
+# ::tok Une telle voie d\u2019 eau ne pouvait être aveuglée , et le Scotia , ses roues à demi noyées , dut continuer ainsi son voyage .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

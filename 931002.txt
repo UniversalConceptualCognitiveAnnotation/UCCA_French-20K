@@ -1,0 +1,10 @@
+# ::id 931002
+# ::tok Les matelots ne cachèrent point leur mécontentement , et le service en souffrit .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :S label)

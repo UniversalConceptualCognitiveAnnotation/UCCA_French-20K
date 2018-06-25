@@ -1,0 +1,9 @@
+# ::id 780003
+# ::tok Je donnai l’ ordre d’ expédier pour Paris ( France ) mes ballots d’ animaux empaillés et de plantes desséchées .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label)

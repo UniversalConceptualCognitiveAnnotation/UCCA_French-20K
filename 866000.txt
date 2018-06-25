@@ -1,0 +1,7 @@
+# ::id 866000
+# ::tok — C’ est ce qui vous trompe , monsieur le professeur , répondit Ned .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 101000
+# ::tok Les ingénieurs procédèrent alors à la visite du Scotia , qui fut mis en cale sèche .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

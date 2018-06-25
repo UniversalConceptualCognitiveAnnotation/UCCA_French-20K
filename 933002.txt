@@ -1,0 +1,9 @@
+# ::id 933002
+# ::tok On employait mille moyens pour éveiller l’ attention ou stimuler l’ apathie de l’ animal , au cas où il se fût rencontré dans ces parages .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

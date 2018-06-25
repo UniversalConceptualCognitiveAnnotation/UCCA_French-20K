@@ -1,0 +1,9 @@
+# ::id 440002
+# ::tok La solution qu\u2019 il proposait , d\u2019 ailleurs , laissait libre carrière à l\u2019 imagination .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

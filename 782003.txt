@@ -1,0 +1,9 @@
+# ::id 782003
+# ::tok Un des matelots me conduisit sur la dunette , où je me trouvai en présence d’ un officier de bonne mine qui me tendit la main .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

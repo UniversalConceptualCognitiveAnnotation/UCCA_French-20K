@@ -1,0 +1,11 @@
+# ::id 864000
+# ::tok Le harponneur me regarda pendant quelques instants avant de répondre , frappa de sa main son large front par un geste qui lui était habituel , ferma les yeux comme pour se recueillir , et dit enfin : « Peut-être bien , monsieur Aronnax .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label
+       :S label)

@@ -1,0 +1,9 @@
+# ::id 426006
+# ::tok Et même , « l\u2019honorable Pierre Aronnax , professeur au Muséum de Paris » , fut mis en demeure par le New York-Herald de formuler une opinion quelconque
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

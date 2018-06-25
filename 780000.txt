@@ -1,0 +1,8 @@
+# ::id 780000
+# ::tok L’ ascenseur de l’ hôtel nous déposa au grand vestibule de l’ entresol .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

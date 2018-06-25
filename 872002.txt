@@ -1,0 +1,8 @@
+# ::id 872002
+# ::tok — En affaires , Ned , mais non en mathématiques .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :R label
+       :C label)

@@ -1,0 +1,10 @@
+# ::id 859001
+# ::tok C’ est que nous sommes devenus de vieux amis , unis de cette inaltérable amitié qui naît et se cimente dans les plus effrayantes conjonctures !
+(label :H label
+       :A label
+       :S label
+       :P label
+       :C label
+       :E label
+       :R label
+       :N label)

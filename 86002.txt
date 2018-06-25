@@ -1,0 +1,10 @@
+# ::id 86002
+# ::tok On vit réapparaître dans les journaux \u2013 à court de copie \u2013 tous les êtres imaginaires et gigantesques , depuis la baleine blanche , le terrible « Moby Dick » des régions hyperboréennes , jusqu\u2019 au Kraken démesuré , dont les tentacules peuvent enlacer un bâtiment de cinq cents tonneaux et l\u2019 entraîner dans les abîmes de l\u2019Océan .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label
+       :L label)

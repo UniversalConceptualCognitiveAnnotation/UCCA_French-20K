@@ -1,0 +1,11 @@
+# ::id 926000
+# ::tok Nous étions enfin sur le théâtre des derniers ébats du monstre !
+(label :H label
+       :L label
+       :A label
+       :S label
+       :R label
+       :E label
+       :C label
+       :D label
+       :P label)

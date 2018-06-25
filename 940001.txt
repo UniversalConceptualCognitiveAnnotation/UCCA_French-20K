@@ -1,0 +1,11 @@
+# ::id 940001
+# ::tok C’ est une sotte affaire , après tout , et dans laquelle nous nous sommes lancés trop légèrement .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :R label
+       :C label
+       :P label
+       :D label
+       :E label)

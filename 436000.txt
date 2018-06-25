@@ -1,0 +1,10 @@
+# ::id 436000
+# ::tok « Eh bien ! supposez l\u2019 arme dix fois plus forte , et l\u2019 animal dix fois plus puissant , lancez - le avec une rapidité de vingt milles à l\u2019 heure , multipliez sa masse par sa vitesse , et vous obtenez un choc capable de produire la catastrophe demandée .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :S label
+       :R label
+       :E label
+       :C label)

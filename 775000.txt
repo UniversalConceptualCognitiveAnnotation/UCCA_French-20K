@@ -1,0 +1,9 @@
+# ::id 775000
+# ::tok Certainement , j’ étais sûr de ce garçon si dévoué .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :C label
+       :R label
+       :E label)

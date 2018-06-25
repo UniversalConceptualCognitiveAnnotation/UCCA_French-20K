@@ -1,0 +1,9 @@
+# ::id 792002
+# ::tok Les longs pistons horizontaux gémirent et poussèrent les bielles de l’ arbre .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

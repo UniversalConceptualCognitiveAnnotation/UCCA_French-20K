@@ -1,0 +1,9 @@
+# ::id 936004
+# ::tok Parfois le sombre Océan étincelait sous un rayon que la lune dardait entre la frange de deux nuages .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

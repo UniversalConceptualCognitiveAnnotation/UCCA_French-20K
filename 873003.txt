@@ -1,0 +1,6 @@
+# ::id 873003
+# ::tok — Sans que vous vous en aperceviez .
+(label :L label
+       :H label
+       :A label
+       :P label)

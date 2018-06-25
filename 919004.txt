@@ -1,0 +1,9 @@
+# ::id 919004
+# ::tok Le pont de la frégate se peuplait en un instant .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

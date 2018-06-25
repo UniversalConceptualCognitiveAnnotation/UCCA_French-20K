@@ -1,0 +1,7 @@
+# ::id 783000
+# ::tok « Monsieur Pierre Aronnax ?
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 873006
+# ::tok Mais dans l’ eau , c’ est autre chose .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :R label
+       :E label
+       :C label)

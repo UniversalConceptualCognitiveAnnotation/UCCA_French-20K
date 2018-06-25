@@ -1,0 +1,8 @@
+# ::id 925003
+# ::tok » disait le maître d’ équipage .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,6 @@
+# ::id 776003
+# ::tok dit - il en entrant .
+(label :H label
+       :L label
+       :P label
+       :A label)

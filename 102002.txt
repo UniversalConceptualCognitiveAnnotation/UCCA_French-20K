@@ -1,0 +1,13 @@
+# ::id 102002
+# ::tok Ce fantastique animal endossa la responsabilité de tous ces naufrages , dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas , le chiffre des navires à vapeur ou à voiles , supposés perdus corps et biens par suite d\u2019absence de nouvelles , ne s\u2019élève pas à moins de deux cents !
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :S label
+       :G label
+       :N label)

@@ -1,0 +1,11 @@
+# ::id 866001
+# ::tok Que le vulgaire croie à des comètes extraordinaires qui traversent l’ espace , ou à l’ existence de monstres antédiluviens qui peuplent l’ intérieur du globe , passe encore , mais ni l’ astronome , ni le géologue n’ admettent de telles chimères .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label
+       :N label
+       :R label)

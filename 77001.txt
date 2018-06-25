@@ -1,0 +1,10 @@
+# ::id 77001
+# ::tok Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l\u2019 esprit public à l\u2019 intérieur des continents , les gens de mer furent particulièrement émus .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :C label
+       :E label)

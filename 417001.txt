@@ -1,0 +1,10 @@
+# ::id 417001
+# ::tok J\u2019 avais lu et relu tous les journaux américains et européens sans être plus avancé .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :S label
+       :C label
+       :N label
+       :E label)

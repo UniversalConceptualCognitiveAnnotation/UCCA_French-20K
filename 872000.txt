@@ -1,0 +1,5 @@
+# ::id 872000
+# ::tok — Oh ! les chiffres ! répliqua Ned .
+(label :H label
+       :A label
+       :P label)

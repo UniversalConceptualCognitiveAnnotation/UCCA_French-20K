@@ -1,0 +1,7 @@
+# ::id 935002
+# ::tok La nuit approchait .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

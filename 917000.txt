@@ -1,0 +1,7 @@
+# ::id 917000
+# ::tok « Ouvre l’ œ il !
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

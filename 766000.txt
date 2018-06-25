@@ -1,0 +1,9 @@
+# ::id 766000
+# ::tok « D’ ailleurs , pensai - je , tout chemin ramène en Europe , et la Licorne sera assez aimable pour m’ entraîner vers les côtes de France !
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :E label)

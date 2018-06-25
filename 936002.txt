@@ -1,0 +1,11 @@
+# ::id 936002
+# ::tok L’ équipage , juché dans les haubans , examinait l’ horizon qui se rétrécissait et s’ obscurcissait peu à peu .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :S label
+       :R label
+       :D label
+       :N label)

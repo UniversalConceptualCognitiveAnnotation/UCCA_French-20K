@@ -1,0 +1,9 @@
+# ::id 927000
+# ::tok Et en effet , la réaction ne tarda pas à se produire .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :E label)

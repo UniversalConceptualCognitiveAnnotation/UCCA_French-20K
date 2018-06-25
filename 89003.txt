@@ -1,0 +1,8 @@
+# ::id 89003
+# ::tok Le monstre redevint îlot , rocher , écueil , mais écueil fuyant , indéterminable , insaisissable
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

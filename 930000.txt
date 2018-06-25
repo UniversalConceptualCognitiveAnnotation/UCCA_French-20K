@@ -1,0 +1,9 @@
+# ::id 930000
+# ::tok Cependant , cette recherche inutile ne pouvait se prolonger plus longtemps .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

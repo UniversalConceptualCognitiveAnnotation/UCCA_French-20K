@@ -1,0 +1,9 @@
+# ::id 94001
+# ::tok Nulle entreprise de navigation transocéanienne n\u2019 a été conduite avec plus d\u2019 habileté ; nulle affaire n\u2019 a été couronnée de plus de succès .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

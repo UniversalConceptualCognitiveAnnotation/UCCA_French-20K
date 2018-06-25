@@ -1,0 +1,9 @@
+# ::id 786001
+# ::tok Je fus très - satisfait de ma cabine , située à l’ arrière , qui s’ ouvrait sur le carré des officiers .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

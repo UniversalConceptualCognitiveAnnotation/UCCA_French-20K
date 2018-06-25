@@ -1,0 +1,9 @@
+# ::id 778002
+# ::tok car je ne veux rien te cacher .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

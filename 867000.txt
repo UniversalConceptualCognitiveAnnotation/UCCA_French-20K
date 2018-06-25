@@ -1,0 +1,10 @@
+# ::id 867000
+# ::tok — Cependant , Ned , on cite des bâtiments que la dent du narwal a traversés de part en part .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

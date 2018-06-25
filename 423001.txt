@@ -1,0 +1,11 @@
+# ::id 423001
+# ::tok Comme il s\u2019 agissait là d\u2019 un intérêt public , puisque les communications transocéaniennes en souffraient , la franchise des gouvernements ne pouvait être mise en doute .
+(label :L label
+       :H label
+       :S label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label
+       :E label)

@@ -1,0 +1,11 @@
+# ::id 928002
+# ::tok On était « tout bête » de s’ être laissé prendre à une chimère , mais encore plus furieux !
+(label :H label
+       :L label
+       :A label
+       :S label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

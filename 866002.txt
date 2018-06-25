@@ -1,0 +1,8 @@
+# ::id 866002
+# ::tok De même , le baleinier .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :E label)

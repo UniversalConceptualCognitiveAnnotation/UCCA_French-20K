@@ -1,0 +1,9 @@
+# ::id 911001
+# ::tok Le voyage de l' Abraham-Lincoln , pendant quelque temps , ne fut marqué par aucun incident .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

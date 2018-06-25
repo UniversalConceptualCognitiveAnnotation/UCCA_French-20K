@@ -1,0 +1,9 @@
+# ::id 863000
+# ::tok « Comment , Ned , lui demandai - je , comment pouvez - vous ne pas être convaincu de l’ existence du cétacé que nous poursuivons ?
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

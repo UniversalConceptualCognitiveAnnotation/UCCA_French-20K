@@ -1,0 +1,9 @@
+# ::id 793002
+# ::tok Des milliers de mouchoirs s’ agitèrent au - dessus de la masse compacte et saluèrent l’ Abraham - Lincoln jusqu’ à son arrivée dans les eaux de l’ Hudson , à la pointe de cette presqu’ île allongée qui forme la ville de New York .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

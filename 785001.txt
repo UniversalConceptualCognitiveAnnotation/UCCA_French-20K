@@ -1,0 +1,9 @@
+# ::id 785001
+# ::tok C’ était une frégate de grande marche , munie d’ appareils surchauffeurs , qui permettaient de porter à sept atmosphères la tension de sa vapeur .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

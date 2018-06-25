@@ -1,0 +1,11 @@
+# ::id 771004
+# ::tok D’ ailleurs d’ une belle santé qui défiait toutes les maladies ; des muscles solides , mais pas de nerfs , pas l’ apparence de nerfs , – au moral , s’entend .
+(label :L label
+       :H label
+       :G label
+       :R label
+       :C label
+       :P label
+       :A label
+       :D label
+       :E label)

@@ -1,0 +1,10 @@
+# ::id 444005
+# ::tok Aussi les plaisants prétendaient - ils que cette fine mouche avait arrêté au passage quelque télégramme dont elle faisait maintenant son profit .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

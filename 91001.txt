@@ -1,0 +1,8 @@
+# ::id 91001
+# ::tok Les officiers de quart se précipitèrent à l\u2019 arrière du bâtiment .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

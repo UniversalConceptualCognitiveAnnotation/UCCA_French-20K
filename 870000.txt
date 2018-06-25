@@ -1,0 +1,11 @@
+# ::id 870000
+# ::tok — Remarquez , mon digne Canadien , repris - je , que si un tel animal existe , s’ il habite les profondeurs de l’ Océan , s’ il fréquente les couches liquides situées à quelques milles au - dessous de la surface des eaux , il possède nécessairement un organisme dont la solidité défie toute comparaison .
+(label :H label
+       :L label
+       :P label
+       :A label
+       :D label
+       :E label
+       :C label
+       :R label
+       :S label)

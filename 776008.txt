@@ -1,0 +1,9 @@
+# ::id 776008
+# ::tok Serre dans ma malle tous mes ustensiles de voyage , des habits , des chemises , des chaussettes , sans compter , mais le plus que tu pourras , et hâte - toi !
+(label :H label
+       :L label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

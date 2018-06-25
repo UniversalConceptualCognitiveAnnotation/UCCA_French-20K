@@ -1,0 +1,10 @@
+# ::id 919003
+# ::tok Et que de fois j’ ai partagé l’ émotion de l’ état - major , de l’ équipage , lorsque quelque capricieuse baleine élevait son dos noirâtre au - dessus des flots .
+(label :L label
+       :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,5 @@
+# ::id 427000
+# ::tok Je m\u2019 exécutai .
+(label :H label
+       :A label
+       :P label)

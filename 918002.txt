@@ -1,0 +1,12 @@
+# ::id 918002
+# ::tok Jour et nuit , on observait la surface de l’ Océan , et les nyctalopes , dont la faculté de voir dans l’ obscurité accroissait les chances de cinquante pour cent , avaient beau jeu pour gagner la prime .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :C label
+       :N label
+       :E label
+       :R label
+       :S label)

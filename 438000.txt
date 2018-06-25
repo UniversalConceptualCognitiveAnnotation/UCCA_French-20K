@@ -1,0 +1,12 @@
+# ::id 438000
+# ::tok « Ainsi s\u2019 expliquerait ce phénomène inexplicable , \u2013 à moins qu\u2019 il n\u2019 y ait rien , en dépit de ce qu\u2019 on a entrevu , vu , senti et ressenti , \u2013 ce qui est encore possible ! »
+(label :L label
+       :H label
+       :P label
+       :A label
+       :R label
+       :C label
+       :S label
+       :D label
+       :E label
+       :N label)

@@ -1,0 +1,9 @@
+# ::id 932001
+# ::tok Elle eut tout d’ abord pour résultat de ranimer les défaillances de l’ équipage .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

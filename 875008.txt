@@ -1,0 +1,9 @@
+# ::id 875008
+# ::tok » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

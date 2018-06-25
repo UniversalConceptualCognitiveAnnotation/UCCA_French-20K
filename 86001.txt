@@ -1,0 +1,8 @@
+# ::id 86001
+# ::tok Les canards eurent là une belle occasion de pondre des & #x153 ; ufs de toute couleur .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

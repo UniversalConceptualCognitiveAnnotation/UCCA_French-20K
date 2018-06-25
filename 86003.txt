@@ -1,0 +1,12 @@
+# ::id 86003
+# ::tok On reproduisit même les procès-verbaux des temps anciens les opinions d\u2019 Aristote et de Pline , qui admettaient l\u2019existence de ces monstres , puis les récits norvégiens de l\u2019évêque Pontoppidan , les relations de Paul Heggede , et enfin les rapports de M . Harrington , dont la bonne foi ne peut être soupçonnée , quand il affirme avoir vu , étant à bord du Castillan , en 1857 , cet énorme serpent qui n\u2019 avait jamais fréquenté jusqu\u2019 alors que les mers de l\u2019 ancien Constitutionnel .
+(label :H label
+       :A label
+       :P label
+       :G label
+       :E label
+       :C label
+       :N label
+       :R label
+       :D label
+       :S label)

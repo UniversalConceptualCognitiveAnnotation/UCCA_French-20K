@@ -1,0 +1,9 @@
+# ::id 100001
+# ::tok Quelques instants après , on constatait l\u2019 existence d\u2019 un trou large de deux mètres dans la carène du steamer .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

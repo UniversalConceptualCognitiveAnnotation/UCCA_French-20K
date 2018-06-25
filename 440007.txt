@@ -1,0 +1,9 @@
+# ::id 440007
+# ::tok Le Créateur les avait jetés dans un moule colossal que le temps a réduit peu à peu .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

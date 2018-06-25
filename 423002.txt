@@ -1,0 +1,9 @@
+# ::id 423002
+# ::tok D\u2019 ailleurs , comment admettre que la construction de ce bateau sous - marin eût échappé aux yeux du public ?
+(label :L label
+       :H label
+       :P label
+       :A label
+       :R label
+       :C label
+       :E label)

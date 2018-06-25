@@ -1,0 +1,9 @@
+# ::id 933004
+# ::tok Mais le soir du 4 novembre arriva sans que se fût dévoilé ce mystère sous - marin .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

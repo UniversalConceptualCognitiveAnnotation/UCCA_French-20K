@@ -1,0 +1,5 @@
+# ::id 875006
+# ::tok — C’est peut-être… , dit Ned hésitant .
+(label :H label
+       :A label
+       :P label)

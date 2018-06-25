@@ -1,0 +1,8 @@
+# ::id 435001
+# ::tok C\u2019 est une dent principale qui a la dureté de l\u2019 acier .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

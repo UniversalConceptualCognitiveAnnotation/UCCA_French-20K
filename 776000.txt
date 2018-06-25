@@ -1,0 +1,8 @@
+# ::id 776000
+# ::tok « Conseil ! » criai - je une troisième fois .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

@@ -1,0 +1,8 @@
+# ::id 86000
+# ::tok Partout dans les grands centres , le monstre devint à la mode ; on le chanta dans les cafés , on le bafoua dans les journaux , on le joua sur les théâtres .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

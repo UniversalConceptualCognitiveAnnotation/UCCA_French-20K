@@ -1,0 +1,11 @@
+# ::id 416004
+# ::tok Je m\u2019 occupais donc , en attendant , de classer mes richesses minéralogiques , botaniques et zoologiques , quand arriva l\u2019 incident du Scotia .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

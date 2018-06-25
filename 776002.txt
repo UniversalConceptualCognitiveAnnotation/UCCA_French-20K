@@ -1,0 +1,5 @@
+# ::id 776002
+# ::tok « Monsieur m’ appelle ?
+(label :H label
+       :A label
+       :P label)

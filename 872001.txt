@@ -1,0 +1,8 @@
+# ::id 872001
+# ::tok On fait ce qu’ on veut avec les chiffres !
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

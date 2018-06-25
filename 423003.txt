@@ -1,0 +1,12 @@
+# ::id 423003
+# ::tok Garder le secret dans ces circonstances est très - difficile pour un particulier , et certainement impossible pour un État dont tous les actes sont obstinément surveillés par les puissances rivales .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :G label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

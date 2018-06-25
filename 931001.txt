@@ -1,0 +1,7 @@
+# ::id 931001
+# ::tok Le commandant tint bon .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

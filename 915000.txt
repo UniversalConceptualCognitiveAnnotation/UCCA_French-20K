@@ -1,0 +1,9 @@
+# ::id 915000
+# ::tok L’équipage lui donna raison à l’ unanimité .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

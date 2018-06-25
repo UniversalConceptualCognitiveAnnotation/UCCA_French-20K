@@ -1,0 +1,9 @@
+# ::id 940003
+# ::tok Depuis six mois déjà , nous serions rentrés en France… — Dans le petit appartement de monsieur , répliqua Conseil , dans le Muséum de monsieur !
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :R label
+       :C label)

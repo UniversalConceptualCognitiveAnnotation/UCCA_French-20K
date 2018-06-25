@@ -1,0 +1,8 @@
+# ::id 870001
+# ::tok — Et pourquoi cet organisme si puissant ?
+(label :L label
+       :H label
+       :A label
+       :S label
+       :E label
+       :C label)

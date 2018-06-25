@@ -1,0 +1,9 @@
+# ::id 850001
+# ::tok Il surveillait la mer avec une scrupuleuse attention .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

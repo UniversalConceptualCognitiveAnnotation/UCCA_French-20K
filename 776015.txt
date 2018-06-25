@@ -1,0 +1,9 @@
+# ::id 776015
+# ::tok D’ ailleurs , je donnerai l’ ordre de nous expédier en France notre ménagerie .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :E label)

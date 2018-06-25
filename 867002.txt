@@ -1,0 +1,10 @@
+# ::id 867002
+# ::tok Donc , jusqu’ à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :N label
+       :E label)

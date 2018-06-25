@@ -1,0 +1,10 @@
+# ::id 778003
+# ::tok C’ est là un de ces voyages dont on ne revient pas toujours !
+(label :H label
+       :S label
+       :A label
+       :E label
+       :C label
+       :R label
+       :D label
+       :P label)

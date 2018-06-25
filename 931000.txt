@@ -1,0 +1,8 @@
+# ::id 931000
+# ::tok Une représentation dans ce sens fut faite au commandant .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

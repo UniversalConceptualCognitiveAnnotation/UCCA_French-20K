@@ -1,0 +1,9 @@
+# ::id 935005
+# ::tok La mer ondulait paisiblement sous l’ étrave de la frégate .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

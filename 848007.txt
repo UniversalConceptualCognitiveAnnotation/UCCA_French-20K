@@ -1,0 +1,9 @@
+# ::id 848007
+# ::tok C’ était une sorte de chevalier de Rhodes , un Dieudonné de Gozon , marchant à la rencontre du serpent qui désolait son île .
+(label :H label
+       :A label
+       :S label
+       :P label
+       :C label
+       :E label
+       :R label)

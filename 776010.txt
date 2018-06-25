@@ -1,0 +1,6 @@
+# ::id 776010
+# ::tok fit observer Conseil .
+(label :H label
+       :A label
+       :P label
+       :C label)

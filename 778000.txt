@@ -1,0 +1,6 @@
+# ::id 778000
+# ::tok – Comme fera monsieur , je ferai , répondit Conseil .
+(label :H label
+       :A label
+       :P label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 98002
+# ::tok Le Scotia , divisé en sept compartiments par des cloisons étanches , devait braver impunément une voie d\u2019eau .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

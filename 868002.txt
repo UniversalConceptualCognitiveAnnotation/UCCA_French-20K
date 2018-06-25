@@ -1,0 +1,10 @@
+# ::id 868002
+# ::tok Je crois à l’ existence d’ un mammifère , puissamment organisé , appartenant à l’ embranchement des vertébrés , comme les baleines , les cachalots ou les dauphins , et muni d’ une défense cornée dont la force de pénétration est extrême .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :S label
+       :E label
+       :C label
+       :N label)

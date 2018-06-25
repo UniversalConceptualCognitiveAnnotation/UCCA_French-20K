@@ -1,0 +1,8 @@
+# ::id 440003
+# ::tok L\u2019esprit humain se plaît à ces conceptions grandioses d\u2019 êtres surnaturels .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

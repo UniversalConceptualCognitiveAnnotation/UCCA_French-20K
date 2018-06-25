@@ -1,0 +1,8 @@
+# ::id 875007
+# ::tok — Allez donc ! — Parce que… ça n’ est pas vrai !
+(label :H label
+       :L label
+       :A label
+       :D label
+       :S label
+       :C label)

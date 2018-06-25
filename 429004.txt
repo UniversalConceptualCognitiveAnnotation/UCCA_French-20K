@@ -1,0 +1,8 @@
+# ::id 429004
+# ::tok Quel est l\u2019 organisme de ces animaux ?
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

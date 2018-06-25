@@ -1,0 +1,11 @@
+# ::id 867001
+# ::tok — Des navires en bois , c’ est possible , répondit le Canadien , et encore , je ne les ai jamais vus .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label)

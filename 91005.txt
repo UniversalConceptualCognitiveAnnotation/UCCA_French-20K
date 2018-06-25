@@ -1,0 +1,9 @@
+# ::id 91005
+# ::tok Avait - il heurté une roche sous-marine , ou quelque énorme épave d\u2019 un naufrage ?
+(label :H label
+       :P label
+       :A label
+       :C label
+       :N label
+       :E label
+       :R label)

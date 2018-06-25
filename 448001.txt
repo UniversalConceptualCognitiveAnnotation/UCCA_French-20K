@@ -1,0 +1,8 @@
+# ::id 448001
+# ::tok Le commandant Farragut tient une cabine à votre disposition .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

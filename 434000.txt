@@ -1,0 +1,10 @@
+# ::id 434000
+# ::tok « Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :N label
+       :E label
+       :R label)

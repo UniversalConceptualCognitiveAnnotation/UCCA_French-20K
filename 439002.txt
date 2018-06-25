@@ -1,0 +1,9 @@
+# ::id 439002
+# ::tok Au fond , j\u2019 admettais l\u2019existence du « monstre » .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :E label)

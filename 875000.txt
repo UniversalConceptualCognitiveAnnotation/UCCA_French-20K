@@ -1,0 +1,8 @@
+# ::id 875000
+# ::tok — Il faut , répondit Ned Land , qu’ ils soient fabriqués en plaques de tôle de huit pouces , comme les frégates cuirassées .
+(label :H label
+       :P label
+       :A label
+       :E label
+       :C label
+       :R label)

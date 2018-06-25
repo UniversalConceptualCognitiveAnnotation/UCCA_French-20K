@@ -1,0 +1,9 @@
+# ::id 849001
+# ::tok Il fallait les entendre causer , discuter , disputer , calculer les diverses chances d’ une rencontre , et observer la vaste étendue de l’ Océan .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :C label
+       :E label
+       :R label)

@@ -1,0 +1,10 @@
+# ::id 931003
+# ::tok Je ne veux pas dire qu’ il y eut révolte à bord , mais après une raisonnable période d’ obstination , le commandant Farragut comme autrefois Colomb , demanda trois jours de patience .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

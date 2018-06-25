@@ -1,0 +1,7 @@
+# ::id 783005
+# ::tok Soyez le bienvenu , monsieur le professeur .
+(label :H label
+       :S label
+       :A label
+       :E label
+       :C label)

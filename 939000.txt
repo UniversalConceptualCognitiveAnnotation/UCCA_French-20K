@@ -1,0 +1,11 @@
+# ::id 939000
+# ::tok — Que monsieur me permette de le lui dire , répondit Conseil , je n’ ai jamais compté sur cette prime , et le gouvernement de l’ Union pouvait promettre cent mille dollars , il n’ en aurait pas été plus pauvre .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :S label
+       :C label
+       :R label
+       :E label)

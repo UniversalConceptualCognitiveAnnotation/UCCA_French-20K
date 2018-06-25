@@ -1,0 +1,12 @@
+# ::id 101004
+# ::tok Il fallait donc que l\u2019 outil perforant qui l\u2019 avait produite fût d\u2019 une trempe peu commune , \u2013 et après avoir été lancé avec une force prodigieuse , ayant ainsi perce une tôle de quatre centimètres , il avait dû se retirer de lui - même par un mouvement rétrograde et vraiment inexplicable .
+(label :H label
+       :L label
+       :S label
+       :A label
+       :P label
+       :D label
+       :E label
+       :R label
+       :C label
+       :N label)

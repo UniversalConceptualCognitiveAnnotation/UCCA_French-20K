@@ -1,0 +1,10 @@
+# ::id 96000
+# ::tok À quatre heures dix-sept minutes du soir , pendant le lunch des passagers réunis dans le grand salon , un choc , peu sensible , en somme , se produisit sur la coque du Scotia , par sa hanche et un peu en arrière de la roue de bâbord .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label
+       :N label)

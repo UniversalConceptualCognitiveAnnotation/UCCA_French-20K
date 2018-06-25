@@ -1,0 +1,10 @@
+# ::id 859002
+# ::tok Ah ! brave Ned ! je ne demande qu’ à vivre cent ans encore , pour me souvenir plus longtemps de toi !
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

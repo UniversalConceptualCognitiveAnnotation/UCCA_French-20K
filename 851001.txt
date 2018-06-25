@@ -1,0 +1,7 @@
+# ::id 851001
+# ::tok La frégate aurait eu cent fois raison de s’ appeler l’Argus .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

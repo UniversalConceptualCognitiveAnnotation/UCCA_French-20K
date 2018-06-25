@@ -1,0 +1,9 @@
+# ::id 771003
+# ::tok Il allait là comme ici , sans en demander davantage .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label)

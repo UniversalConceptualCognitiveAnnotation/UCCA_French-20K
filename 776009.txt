@@ -1,0 +1,9 @@
+# ::id 776009
+# ::tok – Et les collections de monsieur ?
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

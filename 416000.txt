@@ -1,0 +1,9 @@
+# ::id 416000
+# ::tok À l\u2019 époque où ces événements se produisirent , je revenais d\u2019 une exploration scientifique entreprise dans les mauvaises terres du Nebraska , aux États-Unis .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

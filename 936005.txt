@@ -1,0 +1,9 @@
+# ::id 936005
+# ::tok Puis , toute trace lumineuse s’ évanouissait dans les ténèbres .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

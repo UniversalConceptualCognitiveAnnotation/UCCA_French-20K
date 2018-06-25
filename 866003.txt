@@ -1,0 +1,12 @@
+# ::id 866003
+# ::tok J’ ai poursuivi beaucoup de cétacés , j’ en ai harponné un grand nombre , j’ en ai tué plusieurs , mais si puissants et si bien armés qu’ ils fussent , ni leurs queues , ni leurs défenses n’ auraient pu entamer les plaques de tôle d’ un steamer .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :S label
+       :D label
+       :C label
+       :E label
+       :R label
+       :N label)

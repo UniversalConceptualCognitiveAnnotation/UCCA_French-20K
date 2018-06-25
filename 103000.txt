@@ -1,0 +1,13 @@
+# ::id 103000
+# ::tok Or , ce fut le « monstre » qui , justement ou injustement , fut accusé de leur disparition , et , grâce à lui , les communications entre les divers continents devenant de plus en plus dangereuses , le public se déclara et demanda catégoriquement que les mers fussent enfin débarrassées et à tout prix de ce formidable cétacé .
+(label :L label
+       :H label
+       :G label
+       :A label
+       :P label
+       :C label
+       :N label
+       :S label
+       :D label
+       :E label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 932002
+# ::tok L’ Océan fut observé avec une nouvelle attention .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 930001
+# ::tok L ' Abraham-Lincoln n’ avait rien à se reprocher , ayant tout fait pour réussir .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

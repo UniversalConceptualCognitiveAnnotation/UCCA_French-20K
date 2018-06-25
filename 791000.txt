@@ -1,0 +1,7 @@
+# ::id 791000
+# ::tok « Sommes - nous en pression ?
+(label :H label
+       :S label
+       :A label
+       :R label
+       :C label)

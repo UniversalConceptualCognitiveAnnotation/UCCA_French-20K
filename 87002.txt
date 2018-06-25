@@ -1,0 +1,12 @@
+# ::id 87002
+# ::tok Les journalistes , qui font profession de science en lutte avec ceux qui font profession d\u2019 esprit , versèrent des flots d\u2019 encre pendant cette mémorable campagne ; quelques - uns même , deux ou trois gouttes de sang , car du serpent de mer , ils en vinrent aux personnalités les plus offensantes .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :G label
+       :E label
+       :C label
+       :R label
+       :N label)

@@ -1,0 +1,8 @@
+# ::id 427001
+# ::tok Je parlai faute de pouvoir me taire .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label)

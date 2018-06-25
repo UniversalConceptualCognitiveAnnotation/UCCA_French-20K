@@ -1,0 +1,9 @@
+# ::id 430000
+# ::tok « Cependant , la solution du problème qui m\u2019 est soumis peut affecter la forme du dilemme .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

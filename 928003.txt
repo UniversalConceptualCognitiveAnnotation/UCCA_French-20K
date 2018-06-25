@@ -1,0 +1,11 @@
+# ::id 928003
+# ::tok Les montagnes d’ arguments entassés depuis un an s’ écroulèrent à la fois , et chacun ne songea plus qu’ à se rattraper aux heures de repas ou de sommeil du temps qu’ il avait si sottement sacrifié .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

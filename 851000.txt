@@ -1,0 +1,11 @@
+# ::id 851000
+# ::tok Pour mon compte , je n’ étais pas en reste avec les autres , et je ne laissais à personne ma part d’ observations quotidiennes .
+(label :L label
+       :H label
+       :R label
+       :E label
+       :C label
+       :A label
+       :D label
+       :S label
+       :P label)

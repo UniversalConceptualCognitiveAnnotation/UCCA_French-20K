@@ -1,0 +1,10 @@
+# ::id 91003
+# ::tok Ils ne virent rien , si ce n\u2019 est un fort remous qui brisait à trois encablures , comme si les nappes liquides eussent été violemment battues .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,10 @@
+# ::id 860001
+# ::tok Je dois avouer qu’ il ne croyait guère à la licorne , et que , seul à bord , il ne partageait pas la conviction générale .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :L label
+       :D label
+       :R label)

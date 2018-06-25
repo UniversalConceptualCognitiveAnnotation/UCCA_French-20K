@@ -1,0 +1,9 @@
+# ::id 919006
+# ::tok Chacun , la poitrine haletante , l’ œil trouble , observait la marche du cétacé .
+(label :H label
+       :A label
+       :P label
+       :S label
+       :E label
+       :C label
+       :R label)

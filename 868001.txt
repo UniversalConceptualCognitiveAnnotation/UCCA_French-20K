@@ -1,0 +1,9 @@
+# ::id 868001
+# ::tok — Oui , Ned , je vous le répète avec une conviction qui s’ appuie sur la logique des faits .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label)

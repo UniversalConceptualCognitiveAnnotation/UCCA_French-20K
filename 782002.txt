@@ -1,0 +1,7 @@
+# ::id 782002
+# ::tok Je demandai le commandant Farragut .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

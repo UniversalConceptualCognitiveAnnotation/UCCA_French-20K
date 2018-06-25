@@ -1,0 +1,11 @@
+# ::id 852000
+# ::tok J’ ai dit que le commandant Farragut avait soigneusement pourvu son navire d’ appareils propres à pêcher le gigantesque cétacé .
+(label :G label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :S label)

@@ -1,0 +1,10 @@
+# ::id 927002
+# ::tok Et rien ! rien que l’ immensité des flots déserts !
+(label :L label
+       :H label
+       :S label
+       :D label
+       :A label
+       :E label
+       :C label
+       :R label)

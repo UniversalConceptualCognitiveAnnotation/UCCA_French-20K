@@ -1,0 +1,11 @@
+# ::id 794000
+# ::tok Alors , la frégate , suivant du côté de New - Jersey l’ admirable rive droite du fleuve toute chargée de villas , passa entre les forts qui la saluèrent de leurs plus gros canons .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label)

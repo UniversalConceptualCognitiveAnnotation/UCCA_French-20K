@@ -1,0 +1,11 @@
+# ::id 95003
+# ::tok Son tirant d\u2019 eau était alors de six mètres soixante-dix centimètres , et son déplacement de six mille six cent vingt-quatre mètres cubes .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

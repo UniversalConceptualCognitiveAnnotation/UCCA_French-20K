@@ -1,0 +1,11 @@
+# ::id 877000
+# ::tok Or , suivant moi , et toutes les raisons précédemment déduites , cet animal appartenait à l’ embranchement des vertébrés , à la classe des mammifères , au groupe des pisciformes , et finalement à l’ ordre des cétacés .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label
+       :N label
+       :D label)

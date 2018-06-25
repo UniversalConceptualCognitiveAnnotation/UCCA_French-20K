@@ -1,0 +1,12 @@
+# ::id 876004
+# ::tok Or , ce trou ne s’ était pas fait tout seul , et puisqu’ il n’ avait pas été produit par des roches sous - marines ou des engins sous - marins , il était nécessairement dû à l’ outil perforant d’ un animal .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :G label
+       :E label
+       :C label
+       :N label
+       :R label)

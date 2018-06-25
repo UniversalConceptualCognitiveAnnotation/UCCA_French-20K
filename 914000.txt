@@ -1,0 +1,9 @@
+# ::id 914000
+# ::tok La frégate prolongea la côte sud - est de l’ Amérique avec une rapidité prodigieuse .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

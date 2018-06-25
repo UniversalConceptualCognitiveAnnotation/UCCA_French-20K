@@ -1,0 +1,11 @@
+# ::id 84000
+# ::tok Quinze jours plus tard , à deux mille lieues de là , l\u2019 Helvetia , de la Compagnie Nationale , et le Shannon , du Royal-Mail , marchant à contrebord dans cette portion de l\u2019 Atlantique comprise entre les États-Unis et l\u2019 Europe , se signalèrent respectivement le monstre par 42°15\u2019 de latitude nord , et 60°35\u2019 de longitude à l\u2019 ouest du méridien de Greenwich .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :N label
+       :S label)

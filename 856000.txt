@@ -1,0 +1,9 @@
+# ::id 856000
+# ::tok Je crois que le commandant Farragut avait sagement fait d’ engager cet homme à son bord .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

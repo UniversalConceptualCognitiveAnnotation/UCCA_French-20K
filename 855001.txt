@@ -1,0 +1,12 @@
+# ::id 855001
+# ::tok C’ était un homme de grande taille — plus de six pieds anglais — vigoureusement bâti , l’ air grave , peu communicatif , violent parfois , et très - rageur quand on le contrariait .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :N label
+       :R label
+       :D label
+       :L label
+       :P label)

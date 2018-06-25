@@ -1,0 +1,9 @@
+# ::id 98000
+# ::tok Tout d\u2019 abord , les passagers furent très - effrayés ; mais le capitaine Anderson se hâta de les rassurer .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label)

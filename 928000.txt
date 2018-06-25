@@ -1,0 +1,9 @@
+# ::id 928000
+# ::tok La réaction se fit donc . Le découragement s’ empara d’ abord des esprits , et ouvrit une brèche à l’ incrédulité .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

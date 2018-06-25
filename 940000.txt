@@ -1,0 +1,7 @@
+# ::id 940000
+# ::tok — Tu as raison , Conseil .
+(label :H label
+       :A label
+       :S label
+       :C label
+       :E label)

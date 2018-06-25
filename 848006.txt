@@ -1,0 +1,7 @@
+# ::id 848006
+# ::tok Le monstre existait , il en délivrerait les mers , il l’ avait juré .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

@@ -1,0 +1,5 @@
+# ::id 791001
+# ::tok lui demanda - t - il .
+(label :H label
+       :A label
+       :P label)

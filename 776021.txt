@@ -1,0 +1,7 @@
+# ::id 776021
+# ::tok Un chemin un peu moins direct , voilà tout .
+(label :H label
+       :A label
+       :D label
+       :E label
+       :C label)

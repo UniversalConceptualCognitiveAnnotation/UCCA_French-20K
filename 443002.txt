@@ -1,0 +1,9 @@
+# ::id 443002
+# ::tok Une frégate de grande marche l\u2019 Abraham - Lincoln , se mit en mesure de prendre la mer au plus tôt .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

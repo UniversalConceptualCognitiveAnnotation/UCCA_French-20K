@@ -1,0 +1,8 @@
+# ::id 776005
+# ::tok Nous partons dans deux heures .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)
