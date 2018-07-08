@@ -27,8 +27,8 @@
 27	il	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
 28	faut	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
 29	nécessairement	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
-30	qu	_	Word	-	-	_	H	_	_	_	_	_	_	_	_
-31	’	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+30	qu	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+31	’	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
 32	ils	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
 33	soient	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
 34	aussi	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
