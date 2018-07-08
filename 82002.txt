@@ -1,0 +1,13 @@
+# ::id 82002
+# ::tok Donc , à moins que cet écueil ne fût soumis aux expansions intermittentes d' un geyser , le Governor-Higginson avait affaire bel et bien à quelque mammifère aquatique , inconnu jusque - là , qui rejetait par ses évents des colonnes d' eau , mélangées d' air et de vapeur .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label
+       :T label
+       :N label)

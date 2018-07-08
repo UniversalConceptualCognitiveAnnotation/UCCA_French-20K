@@ -1,0 +1,9 @@
+# ::id 443000
+# ::tok L' opinion publique s' étant prononcée , les États de l' Union se déclarèrent les premiers .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

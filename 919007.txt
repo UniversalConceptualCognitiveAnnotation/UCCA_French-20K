@@ -1,0 +1,11 @@
+# ::id 919007
+# ::tok Je regardais , je regardais à en user ma rétine , à en devenir aveugle , tandis que Conseil , toujours phlegmatique , me répétait d’ un ton calme : « Si monsieur voulait avoir la bonté de moins écarquiller ses yeux , monsieur verrait bien davantage ! »
+(label :H label
+       :L label
+       :A label
+       :P label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label)

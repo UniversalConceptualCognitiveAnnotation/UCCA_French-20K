@@ -1,0 +1,9 @@
+# ::id 776013
+# ::tok – Si ... certainement ... répondis - je évasivement , mais en faisant un crochet .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :L label
+       :E label
+       :C label)

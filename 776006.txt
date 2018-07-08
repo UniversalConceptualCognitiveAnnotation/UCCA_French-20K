@@ -1,0 +1,9 @@
+# ::id 776006
+# ::tok – Et les collections de monsieur ? fit observer Conseil .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :E label
+       :C label
+       :R label)

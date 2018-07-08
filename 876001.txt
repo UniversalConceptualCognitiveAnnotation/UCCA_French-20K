@@ -1,0 +1,9 @@
+# ::id 876001
+# ::tok Ce jour - là , je ne le poussai pas davantage .
+(label :H label
+       :T label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

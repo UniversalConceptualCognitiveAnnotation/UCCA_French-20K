@@ -1,0 +1,10 @@
+# ::id 770000
+# ::tok À se frotter aux savants de notre petit monde du Jardin des Plantes , Conseil en était venu à savoir quelque chose .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :C label
+       :E label)

@@ -1,0 +1,6 @@
+# ::id 927002
+# ::tok Et rien !
+(label :L label
+       :H label
+       :S label
+       :A label)

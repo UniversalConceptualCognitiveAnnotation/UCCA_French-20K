@@ -1,0 +1,11 @@
+# ::id 77000
+# ::tok L'année 1866 fut marquée par un événement bizarre , un phénomène inexpliqué et inexplicable que personne n' a sans doute oublié .
+(label :H label
+       :T label
+       :P label
+       :A label
+       :E label
+       :C label
+       :R label
+       :N label
+       :D label)

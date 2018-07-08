@@ -1,0 +1,8 @@
+# ::id 867002
+# ::tok Tout ce que vous voudrez excepté cela .
+(label :H label
+       :A label
+       :P label
+       :S label
+       :C label
+       :E label)

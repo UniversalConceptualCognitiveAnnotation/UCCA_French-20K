@@ -1,0 +1,11 @@
+# ::id 439000
+# ::tok Ces derniers mots étaient une lâcheté de ma part ; mais je voulais jusqu' à un certain point couvrir ma dignité de professeur , et ne pas trop prêter à rire aux Américains , qui rient bien , quand ils rient .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

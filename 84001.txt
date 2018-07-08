@@ -1,0 +1,12 @@
+# ::id 84001
+# ::tok Dans cette observation simultanée , on crut pouvoir évaluer la longueur minimum du mammifère à plus de trois cent cinquante pieds anglais , puisque le Shannon et l' Helvetia étaient de dimension inférieure à lui , bien qu' ils mesurassent cent mètres de l' étrave à l' étambot .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :R label
+       :E label
+       :C label
+       :P label
+       :N label)

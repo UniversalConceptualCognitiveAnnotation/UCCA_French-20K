@@ -1,0 +1,8 @@
+# ::id 786000
+# ::tok Les aménagements intérieurs de la frégate répondaient à ses qualités nautiques .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

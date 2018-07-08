@@ -1,0 +1,10 @@
+# ::id 872008
+# ::tok Or , mon brave Ned , savez - vous ce que vous avez de centimètres carrés en surface ?
+(label :H label
+       :L label
+       :G label
+       :P label
+       :A label
+       :E label
+       :C label
+       :R label)

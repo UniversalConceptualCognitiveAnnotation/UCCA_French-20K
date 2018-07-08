@@ -1,0 +1,9 @@
+# ::id 861000
+# ::tok Par une magnifique soirée du 30 juillet , c ’ est - à - dire trois semaines après notre départ , la frégate se trouvait à la hauteur du cap Blanc , à trente milles sous le vent des côtes patagonnes .
+(label :H label
+       :T label
+       :A label
+       :S label
+       :R label
+       :E label
+       :C label)

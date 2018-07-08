@@ -1,0 +1,9 @@
+# ::id 418000
+# ::tok À mon arrivée à New York , la question brûlait .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

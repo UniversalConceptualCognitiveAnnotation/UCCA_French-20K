@@ -1,0 +1,11 @@
+# ::id 776003
+# ::tok – Oui , mon garçon . Prépare - moi , prépare - toi . Nous partons dans deux heures .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :G label
+       :T label
+       :R label
+       :E label
+       :C label)

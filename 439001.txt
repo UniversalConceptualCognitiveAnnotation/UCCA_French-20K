@@ -1,0 +1,7 @@
+# ::id 439001
+# ::tok Je me réservais une échappatoire .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

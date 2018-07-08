@@ -1,0 +1,9 @@
+# ::id 876002
+# ::tok L’ accident du Scotia n’ était pas niable .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

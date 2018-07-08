@@ -1,0 +1,10 @@
+# ::id 99002
+# ::tok Fort heureusement , ce compartiment ne renfermait pas les chaudières , car les feux se fussent subitement éteints .
+(label :H label
+       :L label
+       :G label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

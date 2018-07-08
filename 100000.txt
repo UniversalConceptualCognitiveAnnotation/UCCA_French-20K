@@ -1,0 +1,11 @@
+# ::id 100000
+# ::tok Le capitaine Anderson fit stopper immédiatement , et l' un des matelots plongea pour reconnaître l' avarie .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :T label
+       :E label
+       :C label
+       :R label)

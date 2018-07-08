@@ -1,0 +1,9 @@
+# ::id 924003
+# ::tok Aussi , nos chances étaient - elles fort limitées .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :S label
+       :E label
+       :C label)

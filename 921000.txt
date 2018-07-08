@@ -1,0 +1,9 @@
+# ::id 921000
+# ::tok Cependant , le temps restait favorable .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :S label
+       :E label
+       :C label)

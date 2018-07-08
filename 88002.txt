@@ -1,0 +1,11 @@
+# ::id 88002
+# ::tok Ses spirituels écrivains parodiant un mot de Linné , cité par les adversaires du monstre , soutinrent en effet que « la nature ne faisait pas de sots » , et ils adjurèrent leurs contemporains de ne point donner un démenti à la nature , en admettant l' existence des Krakens , des serpents de mer , des « Moby Dick » , et autres élucubrations de marins en délire .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :N label)

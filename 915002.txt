@@ -1,0 +1,10 @@
+# ::id 915002
+# ::tok Bon nombre de matelots affirmaient que le monstre n’ y pouvait passer , « qu’ il était trop gros pour cela ! »
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label)

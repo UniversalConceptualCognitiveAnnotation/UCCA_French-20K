@@ -1,0 +1,9 @@
+# ::id 932003
+# ::tok Chacun voulait lui jeter ce dernier coup d’ oeil dans lequel se résume tout le souvenir .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

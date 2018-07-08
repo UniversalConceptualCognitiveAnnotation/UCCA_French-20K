@@ -1,0 +1,11 @@
+# ::id 873007
+# ::tok — Précisément , Ned . Ainsi donc , à trente-deux pieds au-dessous de la surface de la mer , vous subiriez une pression de dix-sept mille cinq cent soixante-huit kilogrammes ; à trois cent vingt pieds , dix fois cette pression , soit cent soixante-quinze mille six cent quatre-vingt kilogrammes ; à trois mille deux cents pieds , cent fois cette pression , soit dix-sept cent cinquante-six mille huit cent kilogrammes ; à trente-deux mille pieds , enfin , mille fois cette pression , soit dix-sept millions cinq cent soixante-huit mille kilogrammes ; c’est-à-dire que vous seriez aplati comme si l’ on vous retirait des plateaux d’ une machine hydraulique !
+(label :H label
+       :A label
+       :P label
+       :L label
+       :S label
+       :G label
+       :R label
+       :E label
+       :C label)

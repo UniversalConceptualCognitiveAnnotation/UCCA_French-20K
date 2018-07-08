@@ -1,0 +1,11 @@
+# ::id 79001
+# ::tok Si c' était un cétacé , il surpassait en volume tous ceux que la science avait classés jusqu' alors .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label
+       :T label)

@@ -1,0 +1,6 @@
+# ::id 775003
+# ::tok Qu’ allait dire Conseil ?
+(label :H label
+       :A label
+       :D label
+       :P label)

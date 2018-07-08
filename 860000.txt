@@ -1,0 +1,10 @@
+# ::id 860000
+# ::tok Et maintenant , quelle était l’ opinion de Ned Land sur la question du monstre marin ?
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label)

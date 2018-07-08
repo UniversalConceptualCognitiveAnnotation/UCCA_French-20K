@@ -1,0 +1,11 @@
+# ::id 421000
+# ::tok Or , cette dernière hypothèse , admissible après tout , ne put résister aux enquêtes qui furent poursuivies dans les deux mondes .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

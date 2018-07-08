@@ -1,0 +1,9 @@
+# ::id 929001
+# ::tok Les plus chauds partisans de l’ entreprise devinrent fatalement ses plus ardents détracteurs .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

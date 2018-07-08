@@ -1,0 +1,11 @@
+# ::id 101003
+# ::tok La cassure de la tôle était d' une netteté parfaite , et elle n' eût pas été frappée plus sûrement à l' emporte - pièce .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :R label
+       :E label
+       :C label)

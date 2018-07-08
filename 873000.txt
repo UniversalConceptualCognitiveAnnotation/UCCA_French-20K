@@ -1,0 +1,7 @@
+# ::id 873000
+# ::tok — Je ne m’ en doute pas , monsieur Aronnax .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :G label)

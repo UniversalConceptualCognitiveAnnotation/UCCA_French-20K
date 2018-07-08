@@ -1,0 +1,8 @@
+# ::id 776007
+# ::tok – On s’ en occupera plus tard .
+(label :H label
+       :A label
+       :P label
+       :T label
+       :E label
+       :C label)

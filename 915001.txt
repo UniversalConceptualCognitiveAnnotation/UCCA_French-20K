@@ -1,0 +1,12 @@
+# ::id 915001
+# ::tok Et en effet , était - il probable que l’ on pût rencontrer le narwal dans ce détroit resserré ?
+(label :L label
+       :H label
+       :G label
+       :A label
+       :S label
+       :R label
+       :D label
+       :P label
+       :E label
+       :C label)

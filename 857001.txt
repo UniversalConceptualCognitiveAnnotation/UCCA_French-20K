@@ -1,0 +1,8 @@
+# ::id 857001
+# ::tok Ma nationalité l’ attirait sans doute .
+(label :H label
+       :A label
+       :P label
+       :G label
+       :E label
+       :C label)

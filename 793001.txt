@@ -1,0 +1,9 @@
+# ::id 793001
+# ::tok Trois hurrahs , partis de cinq cent mille poitrines , éclatèrent successivement .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

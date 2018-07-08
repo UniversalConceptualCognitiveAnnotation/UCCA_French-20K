@@ -1,0 +1,12 @@
+# ::id 781001
+# ::tok Là , le Katrin - ferry - boat nous transporta , hommes , chevaux et voiture , à Brooklyn , la grande annexe de New York , située sur la rive gauche de la rivière de l’ Est , et en quelques minutes , nous arrivions au quai près duquel l’ Abraham - Lincoln vomissait par ses deux cheminées des torrents de fumée noire .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :T label
+       :E label
+       :C label
+       :R label
+       :N label
+       :S label)

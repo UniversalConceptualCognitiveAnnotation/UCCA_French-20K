@@ -1,0 +1,8 @@
+# ::id 852001
+# ::tok Un baleinier n’ eût pas été mieux armé .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

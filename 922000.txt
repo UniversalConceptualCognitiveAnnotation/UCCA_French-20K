@@ -1,0 +1,12 @@
+# ::id 922000
+# ::tok Ned Land montrait toujours la plus tenace incrédulité ; il affectait même de ne point examiner la surface des flots en dehors de son temps de bordée , — du moins quand aucune baleine n’ était en vue .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :T label
+       :D label
+       :S label
+       :E label
+       :C label
+       :R label)

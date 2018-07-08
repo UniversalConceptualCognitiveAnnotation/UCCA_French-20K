@@ -1,0 +1,10 @@
+# ::id 926003
+# ::tok L’ équipage entier subissait une surexcitation nerveuse , dont je ne saurais donner l’ idée .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label)

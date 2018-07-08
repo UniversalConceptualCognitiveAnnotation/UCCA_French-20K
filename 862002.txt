@@ -1,0 +1,10 @@
+# ::id 862002
+# ::tok Puis , voyant que Ned me laissait parler sans trop rien dire , je le poussai plus directement .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :C label
+       :E label)

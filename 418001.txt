@@ -1,0 +1,10 @@
+# ::id 418001
+# ::tok L' hypothèse de l' îlot flottant , de l' écueil insaisissable , soutenue par quelques esprits peu compétents , était absolument abandonnée .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label
+       :S label)

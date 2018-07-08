@@ -1,0 +1,10 @@
+# ::id 941001
+# ::tok Au milieu du silence général , une voix venait de se faire entendre .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :S label
+       :E label
+       :C label
+       :R label)

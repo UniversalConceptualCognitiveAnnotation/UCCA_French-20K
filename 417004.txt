@@ -1,0 +1,10 @@
+# ::id 417004
+# ::tok Qu' il y eut quelque chose , cela ne pouvait être douteux , et les incrédules étaient invités à mettre le doigt sur la plaie du Scotia .
+(label :L label
+       :H label
+       :P label
+       :A label
+       :D label
+       :E label
+       :C label
+       :R label)

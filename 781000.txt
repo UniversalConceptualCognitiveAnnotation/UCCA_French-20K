@@ -1,0 +1,10 @@
+# ::id 781000
+# ::tok Le véhicule à vingt francs la course descendit Broadway jusqu’ à Union - square , suivit Fourth - Avenue jusqu’ à sa jonction avec Bowery - street , prit Katrin - street et s’ arrêta à la trente - quatrième pier .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :S label)

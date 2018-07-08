@@ -1,0 +1,12 @@
+# ::id 924004
+# ::tok Cependant , personne ne doutait encore du succès , et pas un matelot du bord n’ eût parié contre le narwal et contre sa prochaine apparition .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :T label
+       :R label
+       :C label
+       :E label
+       :N label)

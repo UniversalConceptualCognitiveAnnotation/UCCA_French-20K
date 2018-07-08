@@ -1,0 +1,9 @@
+# ::id 869000
+# ::tok — Hum ! fit le harponneur , en secouant la tête de l’ air d’ un homme qui ne veut pas se laisser convaincre .
+(label :H label
+       :P label
+       :A label
+       :E label
+       :C label
+       :D label
+       :R label)

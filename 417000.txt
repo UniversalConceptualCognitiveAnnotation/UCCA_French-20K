@@ -1,0 +1,10 @@
+# ::id 417000
+# ::tok J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :R label
+       :E label
+       :C label)

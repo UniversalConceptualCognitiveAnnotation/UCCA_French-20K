@@ -1,0 +1,7 @@
+# ::id 417002
+# ::tok Ce mystère m' intriguait .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

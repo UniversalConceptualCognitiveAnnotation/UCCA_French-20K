@@ -1,0 +1,9 @@
+# ::id 93000
+# ::tok Personne n' ignore le nom du célèbre armateur anglais Cunard .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

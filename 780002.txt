@@ -1,0 +1,9 @@
+# ::id 780002
+# ::tok Je réglai ma note à ce vaste comptoir toujours assiégé par une foule considérable .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :T label)

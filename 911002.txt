@@ -1,0 +1,11 @@
+# ::id 911002
+# ::tok Cependant une circonstance se présenta , qui mit en relief la merveilleuse habileté de Ned Land , et montra quelle confiance on devait avoir en lui .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :S label
+       :D label
+       :R label)

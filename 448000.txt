@@ -1,0 +1,11 @@
+# ::id 448000
+# ::tok « Monsieur Aronnax , professeur au Muséum de Paris , « Fifth Avenue hotel . « New York . « Monsieur , « Si vous voulez vous joindre à l' expédition de l' Abraham - Lincoln , le gouvernement de l' Union verra avec plaisir que la France soit représentée par vous dans cette entreprise . Le commandant Farragut tient une cabine à votre disposition . « Très - cordialement , votre « J . -B . HOBSON , Secrétaire de la marine . »
+(label :H label
+       :A label
+       :P label
+       :L label
+       :G label
+       :D label
+       :E label
+       :C label
+       :R label)

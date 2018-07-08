@@ -1,0 +1,11 @@
+# ::id 877001
+# ::tok Quant à la famille dans laquelle il prenait rang , baleine , cachalot ou dauphin , quant au genre dont il faisait partie , quant à l’ espèce dans laquelle il convenait de le ranger , c’ était une question à élucider ultérieurement .
+(label :H label
+       :A label
+       :S label
+       :C label
+       :E label
+       :R label
+       :P label
+       :D label
+       :N label)

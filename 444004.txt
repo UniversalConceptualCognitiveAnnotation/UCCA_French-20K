@@ -1,0 +1,9 @@
+# ::id 444004
+# ::tok On en avait tant causé , et même par le câble transatlantique !
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :R label
+       :C label)

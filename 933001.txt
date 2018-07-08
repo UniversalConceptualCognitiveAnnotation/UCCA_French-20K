@@ -1,0 +1,9 @@
+# ::id 933001
+# ::tok L’ Abraham-Lincoln se tenait sous petite vapeur .
+(label :H label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label)

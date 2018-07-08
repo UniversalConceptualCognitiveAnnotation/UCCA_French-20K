@@ -1,0 +1,10 @@
+# ::id 82001
+# ::tok Le capitaine Baker se crut , tout d' abord , en présence d' un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d'eau , projetées par l' inexplicable objet , s' élancèrent en sifflant à cent cinquante pieds dans l'air .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

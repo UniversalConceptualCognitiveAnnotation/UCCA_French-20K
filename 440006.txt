@@ -1,0 +1,6 @@
+# ::id 440006
+# ::tok Pourquoi non ?
+(label :H label
+       :S label
+       :A label
+       :D label)

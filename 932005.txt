@@ -1,0 +1,11 @@
+# ::id 932005
+# ::tok C’ était un suprême défi porté au narwal géant , et celui - ci ne pouvait raisonnablement se dispenser de répondre à cette sommation « à comparaître ! »
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

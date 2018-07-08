@@ -1,0 +1,9 @@
+# ::id 421001
+# ::tok Qu' un simple particulier eût à sa disposition un tel engin mécanique , c' était peu probable .
+(label :H label
+       :A label
+       :D label
+       :S label
+       :R label
+       :E label
+       :C label)

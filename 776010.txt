@@ -1,0 +1,10 @@
+# ::id 776010
+# ::tok – Et le babiroussa vivant de monsieur ?
+(label :H label
+       :A label
+       :P label
+       :L label
+       :S label
+       :E label
+       :C label
+       :R label)

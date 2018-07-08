@@ -1,0 +1,9 @@
+# ::id 848002
+# ::tok Son navire et lui ne faisaient qu’ un .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :C label
+       :N label
+       :E label)

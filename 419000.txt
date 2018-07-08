@@ -1,0 +1,12 @@
+# ::id 419000
+# ::tok De même fut repoussée l' existence d' une coque flottante , d' une énorme épave , et toujours à cause de la rapidité du déplacement .
+(label :L label
+       :H label
+       :P label
+       :A label
+       :S label
+       :T label
+       :D label
+       :E label
+       :C label
+       :R label)

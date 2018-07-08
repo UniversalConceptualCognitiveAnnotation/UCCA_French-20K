@@ -1,0 +1,12 @@
+# ::id 438000
+# ::tok « Ainsi s' expliquerait ce phénomène inexplicable , - à moins qu' il n' y ait rien , en dépit de ce qu' on a entrevu , vu , senti et ressenti , - ce qui est encore possible ! »
+(label :H label
+       :A label
+       :P label
+       :L label
+       :D label
+       :S label
+       :R label
+       :C label
+       :E label
+       :N label)

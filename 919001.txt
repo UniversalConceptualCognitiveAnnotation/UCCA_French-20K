@@ -1,0 +1,12 @@
+# ::id 919001
+# ::tok Ne donnant que quelques minutes au repas , quelques heures au sommeil , indifférent au soleil ou à la pluie , je ne quittais plus le pont du navire .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :T label
+       :S label
+       :E label
+       :C label
+       :R label
+       :N label)

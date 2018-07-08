@@ -1,0 +1,9 @@
+# ::id 938000
+# ::tok « Allons , Conseil , lui dis - je , voilà une dernière occasion d’ empocher deux mille dollars .
+(label :H label
+       :A label
+       :P label
+       :G label
+       :S label
+       :E label
+       :C label)

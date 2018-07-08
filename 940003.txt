@@ -1,0 +1,7 @@
+# ::id 940003
+# ::tok — Il faut le dire , Conseil .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :G label)

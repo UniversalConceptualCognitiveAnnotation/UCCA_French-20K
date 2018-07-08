@@ -1,0 +1,7 @@
+# ::id 89002
+# ::tok La question prit une tout autre face .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

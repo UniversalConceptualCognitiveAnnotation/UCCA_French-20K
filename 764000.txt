@@ -1,0 +1,11 @@
+# ::id 764000
+# ::tok ﻿ Trois secondes avant l’ arrivée de la lettre de J . -B . Hobson , je ne songeais pas plus à poursuivre la Licorne qu’ à tenter le passage du Nord - Ouest .
+(label :H label
+       :L label
+       :T label
+       :P label
+       :A label
+       :D label
+       :E label
+       :C label
+       :R label)

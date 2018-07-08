@@ -1,0 +1,10 @@
+# ::id 849004
+# ::tok Et cependant , l’ Abraham - Lincoln ne tranchait pas encore de son étrave les eaux suspectes du Pacifique .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

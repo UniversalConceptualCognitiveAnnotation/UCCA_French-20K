@@ -1,0 +1,10 @@
+# ::id 444001
+# ::tok Pendant deux mois , personne n' en entendit parler .
+(label :H label
+       :T label
+       :A label
+       :D label
+       :P label
+       :R label
+       :E label
+       :C label)

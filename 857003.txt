@@ -1,0 +1,11 @@
+# ::id 857003
+# ::tok La famille du harponneur était originaire de Québec , et formait déjà une tribu de hardis pêcheurs à l’ époque où cette ville appartenait à la France .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

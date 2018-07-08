@@ -1,0 +1,7 @@
+# ::id 790001
+# ::tok Il fit venir son ingénieur .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

@@ -1,0 +1,7 @@
+# ::id 769000
+# ::tok Conseil était mon domestique .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 776012
+# ::tok – Nous ne retournons donc pas à Paris ? demanda Conseil .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :D label
+       :R label
+       :C label)

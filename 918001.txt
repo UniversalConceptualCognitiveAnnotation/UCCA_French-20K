@@ -1,0 +1,13 @@
+# ::id 918001
+# ::tok Les yeux et les lunettes , un peu éblouis , il est vrai , par la perspective de deux mille dollars , ne restèrent pas un instant au repos .
+(label :H label
+       :A label
+       :D label
+       :T label
+       :P label
+       :C label
+       :E label
+       :R label
+       :N label
+       :G label
+       :S label)

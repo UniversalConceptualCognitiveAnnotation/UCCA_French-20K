@@ -1,0 +1,11 @@
+# ::id 102001
+# ::tok Depuis ce moment , en effet , les sinistres maritimes qui n'avaient pas de cause déterminée furent mis sur le compte du monstre .
+(label :H label
+       :L label
+       :T label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label
+       :D label)

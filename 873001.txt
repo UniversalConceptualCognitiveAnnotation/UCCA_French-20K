@@ -1,0 +1,8 @@
+# ::id 873001
+# ::tok — Environ dix-sept mille .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

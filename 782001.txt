@@ -1,0 +1,8 @@
+# ::id 782001
+# ::tok Je me précipitai à bord .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :R label
+       :C label)

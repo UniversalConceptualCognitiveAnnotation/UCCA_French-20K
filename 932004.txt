@@ -1,0 +1,9 @@
+# ::id 932004
+# ::tok Les lunettes fonctionnèrent avec une activité fiévreuse .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

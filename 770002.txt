@@ -1,0 +1,8 @@
+# ::id 770002
+# ::tok Mais sa science s’ arrêtait là .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label)

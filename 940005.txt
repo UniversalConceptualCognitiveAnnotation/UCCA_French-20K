@@ -1,0 +1,6 @@
+# ::id 940005
+# ::tok — Vraiment !
+(label :H label
+       :A label
+       :P label
+       :D label)

@@ -1,0 +1,9 @@
+# ::id 912002
+# ::tok Le commandant Farragut , désireux de voir Ned Land à l’œuvre , l’ autorisa à se rendre à bord du Monroe .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

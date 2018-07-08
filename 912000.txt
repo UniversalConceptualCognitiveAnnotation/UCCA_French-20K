@@ -1,0 +1,12 @@
+# ::id 912000
+# ::tok Au large des Malouines , le 30 juin , la frégate communiqua avec des baleiniers américains , et nous apprîmes qu’ ils n’ avaient eu aucune connaissance du narwal .
+(label :H label
+       :L label
+       :A label
+       :T label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label)

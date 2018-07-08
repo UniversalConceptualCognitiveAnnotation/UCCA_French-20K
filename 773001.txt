@@ -1,0 +1,12 @@
+# ::id 773001
+# ::tok Formaliste enragé il ne me parlait jamais qu’ à la troisième personne , – au point d’ en être agaçant .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :T label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label)

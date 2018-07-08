@@ -1,0 +1,9 @@
+# ::id 848001
+# ::tok Le commandant Farragut était un bon marin , digne de la frégate qu’ il commandait .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

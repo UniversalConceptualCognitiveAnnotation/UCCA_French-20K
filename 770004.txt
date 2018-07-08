@@ -1,0 +1,11 @@
+# ::id 770004
+# ::tok Très - versé dans la théorie de la classification , peu dans la pratique , il n’ eût pas distingué , je crois , un cachalot d’ une baleine !
+(label :H label
+       :A label
+       :D label
+       :S label
+       :P label
+       :G label
+       :R label
+       :E label
+       :C label)

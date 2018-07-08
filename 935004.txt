@@ -1,0 +1,10 @@
+# ::id 935004
+# ::tok De gros nuages voilaient le disque de la lune , alors dans son premier quartier .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :S label
+       :D label)

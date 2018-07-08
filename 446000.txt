@@ -1,0 +1,9 @@
+# ::id 446000
+# ::tok L' émotion causée par cette nouvelle fut extrême .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :P label
+       :R label)

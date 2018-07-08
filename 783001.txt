@@ -1,0 +1,11 @@
+# ::id 783001
+# ::tok – Lui - même , répondis - je . Le commandant Farragut ? – En personne . Soyez le bienvenu , monsieur le professeur . Votre cabine vous attend . »
+(label :H label
+       :A label
+       :P label
+       :S label
+       :D label
+       :G label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,8 @@
+# ::id 849002
+# ::tok Plus d’ un s’ imposait un quart volontaire dans les barres de perroquet , qui eût maudit une telle corvée en toute autre circonstance .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

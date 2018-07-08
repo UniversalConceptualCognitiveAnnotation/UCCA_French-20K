@@ -1,0 +1,6 @@
+# ::id 422002
+# ::tok Du moins , je l' espère .
+(label :L label
+       :H label
+       :A label
+       :P label)

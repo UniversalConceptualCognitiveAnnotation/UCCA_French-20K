@@ -1,0 +1,9 @@
+# ::id 872003
+# ::tok Admettons que la pression d’ une atmosphère soit représentée par la pression d’ une colonne d’ eau haute de trente-deux pieds .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :S label)

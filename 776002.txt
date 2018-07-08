@@ -1,0 +1,6 @@
+# ::id 776002
+# ::tok « Monsieur m’ appelle ? dit - il en entrant .
+(label :H label
+       :L label
+       :A label
+       :P label)

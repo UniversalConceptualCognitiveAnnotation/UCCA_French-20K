@@ -1,0 +1,11 @@
+# ::id 922002
+# ::tok Mais , huit heures sur douze , cet entêté Canadien lisait ou dormait dans sa cabine .
+(label :L label
+       :H label
+       :T label
+       :A label
+       :P label
+       :C label
+       :R label
+       :E label
+       :N label)

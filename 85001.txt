@@ -1,0 +1,11 @@
+# ::id 85001
+# ::tok Dans les pays d' humeur légère , on plaisanta le phénomène , mais les pays graves et pratiques , l' Angleterre , l' Amérique , l' Allemagne , s' en préoccupèrent vivement .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label
+       :N label)

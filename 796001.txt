@@ -1,0 +1,12 @@
+# ::id 796001
+# ::tok Les feux furent poussés ; l’ hélice battit plus rapidement les flots ; la frégate longea la côte jaune et basse de Long - Island , et , à huit heures du soir , après avoir perdu dans le nord - ouest les feux de Fire - Island , elle courut à toute vapeur sur les sombres eaux de l’ Atlantique .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :T label
+       :E label
+       :C label
+       :R label
+       :N label)

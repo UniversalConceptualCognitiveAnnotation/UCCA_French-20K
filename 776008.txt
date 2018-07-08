@@ -1,0 +1,9 @@
+# ::id 776008
+# ::tok – Quoi ! les archiotherium , les hyracotherium , les oréodons , les chéropotamus et autres carcasses de monsieur ?
+(label :H label
+       :A label
+       :P label
+       :C label
+       :N label
+       :E label
+       :R label)

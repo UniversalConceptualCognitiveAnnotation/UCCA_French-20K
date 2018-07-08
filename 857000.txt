@@ -1,0 +1,11 @@
+# ::id 857000
+# ::tok Qui dit Canadien , dit Français , et , si peu communicatif que fut Ned Land , je dois avouer qu’ il se prit d’ une certaine affection pour moi .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :S label
+       :E label
+       :C label
+       :R label)

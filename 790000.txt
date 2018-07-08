@@ -1,0 +1,12 @@
+# ::id 790000
+# ::tok Mais le commandant Farragut ne voulait perdre ni un jour , ni une heure pour rallier les mers dans lesquelles l’ animal venait d’ être signalé .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :N label
+       :S label
+       :R label)

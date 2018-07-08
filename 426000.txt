@@ -1,0 +1,9 @@
+# ::id 426000
+# ::tok À mon arrivée à New York , plusieurs personnes m ' avaient fait l'honneur de me consulter sur le phénomène en question .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,10 @@
+# ::id 940006
+# ::tok — Quand on a l’ honneur d’ être un savant comme monsieur , on ne s’ expose pas… »
+(label :H label
+       :A label
+       :P label
+       :L label
+       :S label
+       :D label
+       :E label
+       :C label)

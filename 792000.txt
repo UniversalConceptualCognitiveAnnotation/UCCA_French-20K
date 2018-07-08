@@ -1,0 +1,8 @@
+# ::id 792000
+# ::tok À cet ordre , qui fut transmis à la machine au moyen d’ appareils à air comprimé , les mécaniciens firent agir la roue de la mise en train .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

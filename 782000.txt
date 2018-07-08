@@ -1,0 +1,9 @@
+# ::id 782000
+# ::tok Nos bagages furent immédiatement transbordés sur le pont de la frégate .
+(label :H label
+       :A label
+       :T label
+       :P label
+       :E label
+       :C label
+       :R label)

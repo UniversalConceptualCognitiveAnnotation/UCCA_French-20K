@@ -1,0 +1,9 @@
+# ::id 417003
+# ::tok Dans l' impossibilité de me former une opinion , je flottais d' un extrême à l' autre .
+(label :H label
+       :A label
+       :R label
+       :S label
+       :P label
+       :E label
+       :C label)

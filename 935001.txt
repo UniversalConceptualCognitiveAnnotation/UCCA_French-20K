@@ -1,0 +1,8 @@
+# ::id 935001
+# ::tok Les terres du Japon nous restaient à moins de deux cents milles sous le vent .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

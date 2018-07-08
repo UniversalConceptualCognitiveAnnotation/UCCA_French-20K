@@ -1,0 +1,10 @@
+# ::id 444003
+# ::tok Il semblait que cette Licorne eût connaissance des complots qui se tramaient contre elle .
+(label :H label
+       :L label
+       :G label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

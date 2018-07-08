@@ -1,0 +1,11 @@
+# ::id 857002
+# ::tok C’ était une occasion pour lui de parler , et pour moi d’ entendre cette vieille langue de Rabelais qui est encore en usage dans quelques provinces canadiennes .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label
+       :D label)

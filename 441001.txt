@@ -1,0 +1,8 @@
+# ::id 441001
+# ::tok Trêve à ces chimères que le temps a changées pour moi en réalités terribles .
+(label :H label
+       :P label
+       :A label
+       :R label
+       :E label
+       :C label)

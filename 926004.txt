@@ -1,0 +1,6 @@
+# ::id 926004
+# ::tok On ne mangeait pas , on ne dormait plus .
+(label :H label
+       :A label
+       :D label
+       :P label)

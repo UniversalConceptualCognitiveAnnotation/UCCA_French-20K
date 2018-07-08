@@ -1,0 +1,11 @@
+# ::id 876003
+# ::tok Le trou existait si bien qu’ il avait fallu le boucher , et je ne pense pas que l’ existence du trou puisse se démontrer plus catégoriquement .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

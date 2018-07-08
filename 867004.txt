@@ -1,0 +1,8 @@
+# ::id 867004
+# ::tok … — Encore moins , Ned .
+(label :H label
+       :S label
+       :D label
+       :G label
+       :E label
+       :C label)

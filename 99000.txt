@@ -1,0 +1,9 @@
+# ::id 99000
+# ::tok Le capitaine Anderson se rendit immédiatement dans la cale .
+(label :H label
+       :A label
+       :P label
+       :T label
+       :E label
+       :C label
+       :R label)

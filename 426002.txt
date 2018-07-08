@@ -1,0 +1,9 @@
+# ::id 426002
+# ::tok Ce livre , particulièrement goûté du monde savant , faisait de moi un spécialiste dans cette partie assez obscure de l'histoire naturelle .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

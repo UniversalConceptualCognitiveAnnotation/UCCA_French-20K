@@ -1,0 +1,12 @@
+# ::id 434000
+# ::tok « Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds . Quintuplez , décuplez même cette dimension , donnez à ce cétacé une force proportionnelle à sa taille , accroissez ses armes offensives , et vous obtenez l' animal voulu . Il aura les proportions déterminées par les officiers du Shannon , l' instrument exigé par la perforation du Scotia , et la puissance nécessaire pour entamer la coque d' un steamer .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :T label
+       :S label
+       :C label
+       :N label
+       :E label
+       :R label)

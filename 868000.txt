@@ -1,0 +1,11 @@
+# ::id 868000
+# ::tok — Alors , monsieur le naturaliste , reprit Ned Land d’ un ton assez narquois , vous persistez à admettre l’ existence d’ un énorme cétacé… ?
+(label :H label
+       :A label
+       :P label
+       :D label
+       :L label
+       :R label
+       :E label
+       :C label
+       :G label)

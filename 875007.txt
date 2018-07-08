@@ -1,0 +1,5 @@
+# ::id 875007
+# ::tok — Allez donc !
+(label :H label
+       :A label
+       :P label)

@@ -1,0 +1,11 @@
+# ::id 848004
+# ::tok Sur la question du cétacé , aucun doute ne s’ élevait dans son esprit , et il ne permettait pas que l’ existence de l’ animal fût discutée à son bord .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :R label
+       :E label
+       :C label
+       :S label)

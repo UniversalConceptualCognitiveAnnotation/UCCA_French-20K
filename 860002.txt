@@ -1,0 +1,10 @@
+# ::id 860002
+# ::tok Il évitait même de traiter ce sujet , sur lequel je crus devoir l’ entreprendre un jour .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :T label)

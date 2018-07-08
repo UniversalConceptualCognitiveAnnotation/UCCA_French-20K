@@ -1,0 +1,11 @@
+# ::id 441002
+# ::tok Je le répète , l' opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l' existence d' un être prodigieux qui n' avait rien de commun avec les fabuleux serpents de mer .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :S label)

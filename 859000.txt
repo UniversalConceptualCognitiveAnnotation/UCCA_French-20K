@@ -1,0 +1,9 @@
+# ::id 859000
+# ::tok Je dépeins maintenant ce hardi compagnon , tel que je le connais actuellement .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :T label
+       :E label
+       :C label)

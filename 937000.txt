@@ -1,0 +1,10 @@
+# ::id 937000
+# ::tok En observant Conseil , je constatai que ce brave garçon subissait tant soit peu l’ influence générale .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :R label
+       :D label
+       :E label
+       :C label)

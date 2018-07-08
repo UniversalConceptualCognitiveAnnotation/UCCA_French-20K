@@ -1,0 +1,8 @@
+# ::id 787000
+# ::tok « Nous serons bien ici , dis - je à Conseil .
+(label :H label
+       :A label
+       :P label
+       :S label
+       :R label
+       :C label)

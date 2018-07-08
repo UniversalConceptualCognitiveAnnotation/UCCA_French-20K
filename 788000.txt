@@ -1,0 +1,10 @@
+# ::id 788000
+# ::tok Je laissai Conseil arrimer convenablement nos malles , et je remontai sur le pont afin de suivre les préparatifs de l’ appareillage .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label)

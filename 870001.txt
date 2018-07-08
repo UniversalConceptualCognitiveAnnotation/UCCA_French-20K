@@ -1,0 +1,10 @@
+# ::id 870001
+# ::tok — Et pourquoi cet organisme si puissant ? demanda Ned .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :D label
+       :S label
+       :E label
+       :C label)

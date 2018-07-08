@@ -1,0 +1,8 @@
+# ::id 780001
+# ::tok Je descendis les quelques marches qui conduisaient au rez - de - chaussée .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

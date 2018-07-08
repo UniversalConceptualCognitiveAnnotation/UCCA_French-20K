@@ -1,0 +1,5 @@
+# ::id 872002
+# ::tok Écoutez - moi .
+(label :H label
+       :P label
+       :A label)

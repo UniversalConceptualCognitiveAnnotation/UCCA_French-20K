@@ -1,0 +1,10 @@
+# ::id 851002
+# ::tok Seul entre tous , Conseil protestait par son indifférence touchant la question qui nous passionnait , et détonait sur l’ enthousiasme général du bord .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :S label)

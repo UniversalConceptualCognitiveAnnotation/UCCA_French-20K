@@ -1,0 +1,10 @@
+# ::id 776011
+# ::tok – On le nourrira pendant notre absence . D’ ailleurs , je donnerai l’ ordre de nous expédier en France notre ménagerie .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :R label
+       :C label
+       :S label
+       :E label)

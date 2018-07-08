@@ -1,0 +1,8 @@
+# ::id 776004
+# ::tok – Comme il plaira à monsieur , répondit tranquillement Conseil .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :C label)
