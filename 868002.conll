@@ -6,8 +6,8 @@
 5	existence	_	Word	Word	_	0	ROOT	_	_
 6	d’	_	Word	Word	_	8	R	_	_
 7	un	_	Word	Word	_	8	E	_	_
-8	mammifère	_	Word	Word	_	13	A	_	_
 8	mammifère	_	Word	Word	_	31	A	_	_
+8	mammifère	_	Word	Word	_	13	A	_	_
 9	,	_	Punctuation	Punctuation	_	8	U	_	_
 10	puissamment	_	Word	Word	_	11	E	_	_
 11	organisé	_	Word	Word	_	0	ROOT	_	_
@@ -16,8 +16,8 @@
 14	à	_	Word	Word	_	16	R	_	_
 15	l’	_	Word	Word	_	16	E	_	_
 16	embranchement	_	Word	Word	_	0	ROOT	_	_
-17	des	_	Word	Word	_	16	R	_	_
 17	des	_	Word	Word	_	18	E	_	_
+17	des	_	Word	Word	_	16	R	_	_
 18	vertébrés	_	Word	Word	_	0	ROOT	_	_
 19	,	_	Punctuation	Punctuation	_	13	U	_	_
 20	comme	_	Word	Word	_	22	R	_	_

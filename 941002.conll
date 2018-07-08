@@ -14,14 +14,13 @@
 13	écriait	_	Word	Word	_	12	Terminal	_	_
 14	:	_	Punctuation	Punctuation	_	12	U	_	_
 15	«	_	Punctuation	Punctuation	_	12	U	_	_
-16	Ohé	_	Word	Word	_	12	A	_	_
-16	Ohé	_	Word	Word	_	2	H	_	_
-17	!	_	Punctuation	Punctuation	_	2	U	_	_
+16	Ohé	_	Word	Word	_	19	F	_	_
+17	!	_	Punctuation	Punctuation	_	19	U	_	_
 18	la	_	Word	Word	_	19	E	_	_
 19	chose	_	Word	Word	_	0	ROOT	_	_
 20	en	_	Word	Word	_	21	R	_	_
 21	question	_	Word	Word	_	0	ROOT	_	_
-22	,	_	Punctuation	Punctuation	_	2	U	_	_
+22	,	_	Punctuation	Punctuation	_	19	U	_	_
 23	sous	_	Word	Word	_	25	R	_	_
 24	le	_	Word	Word	_	25	E	_	_
 25	vent	_	Word	Word	_	0	ROOT	_	_

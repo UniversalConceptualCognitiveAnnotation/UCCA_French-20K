@@ -6,8 +6,8 @@
 5	comprends	_	Word	Word	_	0	ROOT	_	_
 6	,	_	Punctuation	Punctuation	_	5	U	_	_
 7	répondit	_	Word	Word	_	0	ROOT	_	_
-8	Ned	_	Word	Word	_	12	A	_	_
 8	Ned	_	Word	Word	_	7	A	_	_
+8	Ned	_	Word	Word	_	12	A	_	_
 9	,	_	Punctuation	Punctuation	_	12	U	_	_
 10	devenu	_	Word	Word	_	12	E	_	_
 11	plus	_	Word	Word	_	12	E	_	_
