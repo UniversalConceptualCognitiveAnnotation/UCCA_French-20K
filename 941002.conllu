@@ -16,13 +16,13 @@
 13	écriait	_	Word	Word	_	12	flat	12:flat	_
 14	:	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 15	«	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-16	Ohé	_	Word	Word	_	2	H	2:H	_
-17	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+16	Ohé	_	Word	Word	_	19	F	19:F	_
+17	!	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 18	la	_	Word	Word	_	19	E	19:E	_
 19	chose	_	Word	Word	_	2	orphan	2:orphan	_
 20	en	_	Word	Word	_	21	R	21:R	_
 21	question	_	Word	Word	_	2	orphan	2:orphan	_
-22	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+22	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 23	sous	_	Word	Word	_	25	R	25:R	_
 24	le	_	Word	Word	_	25	E	25:E	_
 25	vent	_	Word	Word	_	2	orphan	2:orphan	_
