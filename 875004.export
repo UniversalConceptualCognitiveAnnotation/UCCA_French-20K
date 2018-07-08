@@ -28,69 +28,70 @@ mers	Word	--	Terminal	523
 il	Word	--	Terminal	525
 faut	Word	--	Terminal	526
 nécessairement	Word	--	Terminal	527
-qu	Word	--	Terminal	545
-’	Punctuation	--	Terminal	528
-ils	Word	--	Terminal	529
-soient	Word	--	Terminal	530
-aussi	Word	--	Terminal	531
-forts	Word	--	Terminal	532
-que	Word	--	Terminal	533
-vous	Word	--	Terminal	534
-le	Word	--	Terminal	535
-dites	Word	--	Terminal	536
-.	Punctuation	--	Terminal	537
-#500	PNCT	--	U	550
-#501	FN	--	C	548
-#502	FN	--	A	549
-#503	FN	--	F	538
-#504	FN	--	C	538
-#505	FN	--	R	539
-#506	FN	--	E	539
-#507	FN	--	C	539
-#508	PNCT	--	U	549
-#509	FN	--	E	540
-#510	FN	--	E	540
-#511	FN	--	C	540
-#512	PNCT	--	U	550
-#513	FN	--	F	550
-#514	FN	--	L	550	LR	553
-#515	FN	--	L	550	LR	552
-#516	FN	--	E	541
-#517	FN	--	E	541
-#518	FN	--	C	541
-#519	FN	--	S	547
-#520	FN	--	R	542
-#521	FN	--	C	542
-#522	FN	--	R	542	E*	543
-#523	FN	--	C	543
-#524	PNCT	--	U	550
-#525	FN	--	F	545
-#526	FN	--	E	544
-#527	FN	--	D	545
-#528	PNCT	--	U	550
-#529	FN	--	A	545
-#530	FN	--	F	544
-#531	FN	--	E	544
-#532	FN	--	C	544
-#533	FN	--	L	550	LR	551
-#534	FN	--	A	546
-#535	FN	--	A	546
-#536	FN	--	P	546
-#537	PNCT	--	U	546
-#538	FN	--	P	549
-#539	FN	--	A	549
-#540	FN	--	E	548
-#541	FN	--	A	547
-#542	FN	--	E	543
-#543	FN	--	A	547
-#544	FN	--	S	545
-#545	FN	--	H	550	LA	551	LA	552	LA	553
-#546	FN	--	H	550	LA	551
-#547	FN	--	H	550	LA	552
-#548	FN	--	A	549
-#549	FN	--	H	550	LA	553
-#550	FN	--	--	0
-#551	LKG	--	--	0
+qu	Word	--	Terminal	528
+’	Punctuation	--	Terminal	529
+ils	Word	--	Terminal	530
+soient	Word	--	Terminal	531
+aussi	Word	--	Terminal	532
+forts	Word	--	Terminal	533
+que	Word	--	Terminal	534
+vous	Word	--	Terminal	535
+le	Word	--	Terminal	536
+dites	Word	--	Terminal	537
+.	Punctuation	--	Terminal	538
+#500	PNCT	--	U	551
+#501	FN	--	C	549
+#502	FN	--	A	550
+#503	FN	--	F	539
+#504	FN	--	C	539
+#505	FN	--	R	540
+#506	FN	--	E	540
+#507	FN	--	C	540
+#508	PNCT	--	U	550
+#509	FN	--	E	541
+#510	FN	--	E	541
+#511	FN	--	C	541
+#512	PNCT	--	U	551
+#513	FN	--	F	551
+#514	FN	--	L	551	LR	554
+#515	FN	--	L	551	LR	553
+#516	FN	--	E	542
+#517	FN	--	E	542
+#518	FN	--	C	542
+#519	FN	--	S	548
+#520	FN	--	R	543
+#521	FN	--	C	543
+#522	FN	--	R	543	E*	544
+#523	FN	--	C	544
+#524	PNCT	--	U	551
+#525	FN	--	F	546
+#526	FN	--	E	545
+#527	FN	--	D	546
+#528	FN	--	F	546
+#529	PNCT	--	U	546
+#530	FN	--	A	546
+#531	FN	--	F	545
+#532	FN	--	E	545
+#533	FN	--	C	545
+#534	FN	--	L	551	LR	552
+#535	FN	--	A	547
+#536	FN	--	A	547
+#537	FN	--	P	547
+#538	PNCT	--	U	547
+#539	FN	--	P	550
+#540	FN	--	A	550
+#541	FN	--	E	549
+#542	FN	--	A	548
+#543	FN	--	E	544
+#544	FN	--	A	548
+#545	FN	--	S	546
+#546	FN	--	H	551	LA	552	LA	553	LA	554
+#547	FN	--	H	551	LA	552
+#548	FN	--	H	551	LA	553
+#549	FN	--	A	550
+#550	FN	--	H	551	LA	554
+#551	FN	--	--	0
 #552	LKG	--	--	0
 #553	LKG	--	--	0
+#554	LKG	--	--	0
 #EOS 875004
