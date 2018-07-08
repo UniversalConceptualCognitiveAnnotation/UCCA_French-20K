@@ -1,0 +1,24 @@
+#BOS 876002
+L’	Word	--	Terminal	500
+accident	Word	--	Terminal	501
+du	Word	--	Terminal	502
+Scotia	Word	--	Terminal	503
+n’	Word	--	Terminal	504
+était	Word	--	Terminal	505
+pas	Word	--	Terminal	504
+niable	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	E	509
+#501	FN	--	C	509
+#502	FN	--	R	508
+#503	FN	--	C	508
+#504	FN	--	D	511
+#505	FN	--	F	511
+#506	FN	--	P	511
+#507	PNCT	--	U	511
+#508	FN	--	E	509
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 876002

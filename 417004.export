@@ -1,0 +1,68 @@
+#BOS 417004
+Qu'	Word	--	Terminal	500
+il	Word	--	Terminal	501
+y	Word	--	Terminal	501
+eut	Word	--	Terminal	501
+quelque	Word	--	Terminal	502
+chose	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+cela	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+pouvait	Word	--	Terminal	507
+être	Word	--	Terminal	508
+douteux	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+et	Word	--	Terminal	511
+les	Word	--	Terminal	512
+incrédules	Word	--	Terminal	513
+étaient	Word	--	Terminal	514
+invités	Word	--	Terminal	515
+à	Word	--	Terminal	516
+mettre	Word	--	Terminal	517
+le	Word	--	Terminal	518
+doigt	Word	--	Terminal	519
+sur	Word	--	Terminal	520
+la	Word	--	Terminal	521
+plaie	Word	--	Terminal	522
+du	Word	--	Terminal	523
+Scotia	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	L	536	LR	534
+#501	FN	--	P	531
+#502	FN	--	E	526
+#503	FN	--	C	526
+#504	PNCT	--	U	536
+#505	FN	--	A	527
+#506	FN	--	D	527
+#507	FN	--	D	527
+#508	FN	--	F	527
+#509	FN	--	P	527
+#510	PNCT	--	U	536
+#511	FN	--	L	536	LR	537
+#512	FN	--	E	528
+#513	FN	--	C	528	A*	533
+#514	FN	--	F	535
+#515	FN	--	P	535
+#516	FN	--	R	533
+#517	FN	--	P	533
+#518	FN	--	E	529
+#519	FN	--	C	529
+#520	FN	--	R	532
+#521	FN	--	E	532
+#522	FN	--	C	532
+#523	FN	--	R	530
+#524	FN	--	C	530
+#525	PNCT	--	U	530
+#526	FN	--	A	531
+#527	FN	--	H	536
+#528	FN	--	A	535
+#529	FN	--	A	533
+#530	FN	--	E	532
+#531	FN	--	H	536	LA	537	LA	534
+#532	FN	--	A	533
+#533	FN	--	A	535
+#534	LKG	--	--	0
+#535	FN	--	H	536	LA	537
+#536	FN	--	--	0
+#537	LKG	--	--	0
+#EOS 417004

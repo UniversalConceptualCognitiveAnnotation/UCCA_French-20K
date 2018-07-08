@@ -1,0 +1,42 @@
+#BOS 935004
+De	Word	--	Terminal	500
+gros	Word	--	Terminal	501
+nuages	Word	--	Terminal	502
+voilaient	Word	--	Terminal	503
+le	Word	--	Terminal	504
+disque	Word	--	Terminal	505
+de	Word	--	Terminal	506
+la	Word	--	Terminal	507
+lune	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+alors	Word	--	Terminal	510
+dans	Word	--	Terminal	511
+son	Word	--	Terminal	512
+premier	Word	--	Terminal	513
+quartier	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	516
+#501	FN	--	E	516
+#502	FN	--	C	516
+#503	FN	--	P	522
+#504	FN	--	E	517
+#505	FN	--	C	517
+#506	FN	--	R	517
+#507	FN	--	E	521
+#508	FN	--	C	521	A*	520
+#509	PNCT	--	U	521
+#510	FN	--	D	520
+#511	FN	--	R	518
+#512	FN	--	E	518
+#513	FN	--	E	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	A	522
+#517	FN	--	E	521
+#518	FN	--	A	520
+#519	FN	--	S	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 935004

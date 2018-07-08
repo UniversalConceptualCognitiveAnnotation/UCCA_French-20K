@@ -1,0 +1,59 @@
+#BOS 97000
+Le	Word	--	Terminal	500
+Scotia	Word	--	Terminal	501
+n'	Word	--	Terminal	502
+avait	Word	--	Terminal	503
+pas	Word	--	Terminal	502
+heurté	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+il	Word	--	Terminal	506
+avait	Word	--	Terminal	507
+été	Word	--	Terminal	508
+heurté	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+et	Word	--	Terminal	511
+plutôt	Word	--	Terminal	512
+par	Word	--	Terminal	513
+un	Word	--	Terminal	514
+instrument	Word	--	Terminal	515
+tranchant	Word	--	Terminal	516
+ou	Word	--	Terminal	517
+perforant	Word	--	Terminal	518
+que	Word	--	Terminal	519
+contondant	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	E	522
+#501	FN	--	C	522
+#502	FN	--	D	523
+#503	FN	--	F	523
+#504	FN	--	P	523
+#505	PNCT	--	U	532
+#506	FN	--	A	528	A*	531
+#507	FN	--	F	528
+#508	FN	--	F	528
+#509	FN	--	P	528	P*	531
+#510	PNCT	--	U	532
+#511	FN	--	L	532	LR	533
+#512	FN	--	R	531
+#513	FN	--	R	527
+#514	FN	--	E	524
+#515	FN	--	C	524	A*	530
+#516	FN	--	C	525
+#517	FN	--	N	525
+#518	FN	--	C	525
+#519	FN	--	R	531
+#520	FN	--	S	530
+#521	PNCT	--	U	530
+#522	FN	--	A	523
+#523	FN	--	H	532
+#524	FN	--	A	527
+#525	FN	--	S	527
+#526	FN	--	A	528
+#527	FN	--	A	531
+#528	FN	--	H	532	LA	533
+#529	FN	--	D	530
+#530	FN	--	A	531
+#531	FN	--	H	532	LA	533
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 97000

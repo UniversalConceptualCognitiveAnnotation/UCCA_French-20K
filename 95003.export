@@ -1,0 +1,46 @@
+#BOS 95003
+Son	Word	--	Terminal	500
+tirant	Word	--	Terminal	501
+d'	Word	--	Terminal	501
+eau	Word	--	Terminal	501
+était	Word	--	Terminal	502
+alors	Word	--	Terminal	503
+de	Word	--	Terminal	504
+six	Word	--	Terminal	505
+mètres	Word	--	Terminal	505
+soixante-dix	Word	--	Terminal	505
+centimètres	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+et	Word	--	Terminal	507
+son	Word	--	Terminal	508
+déplacement	Word	--	Terminal	509
+de	Word	--	Terminal	510
+six	Word	--	Terminal	511
+mille	Word	--	Terminal	511
+six	Word	--	Terminal	511
+cent	Word	--	Terminal	511
+vingt-quatre	Word	--	Terminal	511
+mètres	Word	--	Terminal	511
+cubes	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	E	513
+#501	FN	--	C	513
+#502	FN	--	S	517	S*	518
+#503	FN	--	T	517
+#504	FN	--	R	514
+#505	FN	--	C	514
+#506	PNCT	--	U	519
+#507	FN	--	L	519
+#508	FN	--	E	515
+#509	FN	--	C	515
+#510	FN	--	R	516
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	A	517
+#514	FN	--	A	517
+#515	FN	--	A	518
+#516	FN	--	A	518
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 95003

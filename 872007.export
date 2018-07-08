@@ -1,0 +1,82 @@
+#BOS 872007
+Ce	Word	--	Terminal	500
+qui	Word	--	Terminal	501
+équivaut	Word	--	Terminal	502
+à	Word	--	Terminal	503
+dire	Word	--	Terminal	504
+que	Word	--	Terminal	505
+si	Word	--	Terminal	506
+vous	Word	--	Terminal	507
+pouviez	Word	--	Terminal	508
+atteindre	Word	--	Terminal	509
+cette	Word	--	Terminal	510
+profondeur	Word	--	Terminal	511
+dans	Word	--	Terminal	512
+l’	Word	--	Terminal	513
+Océan	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+chaque	Word	--	Terminal	516
+centimètre	Word	--	Terminal	517
+carré	Word	--	Terminal	518
+de	Word	--	Terminal	519
+la	Word	--	Terminal	520
+surface	Word	--	Terminal	521
+de	Word	--	Terminal	522
+votre	Word	--	Terminal	523
+corps	Word	--	Terminal	524
+subirait	Word	--	Terminal	525
+une	Word	--	Terminal	526
+pression	Word	--	Terminal	527
+de	Word	--	Terminal	528
+mille	Word	--	Terminal	529
+kilogrammes	Word	--	Terminal	530
+.	Punctuation	--	Terminal	531
+#500	FN	--	F	538
+#501	FN	--	F	538
+#502	FN	--	P	538
+#503	FN	--	F	532
+#504	FN	--	C	532
+#505	FN	--	L	544	LR	546
+#506	FN	--	L	544	LR	545
+#507	FN	--	A	539
+#508	FN	--	D	539
+#509	FN	--	P	539
+#510	FN	--	E	533
+#511	FN	--	C	533
+#512	FN	--	R	534
+#513	FN	--	E	534
+#514	FN	--	C	534
+#515	PNCT	--	U	544
+#516	FN	--	E	541
+#517	FN	--	E	541
+#518	FN	--	C	541
+#519	FN	--	R	540
+#520	FN	--	E	540
+#521	FN	--	C	540
+#522	FN	--	R	535
+#523	FN	--	E	535
+#524	FN	--	C	535
+#525	FN	--	P	543
+#526	FN	--	E	542
+#527	FN	--	C	542
+#528	FN	--	R	536
+#529	FN	--	E	536
+#530	FN	--	C	536
+#531	PNCT	--	U	536
+#532	FN	--	P	537
+#533	FN	--	A	539
+#534	FN	--	A	539
+#535	FN	--	E	540
+#536	FN	--	E	542
+#537	FN	--	A	538
+#538	FN	--	H	544	LA	546
+#539	FN	--	H	544	LA	545
+#540	FN	--	E	541
+#541	FN	--	A	543
+#542	FN	--	A	543
+#543	FN	--	H	544	LA	545	LA	546
+#544	FN	--	H	547
+#545	LKG	--	--	0
+#546	LKG	--	--	0
+#547	FN	--	--	0
+#EOS 872007

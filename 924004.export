@@ -1,0 +1,68 @@
+#BOS 924004
+Cependant	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+personne	Word	--	Terminal	502
+ne	Word	--	Terminal	503
+doutait	Word	--	Terminal	504
+encore	Word	--	Terminal	505
+du	Word	--	Terminal	506
+succès	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+et	Word	--	Terminal	509
+pas	Word	--	Terminal	510
+un	Word	--	Terminal	511
+matelot	Word	--	Terminal	512
+du	Word	--	Terminal	513
+bord	Word	--	Terminal	514
+n’	Word	--	Terminal	515
+eût	Word	--	Terminal	516
+parié	Word	--	Terminal	517
+contre	Word	--	Terminal	518
+le	Word	--	Terminal	519
+narwal	Word	--	Terminal	520
+et	Word	--	Terminal	521
+contre	Word	--	Terminal	522
+sa	Word	--	Terminal	523
+prochaine	Word	--	Terminal	524
+apparition	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	L	537
+#501	PNCT	--	U	537
+#502	FN	--	A	533
+#503	FN	--	D	533
+#504	FN	--	P	533
+#505	FN	--	T	533
+#506	FN	--	R	532
+#507	FN	--	P	527
+#508	PNCT	--	U	537
+#509	FN	--	L	537	LR	538
+#510	FN	--	E	534
+#511	FN	--	E	534
+#512	FN	--	C	534
+#513	FN	--	R	528
+#514	FN	--	C	528
+#515	FN	--	D	536
+#516	FN	--	F	536
+#517	FN	--	P	536
+#518	FN	--	R	529
+#519	FN	--	E	529
+#520	FN	--	C	529	A*	531
+#521	FN	--	N	535
+#522	FN	--	R	531
+#523	FN	--	E	530
+#524	FN	--	D	531
+#525	FN	--	C	530
+#526	PNCT	--	U	530
+#527	FN	--	C	532
+#528	FN	--	E	534
+#529	FN	--	C	535
+#530	FN	--	P	531
+#531	FN	--	C	535
+#532	FN	--	A	533
+#533	FN	--	H	537	LA	538
+#534	FN	--	A	536
+#535	FN	--	A	536
+#536	FN	--	H	537	LA	538
+#537	FN	--	--	0
+#538	LKG	--	--	0
+#EOS 924004

@@ -1,0 +1,39 @@
+#BOS 446005
+Il	Word	--	Terminal	500
+n'	Word	--	Terminal	501
+avait	Word	--	Terminal	502
+qu'	Word	--	Terminal	501
+à	Word	--	Terminal	503
+allumer	Word	--	Terminal	504
+ses	Word	--	Terminal	505
+fourneaux	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+à	Word	--	Terminal	508
+chauffer	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+à	Word	--	Terminal	511
+démarrer	Word	--	Terminal	512
+!	Punctuation	--	Terminal	513
+#500	FN	--	A	520	A*	517	A*	514	A*	515
+#501	FN	--	D	520
+#502	FN	--	P	520
+#503	FN	--	F	520
+#504	FN	--	P	517
+#505	FN	--	E	516
+#506	FN	--	C	516
+#507	PNCT	--	U	519
+#508	FN	--	F	514
+#509	FN	--	P	514
+#510	PNCT	--	U	519
+#511	FN	--	F	515
+#512	FN	--	P	515
+#513	PNCT	--	U	515
+#514	FN	--	C	519
+#515	FN	--	C	519
+#516	FN	--	A	517
+#517	FN	--	C	519
+#518	FN	--	N	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 446005

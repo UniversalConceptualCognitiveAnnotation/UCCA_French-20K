@@ -1,0 +1,52 @@
+#BOS 98000
+Tout	Word	--	Terminal	500
+d'	Word	--	Terminal	500
+abord	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+les	Word	--	Terminal	502
+passagers	Word	--	Terminal	503
+furent	Word	--	Terminal	504
+très	Word	--	Terminal	505
+-	Punctuation	--	Terminal	506
+effrayés	Word	--	Terminal	507
+;	Punctuation	--	Terminal	508
+mais	Word	--	Terminal	509
+le	Word	--	Terminal	510
+capitaine	Word	--	Terminal	511
+Anderson	Word	--	Terminal	512
+se	Word	--	Terminal	513
+hâta	Word	--	Terminal	514
+de	Word	--	Terminal	515
+les	Word	--	Terminal	516
+rassurer	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	526	LR	528
+#501	PNCT	--	U	526
+#502	FN	--	E	519
+#503	FN	--	C	519
+#504	FN	--	F	525
+#505	FN	--	E	520
+#506	PNCT	--	U	520
+#507	FN	--	C	520
+#508	PNCT	--	U	526
+#509	FN	--	L	526	LR	527
+#510	FN	--	E	521
+#511	FN	--	C	521
+#512	FN	--	C	522
+#513	FN	--	E	523
+#514	FN	--	C	523
+#515	FN	--	F	524
+#516	FN	--	A	524
+#517	FN	--	P	524
+#518	PNCT	--	U	524
+#519	FN	--	A	525
+#520	FN	--	S	525
+#521	FN	--	E	522
+#522	FN	--	A	524
+#523	FN	--	D	524
+#524	FN	--	H	526	LA	527
+#525	FN	--	H	526	LA	528
+#526	FN	--	--	0
+#527	LKG	--	--	0
+#528	LKG	--	--	0
+#EOS 98000

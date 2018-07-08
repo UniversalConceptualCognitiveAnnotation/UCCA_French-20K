@@ -1,0 +1,31 @@
+#BOS 418000
+À	Word	--	Terminal	500
+mon	Word	--	Terminal	501
+arrivée	Word	--	Terminal	502
+à	Word	--	Terminal	503
+New	Word	--	Terminal	504
+York	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+la	Word	--	Terminal	506
+question	Word	--	Terminal	507
+brûlait	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	516	LR	517
+#501	FN	--	E	510
+#502	FN	--	C	510
+#503	FN	--	R	511
+#504	FN	--	C	511
+#505	PNCT	--	U	516
+#506	FN	--	E	512
+#507	FN	--	C	512
+#508	FN	--	P	513
+#509	PNCT	--	U	513
+#510	FN	--	P	515
+#511	FN	--	A	515
+#512	FN	--	A	513
+#513	FN	--	H	516
+#514	FN	--	A	515
+#515	FN	--	H	516	LA	517
+#516	FN	--	--	0
+#517	LKG	--	--	0
+#EOS 418000

@@ -1,0 +1,17 @@
+#BOS 918000
+Et	Word	--	Terminal	500
+ils	Word	--	Terminal	501
+l’	Word	--	Terminal	502
+ouvraient	Word	--	Terminal	503
+démesurément	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	L	507	LR	508
+#501	FN	--	A	506
+#502	FN	--	A	506
+#503	FN	--	P	506
+#504	FN	--	D	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507	LA	508
+#507	FN	--	--	0
+#508	LKG	--	--	0
+#EOS 918000

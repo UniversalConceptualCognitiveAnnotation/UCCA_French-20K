@@ -1,0 +1,24 @@
+#BOS 932002
+L’	Word	--	Terminal	500
+Océan	Word	--	Terminal	501
+fut	Word	--	Terminal	502
+observé	Word	--	Terminal	503
+avec	Word	--	Terminal	504
+une	Word	--	Terminal	505
+nouvelle	Word	--	Terminal	506
+attention	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	E	509
+#501	FN	--	C	509
+#502	FN	--	F	511
+#503	FN	--	P	511
+#504	FN	--	R	510
+#505	FN	--	E	510
+#506	FN	--	E	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 932002

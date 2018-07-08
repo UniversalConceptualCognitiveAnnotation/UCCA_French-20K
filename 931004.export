@@ -1,0 +1,86 @@
+#BOS 931004
+Si	Word	--	Terminal	500
+dans	Word	--	Terminal	501
+le	Word	--	Terminal	502
+délai	Word	--	Terminal	503
+de	Word	--	Terminal	504
+trois	Word	--	Terminal	505
+jours	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+le	Word	--	Terminal	508
+monstre	Word	--	Terminal	509
+n’	Word	--	Terminal	510
+avait	Word	--	Terminal	511
+pas	Word	--	Terminal	510
+paru	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+l’	Word	--	Terminal	514
+homme	Word	--	Terminal	515
+de	Word	--	Terminal	516
+barre	Word	--	Terminal	517
+donnerait	Word	--	Terminal	518
+trois	Word	--	Terminal	519
+tours	Word	--	Terminal	520
+de	Word	--	Terminal	521
+roue	Word	--	Terminal	522
+,	Punctuation	--	Terminal	523
+et	Word	--	Terminal	524
+l	Word	--	Terminal	525
+'	Punctuation	--	Terminal	526
+Abraham-Lincoln	Word	--	Terminal	527
+ferait	Word	--	Terminal	528
+route	Word	--	Terminal	528
+vers	Word	--	Terminal	529
+les	Word	--	Terminal	530
+mers	Word	--	Terminal	531
+européennes	Word	--	Terminal	532
+.	Punctuation	--	Terminal	533
+#500	FN	--	L	545	LR	547
+#501	FN	--	R	534
+#502	FN	--	E	534
+#503	FN	--	C	534
+#504	FN	--	R	534
+#505	FN	--	E	535
+#506	FN	--	C	535
+#507	PNCT	--	U	537
+#508	FN	--	E	536
+#509	FN	--	C	536
+#510	FN	--	D	537
+#511	FN	--	F	537
+#512	FN	--	P	537
+#513	PNCT	--	U	545
+#514	FN	--	E	543
+#515	FN	--	C	543
+#516	FN	--	R	538
+#517	FN	--	C	538
+#518	FN	--	D	544
+#519	FN	--	D	544
+#520	FN	--	P	544
+#521	FN	--	R	539
+#522	FN	--	C	539
+#523	PNCT	--	U	545
+#524	FN	--	L	545	LR	546
+#525	FN	--	E	540
+#526	PNCT	--	U	540
+#527	FN	--	C	540
+#528	FN	--	P	542
+#529	FN	--	R	541
+#530	FN	--	E	541
+#531	FN	--	C	541
+#532	FN	--	E	541
+#533	PNCT	--	U	541
+#534	FN	--	E	535
+#535	FN	--	T	537
+#536	FN	--	A	537
+#537	FN	--	H	545	LA	547
+#538	FN	--	E	543
+#539	FN	--	A	544
+#540	FN	--	A	542
+#541	FN	--	A	542
+#542	FN	--	H	545	LA	546
+#543	FN	--	A	544
+#544	FN	--	H	545	LA	546	LA	547
+#545	FN	--	--	0
+#546	LKG	--	--	0
+#547	LKG	--	--	0
+#EOS 931004
