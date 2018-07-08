@@ -23,7 +23,7 @@ bois	Word	--	Terminal	520
 et	Word	--	Terminal	521
 à	Word	--	Terminal	522
 roues	Word	--	Terminal	523
-d\u2019	Word	--	Terminal	524
+d'	Word	--	Terminal	524
 une	Word	--	Terminal	525
 force	Word	--	Terminal	526
 de	Word	--	Terminal	527
@@ -32,7 +32,7 @@ cents	Word	--	Terminal	528
 chevaux	Word	--	Terminal	529
 ,	Punctuation	--	Terminal	530
 et	Word	--	Terminal	531
-d\u2019	Word	--	Terminal	532
+d'	Word	--	Terminal	532
 une	Word	--	Terminal	533
 jauge	Word	--	Terminal	534
 de	Word	--	Terminal	535
@@ -81,7 +81,7 @@ tonneaux	Word	--	Terminal	537
 #537	FN	--	C	545
 #538	PNCT	--	U	545
 #539	FN	--	A	553
-#540	FN	--	D	553
+#540	FN	--	T	553
 #541	FN	--	C	546
 #542	FN	--	C	548
 #543	FN	--	C	548

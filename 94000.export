@@ -8,7 +8,7 @@ très	Word	--	Terminal	505
 -	Punctuation	--	Terminal	506
 succincts	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
-c\u2019	Word	--	Terminal	509
+c'	Word	--	Terminal	509
 est	Word	--	Terminal	510
 afin	Word	--	Terminal	511
 que	Word	--	Terminal	512
@@ -17,7 +17,7 @@ sache	Word	--	Terminal	514
 bien	Word	--	Terminal	515
 quelle	Word	--	Terminal	516
 est	Word	--	Terminal	517
-l\u2019	Word	--	Terminal	518
+l'	Word	--	Terminal	518
 importance	Word	--	Terminal	519
 de	Word	--	Terminal	520
 cette	Word	--	Terminal	521
@@ -35,7 +35,7 @@ son	Word	--	Terminal	532
 intelligente	Word	--	Terminal	533
 gestion	Word	--	Terminal	534
 .	Punctuation	--	Terminal	535
-#500	FN	--	L	550	LR	545
+#500	FN	--	L	549	LR	545
 #501	FN	--	A	542
 #502	FN	--	P	542
 #503	FN	--	E	541
@@ -43,18 +43,18 @@ gestion	Word	--	Terminal	534
 #505	FN	--	E	536
 #506	PNCT	--	U	536
 #507	FN	--	C	536
-#508	PNCT	--	U	550
-#509	FN	--	A	549
-#510	FN	--	F	537
-#511	FN	--	C	537
-#512	FN	--	R	548
-#513	FN	--	A	548
-#514	FN	--	P	548
-#515	FN	--	D	548
-#516	FN	--	R	547
-#517	FN	--	S	547
-#518	FN	--	E	546
-#519	FN	--	C	546
+#508	PNCT	--	U	549
+#509	FN	--	A	548
+#510	FN	--	F	548
+#511	FN	--	S	548
+#512	FN	--	R	547
+#513	FN	--	A	547
+#514	FN	--	P	547
+#515	FN	--	D	547
+#516	FN	--	R	546
+#517	FN	--	F	546
+#518	FN	--	E	537
+#519	FN	--	C	537
 #520	FN	--	R	544
 #521	FN	--	E	544
 #522	FN	--	C	544	A*	543
@@ -72,18 +72,17 @@ gestion	Word	--	Terminal	534
 #534	FN	--	C	540
 #535	PNCT	--	U	540
 #536	FN	--	E	541
-#537	FN	--	S	549
+#537	FN	--	S	546
 #538	FN	--	E	544
 #539	FN	--	A	543
 #540	FN	--	A	543
 #541	FN	--	A	542
-#542	FN	--	H	550	LA	545
+#542	FN	--	H	549	LA	545
 #543	FN	--	E	544
-#544	FN	--	E	546
+#544	FN	--	A	546
 #545	LKG	--	--	0
 #546	FN	--	A	547
 #547	FN	--	A	548
-#548	FN	--	A	549
-#549	FN	--	H	550
-#550	FN	--	--	0
+#548	FN	--	H	549
+#549	FN	--	--	0
 #EOS 94000

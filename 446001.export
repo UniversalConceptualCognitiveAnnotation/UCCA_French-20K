@@ -1,6 +1,6 @@
 #BOS 446001
 On	Word	--	Terminal	500
-n\u2019	Word	--	Terminal	501
+n'	Word	--	Terminal	501
 accorda	Word	--	Terminal	502
 pas	Word	--	Terminal	501
 vingt-quatre	Word	--	Terminal	503
@@ -14,15 +14,15 @@ Farragut	Word	--	Terminal	509
 #500	FN	--	A	514
 #501	FN	--	D	514
 #502	FN	--	P	514
-#503	FN	--	E	513
-#504	FN	--	C	513
-#505	FN	--	R	511
-#506	FN	--	C	511
-#507	FN	--	R	512
-#508	FN	--	E	512
-#509	FN	--	C	512
-#510	PNCT	--	U	512
-#511	FN	--	E	513
+#503	FN	--	E	511
+#504	FN	--	C	511
+#505	FN	--	R	512
+#506	FN	--	C	512
+#507	FN	--	R	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	T	514
 #512	FN	--	A	514
 #513	FN	--	A	514
 #514	FN	--	H	515

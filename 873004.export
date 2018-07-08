@@ -1,65 +1,23 @@
 #BOS 873004
-Et	Word	--	Terminal	500
-si	Word	--	Terminal	501
-vous	Word	--	Terminal	502
-n’	Word	--	Terminal	503
-êtes	Word	--	Terminal	504
-pas	Word	--	Terminal	503
-écrasé	Word	--	Terminal	505
-par	Word	--	Terminal	506
-une	Word	--	Terminal	507
-telle	Word	--	Terminal	508
-pression	Word	--	Terminal	509
-,	Punctuation	--	Terminal	510
-c’	Word	--	Terminal	511
-est	Word	--	Terminal	511
-que	Word	--	Terminal	511
-l’air	Word	--	Terminal	512
-pénètre	Word	--	Terminal	513
-à	Word	--	Terminal	514
-l’	Word	--	Terminal	515
-intérieur	Word	--	Terminal	516
-de	Word	--	Terminal	517
-votre	Word	--	Terminal	518
-corps	Word	--	Terminal	519
-avec	Word	--	Terminal	520
-une	Word	--	Terminal	521
-pression	Word	--	Terminal	522
-égale	Word	--	Terminal	523
-.	Punctuation	--	Terminal	524
-#500	FN	--	L	532
-#501	FN	--	L	532	LR	534
-#502	FN	--	A	530
-#503	FN	--	D	530
-#504	FN	--	F	525
-#505	FN	--	C	525
-#506	FN	--	R	526
-#507	FN	--	E	526
-#508	FN	--	E	526
-#509	FN	--	C	526
-#510	PNCT	--	U	532
-#511	FN	--	L	532	LR	533
-#512	FN	--	A	531
-#513	FN	--	P	531
-#514	FN	--	R	527
-#515	FN	--	E	527
-#516	FN	--	C	527
-#517	FN	--	R	527
-#518	FN	--	E	528
-#519	FN	--	C	528
-#520	FN	--	R	529
-#521	FN	--	E	529
-#522	FN	--	C	529
-#523	FN	--	E	529
-#524	PNCT	--	U	529
-#525	FN	--	P	530
-#526	FN	--	A	530
-#527	FN	--	E	528
-#528	FN	--	A	531
-#529	FN	--	D	531
-#530	FN	--	H	532	LA	533	LA	534
-#531	FN	--	H	532	LA	533
-#532	FN	--	--	0
-#533	LKG	--	--	0
-#534	LKG	--	--	0
+—	Punctuation	--	Terminal	500
+Sans	Word	--	Terminal	501
+que	Word	--	Terminal	501
+je	Word	--	Terminal	502
+m’	Word	--	Terminal	503
+en	Word	--	Terminal	504
+aperçoive	Word	--	Terminal	503
+?	Punctuation	--	Terminal	505
+#500	PNCT	--	U	507
+#501	FN	--	L	507	LR	508
+#502	FN	--	A	506
+#503	FN	--	P	506
+#504	FN	--	A	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507	LA	508
+#507	FN	--	A	511
+#508	LKG	--	--	0
+#509	FN	--	A	511
+#510	FN	--	P	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 873004

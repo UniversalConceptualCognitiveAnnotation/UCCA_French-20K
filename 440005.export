@@ -18,7 +18,7 @@ recèlent	Word	--	Terminal	514
 elles	Word	--	Terminal	516
 des	Word	--	Terminal	517
 mollusques	Word	--	Terminal	518
-d\u2019	Word	--	Terminal	519
+d'	Word	--	Terminal	519
 une	Word	--	Terminal	520
 incomparable	Word	--	Terminal	521
 taille	Word	--	Terminal	522
@@ -57,8 +57,8 @@ tonnes	Word	--	Terminal	542
 #509	FN	--	R	546
 #510	FN	--	C	546
 #511	PNCT	--	U	567
-#512	FN	--	L	567	LR	568
-#513	FN	--	G	567
+#512	FN	--	L	567
+#513	FN	--	G	566
 #514	FN	--	P	566
 #515	PNCT	--	U	566
 #516	FN	--	A	566
@@ -107,11 +107,10 @@ tonnes	Word	--	Terminal	542
 #559	FN	--	A	562
 #560	FN	--	C	561
 #561	FN	--	A	563
-#562	FN	--	H	567	LA	568
+#562	FN	--	H	567
 #563	FN	--	E	564
 #564	FN	--	C	565
 #565	FN	--	A	566
-#566	FN	--	H	567	LA	568
+#566	FN	--	H	567
 #567	FN	--	--	0
-#568	LKG	--	--	0
 #EOS 440005

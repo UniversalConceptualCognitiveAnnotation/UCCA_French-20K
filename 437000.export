@@ -2,13 +2,13 @@
 «	Punctuation	--	Terminal	500
 Donc	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
-jusqu\u2019	Word	--	Terminal	503
+jusqu'	Word	--	Terminal	503
 à	Word	--	Terminal	503
 plus	Word	--	Terminal	504
 amples	Word	--	Terminal	505
 informations	Word	--	Terminal	506
 ,	Punctuation	--	Terminal	507
-j\u2019	Word	--	Terminal	508
+j'	Word	--	Terminal	508
 opinerais	Word	--	Terminal	509
 pour	Word	--	Terminal	510
 une	Word	--	Terminal	511
@@ -24,12 +24,12 @@ armée	Word	--	Terminal	520
 ,	Punctuation	--	Terminal	521
 non	Word	--	Terminal	522
 plus	Word	--	Terminal	522
-d\u2019	Word	--	Terminal	523
+d'	Word	--	Terminal	523
 une	Word	--	Terminal	524
 hallebarde	Word	--	Terminal	525
 ,	Punctuation	--	Terminal	526
 mais	Word	--	Terminal	527
-d\u2019	Word	--	Terminal	528
+d'	Word	--	Terminal	528
 un	Word	--	Terminal	529
 véritable	Word	--	Terminal	530
 éperon	Word	--	Terminal	531
@@ -137,6 +137,10 @@ motrice	Word	--	Terminal	555
 #576	FN	--	E	577
 #577	FN	--	A	578
 #578	FN	--	H	579	LA	580
-#579	FN	--	--	0
+#579	FN	--	A	583
 #580	LKG	--	--	0
+#581	FN	--	A	583
+#582	FN	--	P	583
+#583	FN	--	H	584
+#584	FN	--	--	0
 #EOS 437000

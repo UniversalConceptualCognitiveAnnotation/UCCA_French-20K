@@ -1,27 +1,35 @@
 #BOS 940004
-Et	Word	--	Terminal	500
-j’	Word	--	Terminal	501
-aurais	Word	--	Terminal	502
-déjà	Word	--	Terminal	503
-classé	Word	--	Terminal	504
-les	Word	--	Terminal	505
-fossiles	Word	--	Terminal	506
-de	Word	--	Terminal	507
-monsieur	Word	--	Terminal	508
-!	Punctuation	--	Terminal	509
-#500	FN	--	L	514
-#501	FN	--	A	513
-#502	FN	--	F	510
-#503	FN	--	D	513
-#504	FN	--	C	510
-#505	FN	--	E	512
-#506	FN	--	C	512
+—	Punctuation	--	Terminal	500
+Eh	Word	--	Terminal	501
+bien	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+monsieur	Word	--	Terminal	503
+n’	Word	--	Terminal	504
+aura	Word	--	Terminal	505
+que	Word	--	Terminal	504
+ce	Word	--	Terminal	506
+qu’	Word	--	Terminal	507
+il	Word	--	Terminal	508
+mérite	Word	--	Terminal	509
+!	Punctuation	--	Terminal	510
+#500	PNCT	--	U	514
+#501	FN	--	L	514	LR	515
+#502	PNCT	--	U	514
+#503	FN	--	A	513
+#504	FN	--	D	513
+#505	FN	--	P	513
+#506	FN	--	C	512	A*	511
 #507	FN	--	R	511
-#508	FN	--	C	511
-#509	PNCT	--	U	511
-#510	FN	--	P	513
+#508	FN	--	A	511
+#509	FN	--	P	511
+#510	PNCT	--	U	511
 #511	FN	--	E	512
 #512	FN	--	A	513
-#513	FN	--	H	514
-#514	FN	--	--	0
+#513	FN	--	H	514	LA	515
+#514	FN	--	A	518
+#515	LKG	--	--	0
+#516	FN	--	A	518
+#517	FN	--	P	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 940004

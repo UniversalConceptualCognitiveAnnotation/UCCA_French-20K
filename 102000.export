@@ -13,14 +13,14 @@ de	Word	--	Terminal	510
 passionner	Word	--	Terminal	511
 à	Word	--	Terminal	512
 nouveau	Word	--	Terminal	513
-l\u2019opinion	Word	--	Terminal	514
+l'opinion	Word	--	Terminal	514
 publique	Word	--	Terminal	515
 .	Punctuation	--	Terminal	516
 #500	FN	--	A	524
 #501	FN	--	S	524
 #502	FN	--	E	523
 #503	FN	--	E	523
-#504	FN	--	C	523	A*	522
+#504	FN	--	C	523	A*	522	A*	521
 #505	PNCT	--	U	523
 #506	FN	--	R	522
 #507	FN	--	F	517

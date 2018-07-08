@@ -68,11 +68,11 @@ hasard	Word	--	Terminal	561
 #502	FN	--	P	572
 #503	PNCT	--	U	594
 #504	FN	--	F	574
-#505	FN	--	E	563
-#506	FN	--	C	563
-#507	FN	--	E	564
-#508	FN	--	C	564
-#509	FN	--	E	564
+#505	FN	--	D	574
+#506	FN	--	P	574
+#507	FN	--	E	563
+#508	FN	--	C	563
+#509	FN	--	S	564
 #510	PNCT	--	U	594
 #511	FN	--	L	594	LR	596
 #512	FN	--	A	577
@@ -89,7 +89,7 @@ hasard	Word	--	Terminal	561
 #523	PNCT	--	U	594
 #524	FN	--	F	583
 #525	FN	--	F	583
-#526	FN	--	F	565
+#526	FN	--	F	583
 #527	FN	--	E	565
 #528	FN	--	C	565
 #529	FN	--	R	566
@@ -104,7 +104,7 @@ hasard	Word	--	Terminal	561
 #538	PNCT	--	U	594
 #539	FN	--	F	588
 #540	FN	--	F	588
-#541	FN	--	F	567
+#541	FN	--	F	588
 #542	FN	--	E	567
 #543	FN	--	C	567
 #544	FN	--	R	568
@@ -120,13 +120,13 @@ hasard	Word	--	Terminal	561
 #554	PNCT	--	U	594
 #555	FN	--	F	593
 #556	FN	--	F	593
-#557	FN	--	F	569
+#557	FN	--	F	593
 #558	FN	--	E	569
 #559	FN	--	C	569
 #560	FN	--	R	570
 #561	FN	--	C	570
 #562	PNCT	--	U	570
-#563	FN	--	P	574
+#563	FN	--	A	564
 #564	FN	--	A	574
 #565	FN	--	P	583
 #566	FN	--	A	583

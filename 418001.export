@@ -1,13 +1,13 @@
 #BOS 418001
-L\u2019	Word	--	Terminal	500
+L'	Word	--	Terminal	500
 hypothèse	Word	--	Terminal	501
 de	Word	--	Terminal	502
-l\u2019	Word	--	Terminal	503
+l'	Word	--	Terminal	503
 îlot	Word	--	Terminal	504
 flottant	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
 de	Word	--	Terminal	507
-l\u2019	Word	--	Terminal	508
+l'	Word	--	Terminal	508
 écueil	Word	--	Terminal	509
 insaisissable	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
@@ -23,38 +23,38 @@ absolument	Word	--	Terminal	520
 abandonnée	Word	--	Terminal	521
 .	Punctuation	--	Terminal	522
 #500	FN	--	E	534
-#501	FN	--	C	534	A*	529
-#502	FN	--	R	527
-#503	FN	--	E	527
-#504	FN	--	C	527	A*	523
+#501	FN	--	C	534	A*	533
+#502	FN	--	R	525
+#503	FN	--	E	525
+#504	FN	--	C	525	A*	523
 #505	FN	--	P	523
-#506	PNCT	--	U	533
-#507	FN	--	R	532
-#508	FN	--	E	532
-#509	FN	--	C	532	A*	531
-#510	FN	--	P	531
+#506	PNCT	--	U	532
+#507	FN	--	R	531
+#508	FN	--	E	531
+#509	FN	--	C	531	A*	530
+#510	FN	--	P	530
 #511	PNCT	--	U	534
-#512	FN	--	P	529
-#513	FN	--	R	526
-#514	FN	--	E	526
-#515	FN	--	C	526
+#512	FN	--	P	533
+#513	FN	--	R	529
+#514	FN	--	E	529
+#515	FN	--	C	529	A*	527
 #516	FN	--	E	524
 #517	FN	--	C	524
 #518	PNCT	--	U	535
-#519	FN	--	F	525
+#519	FN	--	F	535
 #520	FN	--	D	535
-#521	FN	--	C	525
-#522	PNCT	--	U	525
-#523	FN	--	E	527
-#524	FN	--	E	526
-#525	FN	--	P	535
-#526	FN	--	A	529
-#527	FN	--	C	533
-#528	FN	--	A	531
-#529	FN	--	E	534
-#530	FN	--	A	535
-#531	FN	--	E	532
-#532	FN	--	C	533
+#521	FN	--	P	535
+#522	PNCT	--	U	535
+#523	FN	--	E	525
+#524	FN	--	S	527
+#525	FN	--	C	532
+#526	FN	--	A	530
+#527	FN	--	E	529
+#528	FN	--	A	535
+#529	FN	--	A	533
+#530	FN	--	E	531
+#531	FN	--	C	532
+#532	FN	--	E	534
 #533	FN	--	E	534
 #534	FN	--	A	535
 #535	FN	--	H	536

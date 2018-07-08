@@ -32,13 +32,13 @@ dessus	Word	--	Terminal	528
 des	Word	--	Terminal	529
 flots	Word	--	Terminal	530
 .	Punctuation	--	Terminal	531
-#500	FN	--	L	543
+#500	FN	--	L	544
 #501	FN	--	E	532
 #502	FN	--	E	532
 #503	FN	--	C	532
-#504	FN	--	A	542
-#505	FN	--	F	533
-#506	FN	--	E	533
+#504	FN	--	A	543
+#505	FN	--	F	543
+#506	FN	--	P	543
 #507	FN	--	E	533
 #508	FN	--	C	533
 #509	FN	--	R	534
@@ -49,8 +49,8 @@ flots	Word	--	Terminal	530
 #514	FN	--	R	535
 #515	FN	--	E	535
 #516	FN	--	C	535
-#517	PNCT	--	U	543
-#518	FN	--	L	543	LR	544
+#517	PNCT	--	U	544
+#518	FN	--	L	544	LR	545
 #519	FN	--	E	536
 #520	FN	--	E	536
 #521	FN	--	C	536
@@ -64,17 +64,18 @@ flots	Word	--	Terminal	530
 #529	FN	--	R	538	E*	539
 #530	FN	--	C	539
 #531	PNCT	--	U	539
-#532	FN	--	D	542
-#533	FN	--	P	542
+#532	FN	--	D	543
+#533	FN	--	S	542
 #534	FN	--	C	541
 #535	FN	--	C	541
 #536	FN	--	A	540
 #537	FN	--	A	540
 #538	FN	--	E	539
 #539	FN	--	A	540
-#540	FN	--	H	543	LA	544
+#540	FN	--	H	544	LA	545
 #541	FN	--	A	542
-#542	FN	--	H	543	LA	544
-#543	FN	--	--	0
-#544	LKG	--	--	0
+#542	FN	--	A	543
+#543	FN	--	H	544	LA	545
+#544	FN	--	--	0
+#545	LKG	--	--	0
 #EOS 919003

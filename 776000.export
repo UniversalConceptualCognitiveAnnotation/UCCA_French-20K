@@ -10,18 +10,21 @@ une	Word	--	Terminal	507
 troisième	Word	--	Terminal	508
 fois	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
-#500	PNCT	--	U	512
-#501	FN	--	H	513	A*	512
-#502	PNCT	--	U	513
-#503	PNCT	--	U	513
-#504	FN	--	P	512
-#505	PNCT	--	U	512
-#506	FN	--	A	512
+#500	PNCT	--	U	515
+#501	FN	--	G	514
+#502	PNCT	--	U	515
+#503	PNCT	--	U	515
+#504	FN	--	P	515
+#505	PNCT	--	U	515
+#506	FN	--	A	515
 #507	FN	--	E	511
 #508	FN	--	E	511
 #509	FN	--	C	511
 #510	PNCT	--	U	511
-#511	FN	--	D	512
-#512	FN	--	H	513
-#513	FN	--	--	0
+#511	FN	--	D	515
+#512	FN	--	A	514
+#513	FN	--	P	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
 #EOS 776000

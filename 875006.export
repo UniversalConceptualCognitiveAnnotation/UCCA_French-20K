@@ -1,21 +1,25 @@
 #BOS 875006
 —	Punctuation	--	Terminal	500
-C’est	Word	--	Terminal	501
-peut-être…	Word	--	Terminal	501
-,	Punctuation	--	Terminal	502
-dit	Word	--	Terminal	503
-Ned	Word	--	Terminal	504
-hésitant	Word	--	Terminal	505
-.	Punctuation	--	Terminal	506
-#500	PNCT	--	U	510
-#501	FN	--	H	510	A*	509
-#502	PNCT	--	U	510
-#503	FN	--	P	509
-#504	FN	--	A	509	A*	507
-#505	FN	--	P	507
-#506	PNCT	--	U	507
-#507	FN	--	H	510
-#508	FN	--	A	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+C’	Word	--	Terminal	501
+est	Word	--	Terminal	502
+peut-être…	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+dit	Word	--	Terminal	505
+Ned	Word	--	Terminal	506
+hésitant	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	PNCT	--	U	512
+#501	FN	--	A	509
+#502	FN	--	S	509
+#503	FN	--	D	509
+#504	PNCT	--	U	512
+#505	FN	--	P	512
+#506	FN	--	C	511	A*	510
+#507	FN	--	P	510
+#508	PNCT	--	U	510
+#509	FN	--	A	512
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 875006

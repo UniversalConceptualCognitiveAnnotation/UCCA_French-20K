@@ -9,19 +9,18 @@ elles	Word	--	Terminal	506
 fort	Word	--	Terminal	507
 limitées	Word	--	Terminal	508
 .	Punctuation	--	Terminal	509
-#500	FN	--	L	513	LR	514
-#501	PNCT	--	U	513
+#500	FN	--	L	512	LR	513
+#501	PNCT	--	U	512
 #502	FN	--	E	510
 #503	FN	--	C	510
 #504	FN	--	F	511
-#505	PNCT	--	U	512
-#506	FN	--	F	512
-#507	FN	--	D	512
-#508	FN	--	C	511
+#505	PNCT	--	U	511
+#506	FN	--	F	511
+#507	FN	--	D	511
+#508	FN	--	S	511
 #509	PNCT	--	U	511
-#510	FN	--	A	512
-#511	FN	--	S	512
-#512	FN	--	H	513	LA	514
-#513	FN	--	--	0
-#514	LKG	--	--	0
+#510	FN	--	A	511
+#511	FN	--	H	512	LA	513
+#512	FN	--	--	0
+#513	LKG	--	--	0
 #EOS 924003

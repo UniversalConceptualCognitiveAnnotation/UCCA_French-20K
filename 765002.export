@@ -6,15 +6,14 @@ put	Word	--	Terminal	503
 me	Word	--	Terminal	504
 retenir	Word	--	Terminal	505
 .	Punctuation	--	Terminal	506
-#500	FN	--	L	509	LR	510
-#501	FN	--	A	508
-#502	FN	--	D	508
-#503	FN	--	E	507
-#504	FN	--	A	508
-#505	FN	--	C	507
+#500	FN	--	L	508	LR	509
+#501	FN	--	A	507
+#502	FN	--	D	507
+#503	FN	--	D	507
+#504	FN	--	A	507
+#505	FN	--	P	507
 #506	PNCT	--	U	507
-#507	FN	--	P	508
-#508	FN	--	H	509	LA	510
-#509	FN	--	--	0
-#510	LKG	--	--	0
+#507	FN	--	H	508	LA	509
+#508	FN	--	--	0
+#509	LKG	--	--	0
 #EOS 765002

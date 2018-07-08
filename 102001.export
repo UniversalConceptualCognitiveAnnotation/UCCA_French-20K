@@ -10,7 +10,7 @@ les	Word	--	Terminal	507
 sinistres	Word	--	Terminal	508
 maritimes	Word	--	Terminal	509
 qui	Word	--	Terminal	510
-n\u2019avaient	Word	--	Terminal	511
+n'avaient	Word	--	Terminal	511
 pas	Word	--	Terminal	512
 de	Word	--	Terminal	513
 cause	Word	--	Terminal	514
@@ -31,7 +31,7 @@ monstre	Word	--	Terminal	518
 #505	FN	--	C	521
 #506	PNCT	--	U	527
 #507	FN	--	E	525
-#508	FN	--	C	525
+#508	FN	--	C	525	A*	524
 #509	FN	--	E	525
 #510	FN	--	R	524
 #511	FN	--	P	524
@@ -43,7 +43,7 @@ monstre	Word	--	Terminal	518
 #517	FN	--	R	523
 #518	FN	--	C	523
 #519	PNCT	--	U	523
-#520	FN	--	D	526
+#520	FN	--	T	526
 #521	FN	--	L	527	LR	528
 #522	FN	--	A	524
 #523	FN	--	A	526

@@ -11,30 +11,26 @@ voyage	Word	--	Terminal	507
 fatigué	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
 avide	Word	--	Terminal	511
-de	Word	--	Terminal	512
-repos	Word	--	Terminal	513
-.	Punctuation	--	Terminal	514
-#500	FN	--	L	522	LR	519
-#501	PNCT	--	U	522
-#502	FN	--	A	517	A*	521
-#503	FN	--	P	517
-#504	FN	--	R	515
-#505	FN	--	E	515
-#506	FN	--	E	515
-#507	FN	--	C	515
-#508	PNCT	--	U	522
-#509	FN	--	C	520
-#510	PNCT	--	U	520
-#511	FN	--	C	518
-#512	FN	--	R	516
-#513	FN	--	C	516
-#514	PNCT	--	U	516
-#515	FN	--	A	517
-#516	FN	--	E	518
-#517	FN	--	H	522	LA	519
-#518	FN	--	C	520
-#519	LKG	--	--	0
-#520	FN	--	S	521
-#521	FN	--	H	522
-#522	FN	--	--	0
+de	Word	--	Terminal	511
+repos	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	517	LR	518
+#501	PNCT	--	U	517
+#502	FN	--	A	515	A*	516
+#503	FN	--	P	515
+#504	FN	--	R	513
+#505	FN	--	E	513
+#506	FN	--	E	513
+#507	FN	--	C	513
+#508	PNCT	--	U	517
+#509	FN	--	C	514
+#510	PNCT	--	U	514
+#511	FN	--	C	514
+#512	PNCT	--	U	514
+#513	FN	--	A	515
+#514	FN	--	S	516
+#515	FN	--	H	517	LA	518
+#516	FN	--	H	517
+#517	FN	--	--	0
+#518	LKG	--	--	0
 #EOS 765000

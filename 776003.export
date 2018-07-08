@@ -1,18 +1,54 @@
 #BOS 776003
-dit	Word	--	Terminal	500
--	Punctuation	--	Terminal	501
-il	Word	--	Terminal	502
-en	Word	--	Terminal	503
-entrant	Word	--	Terminal	504
-.	Punctuation	--	Terminal	505
-#500	FN	--	P	506
-#501	PNCT	--	U	506
-#502	FN	--	A	506	A*	507
-#503	FN	--	L	508	LR	509
-#504	FN	--	P	507
-#505	PNCT	--	U	507
-#506	FN	--	H	508	LA	509
-#507	FN	--	H	508	LA	509
-#508	FN	--	--	0
-#509	LKG	--	--	0
+–	Punctuation	--	Terminal	500
+Oui	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+mon	Word	--	Terminal	503
+garçon	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+Prépare	Word	--	Terminal	505
+-	Punctuation	--	Terminal	506
+moi	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+prépare	Word	--	Terminal	509
+-	Punctuation	--	Terminal	510
+toi	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+Nous	Word	--	Terminal	513
+partons	Word	--	Terminal	514
+dans	Word	--	Terminal	515
+deux	Word	--	Terminal	516
+heures	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	PNCT	--	U	527
+#501	FN	--	D	522
+#502	PNCT	--	U	522
+#503	FN	--	G	522
+#504	PNCT	--	U	527
+#505	FN	--	P	524
+#506	PNCT	--	U	524
+#507	FN	--	A	524
+#508	PNCT	--	U	527
+#509	FN	--	P	526
+#510	PNCT	--	U	526
+#511	FN	--	A	526
+#512	PNCT	--	U	527
+#513	FN	--	A	520
+#514	FN	--	P	520
+#515	FN	--	R	519
+#516	FN	--	E	519
+#517	FN	--	C	519
+#518	PNCT	--	U	519
+#519	FN	--	T	520
+#520	FN	--	H	527
+#521	FN	--	A	522
+#522	FN	--	H	527
+#523	FN	--	A	524
+#524	FN	--	H	527
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	A	530
+#528	FN	--	A	530
+#529	FN	--	P	530
+#530	FN	--	H	531
+#531	FN	--	--	0
 #EOS 776003

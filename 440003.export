@@ -1,5 +1,5 @@
 #BOS 440003
-L\u2019esprit	Word	--	Terminal	500
+L'esprit	Word	--	Terminal	500
 humain	Word	--	Terminal	501
 se	Word	--	Terminal	502
 plaît	Word	--	Terminal	502
@@ -7,7 +7,7 @@ plaît	Word	--	Terminal	502
 ces	Word	--	Terminal	504
 conceptions	Word	--	Terminal	505
 grandioses	Word	--	Terminal	506
-d\u2019	Word	--	Terminal	507
+d'	Word	--	Terminal	507
 êtres	Word	--	Terminal	508
 surnaturels	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510

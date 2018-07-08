@@ -1,5 +1,5 @@
 #BOS 446000
-L\u2019	Word	--	Terminal	500
+L'	Word	--	Terminal	500
 émotion	Word	--	Terminal	501
 causée	Word	--	Terminal	502
 par	Word	--	Terminal	503
@@ -8,19 +8,18 @@ nouvelle	Word	--	Terminal	505
 fut	Word	--	Terminal	506
 extrême	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	E	512
-#501	FN	--	C	512	A*	511
-#502	FN	--	P	511
+#500	FN	--	E	511
+#501	FN	--	C	511	A*	510
+#502	FN	--	P	510
 #503	FN	--	R	509
 #504	FN	--	E	509
 #505	FN	--	C	509
-#506	FN	--	F	510
-#507	FN	--	C	510
-#508	PNCT	--	U	510
-#509	FN	--	A	511
-#510	FN	--	S	513
-#511	FN	--	E	512
-#512	FN	--	A	513
-#513	FN	--	H	514
-#514	FN	--	--	0
+#506	FN	--	F	512
+#507	FN	--	S	512
+#508	PNCT	--	U	512
+#509	FN	--	A	510
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 446000

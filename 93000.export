@@ -1,6 +1,6 @@
 #BOS 93000
 Personne	Word	--	Terminal	500
-n\u2019	Word	--	Terminal	501
+n'	Word	--	Terminal	501
 ignore	Word	--	Terminal	502
 le	Word	--	Terminal	503
 nom	Word	--	Terminal	504

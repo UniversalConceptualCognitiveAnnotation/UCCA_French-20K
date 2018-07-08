@@ -1,11 +1,11 @@
 #BOS 89001
 Il	Word	--	Terminal	500
 ne	Word	--	Terminal	501
-s\u2019	Word	--	Terminal	502
+s'	Word	--	Terminal	502
 agit	Word	--	Terminal	503
 plus	Word	--	Terminal	501
 alors	Word	--	Terminal	504
-d\u2019	Word	--	Terminal	505
+d'	Word	--	Terminal	505
 un	Word	--	Terminal	506
 problème	Word	--	Terminal	507
 scientifique	Word	--	Terminal	508
@@ -14,7 +14,7 @@ résoudre	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 mais	Word	--	Terminal	512
 bien	Word	--	Terminal	512
-d\u2019	Word	--	Terminal	513
+d'	Word	--	Terminal	513
 un	Word	--	Terminal	514
 danger	Word	--	Terminal	515
 réel	Word	--	Terminal	516
@@ -23,35 +23,36 @@ sérieux	Word	--	Terminal	518
 à	Word	--	Terminal	519
 éviter	Word	--	Terminal	520
 .	Punctuation	--	Terminal	521
-#500	FN	--	F	528
-#501	FN	--	D	528
-#502	FN	--	F	528
-#503	FN	--	P	528	P*	529
-#504	FN	--	D	528
-#505	FN	--	R	526
-#506	FN	--	E	526
-#507	FN	--	C	526	A*	523
-#508	FN	--	E	526
-#509	FN	--	R	523
-#510	FN	--	P	523
-#511	PNCT	--	U	530
-#512	FN	--	L	530
+#500	FN	--	F	530
+#501	FN	--	D	530
+#502	FN	--	F	530
+#503	FN	--	P	530	P*	529
+#504	FN	--	D	530
+#505	FN	--	R	528
+#506	FN	--	E	528
+#507	FN	--	C	528	A*	525
+#508	FN	--	E	528
+#509	FN	--	F	525
+#510	FN	--	P	525
+#511	PNCT	--	U	531
+#512	FN	--	L	531
 #513	FN	--	R	527
-#514	FN	--	E	527
-#515	FN	--	C	527	A*	525
-#516	FN	--	E	527
-#517	PNCT	--	U	527
-#518	FN	--	E	527
-#519	FN	--	R	525
-#520	FN	--	P	525
-#521	PNCT	--	U	525
-#522	FN	--	A	523
-#523	FN	--	E	526
+#514	FN	--	E	522
+#515	FN	--	C	522
+#516	FN	--	E	522
+#517	PNCT	--	U	522
+#518	FN	--	E	522
+#519	FN	--	F	523
+#520	FN	--	C	523
+#521	PNCT	--	U	523
+#522	FN	--	A	527
+#523	FN	--	P	527
 #524	FN	--	A	525
-#525	FN	--	E	527
-#526	FN	--	A	528
+#525	FN	--	E	528
+#526	FN	--	A	527
 #527	FN	--	A	529
-#528	FN	--	H	530
-#529	FN	--	H	530
-#530	FN	--	--	0
+#528	FN	--	A	530
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	--	0
 #EOS 89001

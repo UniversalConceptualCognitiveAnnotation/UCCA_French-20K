@@ -1,50 +1,57 @@
 #BOS 940001
-C’	Word	--	Terminal	500
-est	Word	--	Terminal	501
-une	Word	--	Terminal	502
-sotte	Word	--	Terminal	503
-affaire	Word	--	Terminal	504
-,	Punctuation	--	Terminal	505
-après	Word	--	Terminal	506
-tout	Word	--	Terminal	507
-,	Punctuation	--	Terminal	508
-et	Word	--	Terminal	509
-dans	Word	--	Terminal	510
-laquelle	Word	--	Terminal	511
-nous	Word	--	Terminal	512
-nous	Word	--	Terminal	513
-sommes	Word	--	Terminal	514
-lancés	Word	--	Terminal	515
-trop	Word	--	Terminal	516
-légèrement	Word	--	Terminal	517
-.	Punctuation	--	Terminal	518
-#500	FN	--	A	524
-#501	FN	--	S	524
-#502	FN	--	E	519
-#503	FN	--	E	519
-#504	FN	--	C	519	C*	520
-#505	PNCT	--	U	526
-#506	FN	--	R	521
-#507	FN	--	C	521
-#508	PNCT	--	U	526
-#509	FN	--	L	526	LR	528
-#510	FN	--	R	520
-#511	FN	--	F	525
-#512	FN	--	A	525
-#513	FN	--	E	522
-#514	FN	--	F	522
-#515	FN	--	C	522
-#516	FN	--	E	523
-#517	FN	--	C	523
-#518	PNCT	--	U	523
-#519	FN	--	A	524
-#520	FN	--	A	525
-#521	FN	--	L	526	LR	527
-#522	FN	--	P	525
-#523	FN	--	D	525
-#524	FN	--	H	526	LA	528	LA	527
-#525	FN	--	H	526	LA	528
-#526	FN	--	--	0
-#527	LKG	--	--	0
-#528	LKG	--	--	0
+—	Punctuation	--	Terminal	500
+Comme	Word	--	Terminal	501
+tu	Word	--	Terminal	502
+dis	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Conseil	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+et	Word	--	Terminal	507
+sans	Word	--	Terminal	508
+compter	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+j’	Word	--	Terminal	511
+imagine	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+que	Word	--	Terminal	514
+l’	Word	--	Terminal	515
+on	Word	--	Terminal	516
+se	Word	--	Terminal	517
+moquera	Word	--	Terminal	517
+de	Word	--	Terminal	518
+nous	Word	--	Terminal	519
+!	Punctuation	--	Terminal	520
+#500	PNCT	--	U	528
+#501	FN	--	D	521
+#502	FN	--	A	521
+#503	FN	--	P	521
+#504	PNCT	--	U	521
+#505	FN	--	G	521
+#506	PNCT	--	U	528
+#507	FN	--	L	528	LR	526
+#508	FN	--	R	522
+#509	FN	--	C	522
+#510	PNCT	--	U	528
+#511	FN	--	A	527
+#512	FN	--	P	527
+#513	PNCT	--	U	527
+#514	FN	--	F	524
+#515	FN	--	F	524
+#516	FN	--	A	524
+#517	FN	--	P	524
+#518	FN	--	R	523
+#519	FN	--	C	523
+#520	PNCT	--	U	523
+#521	FN	--	H	528	LA	525	LA	526
+#522	FN	--	L	528	LR	525
+#523	FN	--	A	524
+#524	FN	--	H	528	LA	525	LA	526	A*	527
+#525	LKG	--	--	0
+#526	LKG	--	--	0
+#527	FN	--	H	528
+#528	FN	--	A	531
+#529	FN	--	A	531
+#530	FN	--	P	531
+#531	FN	--	H	532
+#532	FN	--	--	0
 #EOS 940001

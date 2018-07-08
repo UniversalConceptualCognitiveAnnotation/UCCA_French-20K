@@ -14,27 +14,26 @@ en	Word	--	Terminal	511
 réalités	Word	--	Terminal	512
 terribles	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	P	521
-#501	FN	--	R	520
-#502	FN	--	E	520
-#503	FN	--	C	520	A*	519
-#504	FN	--	R	519
+#500	FN	--	P	520
+#501	FN	--	R	519
+#502	FN	--	E	519
+#503	FN	--	C	519	A*	518
+#504	FN	--	R	518
 #505	FN	--	E	515
 #506	FN	--	C	515
-#507	FN	--	F	516
-#508	FN	--	C	516
-#509	FN	--	R	517
-#510	FN	--	C	517
-#511	FN	--	R	518
-#512	FN	--	C	518
-#513	FN	--	E	518
-#514	PNCT	--	U	518
-#515	FN	--	A	519
-#516	FN	--	P	519
-#517	FN	--	A	519
-#518	FN	--	A	519
-#519	FN	--	E	520
-#520	FN	--	A	521
-#521	FN	--	H	522
-#522	FN	--	--	0
+#507	FN	--	F	518
+#508	FN	--	P	518
+#509	FN	--	R	516
+#510	FN	--	C	516
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	FN	--	E	517
+#514	PNCT	--	U	517
+#515	FN	--	A	518
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
 #EOS 441001

@@ -1,6 +1,6 @@
 #BOS 416000
 À	Word	--	Terminal	500
-l\u2019	Word	--	Terminal	501
+l'	Word	--	Terminal	501
 époque	Word	--	Terminal	502
 où	Word	--	Terminal	503
 ces	Word	--	Terminal	504
@@ -10,7 +10,7 @@ produisirent	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
 je	Word	--	Terminal	509
 revenais	Word	--	Terminal	510
-d\u2019	Word	--	Terminal	511
+d'	Word	--	Terminal	511
 une	Word	--	Terminal	512
 exploration	Word	--	Terminal	513
 scientifique	Word	--	Terminal	514
@@ -27,7 +27,7 @@ aux	Word	--	Terminal	523
 .	Punctuation	--	Terminal	525
 #500	FN	--	R	531
 #501	FN	--	E	531
-#502	FN	--	C	531	D*	530
+#502	FN	--	C	531	A*	530
 #503	FN	--	R	530
 #504	FN	--	E	526
 #505	FN	--	C	526
@@ -56,7 +56,7 @@ aux	Word	--	Terminal	523
 #528	FN	--	E	532
 #529	FN	--	E	532
 #530	FN	--	E	531
-#531	FN	--	D	535
+#531	FN	--	A	535
 #532	FN	--	A	533
 #533	FN	--	E	534
 #534	FN	--	A	535

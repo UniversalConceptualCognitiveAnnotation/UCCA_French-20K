@@ -1,5 +1,5 @@
 #BOS 446007
-D\u2019	Word	--	Terminal	500
+D'	Word	--	Terminal	500
 ailleurs	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 le	Word	--	Terminal	503
@@ -7,27 +7,26 @@ commandant	Word	--	Terminal	504
 Farragut	Word	--	Terminal	505
 ne	Word	--	Terminal	506
 demandait	Word	--	Terminal	507
-qu\u2019	Word	--	Terminal	506
+qu'	Word	--	Terminal	506
 à	Word	--	Terminal	508
 partir	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
 #500	FN	--	R	511
 #501	FN	--	C	511
-#502	PNCT	--	U	517
+#502	PNCT	--	U	516
 #503	FN	--	E	512
 #504	FN	--	C	512
-#505	FN	--	C	513	A*	515
-#506	FN	--	D	516
-#507	FN	--	P	516
+#505	FN	--	C	513	A*	514
+#506	FN	--	D	515
+#507	FN	--	P	515
 #508	FN	--	F	514
-#509	FN	--	C	514
+#509	FN	--	P	514
 #510	PNCT	--	U	514
-#511	FN	--	L	517	LR	518
+#511	FN	--	L	516	LR	517
 #512	FN	--	E	513
-#513	FN	--	A	516
-#514	FN	--	P	515
-#515	FN	--	A	516
-#516	FN	--	H	517	LA	518
-#517	FN	--	--	0
-#518	LKG	--	--	0
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516	LA	517
+#516	FN	--	--	0
+#517	LKG	--	--	0
 #EOS 446007

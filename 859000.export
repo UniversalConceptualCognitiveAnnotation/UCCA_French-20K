@@ -15,7 +15,7 @@ actuellement	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
 #500	FN	--	A	515
 #501	FN	--	P	515
-#502	FN	--	D	515
+#502	FN	--	T	515
 #503	FN	--	E	513
 #504	FN	--	E	513
 #505	FN	--	C	513
@@ -24,7 +24,7 @@ actuellement	Word	--	Terminal	511
 #508	FN	--	A	514
 #509	FN	--	A	514
 #510	FN	--	P	514
-#511	FN	--	D	514
+#511	FN	--	T	514
 #512	PNCT	--	U	514
 #513	FN	--	A	515
 #514	FN	--	H	516

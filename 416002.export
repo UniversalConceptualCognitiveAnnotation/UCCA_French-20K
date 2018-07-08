@@ -12,7 +12,7 @@ de	Word	--	Terminal	509
 précieuses	Word	--	Terminal	510
 collections	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512
-j\u2019	Word	--	Terminal	513
+j'	Word	--	Terminal	513
 arrivai	Word	--	Terminal	514
 à	Word	--	Terminal	515
 New	Word	--	Terminal	516
@@ -46,14 +46,14 @@ mars	Word	--	Terminal	521
 #520	FN	--	R	529
 #521	FN	--	C	530
 #522	PNCT	--	U	530
-#523	FN	--	A	527
+#523	FN	--	T	527
 #524	FN	--	A	527
 #525	FN	--	A	526
 #526	FN	--	H	532
 #527	FN	--	H	532	LA	533
 #528	FN	--	A	531
 #529	FN	--	E	530
-#530	FN	--	D	531
+#530	FN	--	T	531
 #531	FN	--	H	532
 #532	FN	--	--	0
 #533	LKG	--	--	0
