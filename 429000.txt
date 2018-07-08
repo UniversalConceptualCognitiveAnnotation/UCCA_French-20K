@@ -1,9 +1,11 @@
 # ::id 429000
-# ::tok « Les grandes profondeurs de l\u2019 Océan nous sont totalement inconnues .
+# ::tok « Les grandes profondeurs de l' Océan nous sont totalement inconnues . La sonde n' a su les atteindre . Que se passe - t - il dans ces abîmes reculés ? Quels êtres habitent et peuvent habiter à douze ou quinze milles au - dessous de la surface des eaux ? Quel est l' organisme de ces animaux ? On saurait à peine le conjecturer .
 (label :H label
        :A label
        :P label
        :D label
+       :S label
        :E label
        :C label
-       :R label)
+       :R label
+       :N label)

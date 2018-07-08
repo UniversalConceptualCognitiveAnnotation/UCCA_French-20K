@@ -1,10 +1,11 @@
 # ::id 92000
-# ::tok Ce fait , extrêmement grave en lui - même , eût peut-être été oublié comme tant d\u2019 autres , si , trois semaines après , il ne se fût reproduit dans des conditions identiques .
+# ::tok Ce fait , extrêmement grave en lui - même , eût peut-être été oublié comme tant d' autres , si , trois semaines après , il ne se fût reproduit dans des conditions identiques .
 (label :H label
        :L label
        :A label
-       :P label
        :G label
+       :P label
+       :T label
        :D label
        :E label
        :C label

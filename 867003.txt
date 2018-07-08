@@ -1,8 +1,7 @@
 # ::id 867003
-# ::tok — Écoutez-moi , Ned… — Non , monsieur le professeur , non . Tout ce que vous voudrez excepté cela .
+# ::tok Un poulpe gigantesque , peut-être ?
 (label :H label
-       :P label
        :A label
-       :C label
+       :D label
        :E label
-       :R label)
+       :C label)

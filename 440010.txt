@@ -1,0 +1,11 @@
+# ::id 440010
+# ::tok Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
+(label :H label
+       :A label
+       :D label
+       :P label
+       :R label
+       :E label
+       :C label
+       :L label
+       :S label)

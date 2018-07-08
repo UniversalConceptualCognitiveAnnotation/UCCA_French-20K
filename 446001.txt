@@ -1,9 +1,10 @@
 # ::id 446001
-# ::tok On n\u2019 accorda pas vingt-quatre heures de répit au commandant Farragut .
+# ::tok On n' accorda pas vingt-quatre heures de répit au commandant Farragut .
 (label :H label
        :A label
        :D label
        :P label
+       :T label
        :E label
        :C label
        :R label)

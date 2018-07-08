@@ -1,9 +1,9 @@
 # ::id 431000
-# ::tok « Ou nous connaissons toutes les variétés d\u2019 êtres qui peuplent notre planète , ou nous ne les connaissons pas .
-(label :L label
-       :H label
+# ::tok « Ou nous connaissons toutes les variétés d' êtres qui peuplent notre planète , ou nous ne les connaissons pas .
+(label :H label
        :A label
        :P label
+       :L label
        :D label
        :E label
        :C label

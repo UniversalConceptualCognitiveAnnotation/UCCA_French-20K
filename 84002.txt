@@ -1,9 +1,11 @@
 # ::id 84002
-# ::tok Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l\u2019 Umgullick , n\u2019 ont jamais dépassé la longueur de cinquante-six mètres , \u2013 si même elles l\u2019 atteignent .
+# ::tok Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l' Umgullick , n' ont jamais dépassé la longueur de cinquante-six mètres , - si même elles l' atteignent .
 (label :L label
        :H label
        :A label
        :D label
+       :T label
+       :S label
        :P label
        :E label
        :C label

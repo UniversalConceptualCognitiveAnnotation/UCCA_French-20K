@@ -1,7 +1,7 @@
 # ::id 95000
-# ::tok Le 13 avril 1867 , la mer étant belle , la brise maniable , le Scotia se trouvait par 15°12\u2019 de longitude et 45°37\u2019 de latitude .
+# ::tok Le 13 avril 1867 , la mer étant belle , la brise maniable , le Scotia se trouvait par 15°12' de longitude et 45°37' de latitude .
 (label :H label
-       :D label
+       :T label
        :A label
        :P label
        :S label

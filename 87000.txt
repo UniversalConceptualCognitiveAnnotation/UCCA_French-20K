@@ -1,5 +1,5 @@
 # ::id 87000
-# ::tok Alors éclata l\u2019 interminable polémique des crédules et des incrédules dans les sociétés savantes et les journaux scientifiques .
+# ::tok Alors éclata l' interminable polémique des crédules et des incrédules dans les sociétés savantes et les journaux scientifiques .
 (label :L label
        :H label
        :P label

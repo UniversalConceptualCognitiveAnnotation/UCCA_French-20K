@@ -2,9 +2,9 @@
 # ::tok L’ Abraham - Lincoln avait été parfaitement choisi et aménagé pour sa destination nouvelle .
 (label :H label
        :A label
-       :P label
        :D label
+       :P label
        :E label
        :C label
-       :R label
-       :N label)
+       :N label
+       :R label)

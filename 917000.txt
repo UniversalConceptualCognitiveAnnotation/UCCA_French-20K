@@ -1,7 +1,8 @@
 # ::id 917000
-# ::tok « Ouvre l’ œ il !
+# ::tok « Ouvre l’ œ il ! ouvre l’ œ il ! » répétaient les matelots de l' Abraham Lincoln .
 (label :H label
        :A label
        :P label
        :E label
-       :C label)
+       :C label
+       :R label)

@@ -2,6 +2,5 @@
 # ::tok Qu’ allait dire Conseil ?
 (label :H label
        :A label
-       :P label
-       :E label
-       :C label)
+       :D label
+       :P label)

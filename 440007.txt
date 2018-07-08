@@ -1,9 +1,10 @@
 # ::id 440007
-# ::tok Le Créateur les avait jetés dans un moule colossal que le temps a réduit peu à peu .
+# ::tok Autrefois , les animaux terrestres , contemporains des époques géologiques , les quadrupèdes , les quadrumanes , les reptiles , les oiseaux étaient construits sur des gabarits gigantesques .
 (label :H label
+       :T label
        :A label
        :P label
        :E label
        :C label
        :R label
-       :D label)
+       :S label)

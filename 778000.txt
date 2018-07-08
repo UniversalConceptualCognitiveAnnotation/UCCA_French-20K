@@ -3,4 +3,4 @@
 (label :H label
        :A label
        :P label
-       :R label)
+       :D label)

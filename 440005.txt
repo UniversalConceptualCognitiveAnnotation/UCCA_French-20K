@@ -1,10 +1,10 @@
 # ::id 440005
-# ::tok Les masses liquides transportent les plus grandes espèces connues de mammifères , et peut-être recèlent - elles des mollusques d\u2019 une incomparable taille , des crustacés effrayants à contempler , tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !
+# ::tok Les masses liquides transportent les plus grandes espèces connues de mammifères , et peut-être recèlent - elles des mollusques d' une incomparable taille , des crustacés effrayants à contempler , tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !
 (label :H label
        :L label
-       :G label
        :A label
        :P label
+       :G label
        :E label
        :C label
        :R label

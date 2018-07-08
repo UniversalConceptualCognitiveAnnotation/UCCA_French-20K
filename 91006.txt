@@ -1,10 +1,11 @@
 # ::id 91006
-# ::tok On ne put le savoir ; mais , examen fait de sa carène dans les bassins de radoub , il fut reconnu qu\u2019 une partie de la quille avait été brisée .
+# ::tok On ne put le savoir ; mais , examen fait de sa carène dans les bassins de radoub , il fut reconnu qu' une partie de la quille avait été brisée .
 (label :H label
        :L label
        :A label
        :D label
+       :S label
        :P label
+       :R label
        :E label
-       :C label
-       :R label)
+       :C label)

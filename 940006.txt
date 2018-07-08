@@ -1,8 +1,10 @@
 # ::id 940006
-# ::tok — Comme tu dis , Conseil , et sans compter , j’ imagine , que l’ on se moquera de nous !
+# ::tok — Quand on a l’ honneur d’ être un savant comme monsieur , on ne s’ expose pas… »
 (label :H label
-       :L label
-       :R label
-       :C label
        :A label
-       :P label)
+       :P label
+       :L label
+       :S label
+       :D label
+       :E label
+       :C label)

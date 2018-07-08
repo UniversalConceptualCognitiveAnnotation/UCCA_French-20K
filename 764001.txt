@@ -1,11 +1,12 @@
 # ::id 764001
 # ::tok Trois secondes après avoir lu la lettre de l’ honorable secrétaire de la marine , je comprenais enfin que ma véritable vocation , l’ unique but de ma vie , était de chasser ce monstre inquiétant et d’ en purger le monde .
-(label :L label
-       :H label
+(label :H label
+       :T label
+       :P label
+       :A label
+       :D label
        :E label
        :C label
        :R label
-       :A label
-       :P label
-       :D label
-       :S label)
+       :S label
+       :L label)

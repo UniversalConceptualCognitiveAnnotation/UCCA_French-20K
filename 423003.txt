@@ -3,10 +3,10 @@
 (label :H label
        :L label
        :A label
+       :D label
        :S label
        :G label
        :P label
-       :E label
-       :C label
        :R label
-       :D label)
+       :E label
+       :C label)

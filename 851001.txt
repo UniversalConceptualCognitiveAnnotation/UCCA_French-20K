@@ -2,6 +2,8 @@
 # ::tok La frégate aurait eu cent fois raison de s’ appeler l’Argus .
 (label :H label
        :A label
-       :P label
+       :D label
+       :S label
        :E label
-       :C label)
+       :C label
+       :R label)

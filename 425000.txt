@@ -1,5 +1,5 @@
 # ::id 425000
-# ::tok Le monstre revint donc à flots , en dépit des incessantes plaisanteries dont le lardait la petite presse , et dans cette voie , les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d\u2019 une ichthyologie fantastique .
+# ::tok Le monstre revint donc à flots , en dépit des incessantes plaisanteries dont le lardait la petite presse , et dans cette voie , les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d' une ichthyologie fantastique .
 (label :H label
        :L label
        :A label
@@ -7,4 +7,5 @@
        :R label
        :C label
        :E label
-       :D label)
+       :D label
+       :T label)

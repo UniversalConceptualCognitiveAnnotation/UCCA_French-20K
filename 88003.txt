@@ -1,10 +1,11 @@
 # ::id 88003
-# ::tok Enfin , dans un article d\u2019 un journal satirique très - redouté , le plus aimé de ses rédacteurs , brochant sur le tout , poussa au monstre , comme Hippolyte , lui porta un dernier coup et l\u2019 acheva au milieu d\u2019un éclat de rire universel .
+# ::tok Enfin , dans un article d' un journal satirique très - redouté , le plus aimé de ses rédacteurs , brochant sur le tout , poussa au monstre , comme Hippolyte , lui porta un dernier coup et l' acheva au milieu d' un éclat de rire universel .
 (label :L label
        :H label
        :A label
        :P label
-       :D label
        :R label
        :E label
-       :C label)
+       :C label
+       :D label
+       :S label)

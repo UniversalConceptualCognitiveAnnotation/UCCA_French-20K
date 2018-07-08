@@ -1,11 +1,11 @@
 # ::id 422000
-# ::tok Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l\u2019 homme s\u2019 ingénie à multiplier la puissance des armes de guerre , il était possible qu\u2019 un État essayât à l\u2019 insu des autres ce formidable engin .
+# ::tok Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l' homme s' ingénie à multiplier la puissance des armes de guerre , il était possible qu' un État essayât à l' insu des autres ce formidable engin .
 (label :H label
        :L label
        :A label
-       :P label
        :D label
        :S label
        :E label
        :C label
-       :R label)
+       :R label
+       :P label)

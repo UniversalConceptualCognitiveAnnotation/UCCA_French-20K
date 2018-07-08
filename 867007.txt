@@ -2,8 +2,8 @@
 # ::tok Il faut donc rejeter au rang des fables les prouesses des Krakens ou autres monstres de cette espèce .
 (label :H label
        :L label
-       :P label
        :A label
+       :P label
        :E label
        :C label
        :R label

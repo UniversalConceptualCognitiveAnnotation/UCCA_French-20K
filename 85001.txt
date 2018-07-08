@@ -1,5 +1,5 @@
 # ::id 85001
-# ::tok Dans les pays d\u2019 humeur légère , on plaisanta le phénomène , mais les pays graves et pratiques , l\u2019 Angleterre , l\u2019 Amérique , l\u2019 Allemagne , s\u2019 en préoccupèrent vivement .
+# ::tok Dans les pays d' humeur légère , on plaisanta le phénomène , mais les pays graves et pratiques , l' Angleterre , l' Amérique , l' Allemagne , s' en préoccupèrent vivement .
 (label :H label
        :L label
        :A label

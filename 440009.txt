@@ -1,11 +1,11 @@
 # ::id 440009
-# ::tok Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
+# ::tok Pourquoi la mer , dans ses profondeurs ignorées , n' aurait - elle pas gardé ces vastes échantillons de la vie d' un autre âge , elle qui ne se modifie jamais , alors que le noyau terrestre change presque incessamment ?
 (label :H label
+       :L label
        :A label
        :D label
        :P label
-       :R label
+       :T label
        :E label
        :C label
-       :L label
-       :S label)
+       :R label)

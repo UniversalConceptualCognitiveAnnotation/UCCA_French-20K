@@ -1,7 +1,7 @@
 # ::id 771001
 # ::tok Jamais une réflexion de lui sur la longueur ou la fatigue d’ un voyage .
 (label :H label
-       :D label
+       :T label
        :P label
        :A label
        :E label

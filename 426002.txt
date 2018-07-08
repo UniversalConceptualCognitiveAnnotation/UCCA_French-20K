@@ -1,5 +1,5 @@
 # ::id 426002
-# ::tok Ce livre , particulièrement goûté du monde savant , faisait de moi un spécialiste dans cette partie assez obscure de l\u2019histoire naturelle .
+# ::tok Ce livre , particulièrement goûté du monde savant , faisait de moi un spécialiste dans cette partie assez obscure de l'histoire naturelle .
 (label :H label
        :A label
        :P label

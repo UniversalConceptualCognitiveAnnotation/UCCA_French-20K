@@ -1,7 +1,7 @@
 # ::id 789000
 # ::tok À ce moment , le commandant Farragut faisait larguer les dernières amarres qui retenaient l’ Abraham - Lincoln à la pier de Brooklyn .
 (label :H label
-       :D label
+       :T label
        :A label
        :P label
        :R label

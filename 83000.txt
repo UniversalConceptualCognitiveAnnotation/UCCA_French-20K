@@ -2,9 +2,9 @@
 # ::tok Pareil fait fut également observé le 23 juillet de la même année , dans les mers du Pacifique , par le Cristobal-Colon , de West India and Pacific steam navigation Company .
 (label :H label
        :A label
-       :P label
        :D label
+       :P label
+       :T label
        :E label
        :C label
-       :R label
-       :N label)
+       :R label)

@@ -1,6 +1,12 @@
 # ::id 873003
-# ::tok — Sans que vous vous en aperceviez .
-(label :L label
-       :H label
+# ::tok — Et comme en réalité la pression atmosphérique est un peu supérieure au poids d’ un kilogramme par centimètre carré , vos dix-sept mille centimètres carrés supportent en ce moment une pression de dix-sept mille cinq cent soixante-huit kilogrammes .
+(label :H label
        :A label
-       :P label)
+       :P label
+       :L label
+       :D label
+       :S label
+       :T label
+       :R label
+       :C label
+       :E label)

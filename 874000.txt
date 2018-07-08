@@ -1,12 +1,13 @@
 # ::id 874000
-# ::tok — Eh bien , mon digne harponneur , si des vertébrés , longs de plusieurs centaines de mètres et gros à proportion , se maintiennent à de pareilles profondeurs , eux dont la surface est représentée par des millions de centimètres carrés , c’ est par milliards de kilogrammes qu’ il faut estimer la poussée qu’ ils subissent .
-(label :L label
-       :H label
+# ::tok — Eh bien , mon digne harponneur , si des vertébrés , longs de plusieurs centaines de mètres et gros à proportion , se maintiennent à de pareilles profondeurs , eux dont la surface est représentée par des millions de centimètres carrés , c’ est par milliards de kilogrammes qu’ il faut estimer la poussée qu’ ils subissent . Calculez alors quelle doit être la résistance de leur charpente osseuse et la puissance de leur organisme pour résister à de telles pressions !
+(label :H label
        :A label
        :P label
+       :L label
+       :G label
+       :D label
        :E label
        :C label
        :R label
-       :N label
        :S label
-       :D label)
+       :N label)

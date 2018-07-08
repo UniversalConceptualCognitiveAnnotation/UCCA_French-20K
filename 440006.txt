@@ -1,10 +1,6 @@
 # ::id 440006
-# ::tok Pourquoi non ? Autrefois , les animaux terrestres , contemporains des époques géologiques , les quadrupèdes , les quadrumanes , les reptiles , les oiseaux étaient construits sur des gabarits gigantesques .
+# ::tok Pourquoi non ?
 (label :H label
-       :D label
+       :S label
        :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+       :D label)

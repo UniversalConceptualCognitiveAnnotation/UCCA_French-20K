@@ -1,5 +1,5 @@
 # ::id 418002
-# ::tok Et , en effet , à moins que cet écueil n\u2019 eût une machine dans le ventre , comment pouvait - il se déplacer avec une rapidité si prodigieuse ?
+# ::tok Et , en effet , à moins que cet écueil n' eût une machine dans le ventre , comment pouvait - il se déplacer avec une rapidité si prodigieuse ?
 (label :L label
        :H label
        :R label

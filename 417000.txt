@@ -1,10 +1,10 @@
 # ::id 417000
-# ::tok J\u2019 étais parfaitement au courant de la question à l\u2019 ordre du jour , et comment ne l\u2019 aurais - je pas été ?
+# ::tok J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
 (label :H label
        :L label
        :A label
        :S label
        :D label
        :R label
-       :C label
-       :E label)
+       :E label
+       :C label)

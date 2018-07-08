@@ -1,12 +1,13 @@
 # ::id 432000
-# ::tok « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d\u2019 admettre l\u2019 existence de poissons ou de cétacés , d\u2019 espèces ou même de genres nouveaux , d\u2019 une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu\u2019 un événement quelconque , une fantaisie , un caprice , si l\u2019 on veut , ramène à de longs intervalles vers le niveau supérieur de l\u2019Océan .
-(label :L label
-       :H label
+# ::tok « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d' admettre l' existence de poissons ou de cétacés , d' espèces ou même de genres nouveaux , d' une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu' un événement quelconque , une fantaisie , un caprice , si l' on veut , ramène à de longs intervalles vers le niveau supérieur de l'Océan .
+(label :H label
        :A label
-       :D label
        :P label
+       :L label
+       :D label
        :S label
        :C label
        :E label
        :R label
+       :T label
        :N label)

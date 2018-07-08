@@ -1,10 +1,12 @@
 # ::id 875005
-# ::tok — Mais s’ ils n’existent pas , entêté harponneur , comment expliquez - vous l’ accident arrivé au Scotia ?
-(label :L label
-       :H label
+# ::tok — Mais s’ ils n’ existent pas , entêté harponneur , comment expliquez - vous l’ accident arrivé au Scotia ?
+(label :H label
        :A label
        :P label
+       :L label
        :D label
+       :S label
+       :G label
        :E label
        :C label
        :R label)

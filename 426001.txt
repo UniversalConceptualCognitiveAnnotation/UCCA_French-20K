@@ -1,8 +1,8 @@
 # ::id 426001
-# ::tok J\u2019avais publié en France un ouvrage in-quarto en deux volumes intitulé : Les Mystères des grands fonds sous-marins .
+# ::tok J 'avais publié en France un ouvrage in-quarto en deux volumes intitulé : Les Mystères des grands fonds sous-marins .
 (label :H label
-       :P label
        :A label
-       :C label
+       :P label
        :R label
+       :C label
        :E label)

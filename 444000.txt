@@ -1,5 +1,5 @@
 # ::id 444000
-# ::tok Précisément , et ainsi que cela arrive toujours , du moment que l\u2019 on se fut décidé à poursuivre le monstre , le monstre ne reparut plus .
+# ::tok Précisément , et ainsi que cela arrive toujours , du moment que l' on se fut décidé à poursuivre le monstre , le monstre ne reparut plus .
 (label :L label
        :H label
        :E label
@@ -7,4 +7,5 @@
        :C label
        :A label
        :P label
+       :T label
        :D label)

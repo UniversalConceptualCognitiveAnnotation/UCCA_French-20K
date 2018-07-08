@@ -1,9 +1,8 @@
 # ::id 776009
-# ::tok – Et les collections de monsieur ?
-(label :L label
-       :H label
+# ::tok – On les gardera à l’ hôtel .
+(label :H label
        :A label
        :P label
+       :R label
        :E label
-       :C label
-       :R label)
+       :C label)

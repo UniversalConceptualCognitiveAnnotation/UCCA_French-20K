@@ -1,10 +1,10 @@
 # ::id 437000
-# ::tok « Donc , jusqu\u2019 à plus amples informations , j\u2019 opinerais pour une licorne de mer , de dimensions colossales , armée , non plus d\u2019 une hallebarde , mais d\u2019 un véritable éperon comme les frégates cuirassées ou les « rams » de guerre , dont elle aurait à la fois la masse et la puissance motrice .
-(label :L label
-       :H label
-       :S label
+# ::tok « Donc , jusqu' à plus amples informations , j' opinerais pour une licorne de mer , de dimensions colossales , armée , non plus d' une hallebarde , mais d' un véritable éperon comme les frégates cuirassées ou les « rams » de guerre , dont elle aurait à la fois la masse et la puissance motrice .
+(label :H label
        :A label
        :P label
+       :L label
+       :S label
        :D label
        :E label
        :C label

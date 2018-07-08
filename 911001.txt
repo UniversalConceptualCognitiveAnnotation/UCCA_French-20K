@@ -2,8 +2,9 @@
 # ::tok Le voyage de l' Abraham-Lincoln , pendant quelque temps , ne fut marqué par aucun incident .
 (label :H label
        :A label
+       :T label
        :D label
        :P label
+       :R label
        :E label
-       :C label
-       :R label)
+       :C label)

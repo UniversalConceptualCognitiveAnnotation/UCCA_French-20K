@@ -1,9 +1,13 @@
 # ::id 435000
-# ::tok « En effet , le narwal est armé d\u2019 une sorte d\u2019 épée d\u2019 ivoire , d\u2019 une hallebarde , suivant l\u2019 expression de certains naturalistes .
-(label :L label
-       :H label
+# ::tok « En effet , le narwal est armé d' une sorte d' épée d' ivoire , d' une hallebarde , suivant l' expression de certains naturalistes . C' est une dent principale qui a la dureté de l' acier . On a trouvé quelques - unes de ces dents implantées dans le corps des baleines que le narwal attaque toujours avec succès . D' autres ont été arrachées , non sans peine , de carènes de vaisseaux qu' elles avaient percées d' outre en outre , comme un foret perce un tonneau . Le musée de la Faculté de médecine de Paris possède une de ces défenses longue de deux mètres vingt-cinq centimètres , et large de quarante-huit centimètres à sa base !
+(label :H label
+       :A label
+       :P label
+       :L label
        :R label
        :C label
-       :A label
        :S label
-       :E label)
+       :D label
+       :E label
+       :N label
+       :T label)

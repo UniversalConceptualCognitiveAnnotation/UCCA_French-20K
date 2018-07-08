@@ -1,9 +1,10 @@
 # ::id 873006
-# ::tok Mais dans l’ eau , c’ est autre chose .
-(label :L label
-       :H label
+# ::tok — Oui , je comprends , répondit Ned , devenu plus attentif , parce que l’ eau m’ entoure et ne me pénètre pas .
+(label :H label
        :A label
-       :S label
-       :R label
+       :P label
+       :L label
+       :C label
        :E label
-       :C label)
+       :D label
+       :S label)

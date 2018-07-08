@@ -2,9 +2,9 @@
 # ::tok La réaction monta des fonds du navire , du poste des soutiers jusqu’ au carré de l’ état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
 (label :H label
        :L label
-       :G label
        :A label
        :P label
+       :G label
        :D label
        :E label
        :C label

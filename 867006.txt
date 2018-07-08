@@ -1,5 +1,5 @@
 # ::id 867006
-# ::tok Eût - il cinq cents pieds de longueur , le poulpe , qui n’ appartient point à l’ embranchement des vertébrés , est tout à fait inoffensif pour des navires tels que le Scotia ou l ’ Abraham - Lincoln .
+# ::tok Eût - il cinq cents pieds de longueur , le poulpe , qui n’ appartient point à l’ embranchement des vertébrés , est tout à fait inoffensif pour des navires tels que le Scotia ou l’ Abraham - Lincoln .
 (label :H label
        :A label
        :S label

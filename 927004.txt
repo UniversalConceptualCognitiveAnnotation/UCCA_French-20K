@@ -1,0 +1,10 @@
+# ::id 927004
+# ::tok rien qui ressemblât à un narwal gigantesque , ni à un îlot sous-marin , ni à une épave de naufrage , ni à un écueil fuyant , ni à quoi que ce fût de surnaturel !
+(label :H label
+       :S label
+       :A label
+       :C label
+       :E label
+       :R label
+       :P label
+       :N label)

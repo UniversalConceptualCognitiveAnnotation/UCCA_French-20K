@@ -1,9 +1,10 @@
 # ::id 776015
-# ::tok D’ ailleurs , je donnerai l’ ordre de nous expédier en France notre ménagerie .
-(label :L label
-       :H label
-       :R label
-       :C label
+# ::tok – Oh ! ce sera peu de chose ! Un chemin un peu moins direct , voilà tout . Nous prenons passage sur l’ Abraham - Lincoln ... – Comme il conviendra à monsieur , répondit paisiblement Conseil .
+(label :H label
        :A label
        :P label
+       :D label
+       :S label
+       :R label
+       :C label
        :E label)

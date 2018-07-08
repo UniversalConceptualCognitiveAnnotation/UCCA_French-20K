@@ -1,5 +1,5 @@
 # ::id 427002
-# ::tok Je discutai la question sous toutes ses faces , politiquement et scientifiquement , et je donne ici un extrait d\u2019 un article très - nourri que je publiai dans le numéro du 30 avril .
+# ::tok Je discutai la question sous toutes ses faces , politiquement et scientifiquement , et je donne ici un extrait d' un article très - nourri que je publiai dans le numéro du 30 avril .
 (label :H label
        :L label
        :A label
@@ -7,4 +7,5 @@
        :E label
        :C label
        :R label
-       :N label)
+       :N label
+       :T label)

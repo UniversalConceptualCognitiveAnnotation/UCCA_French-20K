@@ -1,12 +1,12 @@
 # ::id 933003
-# ::tok D’ énormes quartiers de lard furent mis à la traîne pour la plus grande satisfaction des requins , je dois le dire . Les embarcations rayonnèrent dans toutes les directions autour de l ' Abraham-Lincoln , pendant qu’ il mettait en panne , et ne laissèrent pas un point de mer inexploré .
+# ::tok D’ énormes quartiers de lard furent mis à la traîne pour la plus grande satisfaction des requins , je dois le dire .
 (label :H label
        :L label
-       :G label
        :A label
        :P label
        :D label
        :S label
+       :G label
        :E label
        :C label
        :R label)

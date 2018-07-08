@@ -1,5 +1,5 @@
 # ::id 443001
-# ::tok On fit à New York les préparatifs d\u2019 une expédition destinée à poursuivre le narwal .
+# ::tok On fit à New York les préparatifs d' une expédition destinée à poursuivre le narwal .
 (label :H label
        :A label
        :P label

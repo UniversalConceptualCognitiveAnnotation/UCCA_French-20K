@@ -1,10 +1,11 @@
 # ::id 875002
 # ::tok — Oui… en effet… peut-être , répondit le Canadien , ébranlé par ces chiffres , mais qui ne voulait pas se rendre .
 (label :H label
-       :L label
        :A label
        :P label
        :D label
+       :S label
        :E label
        :C label
+       :L label
        :R label)

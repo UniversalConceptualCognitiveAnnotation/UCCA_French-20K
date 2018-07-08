@@ -4,6 +4,6 @@
        :H label
        :A label
        :P label
-       :R label
+       :E label
        :C label
-       :E label)
+       :R label)

@@ -1,10 +1,11 @@
 # ::id 441002
-# ::tok Je le répète , l\u2019 opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l\u2019 existence d\u2019 un être prodigieux qui n\u2019 avait rien de commun avec les fabuleux serpents de mer .
+# ::tok Je le répète , l' opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l' existence d' un être prodigieux qui n' avait rien de commun avec les fabuleux serpents de mer .
 (label :H label
        :L label
        :A label
        :P label
+       :D label
        :E label
        :C label
        :R label
-       :D label)
+       :S label)

@@ -1,9 +1,9 @@
 # ::id 776012
-# ::tok – Quoi ! les archiotherium , les hyracotherium , les oréodons , les chéropotamus et autres carcasses de monsieur ? – On les gardera à l’ hôtel .
+# ::tok – Nous ne retournons donc pas à Paris ? demanda Conseil .
 (label :H label
        :A label
        :P label
-       :C label
-       :N label
+       :L label
+       :D label
        :R label
-       :E label)
+       :C label)

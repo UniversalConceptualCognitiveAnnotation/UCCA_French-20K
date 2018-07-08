@@ -1,7 +1,7 @@
 # ::id 914001
 # ::tok Le 3 juillet , nous étions à l’ ouvert du détroit de Magellan , à la hauteur du cap des Vierges .
 (label :H label
-       :D label
+       :T label
        :A label
        :S label
        :E label

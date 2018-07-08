@@ -1,5 +1,5 @@
 # ::id 88004
-# ::tok L\u2019 esprit avait vaincu la science .
+# ::tok L' esprit avait vaincu la science .
 (label :H label
        :A label
        :P label

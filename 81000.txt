@@ -1,5 +1,5 @@
 # ::id 81000
-# ::tok Or , il existait , le fait en lui - même n\u2019 était plus niable , et , avec ce penchant qui pousse au merveilleux la cervelle humaine , on comprendra l\u2019 émotion produite dans le monde entier par cette surnaturelle apparition .
+# ::tok Or , il existait , le fait en lui - même n' était plus niable , et , avec ce penchant qui pousse au merveilleux la cervelle humaine , on comprendra l' émotion produite dans le monde entier par cette surnaturelle apparition .
 (label :L label
        :H label
        :A label

@@ -2,7 +2,9 @@
 # ::tok On venait de piquer huit heures .
 (label :H label
        :A label
-       :P label
        :D label
-       :E label
-       :C label)
+       :P label
+       :T label
+       :C label
+       :R label
+       :E label)

@@ -1,9 +1,11 @@
 # ::id 875008
-# ::tok » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
+# ::tok — Parce que… ça n’ est pas vrai ! » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
 (label :H label
-       :L label
        :A label
        :P label
+       :L label
        :E label
        :C label
+       :D label
+       :S label
        :R label)

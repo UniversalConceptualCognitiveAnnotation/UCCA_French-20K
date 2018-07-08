@@ -1,7 +1,7 @@
 # ::id 850003
-# ::tok Je laisse à penser si les yeux s’ exerçaient à bord de l’Abraham-Lincoln .
-(label :G label
-       :H label
+# ::tok Je laisse à penser si les yeux s’ exerçaient à bord de l’ Abraham-Lincoln .
+(label :H label
+       :G label
        :A label
        :P label
        :E label

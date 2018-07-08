@@ -1,9 +1,9 @@
 # ::id 779000
 # ::tok Un quart d’ heure après , nos malles étaient prêtes .
 (label :H label
-       :D label
+       :T label
        :A label
        :S label
-       :E label
        :C label
-       :R label)
+       :R label
+       :E label)

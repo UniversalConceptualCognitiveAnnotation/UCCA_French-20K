@@ -1,7 +1,7 @@
 # ::id 924001
 # ::tok Évidemment , nous marchions en aveugles .
-(label :G label
-       :H label
+(label :H label
+       :G label
        :A label
        :P label
        :D label

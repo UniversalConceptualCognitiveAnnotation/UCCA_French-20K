@@ -1,10 +1,12 @@
 # ::id 100003
-# ::tok Il se trouvait alors à trois cent mille du cap Clear , et après trois jours d\u2019 un retard qui inquiéta vivement Liverpool , il entra dans les bassins de la Compagnie .
+# ::tok Il se trouvait alors à trois cent mille du cap Clear , et après trois jours d' un retard qui inquiéta vivement Liverpool , il entra dans les bassins de la Compagnie .
 (label :H label
        :L label
        :A label
+       :S label
+       :T label
        :P label
        :D label
+       :R label
        :E label
-       :C label
-       :R label)
+       :C label)

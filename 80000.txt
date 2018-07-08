@@ -1,5 +1,5 @@
 # ::id 80000
-# ::tok À prendre la moyenne des observations faites à diverses reprises \u2013 en rejetant les évaluations timides qui assignaient à cet objet une longueur de deux cents pieds et en repoussant les opinions exagérées qui le disaient large d\u2019 un mille et long de trois , \u2013 on pouvait affirmer , cependant , que cet être phénoménal dépassait de beaucoup toutes les dimensions admises jusqu\u2019 à ce jour par les ichtyologistes , \u2013 s\u2019 il existait toutefois .
+# ::tok À prendre la moyenne des observations faites à diverses reprises - en rejetant les évaluations timides qui assignaient à cet objet une longueur de deux cents pieds et en repoussant les opinions exagérées qui le disaient large d' un mille et long de trois , - on pouvait affirmer , cependant , que cet être phénoménal dépassait de beaucoup toutes les dimensions admises jusqu' à ce jour par les ichtyologistes , - s' il existait toutefois .
 (label :L label
        :H label
        :A label
@@ -8,4 +8,5 @@
        :E label
        :C label
        :R label
-       :N label)
+       :N label
+       :T label)

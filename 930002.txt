@@ -1,8 +1,9 @@
 # ::id 930002
 # ::tok Jamais équipage d’ un bâtiment de la marine américaine ne montra plus de patience et plus de zèle ; son insuccès ne saurait lui être imputé ; il ne restait plus qu’ à revenir .
 (label :H label
-       :D label
+       :T label
        :A label
+       :D label
        :P label
        :C label
        :E label

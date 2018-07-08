@@ -1,9 +1,8 @@
 # ::id 91002
-# ::tok Ils examinèrent l\u2019 Océan avec la plus scrupuleuse attention .
+# ::tok Ils examinèrent l' Océan avec la plus scrupuleuse attention .
 (label :H label
        :A label
        :P label
-       :D label
        :E label
        :C label
        :R label)

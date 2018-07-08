@@ -4,5 +4,6 @@
        :A label
        :P label
        :D label
+       :G label
        :E label
        :C label)

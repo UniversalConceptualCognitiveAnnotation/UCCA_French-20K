@@ -1,9 +1,10 @@
 # ::id 430000
-# ::tok « Cependant , la solution du problème qui m\u2019 est soumis peut affecter la forme du dilemme .
-(label :L label
-       :H label
+# ::tok « Cependant , la solution du problème qui m' est soumis peut affecter la forme du dilemme .
+(label :H label
        :A label
        :P label
+       :L label
+       :D label
        :E label
        :C label
        :R label)

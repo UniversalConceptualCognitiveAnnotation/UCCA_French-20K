@@ -1,6 +1,7 @@
 # ::id 925003
-# ::tok » disait le maître d’ équipage .
+# ::tok La frégate passa donc au large des Pomotou , des Marquises , des Sandwich , coupa le tropique du Cancer par 132° de longitude , et se dirigea vers les mers de Chine .
 (label :H label
+       :L label
        :A label
        :P label
        :E label

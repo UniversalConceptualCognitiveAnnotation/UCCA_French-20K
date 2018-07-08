@@ -1,10 +1,11 @@
 # ::id 83001
-# ::tok Donc , ce cétacé extraordinaire pouvait se transporter d\u2019 un endroit à un autre avec une vélocité surprenante , puisque à trois jours d\u2019 intervalle , le Governor-Higginson et le Cristobal-Colon l\u2019 avaient observé en deux points de la carte séparés par une distance de plus de sept cents lieues marines .
+# ::tok Donc , ce cétacé extraordinaire pouvait se transporter d' un endroit à un autre avec une vélocité surprenante , puisque à trois jours d' intervalle , le Governor-Higginson et le Cristobal-Colon l' avaient observé en deux points de la carte séparés par une distance de plus de sept cents lieues marines .
 (label :L label
        :H label
        :A label
-       :P label
        :D label
+       :P label
+       :T label
        :E label
        :C label
        :R label

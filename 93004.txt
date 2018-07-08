@@ -2,9 +2,9 @@
 # ::tok Ainsi donc , en 1867 , la Compagnie possédait douze navires , dont huit à roues et quatre à hélices .
 (label :L label
        :H label
-       :D label
+       :T label
        :A label
-       :P label
+       :S label
        :R label
        :C label
        :E label

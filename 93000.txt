@@ -1,5 +1,5 @@
 # ::id 93000
-# ::tok Personne n\u2019 ignore le nom du célèbre armateur anglais Cunard .
+# ::tok Personne n' ignore le nom du célèbre armateur anglais Cunard .
 (label :H label
        :A label
        :D label

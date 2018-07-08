@@ -1,12 +1,8 @@
 # ::id 857001
-# ::tok Ma nationalité l’ attirait sans doute . C’ était une occasion pour lui de parler , et pour moi d’ entendre cette vieille langue de Rabelais qui est encore en usage dans quelques provinces canadiennes .
+# ::tok Ma nationalité l’ attirait sans doute .
 (label :H label
-       :G label
-       :L label
        :A label
        :P label
-       :R label
-       :C label
-       :S label
+       :G label
        :E label
-       :D label)
+       :C label)

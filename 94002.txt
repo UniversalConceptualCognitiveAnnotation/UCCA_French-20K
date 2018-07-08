@@ -1,10 +1,11 @@
 # ::id 94002
-# ::tok Depuis vingt-six ans , les navires Cunard ont traversé deux mille fois l\u2019 Atlantique , et jamais un voyage n\u2019 a été manqué , jamais un retard n\u2019 a eu lieu , jamais ni une lettre , ni un homme , ni un bâtiment n\u2019 ont été perdus .
+# ::tok Depuis vingt-six ans , les navires Cunard ont traversé deux mille fois l' Atlantique , et jamais un voyage n' a été manqué , jamais un retard n' a eu lieu , jamais ni une lettre , ni un homme , ni un bâtiment n' ont été perdus .
 (label :H label
        :L label
-       :D label
+       :T label
        :A label
        :P label
        :R label
        :E label
-       :C label)
+       :C label
+       :N label)

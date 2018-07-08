@@ -2,8 +2,8 @@
 # ::tok Mon article fut chaudement discuté , ce qui lui valut un grand retentissement .
 (label :H label
        :A label
-       :P label
        :D label
+       :P label
        :R label
        :E label
        :C label)

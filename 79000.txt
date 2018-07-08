@@ -1,10 +1,12 @@
 # ::id 79000
-# ::tok Les faits relatifs à cette apparition , consignés aux divers livres de bord , s\u2019 accordaient assez exactement sur la structure de l\u2019 objet ou de l\u2019 être en question , la vitesse inouïe de ses mouvements , la puissance surprenante de sa locomotion , la vie particulière dont il semblait doué .
+# ::tok Les faits relatifs à cette apparition , consignés aux divers livres de bord , s' accordaient assez exactement sur la structure de l' objet ou de l' être en question , la vitesse inouïe de ses mouvements , la puissance surprenante de sa locomotion , la vie particulière dont il semblait doué .
 (label :H label
        :A label
        :P label
        :D label
        :E label
        :C label
+       :S label
        :R label
+       :G label
        :N label)

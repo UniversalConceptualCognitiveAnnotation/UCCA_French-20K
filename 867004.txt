@@ -1,7 +1,8 @@
 # ::id 867004
-# ::tok Un poulpe gigantesque , peut-être ?
+# ::tok … — Encore moins , Ned .
 (label :H label
-       :A label
+       :S label
        :D label
+       :G label
        :E label
        :C label)

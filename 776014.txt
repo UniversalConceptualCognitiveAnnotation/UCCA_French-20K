@@ -1,9 +1,8 @@
 # ::id 776014
-# ::tok – On le nourrira pendant notre absence .
+# ::tok – Le crochet qui plaira à monsieur .
 (label :H label
        :A label
-       :P label
-       :D label
-       :R label
        :E label
-       :C label)
+       :C label
+       :R label
+       :P label)

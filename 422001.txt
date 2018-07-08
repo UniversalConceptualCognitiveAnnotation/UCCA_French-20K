@@ -1,5 +1,5 @@
 # ::id 422001
-# ::tok Après les chassepots , les torpilles , après les torpilles , les béliers sous-marins , puis . \u2013 la réaction .
+# ::tok Après les chassepots , les torpilles , après les torpilles , les béliers sous-marins , puis . - la réaction .
 (label :H label
        :L label
        :P label

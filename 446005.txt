@@ -1,5 +1,5 @@
 # ::id 446005
-# ::tok Il n\u2019 avait qu\u2019 à allumer ses fourneaux , à chauffer , à démarrer !
+# ::tok Il n' avait qu' à allumer ses fourneaux , à chauffer , à démarrer !
 (label :H label
        :A label
        :D label

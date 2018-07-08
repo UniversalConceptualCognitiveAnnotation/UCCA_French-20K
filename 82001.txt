@@ -1,10 +1,10 @@
 # ::id 82001
-# ::tok Le capitaine Baker se crut , tout d\u2019 abord , en présence d\u2019 un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d\u2019eau , projetées par l\u2019 inexplicable objet , s\u2019 élancèrent en sifflant à cent cinquante pieds dans l\u2019air .
+# ::tok Le capitaine Baker se crut , tout d' abord , en présence d' un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d'eau , projetées par l' inexplicable objet , s' élancèrent en sifflant à cent cinquante pieds dans l'air .
 (label :H label
        :L label
        :A label
-       :P label
        :D label
+       :P label
        :E label
        :C label
        :R label)

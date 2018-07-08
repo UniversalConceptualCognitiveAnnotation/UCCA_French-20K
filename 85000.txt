@@ -1,5 +1,5 @@
 # ::id 85000
-# ::tok Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l\u2019 Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l\u2019état-major du commodore Fitz-James à bord du Lord-Clyde , émurent profondément l\u2019 opinion publique .
+# ::tok Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l' Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l'état-major du commodore Fitz-James à bord du Lord-Clyde , émurent profondément l' opinion publique .
 (label :H label
        :A label
        :P label

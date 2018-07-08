@@ -1,7 +1,12 @@
 # ::id 778001
-# ::tok – Et songes - y bien !
-(label :L label
-       :H label
+# ::tok – Et songes - y bien ! car je ne veux rien te cacher . C’ est là un de ces voyages dont on ne revient pas toujours !
+(label :H label
        :A label
        :P label
-       :D label)
+       :L label
+       :D label
+       :S label
+       :E label
+       :C label
+       :R label
+       :T label)

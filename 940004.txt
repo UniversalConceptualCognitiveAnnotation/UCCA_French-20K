@@ -1,9 +1,9 @@
 # ::id 940004
-# ::tok Et j’ aurais déjà classé les fossiles de monsieur !
-(label :L label
-       :H label
+# ::tok — Eh bien , monsieur n’ aura que ce qu’ il mérite !
+(label :H label
        :A label
        :P label
+       :L label
        :D label
        :C label
        :E label

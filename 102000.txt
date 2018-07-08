@@ -1,5 +1,5 @@
 # ::id 102000
-# ::tok Tel était ce dernier fait , qui eut pour résultat de passionner à nouveau l\u2019opinion publique .
+# ::tok Tel était ce dernier fait , qui eut pour résultat de passionner à nouveau l'opinion publique .
 (label :H label
        :A label
        :S label

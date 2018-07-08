@@ -1,11 +1,10 @@
 # ::id 82000
-# ::tok En effet , le 20 juillet 1866 , le steamer Governor- Higginson , de Calcutta and Burnach steam navigation Company , avait rencontré cette masse mouvante à cinq milles dans l\u2019 est des côtes de l\u2019 Australie .
+# ::tok En effet , le 20 juillet 1866 , le steamer Governor- Higginson , de Calcutta and Burnach steam navigation Company , avait rencontré cette masse mouvante à cinq milles dans l' est des côtes de l' Australie .
 (label :L label
        :H label
        :E label
        :C label
-       :D label
+       :T label
        :A label
        :P label
-       :R label
-       :N label)
+       :R label)

@@ -2,9 +2,10 @@
 # ::tok Pendant trois mois , trois mois dont chaque jour durait un siècle ! l' Abraham-Lincoln sillonna toutes les mers septentrionales du Pacifique , courant aux baleines signalées , faisant de brusques écarts de route , virant subitement d’ un bord sur l’ autre , s’ arrêtant soudain , forçant ou renversant sa vapeur , coup sur coup , au risque de déniveler sa machine , et il ne laissa pas un point inexploré des rivages du Japon à la côte américaine .
 (label :H label
        :L label
-       :D label
+       :T label
        :A label
        :P label
+       :D label
        :R label
        :E label
        :C label

@@ -1,9 +1,10 @@
 # ::id 90001
-# ::tok Sous l\u2019 effort combiné du vent et de ses quatre cents chevaux-vapeur , il marchait à la vitesse de treize n&#x153;uds .
+# ::tok Sous l' effort combiné du vent et de ses quatre cents chevaux-vapeur , il marchait à la vitesse de treize nuds .
 (label :H label
        :A label
        :P label
        :R label
+       :D label
        :E label
        :C label
        :N label)

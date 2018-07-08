@@ -1,5 +1,5 @@
 # ::id 422002
-# ::tok Du moins , je l\u2019 espère .
+# ::tok Du moins , je l' espère .
 (label :L label
        :H label
        :A label

@@ -1,10 +1,11 @@
 # ::id 90002
-# ::tok Nul doute que sans la qualité supérieure de sa coque , le Moravian , ouvert au choc , ne se fût englouti avec les deux cent trente-sept passagers qu\u2019 il ramenait du Canada .
-(label :G label
-       :L label
-       :H label
+# ::tok Nul doute que sans la qualité supérieure de sa coque , le Moravian , ouvert au choc , ne se fût englouti avec les deux cent trente-sept passagers qu' il ramenait du Canada .
+(label :H label
+       :G label
+       :A label
+       :D label
+       :P label
+       :R label
        :E label
        :C label
-       :A label
-       :P label
-       :R label)
+       :S label)

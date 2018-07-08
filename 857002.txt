@@ -1,10 +1,11 @@
 # ::id 857002
-# ::tok La famille du harponneur était originaire de Québec , et formait déjà une tribu de hardis pêcheurs à l’ époque où cette ville appartenait à la France .
+# ::tok C’ était une occasion pour lui de parler , et pour moi d’ entendre cette vieille langue de Rabelais qui est encore en usage dans quelques provinces canadiennes .
 (label :H label
        :L label
        :A label
-       :P label
-       :D label
+       :S label
        :E label
        :C label
-       :R label)
+       :R label
+       :P label
+       :D label)

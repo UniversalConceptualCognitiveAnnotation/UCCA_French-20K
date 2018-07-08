@@ -7,4 +7,4 @@
        :E label
        :C label
        :R label
-       :D label)
+       :T label)

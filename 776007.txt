@@ -1,7 +1,8 @@
 # ::id 776007
-# ::tok – Pas un instant à perdre .
+# ::tok – On s’ en occupera plus tard .
 (label :H label
        :A label
        :P label
+       :T label
        :E label
        :C label)

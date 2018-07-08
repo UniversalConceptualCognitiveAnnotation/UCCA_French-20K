@@ -1,9 +1,6 @@
 # ::id 940005
-# ::tok Et le babiroussa de monsieur serait installé dans sa cage du Jardin des Plantes , et il attirerait tous les curieux de la capitale !
-(label :L label
-       :H label
+# ::tok — Vraiment !
+(label :H label
        :A label
        :P label
-       :E label
-       :C label
-       :R label)
+       :D label)

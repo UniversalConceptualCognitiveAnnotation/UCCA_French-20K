@@ -1,7 +1,8 @@
 # ::id 872008
-# ::tok Ce qui équivaut à dire que si vous pouviez atteindre cette profondeur dans l’ Océan , chaque centimètre carré de la surface de votre corps subirait une pression de mille kilogrammes .
+# ::tok Or , mon brave Ned , savez - vous ce que vous avez de centimètres carrés en surface ?
 (label :H label
        :L label
+       :G label
        :P label
        :A label
        :E label

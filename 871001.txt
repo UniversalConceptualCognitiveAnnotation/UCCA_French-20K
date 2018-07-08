@@ -1,9 +1,9 @@
 # ::id 871001
 # ::tok — Vraiment , et quelques chiffres vous le prouveront sans peine .
 (label :H label
-       :L label
        :A label
        :P label
+       :L label
        :D label
        :E label
        :C label

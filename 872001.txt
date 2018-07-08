@@ -1,8 +1,8 @@
 # ::id 872001
-# ::tok On fait ce qu’ on veut avec les chiffres !
+# ::tok — En affaires , Ned , mais non en mathématiques .
 (label :H label
+       :L label
        :A label
-       :P label
+       :D label
        :R label
-       :E label
        :C label)

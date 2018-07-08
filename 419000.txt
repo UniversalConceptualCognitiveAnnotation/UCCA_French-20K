@@ -1,9 +1,12 @@
 # ::id 419000
-# ::tok De même fut repoussée l\u2019 existence d\u2019 une coque flottante , d\u2019 une énorme épave , et toujours à cause de la rapidité du déplacement .
+# ::tok De même fut repoussée l' existence d' une coque flottante , d' une énorme épave , et toujours à cause de la rapidité du déplacement .
 (label :L label
        :H label
        :P label
        :A label
-       :C label
+       :S label
+       :T label
+       :D label
        :E label
+       :C label
        :R label)

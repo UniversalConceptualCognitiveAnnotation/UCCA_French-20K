@@ -1,5 +1,5 @@
 # ::id 417002
-# ::tok Ce mystère m\u2019 intriguait .
+# ::tok Ce mystère m' intriguait .
 (label :H label
        :A label
        :P label

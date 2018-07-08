@@ -1,5 +1,5 @@
 # ::id 442000
-# ::tok Mais si les uns ne virent là qu\u2019 un problème purement scientifique à résoudre , les autres , plus positifs , surtout en Amérique et en Angleterre , furent d\u2019 avis de purger l\u2019 Océan de ce redoutable monstre , afin de rassurer les communications transocéaniennes .
+# ::tok Mais si les uns ne virent là qu' un problème purement scientifique à résoudre , les autres , plus positifs , surtout en Amérique et en Angleterre , furent d' avis de purger l' Océan de ce redoutable monstre , afin de rassurer les communications transocéaniennes .
 (label :L label
        :H label
        :A label
@@ -8,4 +8,5 @@
        :E label
        :C label
        :R label
+       :S label
        :N label)

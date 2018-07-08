@@ -1,5 +1,5 @@
 # ::id 915000
-# ::tok L’équipage lui donna raison à l’ unanimité .
+# ::tok L ’ équipage lui donna raison à l’ unanimité .
 (label :H label
        :A label
        :P label

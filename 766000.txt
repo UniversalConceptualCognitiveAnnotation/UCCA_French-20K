@@ -1,9 +1,12 @@
 # ::id 766000
-# ::tok « D’ ailleurs , pensai - je , tout chemin ramène en Europe , et la Licorne sera assez aimable pour m’ entraîner vers les côtes de France !
-(label :L label
-       :H label
-       :R label
-       :C label
+# ::tok « D’ ailleurs , pensai - je , tout chemin ramène en Europe , et la Licorne sera assez aimable pour m’ entraîner vers les côtes de France ! Ce digne animal se laissera prendre dans les mers d’ Europe , – pour mon agrément personnel , – et je ne veux pas rapporter moins d’ un demi mètre de sa hallebarde d’ ivoire au Muséum d’ histoire naturelle . »
+(label :H label
        :A label
        :P label
-       :E label)
+       :L label
+       :D label
+       :S label
+       :G label
+       :E label
+       :C label
+       :R label)

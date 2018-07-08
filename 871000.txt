@@ -1,9 +1,8 @@
 # ::id 871000
 # ::tok — Vraiment ? dit Ned qui me regardait en clignant de l’ œil .
 (label :H label
-       :L label
        :A label
        :P label
        :C label
-       :R label
-       :E label)
+       :E label
+       :R label)

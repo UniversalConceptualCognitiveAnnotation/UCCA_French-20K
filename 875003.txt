@@ -2,5 +2,4 @@
 # ::tok — Eh bien , vous ai - je convaincu ?
 (label :H label
        :A label
-       :P label
-       :C label)
+       :P label)

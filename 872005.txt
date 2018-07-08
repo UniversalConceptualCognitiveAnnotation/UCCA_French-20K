@@ -1,10 +1,12 @@
 # ::id 872005
-# ::tok En réalité , la colonne d’ eau serait d’ une moindre hauteur , puisqu’ il s’ agit de l’ eau de mer dont la densité est supérieure à celle de l’ eau douce .
-(label :L label
-       :H label
-       :R label
-       :C label
+# ::tok Eh bien , quand vous plongez , Ned , autant de fois trente-deux pieds d’ eau au - dessus de vous , autant de fois votre corps supporte une pression égale à celle de l’ atmosphère , c’est-à-dire de kilogrammes par chaque centimètre carré de sa surface .
+(label :H label
+       :L label
        :A label
-       :S label
+       :P label
+       :G label
        :D label
-       :E label)
+       :E label
+       :C label
+       :R label
+       :S label)

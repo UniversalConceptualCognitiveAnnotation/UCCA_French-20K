@@ -1,10 +1,10 @@
 # ::id 447000
-# ::tok Trois heures avant que l\u2019 Abraham - Lincoln ne quittât la pier de Brooklyn , je reçus une lettre libellée en ces termes :
-(label :L label
-       :H label
-       :E label
-       :C label
+# ::tok Trois heures avant que l' Abraham - Lincoln ne quittât la pier de Brooklyn , je reçus une lettre libellée en ces termes :
+(label :H label
+       :T label
        :A label
        :D label
        :P label
+       :E label
+       :C label
        :R label)

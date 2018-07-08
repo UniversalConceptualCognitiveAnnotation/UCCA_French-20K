@@ -2,7 +2,7 @@
 # ::tok Mais , huit heures sur douze , cet entêté Canadien lisait ou dormait dans sa cabine .
 (label :L label
        :H label
-       :D label
+       :T label
        :A label
        :P label
        :C label

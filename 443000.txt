@@ -1,5 +1,5 @@
 # ::id 443000
-# ::tok L\u2019 opinion publique s\u2019 étant prononcée , les États de l\u2019 Union se déclarèrent les premiers .
+# ::tok L' opinion publique s' étant prononcée , les États de l' Union se déclarèrent les premiers .
 (label :H label
        :A label
        :P label

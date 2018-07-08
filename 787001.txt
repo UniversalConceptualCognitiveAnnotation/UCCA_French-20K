@@ -1,9 +1,11 @@
 # ::id 787001
 # ::tok – Aussi bien , n’ en déplaise à monsieur , répondit Conseil , qu’ un bernard - l’ ermite dans la coquille d’ un buccin . »
 (label :H label
-       :S label
        :A label
        :P label
+       :D label
+       :S label
+       :G label
+       :R label
        :E label
-       :C label
-       :R label)
+       :C label)

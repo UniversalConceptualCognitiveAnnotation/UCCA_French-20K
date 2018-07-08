@@ -1,10 +1,10 @@
 # ::id 77002
-# ::tok Les négociants , armateurs , capitaines de navires , skippers et masters de l\u2019 Europe et de l\u2019 Amérique , officiers des marines militaires de tous pays , et , après eux , les gouvernements des divers États des deux continents , se préoccupèrent de ce fait au plus haut point .
+# ::tok Les négociants , armateurs , capitaines de navires , skippers et masters de l' Europe et de l' Amérique , officiers des marines militaires de tous pays , et , après eux , les gouvernements des divers États des deux continents , se préoccupèrent de ce fait au plus haut point .
 (label :H label
        :A label
        :P label
        :D label
        :C label
        :N label
-       :E label
-       :R label)
+       :R label
+       :E label)

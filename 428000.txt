@@ -1,10 +1,11 @@
 # ::id 428000
-# ::tok « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l\u2019 existence d\u2019 un animal marin d\u2019 une puissance excessive .
-(label :L label
-       :H label
-       :P label
+# ::tok « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l' existence d' un animal marin d' une puissance excessive .
+(label :H label
        :A label
+       :P label
+       :L label
        :D label
        :C label
        :R label
-       :E label)
+       :E label
+       :S label)

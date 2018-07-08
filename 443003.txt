@@ -1,5 +1,5 @@
 # ::id 443003
-# ::tok Les arsenaux furent ouverts au commandant Farragut , qui pressa activement l\u2019 armement de sa frégate .
+# ::tok Les arsenaux furent ouverts au commandant Farragut , qui pressa activement l' armement de sa frégate .
 (label :H label
        :A label
        :P label

@@ -1,7 +1,7 @@
 # ::id 936000
 # ::tok En ce moment , j’ étais appuyé à l’ avant , sur le bastingage de tribord .
 (label :H label
-       :D label
+       :T label
        :A label
        :S label
        :R label

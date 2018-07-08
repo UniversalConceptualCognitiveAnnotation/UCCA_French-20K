@@ -1,8 +1,10 @@
 # ::id 776005
-# ::tok Nous partons dans deux heures .
+# ::tok – Pas un instant à perdre . Serre dans ma malle tous mes ustensiles de voyage , des habits , des chemises , des chaussettes , sans compter , mais le plus que tu pourras , et hâte - toi !
 (label :H label
        :A label
        :P label
-       :R label
+       :L label
+       :D label
        :E label
-       :C label)
+       :C label
+       :R label)

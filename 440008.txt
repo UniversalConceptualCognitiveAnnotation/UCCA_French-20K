@@ -1,10 +1,9 @@
 # ::id 440008
-# ::tok Pourquoi la mer , dans ses profondeurs ignorées , n\u2019 aurait - elle pas gardé ces vastes échantillons de la vie d\u2019 un autre âge , elle qui ne se modifie jamais , alors que le noyau terrestre change presque incessamment ?
+# ::tok Le Créateur les avait jetés dans un moule colossal que le temps a réduit peu à peu .
 (label :H label
-       :L label
        :A label
-       :D label
        :P label
        :E label
        :C label
-       :R label)
+       :R label
+       :D label)

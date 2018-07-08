@@ -2,6 +2,7 @@
 # ::tok Les officiers du bord partageaient l’ opinion de leur chef .
 (label :H label
        :A label
+       :D label
        :P label
        :E label
        :C label

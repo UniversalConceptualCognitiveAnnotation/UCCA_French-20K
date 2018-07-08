@@ -1,5 +1,5 @@
 # ::id 427000
-# ::tok Je m\u2019 exécutai .
+# ::tok Je m' exécutai .
 (label :H label
        :A label
        :P label)

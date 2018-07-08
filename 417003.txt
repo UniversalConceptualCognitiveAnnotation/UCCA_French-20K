@@ -1,9 +1,9 @@
 # ::id 417003
-# ::tok Dans l\u2019 impossibilité de me former une opinion , je flottais d\u2019 un extrême à l\u2019 autre .
+# ::tok Dans l' impossibilité de me former une opinion , je flottais d' un extrême à l' autre .
 (label :H label
        :A label
+       :R label
        :S label
        :P label
-       :R label
        :E label
        :C label)

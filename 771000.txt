@@ -2,7 +2,7 @@
 # ::tok Conseil , jusqu’ ici et depuis dix ans , m’ avait suivi partout où m’ entraînait la science .
 (label :H label
        :A label
-       :D label
+       :T label
        :P label
        :C label
        :N label

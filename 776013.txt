@@ -1,9 +1,9 @@
 # ::id 776013
-# ::tok – Et le babiroussa vivant de monsieur ?
-(label :L label
-       :H label
+# ::tok – Si ... certainement ... répondis - je évasivement , mais en faisant un crochet .
+(label :H label
        :A label
        :P label
+       :D label
+       :L label
        :E label
-       :C label
-       :R label)
+       :C label)

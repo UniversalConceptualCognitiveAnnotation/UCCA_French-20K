@@ -1,5 +1,5 @@
 # ::id 100002
-# ::tok Une telle voie d\u2019 eau ne pouvait être aveuglée , et le Scotia , ses roues à demi noyées , dut continuer ainsi son voyage .
+# ::tok Une telle voie d' eau ne pouvait être aveuglée , et le Scotia , ses roues à demi noyées , dut continuer ainsi son voyage .
 (label :H label
        :L label
        :A label
@@ -7,4 +7,5 @@
        :P label
        :E label
        :C label
-       :R label)
+       :R label
+       :S label)

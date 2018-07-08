@@ -1,5 +1,9 @@
 # ::id 791001
-# ::tok lui demanda - t - il .
+# ::tok – Oui , monsieur , répondit l’ ingénieur . – Go head , » cria le commandant Farragut .
 (label :H label
        :A label
-       :P label)
+       :P label
+       :D label
+       :G label
+       :E label
+       :C label)

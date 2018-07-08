@@ -1,11 +1,11 @@
 # ::id 872006
-# ::tok Eh bien , quand vous plongez , Ned , autant de fois trente-deux pieds d’ eau au - dessus de vous , autant de fois votre corps supporte une pression égale à celle de l’ atmosphère , c’est-à-dire de kilogrammes par chaque centimètre carré de sa surface .
+# ::tok Il suit de là qu’ à trois cent vingt pieds cette pression est de dix atmosphères , de cent atmosphères à trois mille deux cents pieds , et de mille atmosphères à trente-deux mille pieds , soit deux lieues et demie environ .
 (label :H label
-       :L label
        :P label
        :A label
-       :D label
-       :E label
-       :C label
        :R label
-       :S label)
+       :C label
+       :L label
+       :S label
+       :E label
+       :N label)

@@ -1,5 +1,5 @@
 # ::id 446007
-# ::tok D\u2019 ailleurs , le commandant Farragut ne demandait qu\u2019 à partir .
+# ::tok D' ailleurs , le commandant Farragut ne demandait qu' à partir .
 (label :L label
        :H label
        :R label

@@ -1,9 +1,8 @@
 # ::id 778002
-# ::tok car je ne veux rien te cacher .
-(label :L label
-       :H label
-       :A label
+# ::tok Comme il plaira à monsieur . »
+(label :H label
        :D label
        :P label
-       :E label
+       :A label
+       :R label
        :C label)

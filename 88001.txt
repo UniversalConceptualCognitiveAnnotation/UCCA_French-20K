@@ -1,9 +1,8 @@
 # ::id 88001
-# ::tok Aux articles de fond de l\u2019 Institut géographique du Brésil , de l\u2019 Académie royale des sciences de Berlin , de l\u2019 Association Britannique , de l\u2019 Institution Smithsonnienne de Washington , aux discussions du The Indian Archipelago , du Cosmos de l\u2019 abbé Moigno , des Mittheilungen de Petermann , aux chroniques scientifiques des grands journaux de la France et de l\u2019 étranger , la petite presse ripostait avec une verve intarissable .
+# ::tok Aux articles de fond de l' Institut géographique du Brésil , de l' Académie royale des sciences de Berlin , de l' Association Britannique , de l' Institution Smithsonnienne de Washington , aux discussions du The Indian Archipelago , du Cosmos de l' abbé Moigno , des Mittheilungen de Petermann , aux chroniques scientifiques des grands journaux de la France et de l' étranger , la petite presse ripostait avec une verve intarissable .
 (label :H label
        :A label
        :P label
-       :D label
        :C label
        :E label
        :R label

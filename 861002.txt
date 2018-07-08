@@ -1,7 +1,7 @@
 # ::id 861002
 # ::tok Avant huit jours , l’ Abraham - Lincoln sillonnerait les flots du Pacifique .
 (label :H label
-       :D label
+       :T label
        :A label
        :P label
        :R label

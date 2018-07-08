@@ -1,12 +1,12 @@
 # ::id 873005
-# ::tok De là un équilibre parfait entre la poussée intérieure et la poussée extérieure , qui se neutralisent , ce qui vous permet de les supporter sans peine .
-(label :L label
-       :H label
+# ::tok — Sans que vous vous en aperceviez . Et si vous n’ êtes pas écrasé par une telle pression , c’ est que l’air pénètre à l’ intérieur de votre corps avec une pression égale . De là un équilibre parfait entre la poussée intérieure et la poussée extérieure , qui se neutralisent , ce qui vous permet de les supporter sans peine . Mais dans l’ eau , c’ est autre chose .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :D label
        :R label
        :C label
        :S label
-       :D label
-       :A label
-       :P label
        :E label
        :N label)

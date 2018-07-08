@@ -1,10 +1,10 @@
 # ::id 420000
-# ::tok Restaient donc deux solutions possibles de la question , qui créaient deux clans très - distincts de partisans : d\u2019 un côté , ceux qui tenaient pour un monstre d\u2019 une force colossale ; de l\u2019 autre , ceux qui tenaient pour un bateau « sous-marin » d\u2019 une extrême puissance motrice
+# ::tok Restaient donc deux solutions possibles de la question , qui créaient deux clans très - distincts de partisans : d' un côté , ceux qui tenaient pour un monstre d' une force colossale ; de l' autre , ceux qui tenaient pour un bateau « sous-marin » d' une extrême puissance motrice
 (label :H label
        :L label
        :S label
        :A label
-       :P label
        :E label
        :C label
-       :R label)
+       :R label
+       :P label)

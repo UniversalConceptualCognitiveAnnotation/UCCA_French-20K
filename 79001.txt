@@ -1,5 +1,5 @@
 # ::id 79001
-# ::tok Si c\u2019 était un cétacé , il surpassait en volume tous ceux que la science avait classés jusqu\u2019 alors .
+# ::tok Si c' était un cétacé , il surpassait en volume tous ceux que la science avait classés jusqu' alors .
 (label :L label
        :H label
        :A label
@@ -8,4 +8,4 @@
        :E label
        :C label
        :R label
-       :D label)
+       :T label)

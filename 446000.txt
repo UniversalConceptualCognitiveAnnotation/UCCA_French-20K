@@ -1,5 +1,5 @@
 # ::id 446000
-# ::tok L\u2019 émotion causée par cette nouvelle fut extrême .
+# ::tok L' émotion causée par cette nouvelle fut extrême .
 (label :H label
        :A label
        :S label

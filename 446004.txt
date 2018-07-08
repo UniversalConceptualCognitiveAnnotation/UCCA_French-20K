@@ -1,8 +1,8 @@
 # ::id 446004
-# ::tok Pas un homme ne manquait à son rôle d\u2019 équipage .
+# ::tok Pas un homme ne manquait à son rôle d' équipage .
 (label :H label
-       :A label
        :D label
+       :A label
        :P label
        :E label
        :C label

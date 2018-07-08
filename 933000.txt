@@ -1,7 +1,7 @@
 # ::id 933000
 # ::tok Deux jours se passèrent .
 (label :H label
-       :A label
+       :T label
        :P label
        :E label
        :C label)
