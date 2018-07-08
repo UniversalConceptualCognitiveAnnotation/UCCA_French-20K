@@ -8,7 +8,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="n\u2019" />
+      <attributes paragraph="1" paragraph_position="2" text="n'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
@@ -82,6 +82,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
+      <extra remarks="D" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
