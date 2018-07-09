@@ -2,9 +2,9 @@
 # ::tok Et cependant , quel brave et digne garçon !
 (label :L label
        :H label
+       :A label
        :S label
        :D label
-       :A label
        :E label
        :C label
        :N label)
