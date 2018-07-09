@@ -1,6 +1,7 @@
 # ::id 867004
 # ::tok … — Encore moins , Ned .
 (label :H label
+       :A label
        :S label
        :D label
        :G label

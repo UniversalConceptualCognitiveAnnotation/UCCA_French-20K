@@ -1,9 +1,9 @@
 # ::id 771002
 # ::tok Nulle objection à boucler sa valise pour un pays quelconque , Chine ou Congo , si éloigné qu’ il fût .
 (label :H label
+       :A label
        :D label
        :P label
-       :A label
        :C label
        :E label
        :R label
