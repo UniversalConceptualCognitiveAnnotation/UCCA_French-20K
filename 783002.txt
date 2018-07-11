@@ -1,6 +1,0 @@
-# ::id 783002
-# ::tok – Lui - même , répondis - je .
-(label :H label
-       :A label
-       :S label
-       :P label)

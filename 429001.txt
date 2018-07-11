@@ -1,8 +1,0 @@
-# ::id 429001
-# ::tok La sonde n\u2019 a su les atteindre .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)

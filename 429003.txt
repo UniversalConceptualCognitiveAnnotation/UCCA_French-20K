@@ -1,9 +1,0 @@
-# ::id 429003
-# ::tok Quels êtres habitent et peuvent habiter à douze ou quinze milles au - dessous de la surface des eaux ?
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)

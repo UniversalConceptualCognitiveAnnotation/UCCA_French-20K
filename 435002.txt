@@ -1,9 +1,0 @@
-# ::id 435002
-# ::tok On a trouvé quelques - unes de ces dents implantées dans le corps des baleines que le narwal attaque toujours avec succès .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label
-       :D label)

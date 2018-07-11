@@ -1,9 +1,0 @@
-# ::id 923005
-# ::tok Donc , si la bête existe , elle est déjà loin ! »
-(label :L label
-       :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label)

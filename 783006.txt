@@ -1,7 +1,0 @@
-# ::id 783006
-# ::tok Votre cabine vous attend . »
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)

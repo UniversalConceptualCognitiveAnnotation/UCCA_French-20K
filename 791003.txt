@@ -1,7 +1,0 @@
-# ::id 791003
-# ::tok – Go head , » cria le commandant Farragut .
-(label :H label
-       :P label
-       :A label
-       :E label
-       :C label)

@@ -1,9 +1,0 @@
-# ::id 435004
-# ::tok Le musée de la Faculté de médecine de Paris possède une de ces défenses longue de deux mètres vingt-cinq centimètres , et large de quarante-huit centimètres à sa base !
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)

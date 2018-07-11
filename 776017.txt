@@ -1,5 +1,0 @@
-# ::id 776017
-# ::tok demanda Conseil .
-(label :H label
-       :A label
-       :P label)

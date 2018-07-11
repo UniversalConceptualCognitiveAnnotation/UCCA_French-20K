@@ -1,9 +1,0 @@
-# ::id 923003
-# ::tok Il est doué d’ une prodigieuse facilité de déplacement .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :R label
-       :E label
-       :P label)

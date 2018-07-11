@@ -1,9 +1,0 @@
-# ::id 940007
-# ::tok — Effectivement , répondit tranquillement Conseil , je pense que l’ on se moquera de monsieur .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label)

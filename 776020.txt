@@ -1,8 +1,0 @@
-# ::id 776020
-# ::tok – Oh ! ce sera peu de chose !
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)

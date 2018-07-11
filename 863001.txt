@@ -1,8 +1,0 @@
-# ::id 863001
-# ::tok Avez - vous donc des raisons particulières de vous montrer si incrédule ? »
-(label :H label
-       :L label
-       :P label
-       :A label
-       :E label
-       :C label)

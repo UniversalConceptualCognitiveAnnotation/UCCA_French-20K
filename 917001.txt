@@ -1,7 +1,0 @@
-# ::id 917001
-# ::tok ouvre l’ œ il !
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)

@@ -1,9 +1,0 @@
-# ::id 923001
-# ::tok Est - ce que nous ne courons pas à l’ aventure ?
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :R label
-       :C label)

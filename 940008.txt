@@ -1,8 +1,0 @@
-# ::id 940008
-# ::tok Et , faut - il le dire… ?
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label)

@@ -1,8 +1,0 @@
-# ::id 783004
-# ::tok – En personne .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :R label
-       :C label)

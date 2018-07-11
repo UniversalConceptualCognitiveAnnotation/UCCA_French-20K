@@ -1,9 +1,0 @@
-# ::id 429005
-# ::tok On saurait à peine le conjecturer .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)

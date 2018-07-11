@@ -1,7 +1,0 @@
-# ::id 777004
-# ::tok Ces bêtes - là peuvent être très - capricieuses !
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
