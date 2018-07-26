@@ -13,9 +13,9 @@
 12	car	_	Word	Word	_	7	L	_	_
 13	les	_	Word	Word	_	14	E	_	_
 14	feux	_	Word	Word	_	0	ROOT	_	_
-15	se	_	Word	Word	_	18	E	_	_
-16	fussent	_	Word	Word	_	18	F	_	_
-17	subitement	_	Word	Word	_	18	D	_	_
-18	éteints	_	Word	Word	_	0	ROOT	_	_
-19	.	_	Punctuation	Punctuation	_	18	U	_	_
+15	se	_	Word	Word	_	0	ROOT	_	_
+16	fussent	_	Word	Word	_	15	F	_	_
+17	subitement	_	Word	Word	_	15	D	_	_
+18	éteints	_	Word	Word	_	15	Terminal	_	_
+19	.	_	Punctuation	Punctuation	_	15	U	_	_
 

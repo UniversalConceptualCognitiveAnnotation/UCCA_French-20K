@@ -3,8 +3,8 @@
 2	milliers	_	Word	Word	_	0	ROOT	_	_
 3	de	_	Word	Word	_	2	R	_	_
 4	mouchoirs	_	Word	Word	_	15	A	_	_
-5	s’	_	Word	Word	_	6	E	_	_
-6	agitèrent	_	Word	Word	_	0	ROOT	_	_
+5	s’	_	Word	Word	_	0	ROOT	_	_
+6	agitèrent	_	Word	Word	_	5	Terminal	_	_
 7	au	_	Word	Word	_	9	R	_	_
 8	-	_	Punctuation	Punctuation	_	9	U	_	_
 9	dessus	_	Word	Word	_	0	ROOT	_	_
@@ -12,13 +12,13 @@
 11	la	_	Word	Word	_	12	E	_	_
 12	masse	_	Word	Word	_	0	ROOT	_	_
 13	compacte	_	Word	Word	_	12	E	_	_
-14	et	_	Word	Word	_	6	L	_	_
+14	et	_	Word	Word	_	5	L	_	_
 15	saluèrent	_	Word	Word	_	0	ROOT	_	_
 16	l’	_	Word	Word	_	17	E	_	_
 17	Abraham	_	Word	Word	_	0	ROOT	_	_
 18	-	_	Punctuation	Punctuation	_	17	U	_	_
 19	Lincoln	_	Word	Word	_	17	Terminal	_	_
-20	jusqu’	_	Word	Word	_	6	L	_	_
+20	jusqu’	_	Word	Word	_	5	L	_	_
 21	à	_	Word	Word	_	20	Terminal	_	_
 22	son	_	Word	Word	_	23	A	_	_
 23	arrivée	_	Word	Word	_	0	ROOT	_	_

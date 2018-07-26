@@ -2,9 +2,9 @@
 1	Le	_	Word	Word	_	2	E	_	_
 2	capitaine	_	Word	Word	_	0	ROOT	_	_
 3	Anderson	_	Word	Word	_	0	ROOT	_	_
-4	se	_	Word	Word	_	5	E	_	_
-5	rendit	_	Word	Word	_	0	ROOT	_	_
-6	immédiatement	_	Word	Word	_	5	D	_	_
+4	se	_	Word	Word	_	0	ROOT	_	_
+5	rendit	_	Word	Word	_	4	Terminal	_	_
+6	immédiatement	_	Word	Word	_	4	T	_	_
 7	dans	_	Word	Word	_	9	R	_	_
 8	la	_	Word	Word	_	9	E	_	_
 9	cale	_	Word	Word	_	0	ROOT	_	_

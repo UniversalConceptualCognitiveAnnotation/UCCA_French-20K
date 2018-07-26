@@ -11,7 +11,7 @@
 10	le	_	Word	Word	_	12	E	_	_
 11	seul	_	Word	Word	_	12	E	_	_
 12	milieu	_	Word	Word	_	27	A	_	_
-13	où	_	Word	Word	_	35	R	_	_
+13	où	_	Word	Word	_	34	R	_	_
 14	ces	_	Word	Word	_	15	E	_	_
 15	géants	_	Word	Word	_	16	C	_	_
 16	près	_	Word	Word	_	0	ROOT	_	_
@@ -29,13 +29,13 @@
 28	que	_	Word	Word	_	26	Terminal	_	_
 29	des	_	Word	Word	_	30	E	_	_
 30	nains	_	Word	Word	_	0	ROOT	_	_
-31	,	_	Punctuation	Punctuation	_	35	U	_	_
-32	\u2013	_	Punctuation	Punctuation	_	35	U	_	_
-33	puissent	_	Word	Word	_	35	E	_	_
-34	se	_	Word	Word	_	35	E	_	_
-35	produire	_	Word	Word	_	0	ROOT	_	_
-36	et	_	Word	Word	_	35	N	_	_
-37	se	_	Word	Word	_	38	E	_	_
-38	développer	_	Word	Word	_	0	ROOT	_	_
-39	.	_	Punctuation	Punctuation	_	38	U	_	_
+31	,	_	Punctuation	Punctuation	_	34	U	_	_
+32	-	_	Punctuation	Punctuation	_	34	U	_	_
+33	puissent	_	Word	Word	_	34	D	_	_
+34	se	_	Word	Word	_	0	ROOT	_	_
+35	produire	_	Word	Word	_	34	Terminal	_	_
+36	et	_	Word	Word	_	34	N	_	_
+37	se	_	Word	Word	_	34	C	_	_
+38	développer	_	Word	Word	_	37	Terminal	_	_
+39	.	_	Punctuation	Punctuation	_	34	U	_	_
 

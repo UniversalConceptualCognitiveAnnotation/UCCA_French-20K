@@ -1,6 +1,6 @@
 # sent_id = 875004
 1	—	_	Punctuation	Punctuation	_	5	U	_	_
-2	Vous	_	Word	Word	_	0	ROOT	_	_
+2	Vous	_	Word	Word	_	5	A	_	_
 3	m’	_	Word	Word	_	5	A	_	_
 4	avez	_	Word	Word	_	5	F	_	_
 5	convaincu	_	Word	Word	_	0	ROOT	_	_
@@ -8,11 +8,11 @@
 7	une	_	Word	Word	_	8	E	_	_
 8	chose	_	Word	Word	_	0	ROOT	_	_
 9	,	_	Punctuation	Punctuation	_	5	U	_	_
-10	monsieur	_	Word	Word	_	12	E	_	_
-11	le	_	Word	Word	_	12	E	_	_
-12	naturaliste	_	Word	Word	_	0	ROOT	_	_
+10	monsieur	_	Word	Word	_	5	G	_	_
+11	le	_	Word	Word	_	10	Terminal	_	_
+12	naturaliste	_	Word	Word	_	10	Terminal	_	_
 13	,	_	Punctuation	Punctuation	_	5	U	_	_
-14	c’	_	Word	Word	_	5	F	_	_
+14	c’	_	Word	Word	_	21	F	_	_
 15	est	_	Word	Word	_	14	Terminal	_	_
 16	que	_	Word	Word	_	5	L	_	_
 17	si	_	Word	Word	_	5	L	_	_
@@ -26,10 +26,10 @@
 24	des	_	Word	Word	_	23	R	_	_
 25	mers	_	Word	Word	_	0	ROOT	_	_
 26	,	_	Punctuation	Punctuation	_	5	U	_	_
-27	il	_	Word	Word	_	35	F	_	_
-28	faut	_	Word	Word	_	35	E	_	_
-29	nécessairement	_	Word	Word	_	35	D	_	_
-30	qu	_	Word	Word	_	35	F	_	_
+27	il	_	Word	Word	_	0	ROOT	_	_
+28	faut	_	Word	Word	_	27	Terminal	_	_
+29	nécessairement	_	Word	Word	_	27	D	_	_
+30	qu	_	Word	Word	_	35	R	_	_
 31	’	_	Punctuation	Punctuation	_	35	U	_	_
 32	ils	_	Word	Word	_	35	A	_	_
 33	soient	_	Word	Word	_	35	F	_	_

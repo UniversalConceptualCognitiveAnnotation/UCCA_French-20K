@@ -1,14 +1,14 @@
 # sent_id = 938000
 1	«	_	Punctuation	Punctuation	_	2	U	_	_
-2	Allons	_	Word	Word	_	7	A	_	_
+2	Allons	_	Word	Word	_	0	ROOT	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
-4	Conseil	_	Word	Word	_	2	Terminal	_	_
-5	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	Conseil	_	Word	Word	_	2	G	_	_
+5	,	_	Punctuation	Punctuation	_	7	U	_	_
 6	lui	_	Word	Word	_	7	A	_	_
 7	dis	_	Word	Word	_	0	ROOT	_	_
 8	-	_	Punctuation	Punctuation	_	7	U	_	_
 9	je	_	Word	Word	_	7	A	_	_
-10	,	_	Punctuation	Punctuation	_	2	U	_	_
+10	,	_	Punctuation	Punctuation	_	7	U	_	_
 11	voilà	_	Word	Word	_	0	ROOT	_	_
 12	une	_	Word	Word	_	14	E	_	_
 13	dernière	_	Word	Word	_	14	E	_	_

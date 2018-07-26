@@ -17,7 +17,7 @@
 16	trois	_	Word	Word	_	17	E	_	_
 17	semaines	_	Word	Word	_	0	ROOT	_	_
 18	après	_	Word	Word	_	20	R	_	_
-19	notre	_	Word	Word	_	20	A	_	_
+19	notre	_	Word	Word	_	20	E	_	_
 20	départ	_	Word	Word	_	0	ROOT	_	_
 21	,	_	Punctuation	Punctuation	_	24	U	_	_
 22	la	_	Word	Word	_	23	E	_	_
@@ -27,8 +27,8 @@
 26	à	_	Word	Word	_	28	R	_	_
 27	la	_	Word	Word	_	28	E	_	_
 28	hauteur	_	Word	Word	_	0	ROOT	_	_
-29	du	_	Word	Word	_	28	R	_	_
 29	du	_	Word	Word	_	30	E	_	_
+29	du	_	Word	Word	_	28	R	_	_
 30	cap	_	Word	Word	_	0	ROOT	_	_
 31	Blanc	_	Word	Word	_	0	ROOT	_	_
 32	,	_	Punctuation	Punctuation	_	31	U	_	_

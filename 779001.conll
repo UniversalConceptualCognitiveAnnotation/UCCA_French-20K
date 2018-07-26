@@ -26,8 +26,8 @@
 25	et	_	Word	Word	_	24	N	_	_
 26	les	_	Word	Word	_	27	E	_	_
 27	habits	_	Word	Word	_	0	ROOT	_	_
-28	aussi	_	Word	Word	_	32	F	_	_
-29	bien	_	Word	Word	_	32	D	_	_
+28	aussi	_	Word	Word	_	32	D	_	_
+29	bien	_	Word	Word	_	28	Terminal	_	_
 30	que	_	Word	Word	_	32	F	_	_
 31	les	_	Word	Word	_	32	E	_	_
 32	oiseaux	_	Word	Word	_	0	ROOT	_	_

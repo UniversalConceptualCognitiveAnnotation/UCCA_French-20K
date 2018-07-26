@@ -11,11 +11,11 @@
 10	cloisons	_	Word	Word	_	0	ROOT	_	_
 11	étanches	_	Word	Word	_	10	E	_	_
 12	,	_	Punctuation	Punctuation	_	14	U	_	_
-13	devait	_	Word	Word	_	14	E	_	_
+13	devait	_	Word	Word	_	14	F	_	_
 14	braver	_	Word	Word	_	0	ROOT	_	_
 15	impunément	_	Word	Word	_	14	D	_	_
 16	une	_	Word	Word	_	17	E	_	_
 17	voie	_	Word	Word	_	0	ROOT	_	_
-18	d\u2019eau	_	Word	Word	_	17	E	_	_
+18	d'eau	_	Word	Word	_	17	E	_	_
 19	.	_	Punctuation	Punctuation	_	17	U	_	_
 

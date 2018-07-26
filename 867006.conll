@@ -34,10 +34,9 @@
 33	le	_	Word	Word	_	34	E	_	_
 34	Scotia	_	Word	Word	_	0	ROOT	_	_
 35	ou	_	Word	Word	_	34	N	_	_
-36	l	_	Word	Word	_	38	E	_	_
-37	’	_	Punctuation	Punctuation	_	38	U	_	_
-38	Abraham	_	Word	Word	_	0	ROOT	_	_
-39	-	_	Punctuation	Punctuation	_	38	U	_	_
-40	Lincoln	_	Word	Word	_	38	Terminal	_	_
-41	.	_	Punctuation	Punctuation	_	38	U	_	_
+36	l’	_	Word	Word	_	37	E	_	_
+37	Abraham	_	Word	Word	_	0	ROOT	_	_
+38	-	_	Punctuation	Punctuation	_	37	U	_	_
+39	Lincoln	_	Word	Word	_	37	Terminal	_	_
+40	.	_	Punctuation	Punctuation	_	37	U	_	_
 

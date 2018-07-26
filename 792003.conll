@@ -17,9 +17,9 @@
 16	Abraham	_	Word	Word	_	0	ROOT	_	_
 17	-	_	Punctuation	Punctuation	_	16	U	_	_
 18	Lincoln	_	Word	Word	_	16	Terminal	_	_
-19	s’	_	Word	Word	_	20	E	_	_
-20	avança	_	Word	Word	_	0	ROOT	_	_
-21	majestueusement	_	Word	Word	_	20	D	_	_
+19	s’	_	Word	Word	_	0	ROOT	_	_
+20	avança	_	Word	Word	_	19	Terminal	_	_
+21	majestueusement	_	Word	Word	_	19	D	_	_
 22	au	_	Word	Word	_	23	R	_	_
 23	milieu	_	Word	Word	_	0	ROOT	_	_
 24	d’	_	Word	Word	_	23	R	_	_
@@ -38,7 +38,7 @@
 37	,	_	Punctuation	Punctuation	_	30	U	_	_
 38	qui	_	Word	Word	_	41	R	_	_
 39	lui	_	Word	Word	_	41	A	_	_
-40	faisaient	_	Word	Word	_	41	F	_	_
+40	faisaient	_	Word	Word	_	41	D	_	_
 41	cortège	_	Word	Word	_	0	ROOT	_	_
 42	.	_	Punctuation	Punctuation	_	41	U	_	_
 

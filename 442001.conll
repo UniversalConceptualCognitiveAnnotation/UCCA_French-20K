@@ -11,7 +11,7 @@
 10	à	_	Word	Word	_	12	R	_	_
 11	ce	_	Word	Word	_	12	E	_	_
 12	point	_	Word	Word	_	0	ROOT	_	_
-13	de	_	Word	Word	_	14	R	_	_
-14	vue	_	Word	Word	_	0	ROOT	_	_
-15	.	_	Punctuation	Punctuation	_	14	U	_	_
+13	de	_	Word	Word	_	12	Terminal	_	_
+14	vue	_	Word	Word	_	12	Terminal	_	_
+15	.	_	Punctuation	Punctuation	_	12	U	_	_
 

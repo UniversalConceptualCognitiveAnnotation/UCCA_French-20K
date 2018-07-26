@@ -18,8 +18,8 @@
 17	homme	_	Word	Word	_	0	ROOT	_	_
 18	de	_	Word	Word	_	19	R	_	_
 19	barre	_	Word	Word	_	0	ROOT	_	_
-20	donnerait	_	Word	Word	_	22	F	_	_
-21	trois	_	Word	Word	_	0	ROOT	_	_
+20	donnerait	_	Word	Word	_	22	D	_	_
+21	trois	_	Word	Word	_	22	D	_	_
 22	tours	_	Word	Word	_	0	ROOT	_	_
 23	de	_	Word	Word	_	24	R	_	_
 24	roue	_	Word	Word	_	0	ROOT	_	_
@@ -28,8 +28,8 @@
 27	l	_	Word	Word	_	29	E	_	_
 28	'	_	Punctuation	Punctuation	_	29	U	_	_
 29	Abraham-Lincoln	_	Word	Word	_	0	ROOT	_	_
-30	ferait	_	Word	Word	_	31	F	_	_
-31	route	_	Word	Word	_	0	ROOT	_	_
+30	ferait	_	Word	Word	_	0	ROOT	_	_
+31	route	_	Word	Word	_	30	Terminal	_	_
 32	vers	_	Word	Word	_	34	R	_	_
 33	les	_	Word	Word	_	34	E	_	_
 34	mers	_	Word	Word	_	0	ROOT	_	_

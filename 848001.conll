@@ -2,11 +2,11 @@
 1	Le	_	Word	Word	_	2	E	_	_
 2	commandant	_	Word	Word	_	0	ROOT	_	_
 3	Farragut	_	Word	Word	_	9	A	_	_
-4	était	_	Word	Word	_	0	ROOT	_	_
+4	était	_	Word	Word	_	6	F	_	_
 5	un	_	Word	Word	_	7	E	_	_
-6	bon	_	Word	Word	_	7	E	_	_
+6	bon	_	Word	Word	_	0	ROOT	_	_
 7	marin	_	Word	Word	_	0	ROOT	_	_
-8	,	_	Punctuation	Punctuation	_	4	U	_	_
+8	,	_	Punctuation	Punctuation	_	6	U	_	_
 9	digne	_	Word	Word	_	0	ROOT	_	_
 10	de	_	Word	Word	_	12	R	_	_
 11	la	_	Word	Word	_	12	E	_	_

@@ -9,7 +9,7 @@
 8	à	_	Word	Word	_	10	R	_	_
 9	diverses	_	Word	Word	_	10	E	_	_
 10	reprises	_	Word	Word	_	0	ROOT	_	_
-11	\u2013	_	Punctuation	Punctuation	_	2	U	_	_
+11	-	_	Punctuation	Punctuation	_	2	U	_	_
 12	en	_	Word	Word	_	2	L	_	_
 13	rejetant	_	Word	Word	_	0	ROOT	_	_
 14	les	_	Word	Word	_	15	E	_	_
@@ -36,7 +36,7 @@
 35	le	_	Word	Word	_	36	A	_	_
 36	disaient	_	Word	Word	_	0	ROOT	_	_
 37	large	_	Word	Word	_	0	ROOT	_	_
-38	d\u2019	_	Word	Word	_	40	R	_	_
+38	d'	_	Word	Word	_	40	R	_	_
 39	un	_	Word	Word	_	40	E	_	_
 40	mille	_	Word	Word	_	0	ROOT	_	_
 41	et	_	Word	Word	_	37	N	_	_
@@ -44,9 +44,9 @@
 43	de	_	Word	Word	_	44	R	_	_
 44	trois	_	Word	Word	_	0	ROOT	_	_
 45	,	_	Punctuation	Punctuation	_	2	U	_	_
-46	\u2013	_	Punctuation	Punctuation	_	2	U	_	_
+46	-	_	Punctuation	Punctuation	_	2	U	_	_
 47	on	_	Word	Word	_	49	A	_	_
-48	pouvait	_	Word	Word	_	49	E	_	_
+48	pouvait	_	Word	Word	_	49	D	_	_
 49	affirmer	_	Word	Word	_	0	ROOT	_	_
 50	,	_	Punctuation	Punctuation	_	2	U	_	_
 51	cependant	_	Word	Word	_	2	L	_	_
@@ -62,7 +62,7 @@
 61	les	_	Word	Word	_	62	E	_	_
 62	dimensions	_	Word	Word	_	63	A	_	_
 63	admises	_	Word	Word	_	0	ROOT	_	_
-64	jusqu\u2019	_	Word	Word	_	67	R	_	_
+64	jusqu'	_	Word	Word	_	67	R	_	_
 65	à	_	Word	Word	_	64	Terminal	_	_
 66	ce	_	Word	Word	_	67	E	_	_
 67	jour	_	Word	Word	_	0	ROOT	_	_
@@ -70,8 +70,8 @@
 69	les	_	Word	Word	_	70	E	_	_
 70	ichtyologistes	_	Word	Word	_	0	ROOT	_	_
 71	,	_	Punctuation	Punctuation	_	2	U	_	_
-72	\u2013	_	Punctuation	Punctuation	_	2	U	_	_
-73	s\u2019	_	Word	Word	_	2	L	_	_
+72	-	_	Punctuation	Punctuation	_	2	U	_	_
+73	s'	_	Word	Word	_	2	L	_	_
 74	il	_	Word	Word	_	75	A	_	_
 75	existait	_	Word	Word	_	0	ROOT	_	_
 76	toutefois	_	Word	Word	_	75	D	_	_

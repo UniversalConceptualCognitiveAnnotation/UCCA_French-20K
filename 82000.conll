@@ -14,11 +14,11 @@
 13	,	_	Punctuation	Punctuation	_	11	U	_	_
 14	de	_	Word	Word	_	15	R	_	_
 15	Calcutta	_	Word	Word	_	0	ROOT	_	_
-16	and	_	Word	Word	_	15	N	_	_
-17	Burnach	_	Word	Word	_	15	C	_	_
-18	steam	_	Word	Word	_	19	E	_	_
-19	navigation	_	Word	Word	_	0	ROOT	_	_
-20	Company	_	Word	Word	_	0	ROOT	_	_
+16	and	_	Word	Word	_	15	Terminal	_	_
+17	Burnach	_	Word	Word	_	15	Terminal	_	_
+18	steam	_	Word	Word	_	15	Terminal	_	_
+19	navigation	_	Word	Word	_	15	Terminal	_	_
+20	Company	_	Word	Word	_	15	Terminal	_	_
 21	,	_	Punctuation	Punctuation	_	23	U	_	_
 22	avait	_	Word	Word	_	23	F	_	_
 23	rencontré	_	Word	Word	_	0	ROOT	_	_
@@ -29,12 +29,12 @@
 28	cinq	_	Word	Word	_	29	E	_	_
 29	milles	_	Word	Word	_	0	ROOT	_	_
 30	dans	_	Word	Word	_	32	R	_	_
-31	l\u2019	_	Word	Word	_	32	E	_	_
+31	l'	_	Word	Word	_	32	E	_	_
 32	est	_	Word	Word	_	0	ROOT	_	_
 33	des	_	Word	Word	_	29	R	_	_
 34	côtes	_	Word	Word	_	0	ROOT	_	_
 35	de	_	Word	Word	_	37	R	_	_
-36	l\u2019	_	Word	Word	_	37	E	_	_
+36	l'	_	Word	Word	_	37	E	_	_
 37	Australie	_	Word	Word	_	0	ROOT	_	_
 38	.	_	Punctuation	Punctuation	_	37	U	_	_
 

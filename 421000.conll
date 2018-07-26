@@ -10,10 +10,10 @@
 9	tout	_	Word	Word	_	0	ROOT	_	_
 10	,	_	Punctuation	Punctuation	_	13	U	_	_
 11	ne	_	Word	Word	_	13	D	_	_
-12	put	_	Word	Word	_	13	E	_	_
+12	put	_	Word	Word	_	13	D	_	_
 13	résister	_	Word	Word	_	0	ROOT	_	_
 14	aux	_	Word	Word	_	15	R	_	_
-15	enquêtes	_	Word	Word	_	0	ROOT	_	_
+15	enquêtes	_	Word	Word	_	18	A	_	_
 16	qui	_	Word	Word	_	18	R	_	_
 17	furent	_	Word	Word	_	18	F	_	_
 18	poursuivies	_	Word	Word	_	0	ROOT	_	_

@@ -7,10 +7,10 @@
 6	effet	_	Word	Word	_	0	ROOT	_	_
 7	,	_	Punctuation	Punctuation	_	17	U	_	_
 8	les	_	Word	Word	_	9	E	_	_
-9	sinistres	_	Word	Word	_	0	ROOT	_	_
+9	sinistres	_	Word	Word	_	12	A	_	_
 10	maritimes	_	Word	Word	_	9	E	_	_
 11	qui	_	Word	Word	_	12	R	_	_
-12	n\u2019avaient	_	Word	Word	_	0	ROOT	_	_
+12	n'avaient	_	Word	Word	_	0	ROOT	_	_
 13	pas	_	Word	Word	_	12	D	_	_
 14	de	_	Word	Word	_	15	R	_	_
 15	cause	_	Word	Word	_	0	ROOT	_	_

@@ -22,13 +22,13 @@
 21	le	_	Word	Word	_	22	E	_	_
 22	Cristobal-Colon	_	Word	Word	_	0	ROOT	_	_
 23	,	_	Punctuation	Punctuation	_	22	U	_	_
-24	de	_	Word	Word	_	31	R	_	_
-25	West	_	Word	Word	_	26	E	_	_
-26	India	_	Word	Word	_	0	ROOT	_	_
-27	and	_	Word	Word	_	26	N	_	_
-28	Pacific	_	Word	Word	_	26	C	_	_
-29	steam	_	Word	Word	_	30	E	_	_
-30	navigation	_	Word	Word	_	0	ROOT	_	_
-31	Company	_	Word	Word	_	0	ROOT	_	_
-32	.	_	Punctuation	Punctuation	_	31	U	_	_
+24	de	_	Word	Word	_	25	R	_	_
+25	West	_	Word	Word	_	0	ROOT	_	_
+26	India	_	Word	Word	_	25	Terminal	_	_
+27	and	_	Word	Word	_	25	Terminal	_	_
+28	Pacific	_	Word	Word	_	25	Terminal	_	_
+29	steam	_	Word	Word	_	25	Terminal	_	_
+30	navigation	_	Word	Word	_	25	Terminal	_	_
+31	Company	_	Word	Word	_	25	Terminal	_	_
+32	.	_	Punctuation	Punctuation	_	25	U	_	_
 

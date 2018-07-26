@@ -1,8 +1,8 @@
 # sent_id = 90001
 1	Sous	_	Word	Word	_	3	R	_	_
-2	l\u2019	_	Word	Word	_	3	E	_	_
+2	l'	_	Word	Word	_	3	E	_	_
 3	effort	_	Word	Word	_	0	ROOT	_	_
-4	combiné	_	Word	Word	_	3	E	_	_
+4	combiné	_	Word	Word	_	3	D	_	_
 5	du	_	Word	Word	_	6	R	_	_
 6	vent	_	Word	Word	_	0	ROOT	_	_
 7	et	_	Word	Word	_	6	N	_	_
@@ -19,6 +19,6 @@
 18	vitesse	_	Word	Word	_	0	ROOT	_	_
 19	de	_	Word	Word	_	18	R	_	_
 20	treize	_	Word	Word	_	21	E	_	_
-21	n&#x153;uds	_	Word	Word	_	0	ROOT	_	_
+21	nuds	_	Word	Word	_	0	ROOT	_	_
 22	.	_	Punctuation	Punctuation	_	21	U	_	_
 

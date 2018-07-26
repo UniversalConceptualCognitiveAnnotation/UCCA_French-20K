@@ -13,7 +13,8 @@
 12	était	_	Word	Word	_	13	F	_	_
 13	peuplée	_	Word	Word	_	0	ROOT	_	_
 14	de	_	Word	Word	_	15	R	_	_
-15	matelots	_	Word	Word	_	23	E	_	_
+15	matelots	_	Word	Word	_	21	A	_	_
+15	matelots	_	Word	Word	_	30	A	_	_
 16	auxquels	_	Word	Word	_	21	R	_	_
 17	les	_	Word	Word	_	18	E	_	_
 18	planches	_	Word	Word	_	0	ROOT	_	_
@@ -24,12 +25,12 @@
 23	pieds	_	Word	Word	_	0	ROOT	_	_
 24	,	_	Punctuation	Punctuation	_	21	U	_	_
 25	et	_	Word	Word	_	21	L	_	_
-26	qui	_	Word	Word	_	32	R	_	_
-27	n’	_	Word	Word	_	32	D	_	_
-28	y	_	Word	Word	_	32	A	_	_
-29	pouvaient	_	Word	Word	_	32	E	_	_
-30	tenir	_	Word	Word	_	32	E	_	_
-31	en	_	Word	Word	_	32	R	_	_
-32	place	_	Word	Word	_	0	ROOT	_	_
-33	!	_	Punctuation	Punctuation	_	32	U	_	_
+26	qui	_	Word	Word	_	30	R	_	_
+27	n’	_	Word	Word	_	30	D	_	_
+28	y	_	Word	Word	_	30	A	_	_
+29	pouvaient	_	Word	Word	_	30	D	_	_
+30	tenir	_	Word	Word	_	0	ROOT	_	_
+31	en	_	Word	Word	_	30	Terminal	_	_
+32	place	_	Word	Word	_	30	Terminal	_	_
+33	!	_	Punctuation	Punctuation	_	30	U	_	_
 

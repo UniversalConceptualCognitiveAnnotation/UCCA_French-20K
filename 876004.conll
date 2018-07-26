@@ -1,18 +1,18 @@
 # sent_id = 876004
-1	Or	_	Word	Word	_	9	L	_	_
-2	,	_	Punctuation	Punctuation	_	9	U	_	_
+1	Or	_	Word	Word	_	6	L	_	_
+2	,	_	Punctuation	Punctuation	_	6	U	_	_
 3	ce	_	Word	Word	_	4	E	_	_
 4	trou	_	Word	Word	_	0	ROOT	_	_
-5	ne	_	Word	Word	_	9	D	_	_
-6	s’	_	Word	Word	_	9	E	_	_
-7	était	_	Word	Word	_	9	F	_	_
+5	ne	_	Word	Word	_	6	D	_	_
+6	s’	_	Word	Word	_	0	ROOT	_	_
+7	était	_	Word	Word	_	6	F	_	_
 8	pas	_	Word	Word	_	5	Terminal	_	_
-9	fait	_	Word	Word	_	0	ROOT	_	_
+9	fait	_	Word	Word	_	6	Terminal	_	_
 10	tout	_	Word	Word	_	11	E	_	_
 11	seul	_	Word	Word	_	0	ROOT	_	_
-12	,	_	Punctuation	Punctuation	_	9	U	_	_
-13	et	_	Word	Word	_	9	L	_	_
-14	puisqu’	_	Word	Word	_	9	L	_	_
+12	,	_	Punctuation	Punctuation	_	6	U	_	_
+13	et	_	Word	Word	_	6	L	_	_
+14	puisqu’	_	Word	Word	_	6	L	_	_
 15	il	_	Word	Word	_	20	A	_	_
 16	n’	_	Word	Word	_	20	D	_	_
 17	avait	_	Word	Word	_	20	F	_	_
@@ -31,7 +31,7 @@
 30	sous	_	Word	Word	_	32	R	_	_
 31	-	_	Punctuation	Punctuation	_	32	U	_	_
 32	marins	_	Word	Word	_	0	ROOT	_	_
-33	,	_	Punctuation	Punctuation	_	9	U	_	_
+33	,	_	Punctuation	Punctuation	_	6	U	_	_
 34	il	_	Word	Word	_	37	A	_	_
 35	était	_	Word	Word	_	37	F	_	_
 36	nécessairement	_	Word	Word	_	37	G	_	_

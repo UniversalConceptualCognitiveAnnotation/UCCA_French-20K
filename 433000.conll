@@ -13,10 +13,10 @@
 12	vivantes	_	Word	Word	_	11	E	_	_
 13	,	_	Punctuation	Punctuation	_	8	U	_	_
 14	il	_	Word	Word	_	17	F	_	_
-15	faut	_	Word	Word	_	17	E	_	_
+15	faut	_	Word	Word	_	17	D	_	_
 16	nécessairement	_	Word	Word	_	17	D	_	_
 17	chercher	_	Word	Word	_	0	ROOT	_	_
-18	l\u2019	_	Word	Word	_	19	E	_	_
+18	l'	_	Word	Word	_	19	E	_	_
 19	animal	_	Word	Word	_	0	ROOT	_	_
 20	en	_	Word	Word	_	21	R	_	_
 21	question	_	Word	Word	_	0	ROOT	_	_
@@ -34,13 +34,14 @@
 33	,	_	Punctuation	Punctuation	_	38	U	_	_
 34	je	_	Word	Word	_	38	A	_	_
 35	serai	_	Word	Word	_	38	F	_	_
-36	disposé	_	Word	Word	_	38	E	_	_
-37	à	_	Word	Word	_	38	F	_	_
+36	disposé	_	Word	Word	_	0	ROOT	_	_
+37	à	_	Word	Word	_	36	R	_	_
 38	admettre	_	Word	Word	_	0	ROOT	_	_
-39	l\u2019	_	Word	Word	_	40	E	_	_
+39	l'	_	Word	Word	_	40	E	_	_
 40	existence	_	Word	Word	_	0	ROOT	_	_
-41	d\u2019un	_	Word	Word	_	42	E	_	_
-42	Narwal	_	Word	Word	_	0	ROOT	_	_
-43	géant	_	Word	Word	_	42	E	_	_
-44	.	_	Punctuation	Punctuation	_	42	U	_	_
+41	d	_	Word	Word	_	43	R	_	_
+42	'un	_	Word	Word	_	43	E	_	_
+43	Narwal	_	Word	Word	_	0	ROOT	_	_
+44	géant	_	Word	Word	_	43	E	_	_
+45	.	_	Punctuation	Punctuation	_	43	U	_	_
 

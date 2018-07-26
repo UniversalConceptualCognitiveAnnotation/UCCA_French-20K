@@ -1,17 +1,17 @@
 # sent_id = 416000
 1	À	_	Word	Word	_	3	R	_	_
-2	l\u2019	_	Word	Word	_	3	E	_	_
-3	époque	_	Word	Word	_	8	D	_	_
+2	l'	_	Word	Word	_	3	E	_	_
+3	époque	_	Word	Word	_	8	A	_	_
 4	où	_	Word	Word	_	8	R	_	_
 5	ces	_	Word	Word	_	6	E	_	_
 6	événements	_	Word	Word	_	0	ROOT	_	_
 7	se	_	Word	Word	_	8	E	_	_
 8	produisirent	_	Word	Word	_	0	ROOT	_	_
 9	,	_	Punctuation	Punctuation	_	11	U	_	_
-10	je	_	Word	Word	_	16	A	_	_
 10	je	_	Word	Word	_	11	A	_	_
+10	je	_	Word	Word	_	16	A	_	_
 11	revenais	_	Word	Word	_	0	ROOT	_	_
-12	d\u2019	_	Word	Word	_	14	R	_	_
+12	d'	_	Word	Word	_	14	R	_	_
 13	une	_	Word	Word	_	14	E	_	_
 14	exploration	_	Word	Word	_	16	A	_	_
 15	scientifique	_	Word	Word	_	14	E	_	_

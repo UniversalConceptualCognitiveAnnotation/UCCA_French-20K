@@ -1,11 +1,10 @@
 # sent_id = 771001
-1	Jamais	_	Word	Word	_	3	D	_	_
+1	Jamais	_	Word	Word	_	3	T	_	_
 2	une	_	Word	Word	_	3	E	_	_
 3	réflexion	_	Word	Word	_	0	ROOT	_	_
 4	de	_	Word	Word	_	5	R	_	_
 5	lui	_	Word	Word	_	0	ROOT	_	_
-6	sur	_	Word	Word	_	11	R	_	_
-6	sur	_	Word	Word	_	8	R	_	_
+6	sur	_	Word	Word	_	14	R	_	_
 7	la	_	Word	Word	_	8	E	_	_
 8	longueur	_	Word	Word	_	0	ROOT	_	_
 9	ou	_	Word	Word	_	8	N	_	_

@@ -11,8 +11,8 @@
 10	si	_	Word	Word	_	6	L	_	_
 11	la	_	Word	Word	_	12	E	_	_
 12	nature	_	Word	Word	_	0	ROOT	_	_
-13	a	_	Word	Word	_	0	ROOT	_	_
-14	encore	_	Word	Word	_	13	D	_	_
+13	a	_	Word	Word	_	16	F	_	_
+14	encore	_	Word	Word	_	16	D	_	_
 15	des	_	Word	Word	_	16	E	_	_
 16	secrets	_	Word	Word	_	0	ROOT	_	_
 17	pour	_	Word	Word	_	18	R	_	_
@@ -20,14 +20,14 @@
 19	en	_	Word	Word	_	20	R	_	_
 20	ichtyologie	_	Word	Word	_	0	ROOT	_	_
 21	,	_	Punctuation	Punctuation	_	6	U	_	_
-22	rien	_	Word	Word	_	0	ROOT	_	_
+22	rien	_	Word	Word	_	25	A	_	_
 23	de	_	Word	Word	_	25	R	_	_
 24	plus	_	Word	Word	_	25	E	_	_
 25	acceptable	_	Word	Word	_	0	ROOT	_	_
-26	que	_	Word	Word	_	28	F	_	_
-27	d\u2019	_	Word	Word	_	28	R	_	_
+26	que	_	Word	Word	_	28	R	_	_
+27	d'	_	Word	Word	_	28	R	_	_
 28	admettre	_	Word	Word	_	0	ROOT	_	_
-29	l\u2019	_	Word	Word	_	30	E	_	_
+29	l'	_	Word	Word	_	30	E	_	_
 30	existence	_	Word	Word	_	0	ROOT	_	_
 31	de	_	Word	Word	_	32	R	_	_
 32	poissons	_	Word	Word	_	0	ROOT	_	_
@@ -35,7 +35,7 @@
 34	de	_	Word	Word	_	35	R	_	_
 35	cétacés	_	Word	Word	_	0	ROOT	_	_
 36	,	_	Punctuation	Punctuation	_	32	U	_	_
-37	d\u2019	_	Word	Word	_	38	R	_	_
+37	d'	_	Word	Word	_	38	R	_	_
 38	espèces	_	Word	Word	_	0	ROOT	_	_
 39	ou	_	Word	Word	_	38	N	_	_
 40	même	_	Word	Word	_	42	E	_	_
@@ -43,7 +43,7 @@
 42	genres	_	Word	Word	_	0	ROOT	_	_
 43	nouveaux	_	Word	Word	_	38	E	_	_
 44	,	_	Punctuation	Punctuation	_	32	U	_	_
-45	d\u2019	_	Word	Word	_	47	R	_	_
+45	d'	_	Word	Word	_	47	R	_	_
 46	une	_	Word	Word	_	47	E	_	_
 47	organisation	_	Word	Word	_	0	ROOT	_	_
 48	essentiellement	_	Word	Word	_	50	E	_	_
@@ -59,9 +59,9 @@
 58	à	_	Word	Word	_	60	R	_	_
 59	la	_	Word	Word	_	60	E	_	_
 60	sonde	_	Word	Word	_	0	ROOT	_	_
-61	,	_	Punctuation	Punctuation	_	54	U	_	_
-62	et	_	Word	Word	_	54	L	_	_
-63	qu\u2019	_	Word	Word	_	79	R	_	_
+61	,	_	Punctuation	Punctuation	_	28	U	_	_
+62	et	_	Word	Word	_	28	L	_	_
+63	qu'	_	Word	Word	_	79	R	_	_
 64	un	_	Word	Word	_	65	E	_	_
 65	événement	_	Word	Word	_	0	ROOT	_	_
 66	quelconque	_	Word	Word	_	65	E	_	_
@@ -72,10 +72,10 @@
 71	un	_	Word	Word	_	72	E	_	_
 72	caprice	_	Word	Word	_	0	ROOT	_	_
 73	,	_	Punctuation	Punctuation	_	72	U	_	_
-74	si	_	Word	Word	_	72	E	_	_
-75	l\u2019	_	Word	Word	_	74	Terminal	_	_
-76	on	_	Word	Word	_	74	Terminal	_	_
-77	veut	_	Word	Word	_	74	Terminal	_	_
+74	si	_	Word	Word	_	77	R	_	_
+75	l'	_	Word	Word	_	77	A	_	_
+76	on	_	Word	Word	_	77	A	_	_
+77	veut	_	Word	Word	_	0	ROOT	_	_
 78	,	_	Punctuation	Punctuation	_	79	U	_	_
 79	ramène	_	Word	Word	_	0	ROOT	_	_
 80	à	_	Word	Word	_	83	R	_	_
@@ -87,6 +87,6 @@
 86	niveau	_	Word	Word	_	0	ROOT	_	_
 87	supérieur	_	Word	Word	_	86	E	_	_
 88	de	_	Word	Word	_	86	R	_	_
-89	l\u2019Océan	_	Word	Word	_	0	ROOT	_	_
+89	l'Océan	_	Word	Word	_	0	ROOT	_	_
 90	.	_	Punctuation	Punctuation	_	89	U	_	_
 

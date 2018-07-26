@@ -8,13 +8,10 @@
 7	occasion	_	Word	Word	_	0	ROOT	_	_
 8	de	_	Word	Word	_	9	R	_	_
 9	pondre	_	Word	Word	_	0	ROOT	_	_
-10	des	_	Word	Word	_	12	E	_	_
-11	&	_	Punctuation	Punctuation	_	12	U	_	_
-12	#x153	_	Word	Word	_	0	ROOT	_	_
-13	;	_	Punctuation	Punctuation	_	12	U	_	_
-14	ufs	_	Word	Word	_	12	Terminal	_	_
-15	de	_	Word	Word	_	17	R	_	_
-16	toute	_	Word	Word	_	17	E	_	_
-17	couleur	_	Word	Word	_	0	ROOT	_	_
-18	.	_	Punctuation	Punctuation	_	17	U	_	_
+10	des	_	Word	Word	_	11	E	_	_
+11	œufs	_	Word	Word	_	0	ROOT	_	_
+12	de	_	Word	Word	_	14	R	_	_
+13	toute	_	Word	Word	_	14	E	_	_
+14	couleur	_	Word	Word	_	0	ROOT	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
 

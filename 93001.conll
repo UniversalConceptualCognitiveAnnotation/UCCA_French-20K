@@ -23,7 +23,7 @@
 22	et	_	Word	Word	_	21	N	_	_
 23	à	_	Word	Word	_	24	R	_	_
 24	roues	_	Word	Word	_	0	ROOT	_	_
-25	d\u2019	_	Word	Word	_	27	R	_	_
+25	d'	_	Word	Word	_	27	R	_	_
 26	une	_	Word	Word	_	27	E	_	_
 27	force	_	Word	Word	_	0	ROOT	_	_
 28	de	_	Word	Word	_	31	R	_	_
@@ -32,7 +32,7 @@
 31	chevaux	_	Word	Word	_	0	ROOT	_	_
 32	,	_	Punctuation	Punctuation	_	27	U	_	_
 33	et	_	Word	Word	_	27	N	_	_
-34	d\u2019	_	Word	Word	_	36	R	_	_
+34	d'	_	Word	Word	_	36	R	_	_
 35	une	_	Word	Word	_	36	E	_	_
 36	jauge	_	Word	Word	_	0	ROOT	_	_
 37	de	_	Word	Word	_	41	R	_	_
