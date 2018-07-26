@@ -1,5 +1,5 @@
 # sent_id = 432000
-# text = « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d\u2019 admettre l\u2019 existence de poissons ou de cétacés , d\u2019 espèces ou même de genres nouveaux , d\u2019 une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu\u2019 un événement quelconque , une fantaisie , un caprice , si l\u2019 on veut , ramène à de longs intervalles vers le niveau supérieur de l\u2019Océan .
+# text = « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d' admettre l' existence de poissons ou de cétacés , d' espèces ou même de genres nouveaux , d' une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu' un événement quelconque , une fantaisie , un caprice , si l' on veut , ramène à de longs intervalles vers le niveau supérieur de l'Océan .
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Si	_	Word	Word	_	6	L	6:L	_
@@ -13,8 +13,8 @@
 10	si	_	Word	Word	_	6	L	6:L	_
 11	la	_	Word	Word	_	12	E	12:E	_
 12	nature	_	Word	Word	_	5	orphan	5:orphan	_
-13	a	_	Word	Word	_	5	orphan	5:orphan	_
-14	encore	_	Word	Word	_	13	D	13:D	_
+13	a	_	Word	Word	_	16	F	16:F	_
+14	encore	_	Word	Word	_	16	D	16:D	_
 15	des	_	Word	Word	_	16	E	16:E	_
 16	secrets	_	Word	Word	_	5	orphan	5:orphan	_
 17	pour	_	Word	Word	_	18	R	18:R	_
@@ -22,14 +22,14 @@
 19	en	_	Word	Word	_	20	R	20:R	_
 20	ichtyologie	_	Word	Word	_	5	orphan	5:orphan	_
 21	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-22	rien	_	Word	Word	_	5	orphan	5:orphan	_
+22	rien	_	Word	Word	_	25	A	25:A	_
 23	de	_	Word	Word	_	25	R	25:R	_
 24	plus	_	Word	Word	_	25	E	25:E	_
 25	acceptable	_	Word	Word	_	5	orphan	5:orphan	_
-26	que	_	Word	Word	_	28	F	28:F	_
-27	d\u2019	_	Word	Word	_	28	R	28:R	_
+26	que	_	Word	Word	_	28	R	28:R	_
+27	d'	_	Word	Word	_	28	R	28:R	_
 28	admettre	_	Word	Word	_	5	orphan	5:orphan	_
-29	l\u2019	_	Word	Word	_	30	E	30:E	_
+29	l'	_	Word	Word	_	30	E	30:E	_
 30	existence	_	Word	Word	_	5	orphan	5:orphan	_
 31	de	_	Word	Word	_	32	R	32:R	_
 32	poissons	_	Word	Word	_	5	orphan	5:orphan	_
@@ -37,7 +37,7 @@
 34	de	_	Word	Word	_	35	R	35:R	_
 35	cétacés	_	Word	Word	_	5	orphan	5:orphan	_
 36	,	_	Punctuation	Punctuation	_	32	punct	32:punct	_
-37	d\u2019	_	Word	Word	_	38	R	38:R	_
+37	d'	_	Word	Word	_	38	R	38:R	_
 38	espèces	_	Word	Word	_	5	orphan	5:orphan	_
 39	ou	_	Word	Word	_	38	N	38:N	_
 40	même	_	Word	Word	_	42	E	42:E	_
@@ -45,7 +45,7 @@
 42	genres	_	Word	Word	_	5	orphan	5:orphan	_
 43	nouveaux	_	Word	Word	_	38	E	38:E	_
 44	,	_	Punctuation	Punctuation	_	32	punct	32:punct	_
-45	d\u2019	_	Word	Word	_	47	R	47:R	_
+45	d'	_	Word	Word	_	47	R	47:R	_
 46	une	_	Word	Word	_	47	E	47:E	_
 47	organisation	_	Word	Word	_	5	orphan	5:orphan	_
 48	essentiellement	_	Word	Word	_	50	E	50:E	_
@@ -61,9 +61,9 @@
 58	à	_	Word	Word	_	60	R	60:R	_
 59	la	_	Word	Word	_	60	E	60:E	_
 60	sonde	_	Word	Word	_	5	orphan	5:orphan	_
-61	,	_	Punctuation	Punctuation	_	54	punct	54:punct	_
-62	et	_	Word	Word	_	54	L	54:L	_
-63	qu\u2019	_	Word	Word	_	79	R	79:R	_
+61	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+62	et	_	Word	Word	_	28	L	28:L	_
+63	qu'	_	Word	Word	_	79	R	79:R	_
 64	un	_	Word	Word	_	65	E	65:E	_
 65	événement	_	Word	Word	_	5	orphan	5:orphan	_
 66	quelconque	_	Word	Word	_	65	E	65:E	_
@@ -74,10 +74,10 @@
 71	un	_	Word	Word	_	72	E	72:E	_
 72	caprice	_	Word	Word	_	5	orphan	5:orphan	_
 73	,	_	Punctuation	Punctuation	_	72	punct	72:punct	_
-74	si	_	Word	Word	_	72	E	72:E	_
-75	l\u2019	_	Word	Word	_	74	flat	74:flat	_
-76	on	_	Word	Word	_	74	flat	74:flat	_
-77	veut	_	Word	Word	_	74	flat	74:flat	_
+74	si	_	Word	Word	_	77	R	77:R	_
+75	l'	_	Word	Word	_	77	A	77:A	_
+76	on	_	Word	Word	_	77	A	77:A	_
+77	veut	_	Word	Word	_	5	orphan	5:orphan	_
 78	,	_	Punctuation	Punctuation	_	79	punct	79:punct	_
 79	ramène	_	Word	Word	_	5	orphan	5:orphan	_
 80	à	_	Word	Word	_	83	R	83:R	_
@@ -89,6 +89,6 @@
 86	niveau	_	Word	Word	_	5	orphan	5:orphan	_
 87	supérieur	_	Word	Word	_	86	E	86:E	_
 88	de	_	Word	Word	_	86	R	86:R	_
-89	l\u2019Océan	_	Word	Word	_	5	orphan	5:orphan	_
+89	l'Océan	_	Word	Word	_	5	orphan	5:orphan	_
 90	.	_	Punctuation	Punctuation	_	89	punct	89:punct	_
 

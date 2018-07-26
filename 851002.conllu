@@ -4,8 +4,8 @@
 1	Seul	_	Word	Word	_	0	root	0:root	_
 2	entre	_	Word	Word	_	3	R	3:R	_
 3	tous	_	Word	Word	_	1	orphan	1:orphan	_
-4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Conseil	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+5	Conseil	_	Word	Word	_	1	orphan	1:orphan	_
 6	protestait	_	Word	Word	_	1	orphan	1:orphan	_
 7	par	_	Word	Word	_	9	R	9:R	_
 8	son	_	Word	Word	_	9	E	9:E	_

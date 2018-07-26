@@ -5,8 +5,8 @@
 2	milliers	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	2	R	2:R	_
 4	mouchoirs	_	Word	Word	_	2	orphan	2:orphan	_
-5	s’	_	Word	Word	_	6	E	6:E	_
-6	agitèrent	_	Word	Word	_	2	orphan	2:orphan	_
+5	s’	_	Word	Word	_	2	orphan	2:orphan	_
+6	agitèrent	_	Word	Word	_	5	flat	5:flat	_
 7	au	_	Word	Word	_	9	R	9:R	_
 8	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 9	dessus	_	Word	Word	_	2	orphan	2:orphan	_
@@ -14,13 +14,13 @@
 11	la	_	Word	Word	_	12	E	12:E	_
 12	masse	_	Word	Word	_	2	orphan	2:orphan	_
 13	compacte	_	Word	Word	_	12	E	12:E	_
-14	et	_	Word	Word	_	6	L	6:L	_
+14	et	_	Word	Word	_	5	L	5:L	_
 15	saluèrent	_	Word	Word	_	2	orphan	2:orphan	_
 16	l’	_	Word	Word	_	17	E	17:E	_
 17	Abraham	_	Word	Word	_	2	orphan	2:orphan	_
 18	-	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 19	Lincoln	_	Word	Word	_	17	flat	17:flat	_
-20	jusqu’	_	Word	Word	_	6	L	6:L	_
+20	jusqu’	_	Word	Word	_	5	L	5:L	_
 21	à	_	Word	Word	_	20	flat	20:flat	_
 22	son	_	Word	Word	_	23	A	23:A	_
 23	arrivée	_	Word	Word	_	2	orphan	2:orphan	_

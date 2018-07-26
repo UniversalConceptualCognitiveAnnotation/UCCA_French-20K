@@ -1,5 +1,5 @@
 # sent_id = 433000
-# text = « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l\u2019 animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l\u2019 existence d\u2019un Narwal géant .
+# text = « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l' animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l' existence d 'un Narwal géant .
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Si	_	Word	Word	_	8	L	8:L	_
@@ -15,10 +15,10 @@
 12	vivantes	_	Word	Word	_	11	E	11:E	_
 13	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 14	il	_	Word	Word	_	17	F	17:F	_
-15	faut	_	Word	Word	_	17	E	17:E	_
+15	faut	_	Word	Word	_	17	D	17:D	_
 16	nécessairement	_	Word	Word	_	17	D	17:D	_
 17	chercher	_	Word	Word	_	5	orphan	5:orphan	_
-18	l\u2019	_	Word	Word	_	19	E	19:E	_
+18	l'	_	Word	Word	_	19	E	19:E	_
 19	animal	_	Word	Word	_	5	orphan	5:orphan	_
 20	en	_	Word	Word	_	21	R	21:R	_
 21	question	_	Word	Word	_	5	orphan	5:orphan	_
@@ -36,13 +36,14 @@
 33	,	_	Punctuation	Punctuation	_	38	punct	38:punct	_
 34	je	_	Word	Word	_	38	A	38:A	_
 35	serai	_	Word	Word	_	38	F	38:F	_
-36	disposé	_	Word	Word	_	38	E	38:E	_
-37	à	_	Word	Word	_	38	F	38:F	_
+36	disposé	_	Word	Word	_	5	orphan	5:orphan	_
+37	à	_	Word	Word	_	36	R	36:R	_
 38	admettre	_	Word	Word	_	5	orphan	5:orphan	_
-39	l\u2019	_	Word	Word	_	40	E	40:E	_
+39	l'	_	Word	Word	_	40	E	40:E	_
 40	existence	_	Word	Word	_	5	orphan	5:orphan	_
-41	d\u2019un	_	Word	Word	_	42	E	42:E	_
-42	Narwal	_	Word	Word	_	5	orphan	5:orphan	_
-43	géant	_	Word	Word	_	42	E	42:E	_
-44	.	_	Punctuation	Punctuation	_	42	punct	42:punct	_
+41	d	_	Word	Word	_	43	R	43:R	_
+42	'un	_	Word	Word	_	43	E	43:E	_
+43	Narwal	_	Word	Word	_	5	orphan	5:orphan	_
+44	géant	_	Word	Word	_	43	E	43:E	_
+45	.	_	Punctuation	Punctuation	_	43	punct	43:punct	_
 

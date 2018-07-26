@@ -1,9 +1,14 @@
 # sent_id = 783000
-# text = « Monsieur Pierre Aronnax ?
+# text = « Monsieur Pierre Aronnax ? me dit - il .
 # doc_id = 
-1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Monsieur	_	Word	Word	_	3	E	3:E	_
 3	Pierre	_	Word	Word	_	0	root	0:root	_
 4	Aronnax	_	Word	Word	_	3	flat	3:flat	_
-5	?	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	?	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+6	me	_	Word	Word	_	7	A	7:A	_
+7	dit	_	Word	Word	_	3	orphan	3:orphan	_
+8	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	il	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 

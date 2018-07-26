@@ -7,8 +7,8 @@
 4	effroyablement	_	Word	Word	_	3	D	3:D	_
 5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 6	et	_	Word	Word	_	3	L	3:L	_
-7	se	_	Word	Word	_	8	A	8:A	_
-8	préparaient	_	Word	Word	_	2	orphan	2:orphan	_
+7	se	_	Word	Word	_	2	orphan	2:orphan	_
+8	préparaient	_	Word	Word	_	7	flat	7:flat	_
 9	pour	_	Word	Word	_	11	R	11:R	_
 10	l’	_	Word	Word	_	11	E	11:E	_
 11	avenir	_	Word	Word	_	2	orphan	2:orphan	_

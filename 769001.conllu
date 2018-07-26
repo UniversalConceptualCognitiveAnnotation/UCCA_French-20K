@@ -39,9 +39,9 @@
 36	par	_	Word	Word	_	37	R	37:R	_
 37	habitude	_	Word	Word	_	2	orphan	2:orphan	_
 38	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-39	s’	_	Word	Word	_	40	E	40:E	_
-40	étonnant	_	Word	Word	_	2	orphan	2:orphan	_
-41	peu	_	Word	Word	_	40	D	40:D	_
+39	s’	_	Word	Word	_	2	orphan	2:orphan	_
+40	étonnant	_	Word	Word	_	39	flat	39:flat	_
+41	peu	_	Word	Word	_	39	D	39:D	_
 42	des	_	Word	Word	_	43	R	43:R	_
 43	surprises	_	Word	Word	_	2	orphan	2:orphan	_
 44	de	_	Word	Word	_	46	R	46:R	_
@@ -74,8 +74,8 @@
 71	de	_	Word	Word	_	72	E	72:E	_
 72	conseils	_	Word	Word	_	2	orphan	2:orphan	_
 73	,	_	Punctuation	Punctuation	_	69	punct	69:punct	_
-74	même	_	Word	Word	_	75	E	75:E	_
-75	quand	_	Word	Word	_	2	orphan	2:orphan	_
+74	même	_	Word	Word	_	69	L	69:L	_
+75	quand	_	Word	Word	_	74	flat	74:flat	_
 76	on	_	Word	Word	_	80	A	80:A	_
 77	ne	_	Word	Word	_	80	D	80:D	_
 78	lui	_	Word	Word	_	80	A	80:A	_

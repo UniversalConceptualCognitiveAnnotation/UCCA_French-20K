@@ -1,28 +1,28 @@
 # sent_id = 417000
-# text = J\u2019 étais parfaitement au courant de la question à l\u2019 ordre du jour , et comment ne l\u2019 aurais - je pas été ?
+# text = J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
 # doc_id = 
-1	J\u2019	_	Word	Word	_	5	A	5:A	_
-2	étais	_	Word	Word	_	5	F	5:F	_
-3	parfaitement	_	Word	Word	_	5	D	5:D	_
-4	au	_	Word	Word	_	5	R	5:R	_
-5	courant	_	Word	Word	_	0	root	0:root	_
+1	J'	_	Word	Word	_	2	A	2:A	_
+2	étais	_	Word	Word	_	0	root	0:root	_
+3	parfaitement	_	Word	Word	_	2	D	2:D	_
+4	au	_	Word	Word	_	2	flat	2:flat	_
+5	courant	_	Word	Word	_	2	flat	2:flat	_
 6	de	_	Word	Word	_	8	R	8:R	_
 7	la	_	Word	Word	_	8	E	8:E	_
-8	question	_	Word	Word	_	5	orphan	5:orphan	_
+8	question	_	Word	Word	_	2	orphan	2:orphan	_
 9	à	_	Word	Word	_	11	R	11:R	_
-10	l\u2019	_	Word	Word	_	11	E	11:E	_
-11	ordre	_	Word	Word	_	5	orphan	5:orphan	_
+10	l'	_	Word	Word	_	11	E	11:E	_
+11	ordre	_	Word	Word	_	2	orphan	2:orphan	_
 12	du	_	Word	Word	_	13	R	13:R	_
-13	jour	_	Word	Word	_	5	orphan	5:orphan	_
-14	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-15	et	_	Word	Word	_	5	L	5:L	_
-16	comment	_	Word	Word	_	18	F	18:F	_
-17	ne	_	Word	Word	_	18	D	18:D	_
-18	l\u2019	_	Word	Word	_	5	orphan	5:orphan	_
-19	aurais	_	Word	Word	_	18	F	18:F	_
-20	-	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-21	je	_	Word	Word	_	18	A	18:A	_
+13	jour	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+15	et	_	Word	Word	_	2	L	2:L	_
+16	comment	_	Word	Word	_	23	D	23:D	_
+17	ne	_	Word	Word	_	23	D	23:D	_
+18	l'	_	Word	Word	_	23	A	23:A	_
+19	aurais	_	Word	Word	_	23	F	23:F	_
+20	-	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+21	je	_	Word	Word	_	23	A	23:A	_
 22	pas	_	Word	Word	_	17	flat	17:flat	_
-23	été	_	Word	Word	_	18	F	18:F	_
-24	?	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+23	été	_	Word	Word	_	2	orphan	2:orphan	_
+24	?	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 

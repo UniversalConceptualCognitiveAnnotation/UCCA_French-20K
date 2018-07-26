@@ -1,5 +1,5 @@
 # sent_id = 102001
-# text = Depuis ce moment , en effet , les sinistres maritimes qui n\u2019avaient pas de cause déterminée furent mis sur le compte du monstre .
+# text = Depuis ce moment , en effet , les sinistres maritimes qui n'avaient pas de cause déterminée furent mis sur le compte du monstre .
 # doc_id = 
 1	Depuis	_	Word	Word	_	3	R	3:R	_
 2	ce	_	Word	Word	_	3	E	3:E	_
@@ -12,7 +12,7 @@
 9	sinistres	_	Word	Word	_	3	orphan	3:orphan	_
 10	maritimes	_	Word	Word	_	9	E	9:E	_
 11	qui	_	Word	Word	_	12	R	12:R	_
-12	n\u2019avaient	_	Word	Word	_	3	orphan	3:orphan	_
+12	n'avaient	_	Word	Word	_	3	orphan	3:orphan	_
 13	pas	_	Word	Word	_	12	D	12:D	_
 14	de	_	Word	Word	_	15	R	15:R	_
 15	cause	_	Word	Word	_	3	orphan	3:orphan	_

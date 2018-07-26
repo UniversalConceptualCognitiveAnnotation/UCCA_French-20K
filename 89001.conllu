@@ -1,28 +1,28 @@
 # sent_id = 89001
-# text = Il ne s\u2019 agit plus alors d\u2019 un problème scientifique à résoudre , mais bien d\u2019 un danger réel , sérieux à éviter .
+# text = Il ne s' agit plus alors d' un problème scientifique à résoudre , mais bien d' un danger réel , sérieux à éviter .
 # doc_id = 
 1	Il	_	Word	Word	_	4	F	4:F	_
 2	ne	_	Word	Word	_	4	D	4:D	_
-3	s\u2019	_	Word	Word	_	4	F	4:F	_
+3	s'	_	Word	Word	_	4	F	4:F	_
 4	agit	_	Word	Word	_	0	root	0:root	_
 5	plus	_	Word	Word	_	2	flat	2:flat	_
 6	alors	_	Word	Word	_	4	D	4:D	_
-7	d\u2019	_	Word	Word	_	9	R	9:R	_
+7	d'	_	Word	Word	_	9	R	9:R	_
 8	un	_	Word	Word	_	9	E	9:E	_
 9	problème	_	Word	Word	_	4	orphan	4:orphan	_
 10	scientifique	_	Word	Word	_	9	E	9:E	_
-11	à	_	Word	Word	_	12	R	12:R	_
+11	à	_	Word	Word	_	12	F	12:F	_
 12	résoudre	_	Word	Word	_	4	orphan	4:orphan	_
 13	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 14	mais	_	Word	Word	_	4	L	4:L	_
 15	bien	_	Word	Word	_	14	flat	14:flat	_
-16	d\u2019	_	Word	Word	_	18	R	18:R	_
+16	d'	_	Word	Word	_	23	R	23:R	_
 17	un	_	Word	Word	_	18	E	18:E	_
 18	danger	_	Word	Word	_	4	orphan	4:orphan	_
 19	réel	_	Word	Word	_	18	E	18:E	_
 20	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 21	sérieux	_	Word	Word	_	18	E	18:E	_
-22	à	_	Word	Word	_	23	R	23:R	_
+22	à	_	Word	Word	_	23	F	23:F	_
 23	éviter	_	Word	Word	_	4	orphan	4:orphan	_
 24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 

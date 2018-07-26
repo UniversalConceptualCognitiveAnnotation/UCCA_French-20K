@@ -1,5 +1,5 @@
 # sent_id = 102002
-# text = Ce fantastique animal endossa la responsabilité de tous ces naufrages , dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas , le chiffre des navires à vapeur ou à voiles , supposés perdus corps et biens par suite d\u2019absence de nouvelles , ne s\u2019élève pas à moins de deux cents !
+# text = Ce fantastique animal endossa la responsabilité de tous ces naufrages , dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas , le chiffre des navires à vapeur ou à voiles , supposés perdus corps et biens par suite d'absence de nouvelles , ne s'élève pas à moins de deux cents !
 # doc_id = 
 1	Ce	_	Word	Word	_	3	E	3:E	_
 2	fantastique	_	Word	Word	_	3	E	3:E	_
@@ -42,20 +42,20 @@
 39	ou	_	Word	Word	_	38	N	38:N	_
 40	à	_	Word	Word	_	41	R	41:R	_
 41	voiles	_	Word	Word	_	3	orphan	3:orphan	_
-42	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
-43	supposés	_	Word	Word	_	44	E	44:E	_
-44	perdus	_	Word	Word	_	3	orphan	3:orphan	_
+42	,	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+43	supposés	_	Word	Word	_	3	orphan	3:orphan	_
+44	perdus	_	Word	Word	_	43	flat	43:flat	_
 45	corps	_	Word	Word	_	3	orphan	3:orphan	_
 46	et	_	Word	Word	_	45	N	45:N	_
 47	biens	_	Word	Word	_	45	C	45:C	_
 48	par	_	Word	Word	_	49	R	49:R	_
 49	suite	_	Word	Word	_	3	orphan	3:orphan	_
-50	d\u2019absence	_	Word	Word	_	3	orphan	3:orphan	_
+50	d'absence	_	Word	Word	_	3	orphan	3:orphan	_
 51	de	_	Word	Word	_	52	R	52:R	_
 52	nouvelles	_	Word	Word	_	3	orphan	3:orphan	_
 53	,	_	Punctuation	Punctuation	_	55	punct	55:punct	_
 54	ne	_	Word	Word	_	55	D	55:D	_
-55	s\u2019élève	_	Word	Word	_	3	orphan	3:orphan	_
+55	s'élève	_	Word	Word	_	3	orphan	3:orphan	_
 56	pas	_	Word	Word	_	54	flat	54:flat	_
 57	à	_	Word	Word	_	60	R	60:R	_
 58	moins	_	Word	Word	_	3	orphan	3:orphan	_

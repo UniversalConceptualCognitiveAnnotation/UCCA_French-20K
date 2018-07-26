@@ -23,7 +23,7 @@
 20	major	_	Word	Word	_	18	flat	18:flat	_
 21	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 22	et	_	Word	Word	_	3	L	3:L	_
-23	certainement	_	Word	Word	_	3	G	3:G	_
+23	certainement	_	Word	Word	_	27	G	27:G	_
 24	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 25	sans	_	Word	Word	_	3	L	3:L	_
 26	un	_	Word	Word	_	27	E	27:E	_

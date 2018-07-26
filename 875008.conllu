@@ -1,20 +1,29 @@
 # sent_id = 875008
-# text = » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
+# text = — Parce que… ça n’ est pas vrai ! » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
 # doc_id = 
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	répondit	_	Word	Word	_	0	root	0:root	_
-3	le	_	Word	Word	_	4	E	4:E	_
-4	Canadien	_	Word	Word	_	2	orphan	2:orphan	_
-5	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-6	en	_	Word	Word	_	7	F	7:F	_
-7	reproduisant	_	Word	Word	_	2	orphan	2:orphan	_
-8	sans	_	Word	Word	_	2	L	2:L	_
-9	le	_	Word	Word	_	10	A	10:A	_
-10	savoir	_	Word	Word	_	2	orphan	2:orphan	_
-11	une	_	Word	Word	_	13	E	13:E	_
-12	célèbre	_	Word	Word	_	13	E	13:E	_
-13	réponse	_	Word	Word	_	2	orphan	2:orphan	_
-14	d’	_	Word	Word	_	15	R	15:R	_
-15	Arago	_	Word	Word	_	2	orphan	2:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	—	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+2	Parce	_	Word	Word	_	8	L	8:L	_
+3	que…	_	Word	Word	_	2	flat	2:flat	_
+4	ça	_	Word	Word	_	8	A	8:A	_
+5	n’	_	Word	Word	_	8	D	8:D	_
+6	est	_	Word	Word	_	8	F	8:F	_
+7	pas	_	Word	Word	_	5	flat	5:flat	_
+8	vrai	_	Word	Word	_	0	root	0:root	_
+9	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+10	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	répondit	_	Word	Word	_	8	orphan	8:orphan	_
+12	le	_	Word	Word	_	13	E	13:E	_
+13	Canadien	_	Word	Word	_	8	orphan	8:orphan	_
+14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+15	en	_	Word	Word	_	16	F	16:F	_
+16	reproduisant	_	Word	Word	_	8	orphan	8:orphan	_
+17	sans	_	Word	Word	_	16	L	16:L	_
+18	le	_	Word	Word	_	19	A	19:A	_
+19	savoir	_	Word	Word	_	8	orphan	8:orphan	_
+20	une	_	Word	Word	_	22	E	22:E	_
+21	célèbre	_	Word	Word	_	22	E	22:E	_
+22	réponse	_	Word	Word	_	8	orphan	8:orphan	_
+23	d’	_	Word	Word	_	24	R	24:R	_
+24	Arago	_	Word	Word	_	8	orphan	8:orphan	_
+25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 

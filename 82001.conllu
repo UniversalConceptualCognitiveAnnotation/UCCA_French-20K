@@ -1,28 +1,28 @@
 # sent_id = 82001
-# text = Le capitaine Baker se crut , tout d\u2019 abord , en présence d\u2019 un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d\u2019eau , projetées par l\u2019 inexplicable objet , s\u2019 élancèrent en sifflant à cent cinquante pieds dans l\u2019air .
+# text = Le capitaine Baker se crut , tout d' abord , en présence d' un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d'eau , projetées par l' inexplicable objet , s' élancèrent en sifflant à cent cinquante pieds dans l'air .
 # doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	capitaine	_	Word	Word	_	0	root	0:root	_
 3	Baker	_	Word	Word	_	2	orphan	2:orphan	_
-4	se	_	Word	Word	_	5	E	5:E	_
-5	crut	_	Word	Word	_	2	orphan	2:orphan	_
+4	se	_	Word	Word	_	12	D	12:D	_
+5	crut	_	Word	Word	_	4	flat	4:flat	_
 6	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 7	tout	_	Word	Word	_	12	L	12:L	_
-8	d\u2019	_	Word	Word	_	7	flat	7:flat	_
+8	d'	_	Word	Word	_	7	flat	7:flat	_
 9	abord	_	Word	Word	_	7	flat	7:flat	_
 10	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 11	en	_	Word	Word	_	12	R	12:R	_
 12	présence	_	Word	Word	_	2	orphan	2:orphan	_
-13	d\u2019	_	Word	Word	_	15	R	15:R	_
+13	d'	_	Word	Word	_	15	R	15:R	_
 14	un	_	Word	Word	_	15	E	15:E	_
 15	écueil	_	Word	Word	_	2	orphan	2:orphan	_
 16	inconnu	_	Word	Word	_	15	E	15:E	_
 17	;	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-18	il	_	Word	Word	_	24	A	24:A	_
+18	il	_	Word	Word	_	20	A	20:A	_
 19	se	_	Word	Word	_	20	E	20:E	_
 20	disposait	_	Word	Word	_	2	orphan	2:orphan	_
-21	même	_	Word	Word	_	24	D	24:D	_
-22	à	_	Word	Word	_	24	R	24:R	_
+21	même	_	Word	Word	_	20	D	20:D	_
+22	à	_	Word	Word	_	24	F	24:F	_
 23	en	_	Word	Word	_	24	A	24:A	_
 24	déterminer	_	Word	Word	_	2	orphan	2:orphan	_
 25	la	_	Word	Word	_	26	E	26:E	_
@@ -32,16 +32,16 @@
 29	quand	_	Word	Word	_	12	L	12:L	_
 30	deux	_	Word	Word	_	31	E	31:E	_
 31	colonnes	_	Word	Word	_	2	orphan	2:orphan	_
-32	d\u2019eau	_	Word	Word	_	31	E	31:E	_
+32	d'eau	_	Word	Word	_	31	E	31:E	_
 33	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
 34	projetées	_	Word	Word	_	2	orphan	2:orphan	_
 35	par	_	Word	Word	_	38	R	38:R	_
-36	l\u2019	_	Word	Word	_	38	E	38:E	_
+36	l'	_	Word	Word	_	38	E	38:E	_
 37	inexplicable	_	Word	Word	_	38	E	38:E	_
 38	objet	_	Word	Word	_	2	orphan	2:orphan	_
-39	,	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-40	s\u2019	_	Word	Word	_	41	E	41:E	_
-41	élancèrent	_	Word	Word	_	2	orphan	2:orphan	_
+39	,	_	Punctuation	Punctuation	_	40	punct	40:punct	_
+40	s'	_	Word	Word	_	2	orphan	2:orphan	_
+41	élancèrent	_	Word	Word	_	40	flat	40:flat	_
 42	en	_	Word	Word	_	43	R	43:R	_
 43	sifflant	_	Word	Word	_	2	orphan	2:orphan	_
 44	à	_	Word	Word	_	47	R	47:R	_
@@ -49,6 +49,6 @@
 46	cinquante	_	Word	Word	_	45	flat	45:flat	_
 47	pieds	_	Word	Word	_	2	orphan	2:orphan	_
 48	dans	_	Word	Word	_	49	R	49:R	_
-49	l\u2019air	_	Word	Word	_	2	orphan	2:orphan	_
+49	l'air	_	Word	Word	_	2	orphan	2:orphan	_
 50	.	_	Punctuation	Punctuation	_	49	punct	49:punct	_
 

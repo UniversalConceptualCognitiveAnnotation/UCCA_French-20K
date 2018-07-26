@@ -1,14 +1,14 @@
 # sent_id = 441002
-# text = Je le répète , l\u2019 opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l\u2019 existence d\u2019 un être prodigieux qui n\u2019 avait rien de commun avec les fabuleux serpents de mer .
+# text = Je le répète , l' opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l' existence d' un être prodigieux qui n' avait rien de commun avec les fabuleux serpents de mer .
 # doc_id = 
 1	Je	_	Word	Word	_	3	A	3:A	_
 2	le	_	Word	Word	_	3	A	3:A	_
 3	répète	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	l\u2019	_	Word	Word	_	6	E	6:E	_
+5	l'	_	Word	Word	_	6	E	6:E	_
 6	opinion	_	Word	Word	_	3	orphan	3:orphan	_
-7	se	_	Word	Word	_	8	E	8:E	_
-8	fit	_	Word	Word	_	3	orphan	3:orphan	_
+7	se	_	Word	Word	_	3	orphan	3:orphan	_
+8	fit	_	Word	Word	_	7	flat	7:flat	_
 9	alors	_	Word	Word	_	3	L	3:L	_
 10	sur	_	Word	Word	_	12	R	12:R	_
 11	la	_	Word	Word	_	12	E	12:E	_
@@ -22,14 +22,14 @@
 19	admit	_	Word	Word	_	3	orphan	3:orphan	_
 20	sans	_	Word	Word	_	3	L	3:L	_
 21	conteste	_	Word	Word	_	3	orphan	3:orphan	_
-22	l\u2019	_	Word	Word	_	23	E	23:E	_
+22	l'	_	Word	Word	_	23	E	23:E	_
 23	existence	_	Word	Word	_	3	orphan	3:orphan	_
-24	d\u2019	_	Word	Word	_	26	R	26:R	_
+24	d'	_	Word	Word	_	26	R	26:R	_
 25	un	_	Word	Word	_	26	E	26:E	_
 26	être	_	Word	Word	_	3	orphan	3:orphan	_
 27	prodigieux	_	Word	Word	_	26	E	26:E	_
 28	qui	_	Word	Word	_	33	R	33:R	_
-29	n\u2019	_	Word	Word	_	33	D	33:D	_
+29	n'	_	Word	Word	_	33	D	33:D	_
 30	avait	_	Word	Word	_	33	F	33:F	_
 31	rien	_	Word	Word	_	33	A	33:A	_
 32	de	_	Word	Word	_	33	R	33:R	_

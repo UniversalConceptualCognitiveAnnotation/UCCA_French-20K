@@ -1,5 +1,5 @@
 # sent_id = 440004
-# text = Or la mer est précisément leur meilleur véhicule , le seul milieu où ces géants près desquels les animaux terrestres , éléphants ou rhinocéros , ne sont que des nains , \u2013 puissent se produire et se développer .
+# text = Or la mer est précisément leur meilleur véhicule , le seul milieu où ces géants près desquels les animaux terrestres , éléphants ou rhinocéros , ne sont que des nains , - puissent se produire et se développer .
 # doc_id = 
 1	Or	_	Word	Word	_	4	L	4:L	_
 2	la	_	Word	Word	_	3	E	3:E	_
@@ -13,7 +13,7 @@
 10	le	_	Word	Word	_	12	E	12:E	_
 11	seul	_	Word	Word	_	12	E	12:E	_
 12	milieu	_	Word	Word	_	3	orphan	3:orphan	_
-13	où	_	Word	Word	_	35	R	35:R	_
+13	où	_	Word	Word	_	34	R	34:R	_
 14	ces	_	Word	Word	_	15	E	15:E	_
 15	géants	_	Word	Word	_	3	orphan	3:orphan	_
 16	près	_	Word	Word	_	3	orphan	3:orphan	_
@@ -31,13 +31,13 @@
 28	que	_	Word	Word	_	26	flat	26:flat	_
 29	des	_	Word	Word	_	30	E	30:E	_
 30	nains	_	Word	Word	_	3	orphan	3:orphan	_
-31	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-32	\u2013	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-33	puissent	_	Word	Word	_	35	E	35:E	_
-34	se	_	Word	Word	_	35	E	35:E	_
-35	produire	_	Word	Word	_	3	orphan	3:orphan	_
-36	et	_	Word	Word	_	35	N	35:N	_
-37	se	_	Word	Word	_	38	E	38:E	_
-38	développer	_	Word	Word	_	3	orphan	3:orphan	_
-39	.	_	Punctuation	Punctuation	_	38	punct	38:punct	_
+31	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+32	-	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+33	puissent	_	Word	Word	_	34	D	34:D	_
+34	se	_	Word	Word	_	3	orphan	3:orphan	_
+35	produire	_	Word	Word	_	34	flat	34:flat	_
+36	et	_	Word	Word	_	34	N	34:N	_
+37	se	_	Word	Word	_	34	C	34:C	_
+38	développer	_	Word	Word	_	37	flat	37:flat	_
+39	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
 

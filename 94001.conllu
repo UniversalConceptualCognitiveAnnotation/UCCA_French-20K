@@ -1,23 +1,23 @@
 # sent_id = 94001
-# text = Nulle entreprise de navigation transocéanienne n\u2019 a été conduite avec plus d\u2019 habileté ; nulle affaire n\u2019 a été couronnée de plus de succès .
+# text = Nulle entreprise de navigation transocéanienne n' a été conduite avec plus d' habileté ; nulle affaire n' a été couronnée de plus de succès .
 # doc_id = 
-1	Nulle	_	Word	Word	_	2	E	2:E	_
+1	Nulle	_	Word	Word	_	9	D	9:D	_
 2	entreprise	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	4	R	4:R	_
 4	navigation	_	Word	Word	_	2	orphan	2:orphan	_
 5	transocéanienne	_	Word	Word	_	4	E	4:E	_
-6	n\u2019	_	Word	Word	_	9	D	9:D	_
+6	n'	_	Word	Word	_	9	D	9:D	_
 7	a	_	Word	Word	_	9	F	9:F	_
 8	été	_	Word	Word	_	9	F	9:F	_
 9	conduite	_	Word	Word	_	2	orphan	2:orphan	_
 10	avec	_	Word	Word	_	13	R	13:R	_
 11	plus	_	Word	Word	_	13	E	13:E	_
-12	d\u2019	_	Word	Word	_	13	E	13:E	_
+12	d'	_	Word	Word	_	13	E	13:E	_
 13	habileté	_	Word	Word	_	2	orphan	2:orphan	_
 14	;	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-15	nulle	_	Word	Word	_	16	E	16:E	_
-16	affaire	_	Word	Word	_	2	orphan	2:orphan	_
-17	n\u2019	_	Word	Word	_	20	D	20:D	_
+15	nulle	_	Word	Word	_	20	D	20:D	_
+16	affaire	_	Word	Word	_	20	A	20:A	_
+17	n'	_	Word	Word	_	20	D	20:D	_
 18	a	_	Word	Word	_	20	F	20:F	_
 19	été	_	Word	Word	_	20	F	20:F	_
 20	couronnée	_	Word	Word	_	2	orphan	2:orphan	_

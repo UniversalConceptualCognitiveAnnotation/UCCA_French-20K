@@ -1,5 +1,5 @@
 # sent_id = 426002
-# text = Ce livre , particulièrement goûté du monde savant , faisait de moi un spécialiste dans cette partie assez obscure de l\u2019histoire naturelle .
+# text = Ce livre , particulièrement goûté du monde savant , faisait de moi un spécialiste dans cette partie assez obscure de l'histoire naturelle .
 # doc_id = 
 1	Ce	_	Word	Word	_	2	E	2:E	_
 2	livre	_	Word	Word	_	0	root	0:root	_
@@ -21,7 +21,7 @@
 18	assez	_	Word	Word	_	19	E	19:E	_
 19	obscure	_	Word	Word	_	2	orphan	2:orphan	_
 20	de	_	Word	Word	_	17	R	17:R	_
-21	l\u2019histoire	_	Word	Word	_	2	orphan	2:orphan	_
+21	l'histoire	_	Word	Word	_	2	orphan	2:orphan	_
 22	naturelle	_	Word	Word	_	21	E	21:E	_
 23	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

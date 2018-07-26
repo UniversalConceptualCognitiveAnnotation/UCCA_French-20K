@@ -1,5 +1,5 @@
 # sent_id = 77001
-# text = Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l\u2019 esprit public à l\u2019 intérieur des continents , les gens de mer furent particulièrement émus .
+# text = Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l' esprit public à l' intérieur des continents , les gens de mer furent particulièrement émus .
 # doc_id = 
 1	Sans	_	Word	Word	_	2	L	2:L	_
 2	parler	_	Word	Word	_	0	root	0:root	_
@@ -13,11 +13,11 @@
 10	ports	_	Word	Word	_	2	orphan	2:orphan	_
 11	et	_	Word	Word	_	6	L	6:L	_
 12	surexcitaient	_	Word	Word	_	2	orphan	2:orphan	_
-13	l\u2019	_	Word	Word	_	14	E	14:E	_
+13	l'	_	Word	Word	_	14	E	14:E	_
 14	esprit	_	Word	Word	_	2	orphan	2:orphan	_
 15	public	_	Word	Word	_	14	E	14:E	_
 16	à	_	Word	Word	_	20	R	20:R	_
-17	l\u2019	_	Word	Word	_	18	E	18:E	_
+17	l'	_	Word	Word	_	18	E	18:E	_
 18	intérieur	_	Word	Word	_	2	orphan	2:orphan	_
 19	des	_	Word	Word	_	18	R	18:R	_
 20	continents	_	Word	Word	_	2	orphan	2:orphan	_

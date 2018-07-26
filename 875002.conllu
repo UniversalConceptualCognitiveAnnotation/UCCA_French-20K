@@ -1,27 +1,27 @@
 # sent_id = 875002
 # text = — Oui… en effet… peut-être , répondit le Canadien , ébranlé par ces chiffres , mais qui ne voulait pas se rendre .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	Oui…	_	Word	Word	_	0	root	0:root	_
-3	en	_	Word	Word	_	2	flat	2:flat	_
-4	effet…	_	Word	Word	_	2	flat	2:flat	_
-5	peut-être	_	Word	Word	_	2	flat	2:flat	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	répondit	_	Word	Word	_	2	orphan	2:orphan	_
+1	—	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+2	Oui…	_	Word	Word	_	5	D	5:D	_
+3	en	_	Word	Word	_	5	D	5:D	_
+4	effet…	_	Word	Word	_	3	flat	3:flat	_
+5	peut-être	_	Word	Word	_	0	root	0:root	_
+6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	répondit	_	Word	Word	_	5	orphan	5:orphan	_
 8	le	_	Word	Word	_	9	E	9:E	_
-9	Canadien	_	Word	Word	_	2	orphan	2:orphan	_
-10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-11	ébranlé	_	Word	Word	_	2	orphan	2:orphan	_
+9	Canadien	_	Word	Word	_	5	orphan	5:orphan	_
+10	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+11	ébranlé	_	Word	Word	_	5	orphan	5:orphan	_
 12	par	_	Word	Word	_	14	R	14:R	_
 13	ces	_	Word	Word	_	14	E	14:E	_
-14	chiffres	_	Word	Word	_	2	orphan	2:orphan	_
-15	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-16	mais	_	Word	Word	_	2	L	2:L	_
-17	qui	_	Word	Word	_	2	L	2:L	_
+14	chiffres	_	Word	Word	_	5	orphan	5:orphan	_
+15	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+16	mais	_	Word	Word	_	11	L	11:L	_
+17	qui	_	Word	Word	_	21	R	21:R	_
 18	ne	_	Word	Word	_	21	D	21:D	_
-19	voulait	_	Word	Word	_	21	E	21:E	_
+19	voulait	_	Word	Word	_	21	D	21:D	_
 20	pas	_	Word	Word	_	18	flat	18:flat	_
-21	se	_	Word	Word	_	2	orphan	2:orphan	_
+21	se	_	Word	Word	_	5	orphan	5:orphan	_
 22	rendre	_	Word	Word	_	21	flat	21:flat	_
 23	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

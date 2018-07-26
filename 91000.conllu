@@ -1,7 +1,7 @@
 # sent_id = 91000
-# text = L\u2019 accident était arrivé vers cinq heures du matin , lorsque le jour commençait à poindre .
+# text = L' accident était arrivé vers cinq heures du matin , lorsque le jour commençait à poindre .
 # doc_id = 
-1	L\u2019	_	Word	Word	_	2	E	2:E	_
+1	L'	_	Word	Word	_	2	E	2:E	_
 2	accident	_	Word	Word	_	0	root	0:root	_
 3	était	_	Word	Word	_	4	F	4:F	_
 4	arrivé	_	Word	Word	_	2	orphan	2:orphan	_
@@ -14,7 +14,7 @@
 11	lorsque	_	Word	Word	_	4	L	4:L	_
 12	le	_	Word	Word	_	13	E	13:E	_
 13	jour	_	Word	Word	_	2	orphan	2:orphan	_
-14	commençait	_	Word	Word	_	16	E	16:E	_
+14	commençait	_	Word	Word	_	16	D	16:D	_
 15	à	_	Word	Word	_	16	R	16:R	_
 16	poindre	_	Word	Word	_	2	orphan	2:orphan	_
 17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_

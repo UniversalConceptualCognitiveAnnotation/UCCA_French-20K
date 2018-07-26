@@ -1,14 +1,15 @@
 # sent_id = 872001
-# text = On fait ce qu’ on veut avec les chiffres !
+# text = — En affaires , Ned , mais non en mathématiques .
 # doc_id = 
-1	On	_	Word	Word	_	2	A	2:A	_
-2	fait	_	Word	Word	_	0	root	0:root	_
-3	ce	_	Word	Word	_	6	F	6:F	_
-4	qu’	_	Word	Word	_	6	F	6:F	_
-5	on	_	Word	Word	_	6	A	6:A	_
-6	veut	_	Word	Word	_	2	orphan	2:orphan	_
-7	avec	_	Word	Word	_	9	R	9:R	_
-8	les	_	Word	Word	_	9	E	9:E	_
-9	chiffres	_	Word	Word	_	2	orphan	2:orphan	_
-10	!	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	En	_	Word	Word	_	3	R	3:R	_
+3	affaires	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	Ned	_	Word	Word	_	3	H	3:H	_
+6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+7	mais	_	Word	Word	_	3	L	3:L	_
+8	non	_	Word	Word	_	10	D	10:D	_
+9	en	_	Word	Word	_	10	R	10:R	_
+10	mathématiques	_	Word	Word	_	3	orphan	3:orphan	_
+11	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 

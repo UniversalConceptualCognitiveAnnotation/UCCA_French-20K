@@ -1,7 +1,7 @@
 # sent_id = 77000
-# text = L\u2019année 1866 fut marquée par un événement bizarre , un phénomène inexpliqué et inexplicable que personne n\u2019 a sans doute oublié .
+# text = L'année 1866 fut marquée par un événement bizarre , un phénomène inexpliqué et inexplicable que personne n' a sans doute oublié .
 # doc_id = 
-1	L\u2019année	_	Word	Word	_	2	E	2:E	_
+1	L'année	_	Word	Word	_	2	E	2:E	_
 2	1866	_	Word	Word	_	0	root	0:root	_
 3	fut	_	Word	Word	_	4	F	4:F	_
 4	marquée	_	Word	Word	_	2	orphan	2:orphan	_
@@ -17,7 +17,7 @@
 14	inexplicable	_	Word	Word	_	12	C	12:C	_
 15	que	_	Word	Word	_	21	R	21:R	_
 16	personne	_	Word	Word	_	21	A	21:A	_
-17	n\u2019	_	Word	Word	_	21	D	21:D	_
+17	n'	_	Word	Word	_	21	D	21:D	_
 18	a	_	Word	Word	_	21	F	21:F	_
 19	sans	_	Word	Word	_	20	E	20:E	_
 20	doute	_	Word	Word	_	2	orphan	2:orphan	_

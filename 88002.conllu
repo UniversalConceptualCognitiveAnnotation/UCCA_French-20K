@@ -1,5 +1,5 @@
 # sent_id = 88002
-# text = Ses spirituels écrivains parodiant un mot de Linné , cité par les adversaires du monstre , soutinrent en effet que « la nature ne faisait pas de sots » , et ils adjurèrent leurs contemporains de ne point donner un démenti à la nature , en admettant l\u2019 existence des Krakens , des serpents de mer , des « Moby Dick » , et autres élucubrations de marins en délire .
+# text = Ses spirituels écrivains parodiant un mot de Linné , cité par les adversaires du monstre , soutinrent en effet que « la nature ne faisait pas de sots » , et ils adjurèrent leurs contemporains de ne point donner un démenti à la nature , en admettant l' existence des Krakens , des serpents de mer , des « Moby Dick » , et autres élucubrations de marins en délire .
 # doc_id = 
 1	Ses	_	Word	Word	_	3	E	3:E	_
 2	spirituels	_	Word	Word	_	3	E	3:E	_
@@ -48,7 +48,7 @@
 45	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 46	en	_	Word	Word	_	47	R	47:R	_
 47	admettant	_	Word	Word	_	3	orphan	3:orphan	_
-48	l\u2019	_	Word	Word	_	49	E	49:E	_
+48	l'	_	Word	Word	_	49	E	49:E	_
 49	existence	_	Word	Word	_	3	orphan	3:orphan	_
 50	des	_	Word	Word	_	51	R	51:R	_
 51	Krakens	_	Word	Word	_	3	orphan	3:orphan	_

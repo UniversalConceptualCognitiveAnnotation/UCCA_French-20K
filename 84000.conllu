@@ -1,19 +1,19 @@
 # sent_id = 84000
-# text = Quinze jours plus tard , à deux mille lieues de là , l\u2019 Helvetia , de la Compagnie Nationale , et le Shannon , du Royal-Mail , marchant à contrebord dans cette portion de l\u2019 Atlantique comprise entre les États-Unis et l\u2019 Europe , se signalèrent respectivement le monstre par 42°15\u2019 de latitude nord , et 60°35\u2019 de longitude à l\u2019 ouest du méridien de Greenwich .
+# text = Quinze jours plus tard , à deux mille lieues de là , l' Helvetia , de la Compagnie Nationale , et le Shannon , du Royal-Mail , marchant à contrebord dans cette portion de l' Atlantique comprise entre les États-Unis et l' Europe , se signalèrent respectivement le monstre par 42°15' de latitude nord , et 60°35' de longitude à l' ouest du méridien de Greenwich .
 # doc_id = 
 1	Quinze	_	Word	Word	_	2	E	2:E	_
 2	jours	_	Word	Word	_	0	root	0:root	_
 3	plus	_	Word	Word	_	4	E	4:E	_
 4	tard	_	Word	Word	_	2	orphan	2:orphan	_
-5	,	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+5	,	_	Punctuation	Punctuation	_	45	punct	45:punct	_
 6	à	_	Word	Word	_	9	R	9:R	_
 7	deux	_	Word	Word	_	9	E	9:E	_
 8	mille	_	Word	Word	_	7	flat	7:flat	_
 9	lieues	_	Word	Word	_	2	orphan	2:orphan	_
 10	de	_	Word	Word	_	11	R	11:R	_
 11	là	_	Word	Word	_	2	orphan	2:orphan	_
-12	,	_	Punctuation	Punctuation	_	46	punct	46:punct	_
-13	l\u2019	_	Word	Word	_	14	E	14:E	_
+12	,	_	Punctuation	Punctuation	_	45	punct	45:punct	_
+13	l'	_	Word	Word	_	14	E	14:E	_
 14	Helvetia	_	Word	Word	_	2	orphan	2:orphan	_
 15	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 16	de	_	Word	Word	_	18	R	18:R	_
@@ -35,33 +35,33 @@
 32	cette	_	Word	Word	_	33	E	33:E	_
 33	portion	_	Word	Word	_	2	orphan	2:orphan	_
 34	de	_	Word	Word	_	36	R	36:R	_
-35	l\u2019	_	Word	Word	_	36	E	36:E	_
+35	l'	_	Word	Word	_	36	E	36:E	_
 36	Atlantique	_	Word	Word	_	2	orphan	2:orphan	_
 37	comprise	_	Word	Word	_	2	orphan	2:orphan	_
 38	entre	_	Word	Word	_	40	R	40:R	_
 39	les	_	Word	Word	_	40	E	40:E	_
 40	États-Unis	_	Word	Word	_	2	orphan	2:orphan	_
 41	et	_	Word	Word	_	40	N	40:N	_
-42	l\u2019	_	Word	Word	_	43	E	43:E	_
+42	l'	_	Word	Word	_	43	E	43:E	_
 43	Europe	_	Word	Word	_	2	orphan	2:orphan	_
-44	,	_	Punctuation	Punctuation	_	46	punct	46:punct	_
-45	se	_	Word	Word	_	46	E	46:E	_
-46	signalèrent	_	Word	Word	_	2	orphan	2:orphan	_
-47	respectivement	_	Word	Word	_	46	D	46:D	_
+44	,	_	Punctuation	Punctuation	_	45	punct	45:punct	_
+45	se	_	Word	Word	_	2	orphan	2:orphan	_
+46	signalèrent	_	Word	Word	_	45	flat	45:flat	_
+47	respectivement	_	Word	Word	_	45	D	45:D	_
 48	le	_	Word	Word	_	49	E	49:E	_
 49	monstre	_	Word	Word	_	2	orphan	2:orphan	_
 50	par	_	Word	Word	_	51	R	51:R	_
-51	42°15\u2019	_	Word	Word	_	2	orphan	2:orphan	_
+51	42°15'	_	Word	Word	_	2	orphan	2:orphan	_
 52	de	_	Word	Word	_	53	R	53:R	_
 53	latitude	_	Word	Word	_	2	orphan	2:orphan	_
 54	nord	_	Word	Word	_	53	E	53:E	_
 55	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
 56	et	_	Word	Word	_	51	N	51:N	_
-57	60°35\u2019	_	Word	Word	_	2	orphan	2:orphan	_
+57	60°35'	_	Word	Word	_	2	orphan	2:orphan	_
 58	de	_	Word	Word	_	59	R	59:R	_
 59	longitude	_	Word	Word	_	2	orphan	2:orphan	_
 60	à	_	Word	Word	_	62	R	62:R	_
-61	l\u2019	_	Word	Word	_	62	E	62:E	_
+61	l'	_	Word	Word	_	62	E	62:E	_
 62	ouest	_	Word	Word	_	2	orphan	2:orphan	_
 63	du	_	Word	Word	_	64	R	64:R	_
 64	méridien	_	Word	Word	_	2	orphan	2:orphan	_

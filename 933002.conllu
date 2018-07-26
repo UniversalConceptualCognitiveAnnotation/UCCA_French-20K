@@ -20,10 +20,10 @@
 17	au	_	Word	Word	_	18	R	18:R	_
 18	cas	_	Word	Word	_	2	orphan	2:orphan	_
 19	où	_	Word	Word	_	18	R	18:R	_
-20	il	_	Word	Word	_	23	A	23:A	_
-21	se	_	Word	Word	_	23	F	23:F	_
-22	fût	_	Word	Word	_	23	F	23:F	_
-23	rencontré	_	Word	Word	_	2	orphan	2:orphan	_
+20	il	_	Word	Word	_	21	A	21:A	_
+21	se	_	Word	Word	_	2	orphan	2:orphan	_
+22	fût	_	Word	Word	_	21	F	21:F	_
+23	rencontré	_	Word	Word	_	21	flat	21:flat	_
 24	dans	_	Word	Word	_	26	R	26:R	_
 25	ces	_	Word	Word	_	26	E	26:E	_
 26	parages	_	Word	Word	_	2	orphan	2:orphan	_

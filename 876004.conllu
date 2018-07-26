@@ -1,20 +1,20 @@
 # sent_id = 876004
 # text = Or , ce trou ne s’ était pas fait tout seul , et puisqu’ il n’ avait pas été produit par des roches sous - marines ou des engins sous - marins , il était nécessairement dû à l’ outil perforant d’ un animal .
 # doc_id = 
-1	Or	_	Word	Word	_	9	L	9:L	_
-2	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	Or	_	Word	Word	_	6	L	6:L	_
+2	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	ce	_	Word	Word	_	4	E	4:E	_
 4	trou	_	Word	Word	_	0	root	0:root	_
-5	ne	_	Word	Word	_	9	D	9:D	_
-6	s’	_	Word	Word	_	9	E	9:E	_
-7	était	_	Word	Word	_	9	F	9:F	_
+5	ne	_	Word	Word	_	6	D	6:D	_
+6	s’	_	Word	Word	_	4	orphan	4:orphan	_
+7	était	_	Word	Word	_	6	F	6:F	_
 8	pas	_	Word	Word	_	5	flat	5:flat	_
-9	fait	_	Word	Word	_	4	orphan	4:orphan	_
+9	fait	_	Word	Word	_	6	flat	6:flat	_
 10	tout	_	Word	Word	_	11	E	11:E	_
 11	seul	_	Word	Word	_	4	orphan	4:orphan	_
-12	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-13	et	_	Word	Word	_	9	L	9:L	_
-14	puisqu’	_	Word	Word	_	9	L	9:L	_
+12	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+13	et	_	Word	Word	_	6	L	6:L	_
+14	puisqu’	_	Word	Word	_	6	L	6:L	_
 15	il	_	Word	Word	_	20	A	20:A	_
 16	n’	_	Word	Word	_	20	D	20:D	_
 17	avait	_	Word	Word	_	20	F	20:F	_
@@ -33,7 +33,7 @@
 30	sous	_	Word	Word	_	32	R	32:R	_
 31	-	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 32	marins	_	Word	Word	_	4	orphan	4:orphan	_
-33	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+33	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 34	il	_	Word	Word	_	37	A	37:A	_
 35	était	_	Word	Word	_	37	F	37:F	_
 36	nécessairement	_	Word	Word	_	37	G	37:G	_

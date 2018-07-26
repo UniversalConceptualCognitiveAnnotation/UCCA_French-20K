@@ -7,7 +7,7 @@
 4	monsieur	_	Word	Word	_	6	E	6:E	_
 5	le	_	Word	Word	_	6	E	6:E	_
 6	naturaliste	_	Word	Word	_	0	root	0:root	_
-7	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+7	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 8	reprit	_	Word	Word	_	6	orphan	6:orphan	_
 9	Ned	_	Word	Word	_	8	A	8:A	_
 10	Land	_	Word	Word	_	9	flat	9:flat	_
@@ -16,9 +16,9 @@
 13	ton	_	Word	Word	_	6	orphan	6:orphan	_
 14	assez	_	Word	Word	_	15	E	15:E	_
 15	narquois	_	Word	Word	_	6	orphan	6:orphan	_
-16	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+16	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 17	vous	_	Word	Word	_	20	F	20:F	_
-18	persistez	_	Word	Word	_	20	E	20:E	_
+18	persistez	_	Word	Word	_	20	D	20:D	_
 19	à	_	Word	Word	_	20	F	20:F	_
 20	admettre	_	Word	Word	_	6	orphan	6:orphan	_
 21	l’	_	Word	Word	_	22	E	22:E	_

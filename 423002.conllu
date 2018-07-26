@@ -1,10 +1,10 @@
 # sent_id = 423002
-# text = D\u2019 ailleurs , comment admettre que la construction de ce bateau sous - marin eût échappé aux yeux du public ?
+# text = D' ailleurs , comment admettre que la construction de ce bateau sous - marin eût échappé aux yeux du public ?
 # doc_id = 
-1	D\u2019	_	Word	Word	_	5	L	5:L	_
+1	D'	_	Word	Word	_	5	L	5:L	_
 2	ailleurs	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	comment	_	Word	Word	_	5	F	5:F	_
+4	comment	_	Word	Word	_	5	D	5:D	_
 5	admettre	_	Word	Word	_	0	root	0:root	_
 6	que	_	Word	Word	_	16	R	16:R	_
 7	la	_	Word	Word	_	8	E	8:E	_

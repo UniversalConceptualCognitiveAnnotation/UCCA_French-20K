@@ -4,8 +4,8 @@
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	commandant	_	Word	Word	_	0	root	0:root	_
 3	Farragut	_	Word	Word	_	2	orphan	2:orphan	_
-4	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-5	désireux	_	Word	Word	_	7	E	7:E	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	désireux	_	Word	Word	_	7	D	7:D	_
 6	de	_	Word	Word	_	7	F	7:F	_
 7	voir	_	Word	Word	_	2	orphan	2:orphan	_
 8	Ned	_	Word	Word	_	11	A	11:A	_
@@ -15,7 +15,7 @@
 12	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 13	l’	_	Word	Word	_	14	A	14:A	_
 14	autorisa	_	Word	Word	_	2	orphan	2:orphan	_
-15	à	_	Word	Word	_	16	F	16:F	_
+15	à	_	Word	Word	_	16	R	16:R	_
 16	se	_	Word	Word	_	2	orphan	2:orphan	_
 17	rendre	_	Word	Word	_	16	flat	16:flat	_
 18	à	_	Word	Word	_	19	R	19:R	_

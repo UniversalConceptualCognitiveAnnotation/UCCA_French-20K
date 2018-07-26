@@ -20,7 +20,7 @@
 17	dont	_	Word	Word	_	25	R	25:R	_
 18	la	_	Word	Word	_	19	E	19:E	_
 19	faculté	_	Word	Word	_	1	orphan	1:orphan	_
-20	de	_	Word	Word	_	21	F	21:F	_
+20	de	_	Word	Word	_	21	R	21:R	_
 21	voir	_	Word	Word	_	1	orphan	1:orphan	_
 22	dans	_	Word	Word	_	24	R	24:R	_
 23	l’	_	Word	Word	_	24	E	24:E	_
@@ -32,11 +32,11 @@
 29	cinquante	_	Word	Word	_	1	orphan	1:orphan	_
 30	pour	_	Word	Word	_	31	R	31:R	_
 31	cent	_	Word	Word	_	1	orphan	1:orphan	_
-32	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
-33	avaient	_	Word	Word	_	35	F	35:F	_
-34	beau	_	Word	Word	_	35	E	35:E	_
-35	jeu	_	Word	Word	_	1	orphan	1:orphan	_
-36	pour	_	Word	Word	_	37	F	37:F	_
+32	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+33	avaient	_	Word	Word	_	34	F	34:F	_
+34	beau	_	Word	Word	_	1	orphan	1:orphan	_
+35	jeu	_	Word	Word	_	34	flat	34:flat	_
+36	pour	_	Word	Word	_	37	R	37:R	_
 37	gagner	_	Word	Word	_	1	orphan	1:orphan	_
 38	la	_	Word	Word	_	39	E	39:E	_
 39	prime	_	Word	Word	_	1	orphan	1:orphan	_

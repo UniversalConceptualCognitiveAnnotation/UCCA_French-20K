@@ -1,5 +1,5 @@
 # sent_id = 100001
-# text = Quelques instants après , on constatait l\u2019 existence d\u2019 un trou large de deux mètres dans la carène du steamer .
+# text = Quelques instants après , on constatait l' existence d' un trou large de deux mètres dans la carène du steamer .
 # doc_id = 
 1	Quelques	_	Word	Word	_	2	E	2:E	_
 2	instants	_	Word	Word	_	0	root	0:root	_
@@ -7,9 +7,9 @@
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 5	on	_	Word	Word	_	6	A	6:A	_
 6	constatait	_	Word	Word	_	2	orphan	2:orphan	_
-7	l\u2019	_	Word	Word	_	8	E	8:E	_
+7	l'	_	Word	Word	_	8	E	8:E	_
 8	existence	_	Word	Word	_	2	orphan	2:orphan	_
-9	d\u2019	_	Word	Word	_	11	R	11:R	_
+9	d'	_	Word	Word	_	11	R	11:R	_
 10	un	_	Word	Word	_	11	E	11:E	_
 11	trou	_	Word	Word	_	2	orphan	2:orphan	_
 12	large	_	Word	Word	_	2	orphan	2:orphan	_

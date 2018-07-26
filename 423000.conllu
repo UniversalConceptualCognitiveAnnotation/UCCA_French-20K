@@ -1,10 +1,10 @@
 # sent_id = 423000
-# text = Mais l\u2019 hypothèse d\u2019 une machine de guerre tomba encore devant la déclaration des gouvernements .
+# text = Mais l' hypothèse d' une machine de guerre tomba encore devant la déclaration des gouvernements .
 # doc_id = 
 1	Mais	_	Word	Word	_	9	L	9:L	_
-2	l\u2019	_	Word	Word	_	3	E	3:E	_
+2	l'	_	Word	Word	_	3	E	3:E	_
 3	hypothèse	_	Word	Word	_	0	root	0:root	_
-4	d\u2019	_	Word	Word	_	6	R	6:R	_
+4	d'	_	Word	Word	_	6	R	6:R	_
 5	une	_	Word	Word	_	6	E	6:E	_
 6	machine	_	Word	Word	_	3	orphan	3:orphan	_
 7	de	_	Word	Word	_	8	R	8:R	_

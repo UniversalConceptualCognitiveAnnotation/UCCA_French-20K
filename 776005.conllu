@@ -1,10 +1,45 @@
 # sent_id = 776005
-# text = Nous partons dans deux heures .
+# text = – Pas un instant à perdre . Serre dans ma malle tous mes ustensiles de voyage , des habits , des chemises , des chaussettes , sans compter , mais le plus que tu pourras , et hâte - toi !
 # doc_id = 
-1	Nous	_	Word	Word	_	2	A	2:A	_
-2	partons	_	Word	Word	_	0	root	0:root	_
-3	dans	_	Word	Word	_	5	R	5:R	_
-4	deux	_	Word	Word	_	5	E	5:E	_
-5	heures	_	Word	Word	_	2	orphan	2:orphan	_
-6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+1	–	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+2	Pas	_	Word	Word	_	6	D	6:D	_
+3	un	_	Word	Word	_	4	E	4:E	_
+4	instant	_	Word	Word	_	0	root	0:root	_
+5	à	_	Word	Word	_	6	F	6:F	_
+6	perdre	_	Word	Word	_	4	orphan	4:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	Serre	_	Word	Word	_	4	orphan	4:orphan	_
+9	dans	_	Word	Word	_	11	R	11:R	_
+10	ma	_	Word	Word	_	11	E	11:E	_
+11	malle	_	Word	Word	_	4	orphan	4:orphan	_
+12	tous	_	Word	Word	_	14	E	14:E	_
+13	mes	_	Word	Word	_	14	E	14:E	_
+14	ustensiles	_	Word	Word	_	4	orphan	4:orphan	_
+15	de	_	Word	Word	_	16	R	16:R	_
+16	voyage	_	Word	Word	_	4	orphan	4:orphan	_
+17	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+18	des	_	Word	Word	_	19	E	19:E	_
+19	habits	_	Word	Word	_	4	orphan	4:orphan	_
+20	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+21	des	_	Word	Word	_	22	E	22:E	_
+22	chemises	_	Word	Word	_	4	orphan	4:orphan	_
+23	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+24	des	_	Word	Word	_	25	E	25:E	_
+25	chaussettes	_	Word	Word	_	4	orphan	4:orphan	_
+26	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+27	sans	_	Word	Word	_	6	L	6:L	_
+28	compter	_	Word	Word	_	4	orphan	4:orphan	_
+29	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+30	mais	_	Word	Word	_	6	L	6:L	_
+31	le	_	Word	Word	_	4	orphan	4:orphan	_
+32	plus	_	Word	Word	_	31	E	31:E	_
+33	que	_	Word	Word	_	35	R	35:R	_
+34	tu	_	Word	Word	_	35	A	35:A	_
+35	pourras	_	Word	Word	_	4	orphan	4:orphan	_
+36	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+37	et	_	Word	Word	_	6	L	6:L	_
+38	hâte	_	Word	Word	_	4	orphan	4:orphan	_
+39	-	_	Punctuation	Punctuation	_	38	punct	38:punct	_
+40	toi	_	Word	Word	_	38	flat	38:flat	_
+41	!	_	Punctuation	Punctuation	_	38	punct	38:punct	_
 

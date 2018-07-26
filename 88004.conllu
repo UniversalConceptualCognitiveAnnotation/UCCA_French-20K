@@ -1,7 +1,7 @@
 # sent_id = 88004
-# text = L\u2019 esprit avait vaincu la science .
+# text = L' esprit avait vaincu la science .
 # doc_id = 
-1	L\u2019	_	Word	Word	_	2	E	2:E	_
+1	L'	_	Word	Word	_	2	E	2:E	_
 2	esprit	_	Word	Word	_	0	root	0:root	_
 3	avait	_	Word	Word	_	4	F	4:F	_
 4	vaincu	_	Word	Word	_	2	orphan	2:orphan	_

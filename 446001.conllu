@@ -1,8 +1,8 @@
 # sent_id = 446001
-# text = On n\u2019 accorda pas vingt-quatre heures de répit au commandant Farragut .
+# text = On n' accorda pas vingt-quatre heures de répit au commandant Farragut .
 # doc_id = 
 1	On	_	Word	Word	_	3	A	3:A	_
-2	n\u2019	_	Word	Word	_	3	D	3:D	_
+2	n'	_	Word	Word	_	3	D	3:D	_
 3	accorda	_	Word	Word	_	0	root	0:root	_
 4	pas	_	Word	Word	_	2	flat	2:flat	_
 5	vingt-quatre	_	Word	Word	_	6	E	6:E	_

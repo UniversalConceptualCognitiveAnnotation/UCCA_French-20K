@@ -1,5 +1,5 @@
 # sent_id = 98002
-# text = Le Scotia , divisé en sept compartiments par des cloisons étanches , devait braver impunément une voie d\u2019eau .
+# text = Le Scotia , divisé en sept compartiments par des cloisons étanches , devait braver impunément une voie d'eau .
 # doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	Scotia	_	Word	Word	_	0	root	0:root	_
@@ -13,11 +13,11 @@
 10	cloisons	_	Word	Word	_	2	orphan	2:orphan	_
 11	étanches	_	Word	Word	_	10	E	10:E	_
 12	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-13	devait	_	Word	Word	_	14	E	14:E	_
+13	devait	_	Word	Word	_	14	F	14:F	_
 14	braver	_	Word	Word	_	2	orphan	2:orphan	_
 15	impunément	_	Word	Word	_	14	D	14:D	_
 16	une	_	Word	Word	_	17	E	17:E	_
 17	voie	_	Word	Word	_	2	orphan	2:orphan	_
-18	d\u2019eau	_	Word	Word	_	17	E	17:E	_
+18	d'eau	_	Word	Word	_	17	E	17:E	_
 19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 

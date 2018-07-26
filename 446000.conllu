@@ -1,7 +1,7 @@
 # sent_id = 446000
-# text = L\u2019 émotion causée par cette nouvelle fut extrême .
+# text = L' émotion causée par cette nouvelle fut extrême .
 # doc_id = 
-1	L\u2019	_	Word	Word	_	2	E	2:E	_
+1	L'	_	Word	Word	_	2	E	2:E	_
 2	émotion	_	Word	Word	_	0	root	0:root	_
 3	causée	_	Word	Word	_	2	orphan	2:orphan	_
 4	par	_	Word	Word	_	6	R	6:R	_

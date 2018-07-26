@@ -3,10 +3,10 @@
 # doc_id = 
 1	Je	_	Word	Word	_	5	A	5:A	_
 2	ne	_	Word	Word	_	5	D	5:D	_
-3	veux	_	Word	Word	_	5	E	5:E	_
+3	veux	_	Word	Word	_	5	D	5:D	_
 4	pas	_	Word	Word	_	2	flat	2:flat	_
 5	dire	_	Word	Word	_	0	root	0:root	_
-6	qu’	_	Word	Word	_	5	F	5:F	_
+6	qu’	_	Word	Word	_	10	R	10:R	_
 7	il	_	Word	Word	_	10	F	10:F	_
 8	y	_	Word	Word	_	7	flat	7:flat	_
 9	eut	_	Word	Word	_	7	flat	7:flat	_
@@ -32,7 +32,7 @@
 29	demanda	_	Word	Word	_	5	orphan	5:orphan	_
 30	trois	_	Word	Word	_	31	E	31:E	_
 31	jours	_	Word	Word	_	5	orphan	5:orphan	_
-32	de	_	Word	Word	_	33	F	33:F	_
+32	de	_	Word	Word	_	33	R	33:R	_
 33	patience	_	Word	Word	_	5	orphan	5:orphan	_
 34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
 

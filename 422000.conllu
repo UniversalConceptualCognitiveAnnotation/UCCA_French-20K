@@ -1,11 +1,11 @@
 # sent_id = 422000
-# text = Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l\u2019 homme s\u2019 ingénie à multiplier la puissance des armes de guerre , il était possible qu\u2019 un État essayât à l\u2019 insu des autres ce formidable engin .
+# text = Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l' homme s' ingénie à multiplier la puissance des armes de guerre , il était possible qu' un État essayât à l' insu des autres ce formidable engin .
 # doc_id = 
 1	Seul	_	Word	Word	_	4	E	4:E	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	un	_	Word	Word	_	4	E	4:E	_
 4	gouvernement	_	Word	Word	_	0	root	0:root	_
-5	pouvait	_	Word	Word	_	6	E	6:E	_
+5	pouvait	_	Word	Word	_	6	D	6:D	_
 6	posséder	_	Word	Word	_	4	orphan	4:orphan	_
 7	une	_	Word	Word	_	9	E	9:E	_
 8	pareille	_	Word	Word	_	9	E	9:E	_
@@ -19,9 +19,9 @@
 16	temps	_	Word	Word	_	4	orphan	4:orphan	_
 17	désastreux	_	Word	Word	_	16	E	16:E	_
 18	où	_	Word	Word	_	24	R	24:R	_
-19	l\u2019	_	Word	Word	_	20	E	20:E	_
+19	l'	_	Word	Word	_	20	E	20:E	_
 20	homme	_	Word	Word	_	4	orphan	4:orphan	_
-21	s\u2019	_	Word	Word	_	24	E	24:E	_
+21	s'	_	Word	Word	_	24	D	24:D	_
 22	ingénie	_	Word	Word	_	21	flat	21:flat	_
 23	à	_	Word	Word	_	24	F	24:F	_
 24	multiplier	_	Word	Word	_	4	orphan	4:orphan	_
@@ -35,12 +35,12 @@
 32	il	_	Word	Word	_	34	F	34:F	_
 33	était	_	Word	Word	_	34	F	34:F	_
 34	possible	_	Word	Word	_	4	orphan	4:orphan	_
-35	qu\u2019	_	Word	Word	_	6	L	6:L	_
+35	qu'	_	Word	Word	_	38	R	38:R	_
 36	un	_	Word	Word	_	37	E	37:E	_
 37	État	_	Word	Word	_	4	orphan	4:orphan	_
 38	essayât	_	Word	Word	_	4	orphan	4:orphan	_
 39	à	_	Word	Word	_	41	R	41:R	_
-40	l\u2019	_	Word	Word	_	41	E	41:E	_
+40	l'	_	Word	Word	_	41	E	41:E	_
 41	insu	_	Word	Word	_	4	orphan	4:orphan	_
 42	des	_	Word	Word	_	43	R	43:R	_
 43	autres	_	Word	Word	_	4	orphan	4:orphan	_

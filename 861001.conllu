@@ -14,8 +14,8 @@
 11	détroit	_	Word	Word	_	3	orphan	3:orphan	_
 12	de	_	Word	Word	_	13	R	13:R	_
 13	Magellan	_	Word	Word	_	3	orphan	3:orphan	_
-14	s’	_	Word	Word	_	15	E	15:E	_
-15	ouvrait	_	Word	Word	_	3	orphan	3:orphan	_
+14	s’	_	Word	Word	_	3	orphan	3:orphan	_
+15	ouvrait	_	Word	Word	_	14	flat	14:flat	_
 16	à	_	Word	Word	_	17	R	17:R	_
 17	moins	_	Word	Word	_	3	orphan	3:orphan	_
 18	de	_	Word	Word	_	17	R	17:R	_

@@ -1,15 +1,7 @@
 # sent_id = 927002
-# text = Et rien ! rien que l’ immensité des flots déserts !
+# text = Et rien !
 # doc_id = 
 1	Et	_	Word	Word	_	2	L	2:L	_
 2	rien	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-4	rien	_	Word	Word	_	7	D	7:D	_
-5	que	_	Word	Word	_	4	flat	4:flat	_
-6	l’	_	Word	Word	_	7	E	7:E	_
-7	immensité	_	Word	Word	_	2	orphan	2:orphan	_
-8	des	_	Word	Word	_	9	R	9:R	_
-9	flots	_	Word	Word	_	2	orphan	2:orphan	_
-10	déserts	_	Word	Word	_	9	E	9:E	_
-11	!	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 

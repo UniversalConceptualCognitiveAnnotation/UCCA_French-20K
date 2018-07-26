@@ -1,5 +1,5 @@
 # sent_id = 443003
-# text = Les arsenaux furent ouverts au commandant Farragut , qui pressa activement l\u2019 armement de sa frégate .
+# text = Les arsenaux furent ouverts au commandant Farragut , qui pressa activement l' armement de sa frégate .
 # doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	arsenaux	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +12,7 @@
 9	qui	_	Word	Word	_	10	R	10:R	_
 10	pressa	_	Word	Word	_	2	orphan	2:orphan	_
 11	activement	_	Word	Word	_	10	D	10:D	_
-12	l\u2019	_	Word	Word	_	13	E	13:E	_
+12	l'	_	Word	Word	_	13	E	13:E	_
 13	armement	_	Word	Word	_	2	orphan	2:orphan	_
 14	de	_	Word	Word	_	16	R	16:R	_
 15	sa	_	Word	Word	_	16	E	16:E	_

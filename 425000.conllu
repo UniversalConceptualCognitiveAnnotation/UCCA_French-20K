@@ -1,5 +1,5 @@
 # sent_id = 425000
-# text = Le monstre revint donc à flots , en dépit des incessantes plaisanteries dont le lardait la petite presse , et dans cette voie , les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d\u2019 une ichthyologie fantastique .
+# text = Le monstre revint donc à flots , en dépit des incessantes plaisanteries dont le lardait la petite presse , et dans cette voie , les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d' une ichthyologie fantastique .
 # doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	monstre	_	Word	Word	_	0	root	0:root	_
@@ -27,15 +27,15 @@
 24	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 25	les	_	Word	Word	_	26	E	26:E	_
 26	imaginations	_	Word	Word	_	2	orphan	2:orphan	_
-27	se	_	Word	Word	_	28	E	28:E	_
-28	laissèrent	_	Word	Word	_	2	orphan	2:orphan	_
-29	bientôt	_	Word	Word	_	30	D	30:D	_
+27	se	_	Word	Word	_	30	D	30:D	_
+28	laissèrent	_	Word	Word	_	27	flat	27:flat	_
+29	bientôt	_	Word	Word	_	30	T	30:T	_
 30	aller	_	Word	Word	_	2	orphan	2:orphan	_
-31	aux	_	Word	Word	_	37	R	37:R	_
-32	plus	_	Word	Word	_	34	E	34:E	_
-33	absurdes	_	Word	Word	_	34	E	34:E	_
+31	aux	_	Word	Word	_	34	R	34:R	_
+32	plus	_	Word	Word	_	33	E	33:E	_
+33	absurdes	_	Word	Word	_	2	orphan	2:orphan	_
 34	rêveries	_	Word	Word	_	2	orphan	2:orphan	_
-35	d\u2019	_	Word	Word	_	34	R	34:R	_
+35	d'	_	Word	Word	_	37	R	37:R	_
 36	une	_	Word	Word	_	37	E	37:E	_
 37	ichthyologie	_	Word	Word	_	2	orphan	2:orphan	_
 38	fantastique	_	Word	Word	_	37	E	37:E	_

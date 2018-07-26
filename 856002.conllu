@@ -3,7 +3,7 @@
 # doc_id = 
 1	Je	_	Word	Word	_	6	A	6:A	_
 2	ne	_	Word	Word	_	6	D	6:D	_
-3	saurais	_	Word	Word	_	6	E	6:E	_
+3	saurais	_	Word	Word	_	6	D	6:D	_
 4	le	_	Word	Word	_	5	E	5:E	_
 5	mieux	_	Word	Word	_	0	root	0:root	_
 6	comparer	_	Word	Word	_	5	orphan	5:orphan	_
@@ -19,9 +19,9 @@
 16	temps	_	Word	Word	_	5	orphan	5:orphan	_
 17	un	_	Word	Word	_	18	E	18:E	_
 18	canon	_	Word	Word	_	5	orphan	5:orphan	_
-19	toujours	_	Word	Word	_	22	D	22:D	_
-20	prêt	_	Word	Word	_	22	E	22:E	_
-21	à	_	Word	Word	_	22	F	22:F	_
-22	partir	_	Word	Word	_	5	orphan	5:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+19	toujours	_	Word	Word	_	20	T	20:T	_
+20	prêt	_	Word	Word	_	5	orphan	5:orphan	_
+21	à	_	Word	Word	_	20	flat	20:flat	_
+22	partir	_	Word	Word	_	20	flat	20:flat	_
+23	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 

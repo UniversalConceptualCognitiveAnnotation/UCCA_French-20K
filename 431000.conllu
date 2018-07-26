@@ -1,5 +1,5 @@
 # sent_id = 431000
-# text = « Ou nous connaissons toutes les variétés d\u2019 êtres qui peuplent notre planète , ou nous ne les connaissons pas .
+# text = « Ou nous connaissons toutes les variétés d' êtres qui peuplent notre planète , ou nous ne les connaissons pas .
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Ou	_	Word	Word	_	4	L	4:L	_
@@ -8,7 +8,7 @@
 5	toutes	_	Word	Word	_	7	E	7:E	_
 6	les	_	Word	Word	_	7	E	7:E	_
 7	variétés	_	Word	Word	_	4	orphan	4:orphan	_
-8	d\u2019	_	Word	Word	_	9	R	9:R	_
+8	d'	_	Word	Word	_	9	R	9:R	_
 9	êtres	_	Word	Word	_	4	orphan	4:orphan	_
 10	qui	_	Word	Word	_	11	R	11:R	_
 11	peuplent	_	Word	Word	_	4	orphan	4:orphan	_

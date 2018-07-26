@@ -1,5 +1,5 @@
 # sent_id = 95001
-# text = Il marchait avec une vitesse de treize n&#x153;uds quarante-trois centièmes sous la poussée de ses mille chevaux - vapeur .
+# text = Il marchait avec une vitesse de treize nuds quarante-trois centièmes sous la poussée de ses mille chevaux - vapeur .
 # doc_id = 
 1	Il	_	Word	Word	_	2	A	2:A	_
 2	marchait	_	Word	Word	_	0	root	0:root	_
@@ -8,7 +8,7 @@
 5	vitesse	_	Word	Word	_	2	orphan	2:orphan	_
 6	de	_	Word	Word	_	8	R	8:R	_
 7	treize	_	Word	Word	_	2	orphan	2:orphan	_
-8	n&#x153;uds	_	Word	Word	_	2	orphan	2:orphan	_
+8	nuds	_	Word	Word	_	2	orphan	2:orphan	_
 9	quarante-trois	_	Word	Word	_	10	E	10:E	_
 10	centièmes	_	Word	Word	_	2	orphan	2:orphan	_
 11	sous	_	Word	Word	_	13	R	13:R	_

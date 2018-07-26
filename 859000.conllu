@@ -3,7 +3,7 @@
 # doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	dépeins	_	Word	Word	_	0	root	0:root	_
-3	maintenant	_	Word	Word	_	2	D	2:D	_
+3	maintenant	_	Word	Word	_	2	T	2:T	_
 4	ce	_	Word	Word	_	6	E	6:E	_
 5	hardi	_	Word	Word	_	6	E	6:E	_
 6	compagnon	_	Word	Word	_	2	orphan	2:orphan	_
@@ -13,6 +13,6 @@
 10	je	_	Word	Word	_	12	A	12:A	_
 11	le	_	Word	Word	_	12	A	12:A	_
 12	connais	_	Word	Word	_	2	orphan	2:orphan	_
-13	actuellement	_	Word	Word	_	12	D	12:D	_
+13	actuellement	_	Word	Word	_	12	T	12:T	_
 14	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 

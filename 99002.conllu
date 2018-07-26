@@ -15,9 +15,9 @@
 12	car	_	Word	Word	_	7	L	7:L	_
 13	les	_	Word	Word	_	14	E	14:E	_
 14	feux	_	Word	Word	_	2	orphan	2:orphan	_
-15	se	_	Word	Word	_	18	E	18:E	_
-16	fussent	_	Word	Word	_	18	F	18:F	_
-17	subitement	_	Word	Word	_	18	D	18:D	_
-18	éteints	_	Word	Word	_	2	orphan	2:orphan	_
-19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+15	se	_	Word	Word	_	2	orphan	2:orphan	_
+16	fussent	_	Word	Word	_	15	F	15:F	_
+17	subitement	_	Word	Word	_	15	D	15:D	_
+18	éteints	_	Word	Word	_	15	flat	15:flat	_
+19	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 

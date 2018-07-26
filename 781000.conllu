@@ -34,8 +34,8 @@
 31	-	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 32	street	_	Word	Word	_	2	orphan	2:orphan	_
 33	et	_	Word	Word	_	8	L	8:L	_
-34	s’	_	Word	Word	_	35	E	35:E	_
-35	arrêta	_	Word	Word	_	2	orphan	2:orphan	_
+34	s’	_	Word	Word	_	2	orphan	2:orphan	_
+35	arrêta	_	Word	Word	_	34	flat	34:flat	_
 36	à	_	Word	Word	_	41	R	41:R	_
 37	la	_	Word	Word	_	41	E	41:E	_
 38	trente	_	Word	Word	_	41	E	41:E	_

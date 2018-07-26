@@ -1,5 +1,5 @@
 # sent_id = 86003
-# text = On reproduisit même les procès-verbaux des temps anciens les opinions d\u2019 Aristote et de Pline , qui admettaient l\u2019existence de ces monstres , puis les récits norvégiens de l\u2019évêque Pontoppidan , les relations de Paul Heggede , et enfin les rapports de M . Harrington , dont la bonne foi ne peut être soupçonnée , quand il affirme avoir vu , étant à bord du Castillan , en 1857 , cet énorme serpent qui n\u2019 avait jamais fréquenté jusqu\u2019 alors que les mers de l\u2019 ancien Constitutionnel .
+# text = On reproduisit même les procès-verbaux des temps anciens les opinions d' Aristote et de Pline , qui admettaient l'existence de ces monstres , puis les récits norvégiens de l'évêque Pontoppidan , les relations de Paul Heggede , et enfin les rapports de M . Harrington , dont la bonne foi ne peut être soupçonnée , quand il affirme avoir vu , étant à bord du Castillan , en 1857 , cet énorme serpent qui n' avait jamais fréquenté jusqu' alors que les mers de l' ancien Constitutionnel .
 # doc_id = 
 1	On	_	Word	Word	_	2	A	2:A	_
 2	reproduisit	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +11,7 @@
 8	anciens	_	Word	Word	_	2	orphan	2:orphan	_
 9	les	_	Word	Word	_	10	E	10:E	_
 10	opinions	_	Word	Word	_	2	orphan	2:orphan	_
-11	d\u2019	_	Word	Word	_	12	R	12:R	_
+11	d'	_	Word	Word	_	12	R	12:R	_
 12	Aristote	_	Word	Word	_	2	orphan	2:orphan	_
 13	et	_	Word	Word	_	12	N	12:N	_
 14	de	_	Word	Word	_	15	R	15:R	_
@@ -19,7 +19,7 @@
 16	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 17	qui	_	Word	Word	_	18	R	18:R	_
 18	admettaient	_	Word	Word	_	2	orphan	2:orphan	_
-19	l\u2019existence	_	Word	Word	_	2	orphan	2:orphan	_
+19	l'existence	_	Word	Word	_	2	orphan	2:orphan	_
 20	de	_	Word	Word	_	22	R	22:R	_
 21	ces	_	Word	Word	_	22	E	22:E	_
 22	monstres	_	Word	Word	_	2	orphan	2:orphan	_
@@ -29,7 +29,7 @@
 26	récits	_	Word	Word	_	2	orphan	2:orphan	_
 27	norvégiens	_	Word	Word	_	26	E	26:E	_
 28	de	_	Word	Word	_	30	R	30:R	_
-29	l\u2019évêque	_	Word	Word	_	30	E	30:E	_
+29	l'évêque	_	Word	Word	_	30	E	30:E	_
 30	Pontoppidan	_	Word	Word	_	2	orphan	2:orphan	_
 31	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 32	les	_	Word	Word	_	33	E	33:E	_
@@ -38,8 +38,8 @@
 35	Paul	_	Word	Word	_	2	orphan	2:orphan	_
 36	Heggede	_	Word	Word	_	35	flat	35:flat	_
 37	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-38	et	_	Word	Word	_	10	N	10:N	_
-39	enfin	_	Word	Word	_	38	flat	38:flat	_
+38	et	_	Word	Word	_	39	E	39:E	_
+39	enfin	_	Word	Word	_	2	orphan	2:orphan	_
 40	les	_	Word	Word	_	41	E	41:E	_
 41	rapports	_	Word	Word	_	2	orphan	2:orphan	_
 42	de	_	Word	Word	_	43	R	43:R	_
@@ -52,16 +52,16 @@
 49	bonne	_	Word	Word	_	50	E	50:E	_
 50	foi	_	Word	Word	_	2	orphan	2:orphan	_
 51	ne	_	Word	Word	_	54	D	54:D	_
-52	peut	_	Word	Word	_	54	E	54:E	_
+52	peut	_	Word	Word	_	54	D	54:D	_
 53	être	_	Word	Word	_	54	F	54:F	_
 54	soupçonnée	_	Word	Word	_	2	orphan	2:orphan	_
-55	,	_	Punctuation	Punctuation	_	43	punct	43:punct	_
-56	quand	_	Word	Word	_	58	R	58:R	_
-57	il	_	Word	Word	_	58	A	58:A	_
+55	,	_	Punctuation	Punctuation	_	54	punct	54:punct	_
+56	quand	_	Word	Word	_	54	L	54:L	_
+57	il	_	Word	Word	_	2	orphan	2:orphan	_
 58	affirme	_	Word	Word	_	2	orphan	2:orphan	_
 59	avoir	_	Word	Word	_	60	F	60:F	_
 60	vu	_	Word	Word	_	2	orphan	2:orphan	_
-61	,	_	Punctuation	Punctuation	_	60	punct	60:punct	_
+61	,	_	Punctuation	Punctuation	_	58	punct	58:punct	_
 62	étant	_	Word	Word	_	64	F	64:F	_
 63	à	_	Word	Word	_	64	R	64:R	_
 64	bord	_	Word	Word	_	2	orphan	2:orphan	_
@@ -70,22 +70,22 @@
 67	,	_	Punctuation	Punctuation	_	64	punct	64:punct	_
 68	en	_	Word	Word	_	69	R	69:R	_
 69	1857	_	Word	Word	_	2	orphan	2:orphan	_
-70	,	_	Punctuation	Punctuation	_	60	punct	60:punct	_
+70	,	_	Punctuation	Punctuation	_	58	punct	58:punct	_
 71	cet	_	Word	Word	_	73	E	73:E	_
 72	énorme	_	Word	Word	_	73	E	73:E	_
 73	serpent	_	Word	Word	_	2	orphan	2:orphan	_
 74	qui	_	Word	Word	_	78	R	78:R	_
-75	n\u2019	_	Word	Word	_	78	D	78:D	_
+75	n'	_	Word	Word	_	78	D	78:D	_
 76	avait	_	Word	Word	_	78	F	78:F	_
-77	jamais	_	Word	Word	_	75	flat	75:flat	_
+77	jamais	_	Word	Word	_	78	T	78:T	_
 78	fréquenté	_	Word	Word	_	2	orphan	2:orphan	_
-79	jusqu\u2019	_	Word	Word	_	80	R	80:R	_
+79	jusqu'	_	Word	Word	_	80	R	80:R	_
 80	alors	_	Word	Word	_	2	orphan	2:orphan	_
-81	que	_	Word	Word	_	83	E	83:E	_
+81	que	_	Word	Word	_	83	R	83:R	_
 82	les	_	Word	Word	_	83	E	83:E	_
 83	mers	_	Word	Word	_	2	orphan	2:orphan	_
 84	de	_	Word	Word	_	87	R	87:R	_
-85	l\u2019	_	Word	Word	_	87	E	87:E	_
+85	l'	_	Word	Word	_	87	E	87:E	_
 86	ancien	_	Word	Word	_	87	E	87:E	_
 87	Constitutionnel	_	Word	Word	_	2	orphan	2:orphan	_
 88	.	_	Punctuation	Punctuation	_	87	punct	87:punct	_

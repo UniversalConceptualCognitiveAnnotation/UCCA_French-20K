@@ -1,5 +1,5 @@
 # sent_id = 440005
-# text = Les masses liquides transportent les plus grandes espèces connues de mammifères , et peut-être recèlent - elles des mollusques d\u2019 une incomparable taille , des crustacés effrayants à contempler , tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !
+# text = Les masses liquides transportent les plus grandes espèces connues de mammifères , et peut-être recèlent - elles des mollusques d' une incomparable taille , des crustacés effrayants à contempler , tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !
 # doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	masses	_	Word	Word	_	0	root	0:root	_
@@ -14,13 +14,13 @@
 11	mammifères	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 13	et	_	Word	Word	_	4	L	4:L	_
-14	peut-être	_	Word	Word	_	4	G	4:G	_
+14	peut-être	_	Word	Word	_	15	G	15:G	_
 15	recèlent	_	Word	Word	_	2	orphan	2:orphan	_
 16	-	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 17	elles	_	Word	Word	_	15	A	15:A	_
 18	des	_	Word	Word	_	19	E	19:E	_
 19	mollusques	_	Word	Word	_	2	orphan	2:orphan	_
-20	d\u2019	_	Word	Word	_	23	R	23:R	_
+20	d'	_	Word	Word	_	23	R	23:R	_
 21	une	_	Word	Word	_	23	E	23:E	_
 22	incomparable	_	Word	Word	_	23	E	23:E	_
 23	taille	_	Word	Word	_	2	orphan	2:orphan	_

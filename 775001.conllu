@@ -5,7 +5,7 @@
 2	ordinaire	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 4	je	_	Word	Word	_	7	A	7:A	_
-5	ne	_	Word	Word	_	7	D	7:D	_
+5	ne	_	Word	Word	_	7	T	7:T	_
 6	lui	_	Word	Word	_	7	A	7:A	_
 7	demandais	_	Word	Word	_	2	orphan	2:orphan	_
 8	jamais	_	Word	Word	_	5	flat	5:flat	_
@@ -32,11 +32,11 @@
 29	d’	_	Word	Word	_	31	R	31:R	_
 30	une	_	Word	Word	_	31	E	31:E	_
 31	expédition	_	Word	Word	_	2	orphan	2:orphan	_
-32	qui	_	Word	Word	_	36	R	36:R	_
-33	pouvait	_	Word	Word	_	36	E	36:E	_
-34	indéfiniment	_	Word	Word	_	36	D	36:D	_
-35	se	_	Word	Word	_	36	E	36:E	_
-36	prolonger	_	Word	Word	_	2	orphan	2:orphan	_
+32	qui	_	Word	Word	_	35	R	35:R	_
+33	pouvait	_	Word	Word	_	35	D	35:D	_
+34	indéfiniment	_	Word	Word	_	35	D	35:D	_
+35	se	_	Word	Word	_	2	orphan	2:orphan	_
+36	prolonger	_	Word	Word	_	35	flat	35:flat	_
 37	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
 38	d’	_	Word	Word	_	40	R	40:R	_
 39	une	_	Word	Word	_	40	E	40:E	_
@@ -49,7 +49,7 @@
 46	d’	_	Word	Word	_	48	R	48:R	_
 47	un	_	Word	Word	_	48	E	48:E	_
 48	animal	_	Word	Word	_	2	orphan	2:orphan	_
-49	capable	_	Word	Word	_	51	E	51:E	_
+49	capable	_	Word	Word	_	51	D	51:D	_
 50	de	_	Word	Word	_	51	F	51:F	_
 51	couler	_	Word	Word	_	2	orphan	2:orphan	_
 52	une	_	Word	Word	_	53	E	53:E	_
