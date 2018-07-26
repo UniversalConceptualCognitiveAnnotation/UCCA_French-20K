@@ -1,7 +1,7 @@
 1	Je	_	Word	-	-	_	A	_	_	_	_	_
-2	donnai	_	Word	-	-	_	F	_	_	_	_	_
-3	l’	_	Word	-	-	_	E	_	_	_	_	_
-4	ordre	_	Word	-	+	_	_	_	_	_	_	_
+2	donnai	_	Word	-	+	_	_	_	_	_	_	_
+3	l’	_	Word	-	-	_	Terminal	_	_	_	_	_
+4	ordre	_	Word	-	-	_	Terminal	_	_	_	_	_
 5	d’	_	Word	-	-	_	_	F	_	_	_	_
 6	expédier	_	Word	-	+	_	_	_	_	_	_	_
 7	pour	_	Word	-	-	_	_	_	R	_	_	_

@@ -29,12 +29,12 @@
 29	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 30	nains	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-32	\u2013	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-33	puissent	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-34	se	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-35	produire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+33	puissent	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+34	se	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	produire	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
 36	et	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N	_
-37	se	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	développer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+37	se	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_
+38	développer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
 

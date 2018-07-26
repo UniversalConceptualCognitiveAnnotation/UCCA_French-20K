@@ -1,37 +1,9 @@
-1	rien	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
-2	qui	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-3	ressemblât	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-4	à	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-5	un	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-6	narwal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-7	gigantesque	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-9	ni	_	Word	-	-	_	_	E	E	_	_	_	_	_	_
-10	à	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
-11	un	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-12	îlot	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-13	sous-marin	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-15	ni	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-16	à	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-17	une	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-18	épave	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-19	de	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-20	naufrage	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-22	ni	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-23	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-24	un	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-25	écueil	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-26	fuyant	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-27	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-28	ni	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-29	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-30	quoi	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-31	que	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-32	ce	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-33	fût	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-34	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-35	surnaturel	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-36	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	rien	_	Word	-	+	_	_	D	_
+2	que	_	Word	-	-	_	Terminal	_	_
+3	l’	_	Word	-	-	_	_	E	_
+4	immensité	_	Word	-	+	_	_	_	_
+5	des	_	Word	-	-	_	_	_	R
+6	flots	_	Word	-	+	_	_	_	_
+7	déserts	_	Word	-	-	_	_	_	E
+8	!	_	Punctuation	-	-	_	_	_	U
 

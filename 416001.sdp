@@ -7,7 +7,7 @@
 7	suppléant	_	Word	-	-	_	_	E	_	_	_	_	_	_
 8	au	_	Word	-	-	_	_	_	R	_	_	_	_	_
 9	Muséum	_	Word	-	+	_	_	_	_	_	_	_	_	_
-10	d\u2019	_	Word	-	-	_	_	_	_	R	_	_	_	_
+10	d'	_	Word	-	-	_	_	_	_	R	_	_	_	_
 11	histoire	_	Word	-	+	_	_	_	_	_	_	_	_	_
 12	naturelle	_	Word	-	-	_	_	_	_	E	_	_	_	_
 13	de	_	Word	-	-	_	_	_	_	_	R	_	_	_
@@ -16,7 +16,7 @@
 16	le	_	Word	-	-	_	_	_	_	_	_	E	_	_
 17	gouvernement	_	Word	-	+	_	_	_	_	_	_	_	_	_
 18	français	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	m\u2019	_	Word	-	-	_	_	_	_	_	_	_	A	_
+19	m'	_	Word	-	-	_	_	_	_	_	_	_	A	_
 20	avait	_	Word	-	-	_	_	_	_	_	_	_	F	_
 21	joint	_	Word	-	+	_	_	_	_	_	_	_	_	_
 22	à	_	Word	-	-	_	_	_	_	_	_	_	_	R

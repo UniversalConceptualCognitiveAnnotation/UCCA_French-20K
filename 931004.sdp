@@ -17,8 +17,8 @@
 17	homme	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 18	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
 19	barre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	donnerait	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-21	trois	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	donnerait	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
+21	trois	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
 22	tours	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 23	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
 24	roue	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -27,8 +27,8 @@
 27	l	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
 28	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
 29	Abraham-Lincoln	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	ferait	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
-31	route	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	ferait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	route	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
 32	vers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
 33	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
 34	mers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_

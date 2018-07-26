@@ -7,8 +7,8 @@
 7	de	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 8	la	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
 9	Compagnie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	s\u2019	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-11	accroissait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	s'	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	P	_	_
+11	accroissait	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
 12	de	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
 13	quatre	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 14	navires	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_

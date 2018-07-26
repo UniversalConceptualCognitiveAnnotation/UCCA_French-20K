@@ -1,29 +1,13 @@
-1	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-2	Quoi	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	!	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-4	les	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-5	archiotherium	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-7	les	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-8	hyracotherium	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-10	les	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-11	oréodons	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-13	les	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-14	chéropotamus	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-15	et	_	Word	-	-	_	_	N	_	_	_	_	_	_	_
-16	autres	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-17	carcasses	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-18	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-19	monsieur	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-20	?	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-21	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-22	On	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-23	les	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-24	gardera	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-25	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-26	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-27	hôtel	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	–	_	Punctuation	-	-	_	_	_	_	U
+2	Nous	_	Word	-	-	_	_	A	_	_
+3	ne	_	Word	-	+	_	_	D	_	_
+4	retournons	_	Word	-	+	_	_	_	_	_
+5	donc	_	Word	-	-	_	_	L	_	_
+6	pas	_	Word	-	-	_	Terminal	_	_	_
+7	à	_	Word	-	-	_	_	_	R	_
+8	Paris	_	Word	-	+	_	_	_	_	_
+9	?	_	Punctuation	-	-	_	_	_	_	U
+10	demanda	_	Word	-	+	_	_	_	_	_
+11	Conseil	_	Word	-	-	_	_	_	_	A
+12	.	_	Punctuation	-	-	_	_	_	_	U
 

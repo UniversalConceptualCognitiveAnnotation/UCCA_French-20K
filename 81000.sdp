@@ -9,7 +9,7 @@
 9	lui	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 10	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 11	même	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-12	n\u2019	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+12	n'	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
 13	était	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
 14	plus	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
 15	niable	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -29,7 +29,7 @@
 29	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
 30	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
 31	comprendra	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	l\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+32	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
 33	émotion	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
 34	produite	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 35	dans	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_

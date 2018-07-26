@@ -1,43 +1,43 @@
-1	La	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	Shipping	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	Mercantile	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	Gazette	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	le	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Lloyd	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	le	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-11	Paquebot	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	la	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-14	Revue	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	maritime	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	et	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-17	coloniale	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	toutes	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-20	les	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-21	feuilles	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-22	dévouées	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	aux	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-24	Compagnies	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	A	_	_	_	_
-25	d\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-26	assurances	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	qui	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-28	menaçaient	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	d\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-30	élever	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-31	le	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-32	taux	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-34	leurs	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-35	primes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-37	furent	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-38	unanimes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	sur	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-40	ce	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-41	point	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	La	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Shipping	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	and	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Mercantile	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Gazette	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	le	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	Lloyd	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	le	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Paquebot	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	la	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Revue	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+15	maritime	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+16	et	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+17	coloniale	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	toutes	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+20	les	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+21	feuilles	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+22	dévouées	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	aux	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+24	Compagnies	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	A	_	_	_	_
+25	d'	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+26	assurances	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	qui	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+28	menaçaient	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	d'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+30	élever	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	le	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+32	taux	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+34	leurs	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+35	primes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+37	furent	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+38	unanimes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	sur	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+40	ce	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+41	point	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

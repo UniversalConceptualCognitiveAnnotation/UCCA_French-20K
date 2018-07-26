@@ -5,7 +5,7 @@
 5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 6	si	_	Word	-	+	_	L	_	_	_	_	_	_	_
 7	ce	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
-8	n\u2019	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+8	n'	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
 9	est	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
 10	un	_	Word	-	-	_	_	_	E	_	_	_	_	_
 11	fort	_	Word	-	-	_	_	_	E	_	_	_	_	_

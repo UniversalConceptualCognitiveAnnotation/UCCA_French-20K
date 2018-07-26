@@ -4,7 +4,7 @@
 4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 5	la	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
 6	frégate	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-7	prit	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+7	prit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_
 8	une	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
 9	direction	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 10	plus	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
@@ -14,8 +14,8 @@
 14	ouest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 16	et	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
-17	s’	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-18	engagea	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+17	s’	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+18	engagea	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
 19	dans	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 20	les	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
 21	mers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_

@@ -2,7 +2,7 @@
 2	même	_	Word	-	-	_	_	_	_	L	_	_	_
 3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 4	«	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-5	l\u2019honorable	_	Word	-	-	_	E	_	_	_	_	_	_
+5	l'honorable	_	Word	-	-	_	E	_	_	_	_	_	_
 6	Pierre	_	Word	-	+	_	_	_	_	_	_	A	_
 7	Aronnax	_	Word	-	-	_	Terminal	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
@@ -21,7 +21,7 @@
 21	le	_	Word	-	-	_	_	_	_	_	E	_	_
 22	New	_	Word	-	+	_	_	_	_	_	_	_	_
 23	York-Herald	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-24	de	_	Word	-	-	_	_	_	_	_	_	F	_
+24	de	_	Word	-	-	_	_	_	_	_	_	R	_
 25	formuler	_	Word	-	+	_	_	_	_	_	_	_	_
 26	une	_	Word	-	-	_	_	_	_	_	_	_	E
 27	opinion	_	Word	-	+	_	_	_	_	_	_	_	_

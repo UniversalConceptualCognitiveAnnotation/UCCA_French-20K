@@ -1,13 +1,13 @@
 1	«	_	Punctuation	-	-	_	U	_	_	_	_	_
-2	Allons	_	Word	-	+	_	_	A	_	_	_	_
+2	Allons	_	Word	-	+	_	_	_	_	_	_	_
 3	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-4	Conseil	_	Word	-	-	_	Terminal	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+4	Conseil	_	Word	-	-	_	G	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_
 6	lui	_	Word	-	-	_	_	A	_	_	_	_
 7	dis	_	Word	-	+	_	_	_	_	_	_	_
 8	-	_	Punctuation	-	-	_	_	U	_	_	_	_
 9	je	_	Word	-	-	_	_	A	_	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_
 11	voilà	_	Word	-	-	_	_	_	_	_	_	_
 12	une	_	Word	-	-	_	_	_	E	_	_	_
 13	dernière	_	Word	-	-	_	_	_	E	_	_	_

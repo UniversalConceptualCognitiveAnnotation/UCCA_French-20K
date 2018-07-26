@@ -1,7 +1,7 @@
 1	Sous	_	Word	-	-	_	R	_	_	_	_	_	_
-2	l\u2019	_	Word	-	-	_	E	_	_	_	_	_	_
+2	l'	_	Word	-	-	_	E	_	_	_	_	_	_
 3	effort	_	Word	-	+	_	_	_	_	_	_	_	_
-4	combiné	_	Word	-	-	_	E	_	_	_	_	_	_
+4	combiné	_	Word	-	-	_	D	_	_	_	_	_	_
 5	du	_	Word	-	-	_	_	R	_	_	_	_	_
 6	vent	_	Word	-	+	_	_	_	_	_	_	_	_
 7	et	_	Word	-	-	_	_	N	_	_	_	_	_
@@ -18,6 +18,6 @@
 18	vitesse	_	Word	-	+	_	_	_	_	_	_	_	_
 19	de	_	Word	-	-	_	_	_	_	_	_	R	_
 20	treize	_	Word	-	-	_	_	_	_	_	_	_	E
-21	n&#x153;uds	_	Word	-	+	_	_	_	_	_	_	_	_
+21	nuds	_	Word	-	+	_	_	_	_	_	_	_	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

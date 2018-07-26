@@ -15,7 +15,7 @@
 15	,	_	Punctuation	-	-	_	U	_	_	_	_
 16	puis	_	Word	-	-	_	L	_	_	_	_
 17	.	_	Punctuation	-	-	_	U	_	_	_	_
-18	\u2013	_	Punctuation	-	-	_	U	_	_	_	_
+18	-	_	Punctuation	-	-	_	U	_	_	_	_
 19	la	_	Word	-	-	_	_	_	_	_	E
 20	réaction	_	Word	-	+	_	_	_	_	_	_
 21	.	_	Punctuation	-	-	_	_	_	_	_	U

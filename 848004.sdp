@@ -7,8 +7,8 @@
 7	aucun	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
 8	doute	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 9	ne	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
-10	s’	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-11	élevait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+10	s’	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+11	élevait	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
 12	dans	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
 13	son	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
 14	esprit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_

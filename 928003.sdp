@@ -6,8 +6,8 @@
 6	depuis	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 7	un	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
 8	an	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	s’	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-10	écroulèrent	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	s’	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	écroulèrent	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
 11	à	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
 12	la	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 13	fois	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -19,8 +19,8 @@
 19	plus	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
 20	qu’	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
 21	à	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-22	se	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-23	rattraper	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	se	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	rattraper	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
 24	aux	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 25	heures	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 26	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_

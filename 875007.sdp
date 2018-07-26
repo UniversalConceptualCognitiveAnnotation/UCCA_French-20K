@@ -1,14 +1,5 @@
-1	—	_	Punctuation	-	-	_	U	_	_	_
-2	Allez	_	Word	-	+	_	_	_	_	_
-3	donc	_	Word	-	-	_	Terminal	_	_	_
-4	!	_	Punctuation	-	-	_	U	_	_	_
-5	—	_	Punctuation	-	-	_	U	_	_	_
-6	Parce	_	Word	-	+	_	L	_	_	_
-7	que…	_	Word	-	-	_	_	Terminal	_	_
-8	ça	_	Word	-	-	_	_	_	_	A
-9	n’	_	Word	-	+	_	_	_	_	D
-10	est	_	Word	-	-	_	_	_	_	F
-11	pas	_	Word	-	-	_	_	_	Terminal	_
-12	vrai	_	Word	-	+	_	_	_	_	_
-13	!	_	Punctuation	-	-	_	_	_	_	U
+1	—	_	Punctuation	-	-	_	U
+2	Allez	_	Word	-	+	_	_
+3	donc	_	Word	-	-	_	Terminal
+4	!	_	Punctuation	-	-	_	U
 

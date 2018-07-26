@@ -3,7 +3,7 @@
 3	commandant	_	Word	-	+	_	_	_	_	_	_	_	_	_
 4	Farragut	_	Word	-	-	_	_	_	_	_	A	_	A	_
 5	ne	_	Word	-	+	_	_	_	R	_	_	_	_	_
-6	voulut	_	Word	-	-	_	_	_	E	_	_	_	_	_
+6	voulut	_	Word	-	-	_	_	_	D	_	_	_	_	_
 7	pas	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
 8	prendre	_	Word	-	+	_	_	_	_	_	_	_	_	_
 9	ce	_	Word	-	-	_	_	_	_	E	_	_	_	_
@@ -18,6 +18,6 @@
 18	doubler	_	Word	-	+	_	_	_	_	_	_	_	_	_
 19	le	_	Word	-	-	_	_	_	_	_	_	_	_	E
 20	cap	_	Word	-	+	_	_	_	_	_	_	_	_	_
-21	Horn	_	Word	-	-	_	_	_	_	_	_	_	_	E
+21	Horn	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

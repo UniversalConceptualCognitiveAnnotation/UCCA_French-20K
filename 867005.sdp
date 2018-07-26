@@ -1,29 +1,22 @@
-1	…	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-2	—	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-3	Encore	_	Word	-	+	_	_	_	_	_	_	_	_	_
-4	moins	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-6	Ned	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
-7	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-8	Le	_	Word	-	-	_	_	E	_	_	_	_	_	_
-9	poulpe	_	Word	-	+	_	_	_	_	_	_	_	_	_
-10	n’	_	Word	-	+	_	_	_	_	D	_	_	_	_
-11	est	_	Word	-	+	_	_	_	_	_	_	_	_	_
-12	qu’	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
-13	un	_	Word	-	-	_	_	_	_	_	E	_	_	_
-14	mollusque	_	Word	-	+	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-16	et	_	Word	-	-	_	L	_	_	_	_	_	_	_
-17	ce	_	Word	-	-	_	_	_	_	_	_	E	_	_
-18	nom	_	Word	-	+	_	_	_	_	_	_	_	_	_
-19	même	_	Word	-	-	_	_	_	_	_	_	E	_	_
-20	indique	_	Word	-	-	_	_	_	_	_	_	_	_	_
-21	le	_	Word	-	-	_	_	_	_	_	_	_	E	_
-22	peu	_	Word	-	+	_	_	_	_	_	_	_	_	_
-23	de	_	Word	-	-	_	_	_	_	_	_	_	R	_
-24	consistance	_	Word	-	-	_	_	_	_	_	_	_	_	_
-25	de	_	Word	-	-	_	_	_	_	_	_	_	_	R
-26	ses	_	Word	-	-	_	_	_	_	_	_	_	_	E
-27	chairs	_	Word	-	+	_	_	_	_	_	_	_	_	_
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Le	_	Word	-	-	_	E	_	_	_	_	_	_
+2	poulpe	_	Word	-	+	_	_	_	_	_	_	_	_
+3	n’	_	Word	-	+	_	_	_	D	_	_	_	_
+4	est	_	Word	-	+	_	_	_	_	_	_	_	_
+5	qu’	_	Word	-	-	_	_	Terminal	_	_	_	_	_
+6	un	_	Word	-	-	_	_	_	_	E	_	_	_
+7	mollusque	_	Word	-	+	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+9	et	_	Word	-	-	_	_	_	L	_	_	_	_
+10	ce	_	Word	-	-	_	_	_	_	_	E	_	_
+11	nom	_	Word	-	+	_	_	_	_	_	_	_	_
+12	même	_	Word	-	-	_	_	_	_	_	E	_	_
+13	indique	_	Word	-	-	_	_	_	_	_	_	_	_
+14	le	_	Word	-	-	_	_	_	_	_	_	E	_
+15	peu	_	Word	-	+	_	_	_	_	_	_	_	_
+16	de	_	Word	-	-	_	_	_	_	_	_	R	_
+17	consistance	_	Word	-	-	_	_	_	_	_	_	_	_
+18	de	_	Word	-	-	_	_	_	_	_	_	_	R
+19	ses	_	Word	-	-	_	_	_	_	_	_	_	E
+20	chairs	_	Word	-	+	_	_	_	_	_	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

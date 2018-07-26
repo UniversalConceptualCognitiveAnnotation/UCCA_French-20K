@@ -3,14 +3,14 @@
 3	gaillard	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	d’	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 5	avant	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	s’	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	allongeait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	s’	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	allongeait	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
 8	un	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 9	canon	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	E	_	_	_
 10	perfectionné	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-12	se	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	chargeant	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	se	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	chargeant	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
 14	par	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
 15	la	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 16	culasse	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -31,7 +31,7 @@
 31	dont	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
 32	le	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
 33	modèle	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	doit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+34	doit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
 35	figurer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 36	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
 37	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_

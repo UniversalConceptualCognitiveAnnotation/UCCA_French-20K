@@ -28,7 +28,7 @@
 28	–	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
 29	au	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
 30	moral	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-31	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-32	s’entend	_	Word	-	-	_	_	G	_	_	_	_	_	_	_	_
-33	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+32	s’entend	_	Word	-	-	_	_	_	_	_	_	_	G	_	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
 

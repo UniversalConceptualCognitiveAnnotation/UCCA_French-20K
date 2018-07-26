@@ -6,7 +6,7 @@
 6	des	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 7	tenders	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 8	suivait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	toujours	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+9	toujours	_	Word	-	-	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
 10	la	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 11	frégate	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_

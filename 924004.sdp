@@ -3,7 +3,7 @@
 3	personne	_	Word	-	-	_	A	_	_	_	_	_	_
 4	ne	_	Word	-	-	_	D	_	_	_	_	_	_
 5	doutait	_	Word	-	+	_	_	_	_	_	_	_	_
-6	encore	_	Word	-	-	_	D	_	_	_	_	_	_
+6	encore	_	Word	-	-	_	T	_	_	_	_	_	_
 7	du	_	Word	-	-	_	_	R	_	_	_	_	_
 8	succès	_	Word	-	+	_	_	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
@@ -18,11 +18,11 @@
 18	parié	_	Word	-	+	_	_	_	_	_	_	_	_
 19	contre	_	Word	-	-	_	_	_	_	_	_	R	_
 20	le	_	Word	-	-	_	_	_	_	_	_	E	_
-21	narwal	_	Word	-	+	_	_	_	_	_	_	_	_
+21	narwal	_	Word	-	+	_	_	_	_	_	_	_	A
 22	et	_	Word	-	-	_	_	_	_	_	_	N	_
 23	contre	_	Word	-	-	_	_	_	_	_	_	_	R
 24	sa	_	Word	-	-	_	_	_	_	_	_	_	E
-25	prochaine	_	Word	-	-	_	_	_	_	_	_	_	E
+25	prochaine	_	Word	-	-	_	_	_	_	_	_	_	D
 26	apparition	_	Word	-	+	_	_	_	_	_	_	_	_
 27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

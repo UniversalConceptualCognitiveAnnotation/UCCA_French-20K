@@ -1,12 +1,13 @@
-1	Au	_	Word	-	-	_	R	_	_
-2	fond	_	Word	-	+	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_
-4	j\u2019	_	Word	-	-	_	_	A	_
-5	admettais	_	Word	-	+	_	_	_	_
-6	l\u2019existence	_	Word	-	-	_	_	_	_
-7	du	_	Word	-	-	_	_	_	R
-8	«	_	Punctuation	-	-	_	_	_	U
-9	monstre	_	Word	-	+	_	_	_	_
-10	»	_	Punctuation	-	-	_	_	_	U
-11	.	_	Punctuation	-	-	_	_	_	U
+1	Au	_	Word	-	-	_	R	_	_	_
+2	fond	_	Word	-	+	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_
+4	j'	_	Word	-	-	_	_	A	_	_
+5	admettais	_	Word	-	+	_	_	_	_	_
+6	l	_	Word	-	-	_	_	_	E	_
+7	'existence	_	Word	-	+	_	_	_	_	_
+8	du	_	Word	-	-	_	_	_	_	R
+9	«	_	Punctuation	-	-	_	_	_	_	U
+10	monstre	_	Word	-	+	_	_	_	_	_
+11	»	_	Punctuation	-	-	_	_	_	_	U
+12	.	_	Punctuation	-	-	_	_	_	_	U
 

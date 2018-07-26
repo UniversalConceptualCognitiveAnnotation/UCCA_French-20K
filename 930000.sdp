@@ -4,9 +4,9 @@
 4	recherche	_	Word	-	+	_	_	_	_
 5	inutile	_	Word	-	-	_	E	_	_
 6	ne	_	Word	-	-	_	_	D	_
-7	pouvait	_	Word	-	-	_	_	E	_
-8	se	_	Word	-	-	_	_	E	_
-9	prolonger	_	Word	-	+	_	_	_	_
+7	pouvait	_	Word	-	-	_	_	D	_
+8	se	_	Word	-	+	_	_	_	_
+9	prolonger	_	Word	-	-	_	_	Terminal	_
 10	plus	_	Word	-	-	_	_	_	E
 11	longtemps	_	Word	-	+	_	_	_	_
 12	.	_	Punctuation	-	-	_	_	_	U

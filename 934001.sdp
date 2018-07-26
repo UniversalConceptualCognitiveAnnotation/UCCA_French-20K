@@ -11,10 +11,10 @@
 11	sa	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
 12	promesse	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-14	devait	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-15	donner	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-16	la	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-17	route	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+14	devait	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
+15	donner	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+16	la	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+17	route	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
 18	au	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
 19	sud	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 20	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_

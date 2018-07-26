@@ -1,7 +1,7 @@
-1	D\u2019	_	Word	-	+	_	_	L	_	_	_	_	_	_
+1	D'	_	Word	-	+	_	_	L	_	_	_	_	_	_
 2	ailleurs	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
 3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-4	comment	_	Word	-	-	_	_	F	_	_	_	_	_	_
+4	comment	_	Word	-	-	_	_	D	_	_	_	_	_	_
 5	admettre	_	Word	-	+	_	_	_	_	_	_	_	_	_
 6	que	_	Word	-	-	_	_	_	_	_	_	R	_	_
 7	la	_	Word	-	-	_	_	_	E	_	_	_	_	_

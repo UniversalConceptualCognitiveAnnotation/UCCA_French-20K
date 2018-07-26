@@ -8,9 +8,9 @@
 8	et	_	Word	-	-	_	L	_	_	_
 9	il	_	Word	-	-	_	_	_	_	A
 10	n’	_	Word	-	+	_	_	_	_	D
-11	en	_	Word	-	-	_	_	_	_	F
+11	en	_	Word	-	-	_	_	_	_	A
 12	savait	_	Word	-	+	_	_	_	_	_
 13	pas	_	Word	-	-	_	_	_	Terminal	_
-14	davantage	_	Word	-	-	_	_	_	_	D
+14	davantage	_	Word	-	-	_	_	_	_	A
 15	.	_	Punctuation	-	-	_	_	_	_	U
 

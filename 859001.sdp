@@ -16,8 +16,8 @@
 16	qui	_	Word	-	-	_	_	_	_	_	_	R	_	_
 17	naît	_	Word	-	+	_	_	_	_	_	_	_	_	_
 18	et	_	Word	-	-	_	_	_	_	_	_	N	_	_
-19	se	_	Word	-	-	_	_	_	_	_	_	_	E	_
-20	cimente	_	Word	-	+	_	_	_	_	_	_	_	_	_
+19	se	_	Word	-	+	_	_	_	_	_	_	C	_	_
+20	cimente	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
 21	dans	_	Word	-	-	_	_	_	_	_	_	_	_	R
 22	les	_	Word	-	-	_	_	_	_	_	_	_	_	E
 23	plus	_	Word	-	-	_	_	_	_	_	_	_	_	E

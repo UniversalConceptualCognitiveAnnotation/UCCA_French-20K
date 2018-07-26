@@ -1,7 +1,7 @@
 1	Je	_	Word	-	-	_	A	_	_	_	_	_	_	_
 2	dois	_	Word	-	-	_	E	_	_	_	_	_	_	_
 3	avouer	_	Word	-	+	_	_	_	_	_	_	_	_	_
-4	qu’	_	Word	-	-	_	F	_	_	_	_	_	_	_
+4	qu’	_	Word	-	-	_	_	_	R	_	_	_	_	_
 5	il	_	Word	-	-	_	_	_	A	_	_	_	_	_
 6	ne	_	Word	-	+	_	_	_	D	_	_	_	_	_
 7	croyait	_	Word	-	+	_	_	_	_	_	_	_	_	_
@@ -11,8 +11,8 @@
 11	licorne	_	Word	-	+	_	_	_	_	_	_	_	_	_
 12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
 13	et	_	Word	-	-	_	_	_	L	_	_	_	_	_
-14	que	_	Word	-	-	_	_	_	F	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+14	que	_	Word	-	-	_	_	_	_	_	_	_	R	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
 16	seul	_	Word	-	-	_	_	_	_	_	_	_	_	_
 17	à	_	Word	-	-	_	_	_	_	_	R	_	_	_
 18	bord	_	Word	-	+	_	_	_	_	_	_	_	_	_

@@ -15,13 +15,13 @@
 15	la	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
 16	rapidité	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 17	de	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-18	l\u2019	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+18	l'	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
 19	envahissement	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 20	prouvait	_	Word	-	-	_	_	_	_	_	_	_	_	_	_
 21	que	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
 22	la	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
 23	voie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-24	d\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+24	d'	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 25	eau	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 26	était	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
 27	considérable	_	Word	-	+	_	_	_	_	_	_	_	_	_	_

@@ -13,10 +13,10 @@
 13	la	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 14	marine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-16	je	_	Word	-	-	_	_	A	_	_	_	A	_	_	_	_	A	_	A	_
+16	je	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	A	_	A	_
 17	comprenais	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 18	enfin	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-19	que	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+19	que	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
 20	ma	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 21	véritable	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 22	vocation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_

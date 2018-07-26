@@ -1,9 +1,9 @@
 1	Le	_	Word	-	-	_	E	_	_	_	_	_
 2	commandant	_	Word	-	+	_	_	_	_	_	_	_
 3	Farragut	_	Word	-	-	_	_	_	_	A	_	_
-4	était	_	Word	-	+	_	_	_	_	_	_	_
+4	était	_	Word	-	-	_	_	F	_	_	_	_
 5	un	_	Word	-	-	_	_	_	E	_	_	_
-6	bon	_	Word	-	-	_	_	_	E	_	_	_
+6	bon	_	Word	-	+	_	_	_	_	_	_	_
 7	marin	_	Word	-	+	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
 9	digne	_	Word	-	+	_	_	_	_	_	_	_

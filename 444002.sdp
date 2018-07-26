@@ -1,7 +1,7 @@
-1	Aucun	_	Word	-	-	_	E	_
-2	navire	_	Word	-	+	_	_	_
-3	ne	_	Word	-	-	_	_	D
-4	le	_	Word	-	-	_	_	A
-5	rencontra	_	Word	-	+	_	_	_
-6	.	_	Punctuation	-	-	_	_	U
+1	Aucun	_	Word	-	-	_	D
+2	navire	_	Word	-	-	_	A
+3	ne	_	Word	-	-	_	D
+4	le	_	Word	-	-	_	A
+5	rencontra	_	Word	-	+	_	_
+6	.	_	Punctuation	-	-	_	U
 

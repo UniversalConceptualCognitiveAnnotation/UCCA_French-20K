@@ -12,9 +12,9 @@
 12	car	_	Word	-	-	_	_	_	_	L	_	_	_
 13	les	_	Word	-	-	_	_	_	_	_	_	E	_
 14	feux	_	Word	-	+	_	_	_	_	_	_	_	_
-15	se	_	Word	-	-	_	_	_	_	_	_	_	E
+15	se	_	Word	-	+	_	_	_	_	_	_	_	_
 16	fussent	_	Word	-	-	_	_	_	_	_	_	_	F
 17	subitement	_	Word	-	-	_	_	_	_	_	_	_	D
-18	éteints	_	Word	-	+	_	_	_	_	_	_	_	_
+18	éteints	_	Word	-	-	_	_	_	_	_	_	_	Terminal
 19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

@@ -1,4 +1,4 @@
-1	Sans	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+1	Sans	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
 2	parler	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 3	des	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
 4	rumeurs	_	Word	-	+	_	_	_	A	_	_	A	_	_	_	_	_	_
@@ -10,11 +10,11 @@
 10	ports	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 11	et	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
 12	surexcitaient	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	l\u2019	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+13	l'	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
 14	esprit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 15	public	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
 16	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-17	l\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+17	l'	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
 18	intérieur	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 19	des	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
 20	continents	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_

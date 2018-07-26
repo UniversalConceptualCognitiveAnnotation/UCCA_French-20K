@@ -1,20 +1,20 @@
-1	Avec	_	Word	-	-	_	R	_	_	_	_	_
-2	la	_	Word	-	-	_	E	_	_	_	_	_
-3	mobilité	_	Word	-	+	_	_	A	_	_	_	_
-4	naturelle	_	Word	-	+	_	_	_	_	_	_	_
-5	à	_	Word	-	-	_	_	_	R	_	_	_
-6	l’	_	Word	-	-	_	_	_	E	_	_	_
-7	esprit	_	Word	-	+	_	_	_	_	_	_	_
-8	humain	_	Word	-	-	_	_	_	E	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	_	_	U	_
-10	d’	_	Word	-	-	_	_	_	_	R	_	_
-11	un	_	Word	-	-	_	_	_	_	E	_	_
-12	excès	_	Word	-	+	_	_	_	_	_	_	C
-13	on	_	Word	-	-	_	_	_	_	_	A	_
-14	se	_	Word	-	-	_	_	_	_	_	E	_
-15	jeta	_	Word	-	+	_	_	_	_	_	_	_
-16	dans	_	Word	-	-	_	_	_	_	_	_	R
-17	un	_	Word	-	+	_	_	_	_	_	_	_
-18	autre	_	Word	-	-	_	_	_	_	_	_	E
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	Avec	_	Word	-	-	_	R	_	_	_	_
+2	la	_	Word	-	-	_	E	_	_	_	_
+3	mobilité	_	Word	-	+	_	_	_	_	_	_
+4	naturelle	_	Word	-	-	_	D	_	_	_	_
+5	à	_	Word	-	-	_	_	R	_	_	_
+6	l’	_	Word	-	-	_	_	E	_	_	_
+7	esprit	_	Word	-	+	_	_	_	_	_	_
+8	humain	_	Word	-	-	_	_	E	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	U	_
+10	d’	_	Word	-	-	_	_	_	R	_	_
+11	un	_	Word	-	-	_	_	_	E	_	_
+12	excès	_	Word	-	+	_	_	_	_	_	C
+13	on	_	Word	-	-	_	_	_	_	A	_
+14	se	_	Word	-	+	_	_	_	_	_	_
+15	jeta	_	Word	-	-	_	_	_	_	Terminal	_
+16	dans	_	Word	-	-	_	_	_	_	_	R
+17	un	_	Word	-	+	_	_	_	_	_	_
+18	autre	_	Word	-	-	_	_	_	_	_	E
+19	.	_	Punctuation	-	-	_	_	_	_	_	U
 

@@ -1,44 +1,33 @@
-1	Il	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	suit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	de	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	là	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	qu’	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	à	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-7	trois	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-8	cent	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-9	vingt	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-10	pieds	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	cette	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-12	pression	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	A	_	_	_	_
-13	est	_	Word	-	+	_	_	_	_	_	_	_	_	S	_	_	S	_	_	_	_
-14	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-15	dix	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-16	atmosphères	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-18	de	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-19	cent	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	atmosphères	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-22	trois	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-23	mille	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-24	deux	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-25	cents	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-26	pieds	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-28	et	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
-29	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-30	mille	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	atmosphères	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-33	trente-deux	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-34	mille	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-35	pieds	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-37	soit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-38	deux	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-39	lieues	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C
-40	et	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_
-41	demie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	environ	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+1	Ce	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+2	qui	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+3	équivaut	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	à	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+5	dire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	que	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+7	si	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+8	vous	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+9	pouviez	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
+10	atteindre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+11	cette	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+12	profondeur	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+13	dans	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+14	l’	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+15	Océan	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+17	chaque	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+18	centimètre	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+19	carré	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+20	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+21	la	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+22	surface	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+23	de	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+24	votre	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+25	corps	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+26	subirait	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_
+27	une	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+28	pression	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+29	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+30	mille	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+31	kilogrammes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

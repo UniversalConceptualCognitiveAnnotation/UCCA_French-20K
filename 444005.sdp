@@ -17,7 +17,7 @@
 17	dont	_	Word	-	-	_	_	_	_	L	_	_	_
 18	elle	_	Word	-	-	_	_	_	_	_	_	_	A
 19	faisait	_	Word	-	-	_	_	_	_	_	_	_	F
-20	maintenant	_	Word	-	-	_	_	_	_	_	_	_	D
+20	maintenant	_	Word	-	-	_	_	_	_	_	_	_	T
 21	son	_	Word	-	-	_	_	_	_	_	_	_	E
 22	profit	_	Word	-	+	_	_	_	_	_	_	_	_
 23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U

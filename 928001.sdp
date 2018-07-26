@@ -7,8 +7,8 @@
 7	bord	_	Word	-	+	_	_	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
 9	qui	_	Word	-	-	_	_	L	_	_	_	_	_	_
-10	se	_	Word	-	-	_	_	_	_	E	_	_	_	_
-11	composait	_	Word	-	+	_	_	_	_	_	_	_	_	_
+10	se	_	Word	-	+	_	_	_	_	_	_	_	_	_
+11	composait	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
 12	de	_	Word	-	-	_	_	_	_	_	_	R	_	_
 13	trois	_	Word	-	-	_	_	_	_	_	E	_	_	_
 14	dixièmes	_	Word	-	+	_	_	_	_	_	_	_	_	_

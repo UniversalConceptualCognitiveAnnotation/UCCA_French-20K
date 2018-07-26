@@ -1,8 +1,8 @@
 1	Et	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	l\u2019	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+2	l'	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
 3	impatience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	allait	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	croissant	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	allait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	croissant	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
 6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 7	quand	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
@@ -12,7 +12,7 @@
 12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 13	on	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
 14	apprit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	qu\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+15	qu'	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
 16	un	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
 17	steamer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 18	de	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
@@ -27,7 +27,7 @@
 27	Shangaï	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_
 28	avait	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
 29	revu	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	l\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+30	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
 31	animal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
 33	trois	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_

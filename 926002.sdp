@@ -4,8 +4,8 @@
 4	effroyablement	_	Word	-	-	_	_	D	_	_	_
 5	,	_	Punctuation	-	-	_	_	U	_	_	_
 6	et	_	Word	-	-	_	_	L	_	_	_
-7	se	_	Word	-	-	_	_	_	A	_	_
-8	préparaient	_	Word	-	+	_	_	_	_	_	_
+7	se	_	Word	-	+	_	_	_	_	_	_
+8	préparaient	_	Word	-	-	_	_	_	Terminal	_	_
 9	pour	_	Word	-	-	_	_	_	_	R	_
 10	l’	_	Word	-	-	_	_	_	_	E	_
 11	avenir	_	Word	-	+	_	_	_	_	_	_

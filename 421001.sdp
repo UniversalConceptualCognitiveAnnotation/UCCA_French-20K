@@ -1,4 +1,4 @@
-1	Qu\u2019	_	Word	-	-	_	_	R	_	_
+1	Qu'	_	Word	-	-	_	_	R	_	_
 2	un	_	Word	-	-	_	E	_	_	_
 3	simple	_	Word	-	-	_	E	_	_	_
 4	particulier	_	Word	-	+	_	_	_	_	_
@@ -11,9 +11,9 @@
 11	engin	_	Word	-	+	_	_	_	_	_
 12	mécanique	_	Word	-	-	_	_	_	E	_
 13	,	_	Punctuation	-	-	_	_	_	_	U
-14	c\u2019	_	Word	-	-	_	_	_	_	F
+14	c'	_	Word	-	-	_	_	_	_	F
 15	était	_	Word	-	-	_	_	_	_	F
-16	peu	_	Word	-	-	_	_	_	_	E
+16	peu	_	Word	-	-	_	_	_	_	D
 17	probable	_	Word	-	+	_	_	_	_	_
 18	.	_	Punctuation	-	-	_	_	_	_	U
 

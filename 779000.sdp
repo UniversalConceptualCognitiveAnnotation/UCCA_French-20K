@@ -1,12 +1,12 @@
-1	Un	_	Word	-	-	_	E	_	_	_
-2	quart	_	Word	-	+	_	_	_	_	_
-3	d’	_	Word	-	-	_	R	_	_	_
-4	heure	_	Word	-	+	_	_	_	_	_
-5	après	_	Word	-	-	_	_	R	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	U
-7	nos	_	Word	-	-	_	_	_	E	_
-8	malles	_	Word	-	+	_	_	_	_	_
-9	étaient	_	Word	-	-	_	_	_	_	F
-10	prêtes	_	Word	-	+	_	_	_	_	_
-11	.	_	Punctuation	-	-	_	_	_	_	U
+1	Un	_	Word	-	+	_	_	_	_
+2	quart	_	Word	-	-	_	Terminal	_	_
+3	d’	_	Word	-	-	_	Terminal	_	_
+4	heure	_	Word	-	-	_	Terminal	_	_
+5	après	_	Word	-	-	_	R	_	_
+6	,	_	Punctuation	-	-	_	_	_	U
+7	nos	_	Word	-	-	_	_	E	_
+8	malles	_	Word	-	+	_	_	_	_
+9	étaient	_	Word	-	-	_	_	_	F
+10	prêtes	_	Word	-	+	_	_	_	_
+11	.	_	Punctuation	-	-	_	_	_	U
 

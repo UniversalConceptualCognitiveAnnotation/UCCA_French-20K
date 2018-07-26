@@ -6,9 +6,9 @@
 6	de	_	Word	-	-	_	_	R	_
 7	vision	_	Word	-	+	_	_	_	_
 8	aurait	_	Word	-	-	_	_	_	F
-9	rendu	_	Word	-	-	_	_	_	E
-10	de	_	Word	-	-	_	_	_	E
+9	rendu	_	Word	-	+	_	_	_	_
+10	de	_	Word	-	-	_	_	_	Terminal
 11	grands	_	Word	-	-	_	_	_	D
-12	services	_	Word	-	+	_	_	_	_
+12	services	_	Word	-	-	_	_	_	Terminal
 13	.	_	Punctuation	-	-	_	_	_	U
 

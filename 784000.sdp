@@ -13,8 +13,8 @@
 13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 14	je	_	Word	-	-	_	_	_	_	_	A	_	_
 15	me	_	Word	-	-	_	_	_	_	_	A	_	_
-16	fis	_	Word	-	-	_	_	_	_	_	F	_	_
-17	conduire	_	Word	-	+	_	_	_	_	_	_	_	_
+16	fis	_	Word	-	+	_	_	_	_	_	_	_	_
+17	conduire	_	Word	-	-	_	_	_	_	_	Terminal	_	_
 18	à	_	Word	-	-	_	_	_	_	_	_	R	_
 19	la	_	Word	-	-	_	_	_	_	_	_	E	_
 20	cabine	_	Word	-	+	_	_	_	_	_	_	_	A
