@@ -6,8 +6,8 @@
 5	pas	_	Word	Word	_	3	Terminal	_	_
 6	heurté	_	Word	Word	_	0	ROOT	_	_
 7	,	_	Punctuation	Punctuation	_	6	U	_	_
-8	il	_	Word	Word	_	11	A	_	_
 8	il	_	Word	Word	_	18	A	_	_
+8	il	_	Word	Word	_	11	A	_	_
 9	avait	_	Word	Word	_	11	F	_	_
 10	été	_	Word	Word	_	11	F	_	_
 11	heurté	_	Word	Word	_	18	P	_	_
