@@ -1,9 +1,17 @@
 # ::id 919005
 # ::tok Les capots vomissaient un torrent de matelots et d’ officiers .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label
+                         :E (v10 / label)
+                         :C (v11 / label)
+                         :R (v12 / label))
+                  :C (v9 / label
+                         :C (v13 / label)
+                         :N (v14 / label)
+                         :C (v15 / label)))))

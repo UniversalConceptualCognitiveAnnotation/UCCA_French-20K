@@ -1,12 +1,78 @@
 # ::id 437000
 # ::tok « Donc , jusqu' à plus amples informations , j' opinerais pour une licorne de mer , de dimensions colossales , armée , non plus d' une hallebarde , mais d' un véritable éperon comme les frégates cuirassées ou les « rams » de guerre , dont elle aurait à la fois la masse et la puissance motrice .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :S (v13 / label
+                                 :E (v23 / label)
+                                 :C (v24 / label))
+                         :A (v14 / label))
+                  :H (v9 / label
+                         :A (v15 / label)
+                         :P (v16 / label)
+                         :A (v17 / label
+                                 :R (v25 / label)
+                                 :E (v26 / label)
+                                 :C (v21 / label)
+                                 :E (v27 / label
+                                         :R (v37 / label)
+                                         :C (v38 / label))
+                                 :E (v28 / label
+                                         :R (v39 / label)
+                                         :C (v40 / label)
+                                         :E (v41 / label))))
+                  :H (v10 / label
+                          :S (v18 / label)
+                          :D (v19 / label)
+                          :A (v20 / label
+                                  :R (v29 / label)
+                                  :E (v30 / label)
+                                  :C (v31 / label))
+                          :A v21)
+                  :L (v11 / label)
+                  :H (v12 / label
+                          :A (v22 / label
+                                  :R (v32 / label)
+                                  :E (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label)
+                                  :E (v36 / label
+                                          :R (v42 / label)
+                                          :C (v43 / label
+                                                  :C (v44 / label
+                                                          :E (v47 / label)
+                                                          :C (v48 / label)
+                                                          :E (v49 / label))
+                                                  :N (v45 / label)
+                                                  :C (v46 / label
+                                                          :E (v50 / label)
+                                                          :C (v51 / label)
+                                                          :E (v52 / label
+                                                                  :R (v54 / label)
+                                                                  :C (v55 / label))
+                                                          :E (v53 / label
+                                                                  :R (v56 / label)
+                                                                  :A (v57 / label)
+                                                                  :S (v58 / label)
+                                                                  :D (v59 / label
+                                                                          :R (v61 / label)
+                                                                          :E (v62 / label)
+                                                                          :C (v63 / label))
+                                                                  :A (v60 / label
+                                                                          :E v51
+                                                                          :C (v64 / label
+                                                                                  :C (v65 / label
+                                                                                          :E (v68 / label)
+                                                                                          :C (v69 / label))
+                                                                                  :N (v66 / label)
+                                                                                  :C (v67 / label
+                                                                                          :E (v70 / label)
+                                                                                          :C (v71 / label)
+                                                                                          :E (v72 / label)))))))))
+                          :S v18
+                          :A v21))))

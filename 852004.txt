@@ -1,9 +1,31 @@
 # ::id 852004
 # ::tok Ce précieux instrument , d’ origine américaine , envoyait sans se gêner , un projectile conique de quatre kilogrammes à une distance moyenne de seize kilomètres .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label
+                          :R (v21 / label)
+                          :C (v22 / label)
+                          :E (v23 / label)))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label
+                          :R (v24 / label)
+                          :E (v25 / label)
+                          :C (v26 / label)))
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label
+                          :R (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)))))

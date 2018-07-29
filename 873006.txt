@@ -1,10 +1,30 @@
 # ::id 873006
 # ::tok — Oui , je comprends , répondit Ned , devenu plus attentif , parce que l’ eau m’ entoure et ne me pénètre pas .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :C label
-       :E label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :D (v13 / label)
+                         :A (v14 / label)
+                         :P (v15 / label))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v16 / label
+                                 :E (v26 / label)
+                                 :C (v22 / label))
+                         :A (v17 / label)
+                         :P (v18 / label))
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :D (v19 / label)
+                          :A (v20 / label)
+                          :P (v21 / label)
+                          :A v22))
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :D (v23 / label)
+                          :D (v24 / label)
+                          :S (v25 / label)))))

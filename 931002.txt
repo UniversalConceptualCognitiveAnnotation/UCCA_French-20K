@@ -1,11 +1,21 @@
 # ::id 931002
 # ::tok Les matelots ne cachèrent point leur mécontentement , et le service en souffrit .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :S (v14 / label
+                          :R (v17 / label)
+                          :C (v18 / label))
+                  :A v13))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v10 / label)
+           :P (v11 / label)))

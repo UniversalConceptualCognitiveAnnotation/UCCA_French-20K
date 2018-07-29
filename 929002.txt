@@ -1,11 +1,59 @@
 # ::id 929002
 # ::tok La réaction monta des fonds du navire , du poste des soutiers jusqu’ au carré de l’ état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :G label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v20 / label
+                          :R (v38 / label)
+                          :C (v39 / label)
+                          :R (v23 / label))
+                  :C (v21 / label)
+                  :E (v22 / label
+                          :R (v40 / label)
+                          :C (v41 / label
+                                  :E v40
+                                  :C (v46 / label)
+                                  :E (v47 / label
+                                          :R (v50 / label)
+                                          :C (v51 / label)))
+                          :R (v42 / label)
+                          :R (v43 / label)
+                          :C (v44 / label
+                                  :C (v48 / label)
+                                  :E (v49 / label
+                                          :R (v52 / label)
+                                          :E (v53 / label)
+                                          :C (v54 / label))))
+                  :E v23))
+    :L (v3 / label)
+    :H (v4 / label
+           :G (v10 / label)
+           :P (v11 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :D (v12 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v13 / label
+                   :R (v28 / label)
+                   :E (v29 / label
+                           :E v28
+                           :C (v45 / label))
+                   :C (v30 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :D (v15 / label)
+           :P (v16 / label
+                   :E (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label))
+           :A (v17 / label
+                   :R (v36 / label)
+                   :C (v37 / label))))

@@ -1,11 +1,57 @@
 # ::id 919007
 # ::tok Je regardais , je regardais à en user ma rétine , à en devenir aveugle , tandis que Conseil , toujours phlegmatique , me répétait d’ un ton calme : « Si monsieur voulait avoir la bonté de moins écarquiller ses yeux , monsieur verrait bien davantage ! »
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label)
+           :P (v11 / label))
+    :H (v3 / label
+           :A (v12 / label)
+           :P (v13 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A v10)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v17 / label)
+           :S (v18 / label)
+           :A v12)
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v19 / label
+                   :C (v26 / label)
+                   :E (v27 / label
+                           :A v26
+                           :D (v35 / label)
+                           :S (v36 / label)))
+           :A (v20 / label)
+           :P (v21 / label)
+           :D (v22 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label))
+           :A (v23 / label
+                   :L (v32 / label)
+                   :H (v33 / label
+                           :A (v37 / label)
+                           :D (v38 / label)
+                           :S (v39 / label)
+                           :A (v40 / label
+                                   :A v37
+                                   :R (v44 / label)
+                                   :D (v45 / label)
+                                   :P (v46 / label)
+                                   :A (v47 / label
+                                           :E (v50 / label)
+                                           :C (v51 / label))))
+                   :H (v34 / label
+                           :A (v41 / label)
+                           :P (v42 / label)
+                           :D (v43 / label
+                                   :E (v48 / label)
+                                   :C (v49 / label))))))

@@ -1,12 +1,27 @@
 # ::id 851000
 # ::tok Pour mon compte , je n’ étais pas en reste avec les autres , et je ne laissais à personne ma part d’ observations quotidiennes .
-(label :H label
-       :L label
-       :G label
-       :A label
-       :D label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :G (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :S (v8 / label)
+           :A (v9 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v18 / label)
+                   :C (v19 / label))
+           :A (v14 / label
+                   :E (v20 / label
+                           :E (v23 / label)
+                           :C (v24 / label)
+                           :R (v25 / label))
+                   :C (v21 / label)
+                   :E (v22 / label))))

@@ -1,10 +1,36 @@
 # ::id 941002
 # ::tok C’ était la voix de Ned Land , et Ned Land s’ écriait : « Ohé ! la chose en question , sous le vent , par le travers à nous ! »
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v17 / label)
+                          :C (v18 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :S (v14 / label)
+                   :A (v15 / label
+                           :E (v19 / label)
+                           :C (v20 / label)
+                           :E (v21 / label
+                                   :A v20
+                                   :R (v25 / label)
+                                   :S (v26 / label)))
+                   :A (v16 / label
+                           :E (v22 / label
+                                   :R (v27 / label)
+                                   :E (v28 / label)
+                                   :C (v29 / label))
+                           :R (v23 / label
+                                   :R (v30 / label)
+                                   :E (v31 / label)
+                                   :C (v32 / label)
+                                   :R (v33 / label))
+                           :C (v24 / label)))))

@@ -1,12 +1,56 @@
 # ::id 792003
 # ::tok Les branches de l’ hélice battirent les flots avec une rapidité croissante , et l’ Abraham - Lincoln s’ avança majestueusement au milieu d’ une centaine de ferry - boats et de tenders chargés de spectateurs , qui lui faisaient cortège .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :P (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :R (v24 / label
+                           :R (v32 / label)
+                           :C (v33 / label)
+                           :R (v34 / label))
+                   :E (v25 / label
+                           :E (v35 / label)
+                           :C (v36 / label))
+                   :C (v26 / label
+                           :C (v37 / label
+                                   :R (v46 / label)
+                                   :E (v47 / label)
+                                   :C (v48 / label))
+                           :N (v38 / label)
+                           :C (v39 / label
+                                   :R (v49 / label)
+                                   :C (v50 / label)))
+                   :E (v27 / label
+                           :A v26
+                           :S (v40 / label)
+                           :A (v41 / label
+                                   :R (v51 / label)
+                                   :C (v52 / label)))
+                   :E (v28 / label
+                           :A v26
+                           :R (v42 / label)
+                           :A (v43 / label)
+                           :D (v44 / label)
+                           :P (v45 / label)))))

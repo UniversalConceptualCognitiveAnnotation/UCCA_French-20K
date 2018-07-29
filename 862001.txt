@@ -1,11 +1,38 @@
 # ::id 862001
 # ::tok J’ amenai tout naturellement la conversation sur la licorne géante , et j’ examinai les diverses chances de succès ou d’ insuccès de notre expédition .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v9 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :P (v25 / label
+                                   :C (v27 / label
+                                           :R (v33 / label)
+                                           :C (v34 / label))
+                                   :N (v28 / label)
+                                   :C (v29 / label
+                                           :R (v35 / label)
+                                           :C (v36 / label)))
+                           :A (v26 / label
+                                   :R (v30 / label)
+                                   :E (v31 / label)
+                                   :C (v32 / label))))))

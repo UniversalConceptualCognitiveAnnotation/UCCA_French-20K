@@ -1,9 +1,18 @@
 # ::id 782000
 # ::tok Nos bagages furent immédiatement transbordés sur le pont de la frégate .
-(label :H label
-       :A label
-       :T label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :T (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label)))))

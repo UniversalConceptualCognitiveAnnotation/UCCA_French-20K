@@ -1,10 +1,20 @@
 # ::id 776010
 # ::tok – Et le babiroussa vivant de monsieur ?
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v8 / label)
+                         :S (v9 / label)
+                         :A (v10 / label
+                                 :E (v11 / label)
+                                 :C (v12 / label)
+                                 :E (v13 / label
+                                         :A v12
+                                         :S (v15 / label))
+                                 :E (v14 / label
+                                         :R (v16 / label)
+                                         :C (v17 / label)))))))

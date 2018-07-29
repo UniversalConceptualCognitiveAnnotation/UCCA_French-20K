@@ -1,10 +1,24 @@
 # ::id 872008
 # ::tok Or , mon brave Ned , savez - vous ce que vous avez de centimètres carrés en surface ?
-(label :H label
-       :L label
-       :G label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :L (v3 / label)
+           :H (v4 / label
+                  :G (v5 / label
+                         :E (v9 / label)
+                         :E (v10 / label)
+                         :C (v11 / label))
+                  :P (v6 / label)
+                  :A (v7 / label)
+                  :A (v8 / label
+                         :A (v12 / label
+                                 :C (v15 / label)
+                                 :E (v16 / label
+                                         :E (v18 / label)
+                                         :C (v19 / label)
+                                         :E (v20 / label))
+                                 :E (v17 / label
+                                         :R (v21 / label)
+                                         :C (v22 / label)))
+                         :A (v13 / label)
+                         :P (v14 / label)))))

@@ -1,11 +1,52 @@
 # ::id 789001
 # ::tok Ainsi donc , un quart d’ heure de retard , moins même , et la frégate partait sans moi , et je manquais cette expédition extraordinaire , surnaturelle , invraisemblable , dont le récit véridique pourra bien trouver cependant quelques incrédules .
-(label :L label
-       :H label
-       :A label
-       :T label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v8 / label)
+           :T (v9 / label
+                  :E (v18 / label
+                          :E (v34 / label)
+                          :C (v35 / label)
+                          :R (v36 / label))
+                  :C (v19 / label))
+           :P (v10 / label
+                   :R (v20 / label)
+                   :C (v21 / label))
+           :D (v11 / label
+                   :C (v22 / label)
+                   :E (v23 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v26 / label)
+                   :C (v27 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :E (v28 / label)
+                   :C (v29 / label)
+                   :E (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :E (v33 / label
+                           :A v29
+                           :R (v37 / label)
+                           :A (v38 / label
+                                   :E v29
+                                   :E (v44 / label)
+                                   :C (v45 / label)
+                                   :E (v46 / label))
+                           :D (v39 / label)
+                           :D (v40 / label)
+                           :P (v41 / label)
+                           :D (v42 / label)
+                           :A (v43 / label
+                                   :E (v47 / label)
+                                   :C (v48 / label))))))

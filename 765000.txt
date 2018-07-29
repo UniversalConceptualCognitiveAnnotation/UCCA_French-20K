@@ -1,10 +1,17 @@
 # ::id 765000
 # ::tok Cependant , je revenais d’ un pénible voyage , fatigué , avide de repos .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :H (v4 / label
+           :S (v8 / label
+                  :C (v13 / label)
+                  :C (v14 / label))
+           :A v5))

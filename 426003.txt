@@ -1,7 +1,10 @@
 # ::id 426003
 # ::tok Mon avis me fut demandé .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v5 / label)
+           :P (v6 / label)))

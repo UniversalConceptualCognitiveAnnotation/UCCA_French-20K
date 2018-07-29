@@ -1,12 +1,52 @@
 # ::id 795000
 # ::tok Le cortège des boats et des tenders suivait toujours la frégate , et il ne la quitta qu’ à la hauteur du light - boat dont les deux feux marquent l’ entrée des passes de New York .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :T label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :C (v24 / label
+                                  :R (v34 / label)
+                                  :C (v35 / label))
+                          :N (v25 / label)
+                          :C (v26 / label
+                                  :R (v36 / label)
+                                  :C (v37 / label))))
+           :P (v6 / label)
+           :T (v7 / label)
+           :A (v8 / label
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v19 / label
+                           :R (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label)
+                           :R (v23 / label))
+                   :E (v20 / label)
+                   :C (v21 / label)
+                   :E (v22 / label
+                           :R (v30 / label)
+                           :A (v31 / label
+                                   :E v21
+                                   :E (v38 / label)
+                                   :E (v39 / label)
+                                   :C (v40 / label))
+                           :P (v32 / label)
+                           :A (v33 / label
+                                   :E (v41 / label)
+                                   :C (v42 / label)
+                                   :E (v43 / label
+                                           :R (v45 / label)
+                                           :C (v46 / label))
+                                   :E (v44 / label
+                                           :R (v47 / label)
+                                           :C (v48 / label))))
+                   :E v23)))

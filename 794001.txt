@@ -1,11 +1,97 @@
 # ::id 794001
 # ::tok L’ Abraham - Lincoln répondit en amenant et en hissant trois fois le pavillon américain , dont les trente-neuf étoiles resplendissaient à sa corne d’ artimon ; puis , modifiant sa marche pour prendre le chenal balisé qui s’ arrondit dans la baie intérieure formée par la pointe de Sandy-Hook , il rasa cette langue sablonneuse où quelques milliers de spectateurs l’ acclamèrent encore une fois .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :A (v10 / label
+                   :E (v23 / label)
+                   :C (v19 / label))
+           :P (v11 / label))
+    :H (v3 / label
+           :P (v12 / label
+                   :C (v24 / label
+                           :C (v43 / label))
+                   :N (v25 / label)
+                   :C (v26 / label
+                           :C (v44 / label)))
+           :D (v13 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v14 / label
+                   :E (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label
+                           :A v30
+                           :R (v45 / label)
+                           :A (v46 / label
+                                   :E (v59 / label)
+                                   :E (v60 / label)
+                                   :C (v61 / label))
+                           :P (v47 / label)
+                           :A (v48 / label
+                                   :R (v62 / label)
+                                   :E (v63 / label)
+                                   :C (v64 / label)
+                                   :E (v65 / label
+                                           :R (v76 / label)
+                                           :C (v77 / label)))))
+           :A v10)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v15 / label)
+           :A (v16 / label
+                   :A (v33 / label)
+                   :P (v34 / label
+                           :E (v49 / label)
+                           :C (v50 / label)))
+           :A v10)
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v17 / label)
+           :A (v18 / label
+                   :E (v35 / label)
+                   :C (v36 / label)
+                   :E (v37 / label)
+                   :E (v38 / label
+                           :A v36
+                           :R (v51 / label)
+                           :P (v52 / label)
+                           :A (v53 / label
+                                   :R (v66 / label)
+                                   :E (v67 / label)
+                                   :C (v68 / label)
+                                   :E (v69 / label)
+                                   :E (v70 / label
+                                           :A v68
+                                           :P (v78 / label)
+                                           :A (v79 / label
+                                                   :R (v83 / label)
+                                                   :E (v84 / label)
+                                                   :C (v85 / label)
+                                                   :E (v86 / label
+                                                           :R (v87 / label)
+                                                           :C (v88 / label)))))))
+           :A v19)
+    :H (v8 / label
+           :A (v20 / label)
+           :P (v21 / label)
+           :A (v22 / label
+                   :E (v39 / label)
+                   :C (v40 / label)
+                   :E (v41 / label)
+                   :E (v42 / label
+                           :A v40
+                           :R (v54 / label)
+                           :A (v55 / label
+                                   :E (v71 / label
+                                           :E (v80 / label)
+                                           :C (v81 / label)
+                                           :R (v82 / label))
+                                   :C (v72 / label))
+                           :A (v56 / label)
+                           :P (v57 / label)
+                           :D (v58 / label
+                                   :R (v73 / label)
+                                   :E (v74 / label)
+                                   :C (v75 / label))))))

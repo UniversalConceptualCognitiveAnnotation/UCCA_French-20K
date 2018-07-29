@@ -1,10 +1,50 @@
 # ::id 852002
 # ::tok Nous possédions tous les engins connus , depuis le harpon qui se lance à la main , jusqu’ aux flèches barbelées des espingoles et aux balles explosibles des canardières .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label)
+                  :E (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A v9
+                          :A (v12 / label)
+                          :P (v13 / label))
+                  :E (v11 / label
+                          :R (v14 / label)
+                          :C (v15 / label
+                                  :E (v18 / label)
+                                  :C (v19 / label)
+                                  :E (v20 / label
+                                          :A v19
+                                          :A (v24 / label)
+                                          :R (v25 / label)
+                                          :P (v26 / label
+                                                  :E (v36 / label)
+                                                  :C (v37 / label))
+                                          :D (v27 / label
+                                                  :R (v38 / label)
+                                                  :E (v39 / label)
+                                                  :C (v40 / label))))
+                          :R (v16 / label)
+                          :C (v17 / label
+                                  :C (v21 / label
+                                          :R (v28 / label)
+                                          :C (v29 / label)
+                                          :E (v30 / label)
+                                          :E (v31 / label
+                                                  :R (v41 / label)
+                                                  :C (v42 / label)))
+                                  :N (v22 / label)
+                                  :C (v23 / label
+                                          :R (v32 / label)
+                                          :C (v33 / label)
+                                          :E (v34 / label
+                                                  :A v33
+                                                  :P (v43 / label))
+                                          :E (v35 / label
+                                                  :R (v44 / label)
+                                                  :C (v45 / label))))))))

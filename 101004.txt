@@ -1,12 +1,64 @@
 # ::id 101004
 # ::tok Il fallait donc que l' outil perforant qui l' avait produite fût d' une trempe peu commune , - et après avoir été lancé avec une force prodigieuse , ayant ainsi perce une tôle de quatre centimètres , il avait dû se retirer de lui - même par un mouvement rétrograde et vraiment inexplicable .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :S label
-       :P label
-       :C label
-       :R label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v10 / label
+                   :C (v23 / label)
+                   :R (v24 / label))
+           :A (v11 / label
+                   :E (v25 / label)
+                   :C (v16 / label)
+                   :E (v26 / label)
+                   :E (v27 / label
+                           :A v16
+                           :R (v46 / label)
+                           :A (v47 / label)
+                           :P (v48 / label)))
+           :S (v12 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :D (v13 / label
+                   :E (v31 / label)
+                   :C (v32 / label)))
+    :L (v3 / label)
+    :L (v4 / label)
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label)
+                   :E (v36 / label))
+           :A v16)
+    :H (v7 / label
+           :P (v17 / label)
+           :A (v18 / label
+                   :E (v37 / label)
+                   :C (v38 / label)
+                   :E (v39 / label
+                           :R (v49 / label)
+                           :E (v50 / label)
+                           :C (v51 / label)))
+           :A v16)
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v19 / label)
+           :P (v20 / label)
+           :D (v21 / label
+                   :R (v40 / label)
+                   :C (v41 / label))
+           :A (v22 / label
+                   :R (v42 / label)
+                   :E (v43 / label)
+                   :C (v44 / label)
+                   :E (v45 / label
+                           :C (v52 / label
+                                   :A v44
+                                   :S (v55 / label))
+                           :N (v53 / label)
+                           :C (v54 / label
+                                   :A v44
+                                   :D (v56 / label)
+                                   :S (v57 / label))))))

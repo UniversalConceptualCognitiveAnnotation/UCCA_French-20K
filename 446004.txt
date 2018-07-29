@@ -1,9 +1,16 @@
 # ::id 446004
 # ::tok Pas un homme ne manquait à son rôle d' équipage .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v13 / label)
+                          :C (v14 / label)))))

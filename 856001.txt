@@ -1,10 +1,24 @@
 # ::id 856001
 # ::tok Il valait tout l’ équipage , à lui seul , pour l’ œil et le bras .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v7 / label
+                  :R (v14 / label)
+                  :C (v15 / label
+                          :C (v16 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :N (v17 / label)
+                          :C (v18 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label))))))

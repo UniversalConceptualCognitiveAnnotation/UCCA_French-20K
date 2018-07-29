@@ -1,12 +1,30 @@
 # ::id 859002
 # ::tok Ah ! brave Ned ! je ne demande qu’ à vivre cent ans encore , pour me souvenir plus longtemps de toi !
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :D label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :S (v10 / label)
+                         :A (v11 / label))
+                  :H (v7 / label
+                         :A (v12 / label)
+                         :D (v13 / label)
+                         :P (v14 / label)
+                         :A (v15 / label
+                                 :A v12
+                                 :P (v19 / label)
+                                 :T (v20 / label
+                                         :E (v26 / label)
+                                         :C (v27 / label))
+                                 :D (v21 / label)))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :P (v16 / label)
+                         :T (v17 / label
+                                 :E (v22 / label)
+                                 :C (v23 / label))
+                         :A (v18 / label
+                                 :R (v24 / label)
+                                 :C (v25 / label))))))

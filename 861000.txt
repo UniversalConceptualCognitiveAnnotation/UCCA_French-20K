@@ -1,9 +1,49 @@
 # ::id 861000
 # ::tok Par une magnifique soirée du 30 juillet , c ’ est - à - dire trois semaines après notre départ , la frégate se trouvait à la hauteur du cap Blanc , à trente milles sous le vent des côtes patagonnes .
-(label :H label
-       :T label
-       :A label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :E (v12 / label
+                          :E (v22 / label)
+                          :C (v23 / label
+                                  :C (v33 / label
+                                          :E (v39 / label)
+                                          :C (v40 / label))
+                                  :C (v34 / label
+                                          :R (v41 / label)
+                                          :E (v42 / label)
+                                          :C (v43 / label)))))
+           :A (v4 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v15 / label
+                          :R (v24 / label)
+                          :E (v25 / label)
+                          :C (v26 / label)
+                          :R (v27 / label))
+                  :E (v16 / label
+                          :C (v28 / label)
+                          :E v27)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label)
+                          :E (v32 / label
+                                  :R (v35 / label)
+                                  :E (v36 / label)
+                                  :C (v37 / label)
+                                  :E (v38 / label
+                                          :R (v44 / label)
+                                          :C (v45 / label)
+                                          :E (v46 / label)))))))

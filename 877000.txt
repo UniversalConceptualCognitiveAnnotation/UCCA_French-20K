@@ -1,11 +1,57 @@
 # ::id 877000
 # ::tok Or , suivant moi , et toutes les raisons précédemment déduites , cet animal appartenait à l’ embranchement des vertébrés , à la classe des mammifères , au groupe des pisciformes , et finalement à l’ ordre des cétacés .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :R (v8 / label)
+                  :C (v9 / label
+                         :C (v17 / label)
+                         :N (v18 / label)
+                         :C (v19 / label
+                                 :E (v33 / label)
+                                 :E (v34 / label)
+                                 :C (v35 / label)
+                                 :E (v36 / label
+                                         :A v35
+                                         :A (v48 / label)
+                                         :D (v49 / label)
+                                         :P (v50 / label)))))
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :C (v12 / label
+                          :E (v20 / label
+                                  :R (v37 / label)
+                                  :E (v38 / label)
+                                  :C (v39 / label)
+                                  :R (v22 / label))
+                          :C (v21 / label)
+                          :E v22)
+                  :C (v13 / label
+                          :E (v23 / label
+                                  :R (v40 / label)
+                                  :E (v41 / label)
+                                  :C (v42 / label)
+                                  :R (v25 / label))
+                          :C (v24 / label)
+                          :E v25)
+                  :C (v14 / label
+                          :E (v26 / label
+                                  :R (v43 / label)
+                                  :C (v44 / label)
+                                  :R (v28 / label))
+                          :C (v27 / label)
+                          :E v28)
+                  :N (v15 / label)
+                  :C (v16 / label
+                          :E (v29 / label)
+                          :E (v30 / label
+                                  :R (v45 / label)
+                                  :E (v46 / label)
+                                  :C (v47 / label)
+                                  :R (v32 / label))
+                          :C (v31 / label)
+                          :E v32))))

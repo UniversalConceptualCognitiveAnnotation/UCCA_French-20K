@@ -1,10 +1,22 @@
 # ::id 930001
 # ::tok L ' Abraham-Lincoln n’ avait rien à se reprocher , ayant tout fait pour réussir .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v12 / label))
+           :D (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label
+                  :R (v15 / label)
+                  :C (v16 / label)))
+    :H (v3 / label
+           :A (v10 / label
+                   :C (v17 / label)
+                   :E (v18 / label))
+           :P (v11 / label)
+           :A v12)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v13 / label)
+           :A v12))

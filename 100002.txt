@@ -1,11 +1,35 @@
 # ::id 100002
 # ::tok Une telle voie d' eau ne pouvait être aveuglée , et le Scotia , ses roues à demi noyées , dut continuer ainsi son voyage .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v24 / label)
+                          :C (v25 / label)))
+           :D (v7 / label)
+           :D (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :A v20
+                           :A (v26 / label
+                                   :E (v29 / label)
+                                   :C (v30 / label))
+                           :D (v27 / label
+                                   :R (v31 / label)
+                                   :C (v32 / label))
+                           :S (v28 / label)))
+           :D (v11 / label)
+           :P (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label
+                   :E (v22 / label)
+                   :C (v23 / label))))

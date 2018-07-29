@@ -1,11 +1,55 @@
 # ::id 93002
 # ::tok Huit ans après , le matériel de la Compagnie s' accroissait de quatre navires de six cent cinquante chevaux et de dix-huit cent vingt tonnes , et , deux ans plus tard , de deux autres bâtiments supérieurs en puissance et en tonnage .
-(label :H label
-       :L label
-       :T label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :R (v13 / label))
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label)))
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :C (v32 / label
+                                  :R (v39 / label)
+                                  :E (v40 / label)
+                                  :C (v41 / label))
+                          :N (v33 / label)
+                          :C (v34 / label
+                                  :R (v42 / label)
+                                  :E (v43 / label)
+                                  :C (v44 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :T (v9 / label
+                  :E (v21 / label)
+                  :C (v22 / label)
+                  :R (v23 / label
+                          :E (v35 / label)
+                          :C (v36 / label)))
+           :A (v10 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :C (v37 / label)
+                           :E (v38 / label
+                                   :C (v45 / label
+                                           :R (v48 / label)
+                                           :C (v49 / label))
+                                   :N (v46 / label)
+                                   :C (v47 / label
+                                           :R (v50 / label)
+                                           :C (v51 / label)))))
+           :A v6
+           :P v7))

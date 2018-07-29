@@ -1,12 +1,26 @@
 # ::id 913000
 # ::tok Décidément , si le monstre a jamais affaire au harpon de Ned Land , je ne parierai pas pour le monstre .
-(label :H label
-       :L label
-       :G label
-       :A label
-       :T label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :G (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :T (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v17 / label)
+                   :C (v18 / label)
+                   :E (v19 / label
+                           :R (v23 / label)
+                           :C (v24 / label))))
+    :H (v5 / label
+           :A (v11 / label)
+           :D (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))))

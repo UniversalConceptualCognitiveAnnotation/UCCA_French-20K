@@ -1,12 +1,48 @@
 # ::id 939000
 # ::tok — Que monsieur me permette de le lui dire , répondit Conseil , je n’ ai jamais compté sur cette prime , et le gouvernement de l’ Union pouvait promettre cent mille dollars , il n’ en aurait pas été plus pauvre .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :R label
-       :T label
-       :D label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :R (v11 / label)
+                         :A (v12 / label)
+                         :A (v13 / label)
+                         :P (v14 / label)
+                         :A (v15 / label
+                                 :A v13
+                                 :R (v29 / label)
+                                 :A (v30 / label)
+                                 :A (v31 / label)
+                                 :P (v32 / label)))
+                  :H (v7 / label
+                         :A (v16 / label)
+                         :T (v17 / label)
+                         :P (v18 / label)
+                         :A (v19 / label
+                                 :R (v33 / label)
+                                 :E (v34 / label)
+                                 :C (v35 / label)))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v20 / label
+                                 :E (v36 / label)
+                                 :C (v37 / label)
+                                 :E (v38 / label
+                                         :R (v41 / label)
+                                         :E (v42 / label)
+                                         :C (v43 / label)))
+                         :D (v21 / label)
+                         :P (v22 / label)
+                         :A (v23 / label
+                                 :E (v39 / label
+                                         :E (v44 / label)
+                                         :C (v45 / label))
+                                 :C (v40 / label)))
+                  :H (v10 / label
+                          :A (v24 / label)
+                          :D (v25 / label)
+                          :A (v26 / label)
+                          :D (v27 / label)
+                          :S (v28 / label)))
+           :P (v4 / label)
+           :A (v5 / label)))

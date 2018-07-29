@@ -1,8 +1,12 @@
 # ::id 867003
 # ::tok Un poulpe gigantesque , peut-être ?
-(label :H label
-       :P label
-       :A label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :P (v4 / label)
+                  :A (v5 / label)
+                  :A (v6 / label
+                         :E (v8 / label)
+                         :C (v9 / label)
+                         :E (v10 / label))
+                  :D (v7 / label))))

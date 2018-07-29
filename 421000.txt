@@ -1,11 +1,31 @@
 # ::id 421000
 # ::tok Or , cette dernière hypothèse , admissible après tout , ne put résister aux enquêtes qui furent poursuivies dans les deux mondes .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :A (v16 / label)
+                          :P (v17 / label)
+                          :D (v18 / label
+                                  :R (v22 / label)
+                                  :C (v23 / label))))
+           :D (v5 / label)
+           :D (v6 / label)
+           :S (v7 / label)
+           :A (v8 / label
+                  :R (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :A v14
+                          :R (v19 / label)
+                          :P (v20 / label)
+                          :A (v21 / label
+                                  :R (v24 / label)
+                                  :E (v25 / label)
+                                  :E (v26 / label)
+                                  :C (v27 / label))))))

@@ -1,11 +1,30 @@
 # ::id 77000
 # ::tok L'année 1866 fut marquée par un événement bizarre , un phénomène inexpliqué et inexplicable que personne n' a sans doute oublié .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v8 / label)
+                  :C (v9 / label
+                         :E (v11 / label)
+                         :C (v12 / label)
+                         :E (v13 / label))
+                  :C (v10 / label
+                          :E (v14 / label)
+                          :C (v15 / label)
+                          :E (v16 / label
+                                  :C (v18 / label)
+                                  :N (v19 / label)
+                                  :C (v20 / label))
+                          :E (v17 / label
+                                  :A v15
+                                  :R (v21 / label)
+                                  :A (v22 / label)
+                                  :D (v23 / label)
+                                  :D (v24 / label
+                                          :E (v26 / label)
+                                          :C (v27 / label))
+                                  :P (v25 / label))))))

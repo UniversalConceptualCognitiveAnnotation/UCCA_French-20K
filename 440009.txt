@@ -1,11 +1,47 @@
 # ::id 440009
 # ::tok Pourquoi la mer , dans ses profondeurs ignorées , n' aurait - elle pas gardé ces vastes échantillons de la vie d' un autre âge , elle qui ne se modifie jamais , alors que le noyau terrestre change presque incessamment ?
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :R (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label)
+                          :E (v34 / label
+                                  :A v33
+                                  :A (v39 / label)
+                                  :P (v40 / label))))
+           :D (v8 / label)
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label)
+                           :E (v38 / label
+                                   :R (v41 / label)
+                                   :E (v42 / label)
+                                   :E (v43 / label)
+                                   :C (v44 / label)))))
+    :H (v3 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :T (v15 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v16 / label
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label))
+           :P (v17 / label)
+           :D (v18 / label
+                   :E (v29 / label)
+                   :C (v30 / label))))

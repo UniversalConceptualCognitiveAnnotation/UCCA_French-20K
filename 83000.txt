@@ -1,10 +1,31 @@
 # ::id 83000
 # ::tok Pareil fait fut également observé le 23 juillet de la même année , dans les mers du Pacifique , par le Cristobal-Colon , de West India and Pacific steam navigation Company .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v4 / label)
+           :P (v5 / label)
+           :T (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)))
+           :A (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v26 / label)
+                          :C (v27 / label)))
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :R (v28 / label)
+                          :C (v29 / label)))))

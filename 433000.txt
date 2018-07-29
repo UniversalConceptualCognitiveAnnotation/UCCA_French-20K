@@ -1,11 +1,59 @@
 # ::id 433000
 # ::tok « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l' animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l' existence d 'un Narwal géant .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :R label
-       :C label
-       :D label
-       :E label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :L (v7 / label
+                         :R (v12 / label)
+                         :C (v13 / label))
+                  :H (v8 / label
+                         :A (v14 / label)
+                         :P (v15 / label)
+                         :A (v16 / label
+                                 :E (v27 / label)
+                                 :E (v28 / label)
+                                 :C (v29 / label)
+                                 :E (v30 / label)))
+                  :H (v9 / label
+                         :D (v17 / label)
+                         :D (v18 / label)
+                         :P (v19 / label)
+                         :A (v20 / label
+                                 :E (v31 / label)
+                                 :C (v32 / label)
+                                 :E (v33 / label
+                                         :R (v46 / label)
+                                         :C (v47 / label)))
+                         :A (v21 / label
+                                 :R (v34 / label)
+                                 :E (v35 / label)
+                                 :C (v36 / label)
+                                 :E (v37 / label)
+                                 :E (v38 / label
+                                         :A v36
+                                         :A (v48 / label)
+                                         :D (v49 / label)
+                                         :P (v50 / label))))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :A (v22 / label
+                                  :R (v39 / label)
+                                  :E (v40 / label)
+                                  :C (v41 / label))
+                          :A (v23 / label)
+                          :D (v24 / label
+                                  :C (v42 / label)
+                                  :R (v43 / label))
+                          :P (v25 / label)
+                          :A (v26 / label
+                                  :S (v44 / label
+                                          :E (v51 / label)
+                                          :C (v52 / label))
+                                  :A (v45 / label
+                                          :R (v53 / label)
+                                          :E (v54 / label)
+                                          :C (v55 / label)
+                                          :E (v56 / label)))))))

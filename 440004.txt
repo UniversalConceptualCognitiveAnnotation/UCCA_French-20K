@@ -1,12 +1,47 @@
 # ::id 440004
 # ::tok Or la mer est précisément leur meilleur véhicule , le seul milieu où ces géants près desquels les animaux terrestres , éléphants ou rhinocéros , ne sont que des nains , - puissent se produire et se développer .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label
-       :P label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :S (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :E (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label)
+                          :E (v17 / label
+                                  :R (v18 / label)
+                                  :A (v19 / label
+                                          :E (v22 / label)
+                                          :C (v23 / label)
+                                          :E (v24 / label
+                                                  :A v16
+                                                  :A (v28 / label
+                                                          :C v23
+                                                          :R (v34 / label))
+                                                  :R (v29 / label)
+                                                  :A (v30 / label
+                                                          :E (v35 / label)
+                                                          :C (v36 / label)
+                                                          :E (v37 / label)
+                                                          :E (v38 / label
+                                                                  :C (v41 / label)
+                                                                  :N (v42 / label)
+                                                                  :C (v43 / label)))
+                                                  :D (v31 / label)
+                                                  :S (v32 / label)
+                                                  :A (v33 / label
+                                                          :E (v39 / label)
+                                                          :C (v40 / label))))
+                                  :D (v20 / label)
+                                  :P (v21 / label
+                                          :C (v25 / label)
+                                          :N (v26 / label)
+                                          :C (v27 / label)))))))

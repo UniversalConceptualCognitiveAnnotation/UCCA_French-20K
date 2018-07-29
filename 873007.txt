@@ -1,11 +1,109 @@
 # ::id 873007
 # ::tok — Précisément , Ned . Ainsi donc , à trente-deux pieds au-dessous de la surface de la mer , vous subiriez une pression de dix-sept mille cinq cent soixante-huit kilogrammes ; à trois cent vingt pieds , dix fois cette pression , soit cent soixante-quinze mille six cent quatre-vingt kilogrammes ; à trois mille deux cents pieds , cent fois cette pression , soit dix-sept cent cinquante-six mille huit cent kilogrammes ; à trente-deux mille pieds , enfin , mille fois cette pression , soit dix-sept millions cinq cent soixante-huit mille kilogrammes ; c’est-à-dire que vous seriez aplati comme si l’ on vous retirait des plateaux d’ une machine hydraulique !
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :G label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v18 / label)
+                         :S (v19 / label)
+                         :G (v20 / label))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v21 / label
+                                 :R (v38 / label)
+                                 :E (v39 / label)
+                                 :C (v40 / label)
+                                 :E (v41 / label
+                                         :E (v69 / label
+                                                 :C (v97 / label)
+                                                 :R (v98 / label))
+                                         :E (v70 / label
+                                                 :E (v99 / label)
+                                                 :C (v100 / label)
+                                                 :R (v101 / label))
+                                         :E (v71 / label)
+                                         :C (v72 / label)))
+                         :A (v22 / label)
+                         :P (v23 / label)
+                         :A (v24 / label
+                                 :E (v42 / label
+                                         :E (v73 / label)
+                                         :C (v74 / label)
+                                         :R (v75 / label))
+                                 :E (v43 / label)
+                                 :C (v44 / label)))
+                  :H (v9 / label
+                         :A (v25 / label
+                                 :R (v45 / label)
+                                 :E (v46 / label)
+                                 :C (v47 / label))
+                         :A (v26 / label
+                                 :E (v48 / label
+                                         :E (v76 / label)
+                                         :C (v77 / label))
+                                 :E (v49 / label)
+                                 :C (v50 / label)
+                                 :E (v51 / label
+                                         :E (v78 / label)
+                                         :E (v79 / label)
+                                         :C (v80 / label)))
+                         :A v22
+                         :P v23)
+                  :H (v10 / label
+                          :A (v27 / label
+                                  :R (v52 / label)
+                                  :E (v53 / label)
+                                  :C (v54 / label))
+                          :A (v28 / label
+                                  :E (v55 / label
+                                          :E (v81 / label)
+                                          :C (v82 / label))
+                                  :E (v56 / label)
+                                  :C (v57 / label)
+                                  :E (v58 / label
+                                          :E (v83 / label)
+                                          :E (v84 / label)
+                                          :C (v85 / label)))
+                          :A v22
+                          :P v23)
+                  :H (v11 / label
+                          :A (v29 / label
+                                  :R (v59 / label)
+                                  :E (v60 / label
+                                          :E (v86 / label)
+                                          :C (v87 / label))
+                                  :C (v61 / label))
+                          :A (v30 / label
+                                  :E (v62 / label
+                                          :E (v88 / label)
+                                          :C (v89 / label))
+                                  :E (v63 / label)
+                                  :C (v64 / label)
+                                  :E (v65 / label
+                                          :R (v90 / label)
+                                          :E (v91 / label)
+                                          :C (v92 / label)))
+                          :A v22
+                          :P v23)
+                  :L (v12 / label)
+                  :L (v13 / label)
+                  :H (v14 / label
+                          :A (v31 / label)
+                          :A (v32 / label)
+                          :S (v33 / label))
+                  :L (v15 / label)
+                  :L (v16 / label)
+                  :H (v17 / label
+                          :A (v34 / label)
+                          :A (v35 / label)
+                          :P (v36 / label)
+                          :A (v37 / label
+                                  :R (v66 / label)
+                                  :C (v67 / label)
+                                  :E (v68 / label
+                                          :R (v93 / label)
+                                          :E (v94 / label)
+                                          :C (v95 / label)
+                                          :E (v96 / label)))))))

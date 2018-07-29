@@ -1,7 +1,9 @@
 # ::id 918000
 # ::tok Et ils l’ ouvraient démesurément .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label)))

@@ -1,11 +1,60 @@
 # ::id 96000
 # ::tok À quatre heures dix-sept minutes du soir , pendant le lunch des passagers réunis dans le grand salon , un choc , peu sensible , en somme , se produisit sur la coque du Scotia , par sa hanche et un peu en arrière de la roue de bâbord .
-(label :H label
-       :L label
-       :T label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v26 / label)
+                          :C (v27 / label)))
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :E (v30 / label
+                                  :R (v44 / label)
+                                  :C (v45 / label))))
+           :P (v7 / label)
+           :A (v8 / label
+                  :C (v17 / label
+                          :R (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label)
+                          :E (v34 / label
+                                  :R (v46 / label)
+                                  :C (v47 / label)))
+                  :C (v18 / label
+                          :R (v35 / label)
+                          :E (v36 / label)
+                          :C (v37 / label))
+                  :N (v19 / label)
+                  :C (v20 / label
+                          :E (v38 / label
+                                  :E (v48 / label)
+                                  :R (v49 / label)
+                                  :C (v50 / label)
+                                  :R (v51 / label))
+                          :E (v39 / label)
+                          :C (v40 / label)
+                          :E (v41 / label
+                                  :R (v52 / label)
+                                  :C (v53 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :A (v10 / label
+                   :R (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :A v24
+                           :P (v42 / label)
+                           :A (v43 / label
+                                   :R (v54 / label)
+                                   :E (v55 / label)
+                                   :E (v56 / label)
+                                   :C (v57 / label))))))

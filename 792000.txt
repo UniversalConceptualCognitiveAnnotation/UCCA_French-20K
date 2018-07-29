@@ -1,8 +1,40 @@
 # ::id 792000
 # ::tok À cet ordre , qui fut transmis à la machine au moyen d’ appareils à air comprimé , les mécaniciens firent agir la roue de la mise en train .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A v9
+                          :R (v16 / label)
+                          :P (v17 / label)
+                          :A (v18 / label
+                                  :R (v24 / label)
+                                  :E (v25 / label)
+                                  :C (v26 / label))
+                          :A (v19 / label
+                                  :E (v27 / label
+                                          :R (v32 / label)
+                                          :C (v33 / label)
+                                          :R (v34 / label))
+                                  :C (v28 / label)
+                                  :E (v29 / label
+                                          :R (v35 / label)
+                                          :C (v36 / label)
+                                          :E (v37 / label)))))
+           :A (v4 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label)
+                          :E (v23 / label
+                                  :R (v30 / label)
+                                  :C (v31 / label))))))

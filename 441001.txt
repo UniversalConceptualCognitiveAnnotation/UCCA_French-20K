@@ -1,8 +1,23 @@
 # ::id 441001
 # ::tok Trêve à ces chimères que le temps a changées pour moi en réalités terribles .
-(label :H label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :R (v5 / label)
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :A v7
+                         :R (v9 / label)
+                         :A (v10 / label
+                                 :E (v14 / label)
+                                 :C (v15 / label))
+                         :P (v11 / label)
+                         :A (v12 / label
+                                 :R (v16 / label)
+                                 :C (v17 / label))
+                         :A (v13 / label
+                                 :R (v18 / label)
+                                 :C (v19 / label)
+                                 :E (v20 / label))))))

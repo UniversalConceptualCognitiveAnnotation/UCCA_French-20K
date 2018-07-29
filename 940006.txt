@@ -1,10 +1,31 @@
 # ::id 940006
 # ::tok — Quand on a l’ honneur d’ être un savant comme monsieur , on ne s’ expose pas… »
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v11 / label)
+                         :S (v12 / label
+                                 :E (v21 / label)
+                                 :C (v22 / label))
+                         :A (v13 / label
+                                 :S (v23 / label
+                                         :C (v16 / label))
+                                 :A (v24 / label
+                                         :E (v27 / label)
+                                         :C (v15 / label
+                                                 :A (v25 / label)
+                                                 :S (v26 / label)))))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v14 / label)
+                         :A v15
+                         :S v16)
+                  :H (v10 / label
+                          :A (v17 / label)
+                          :D (v18 / label)
+                          :A (v19 / label)
+                          :P (v20 / label)))))

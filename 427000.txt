@@ -1,5 +1,6 @@
 # ::id 427000
 # ::tok Je m' exécutai .
-(label :H label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)))

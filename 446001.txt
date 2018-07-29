@@ -1,10 +1,17 @@
 # ::id 446001
 # ::tok On n' accorda pas vingt-quatre heures de répit au commandant Farragut .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :T (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

@@ -1,9 +1,17 @@
 # ::id 88000
 # ::tok Six mois durant , la guerre se poursuivit avec des chances diverses .
-(label :H label
-       :T label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :R (v9 / label))
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label))))

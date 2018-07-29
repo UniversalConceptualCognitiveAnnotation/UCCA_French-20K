@@ -1,9 +1,18 @@
 # ::id 934000
 # ::tok Le lendemain , 5 novembre , à midi , expirait le délai de rigueur .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label))
+           :T (v4 / label
+                  :R (v10 / label)
+                  :C (v11 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v15 / label)
+                          :C (v16 / label)))))

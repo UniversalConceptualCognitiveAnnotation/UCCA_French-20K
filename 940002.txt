@@ -1,10 +1,25 @@
 # ::id 940002
 # ::tok — Effectivement , répondit tranquillement Conseil , je pense que l’ on se moquera de monsieur . Et , faut - il le dire… ?
-(label :H label
-       :A label
-       :P label
-       :D label
-       :L label
-       :G label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :G (v10 / label)
+                         :A (v11 / label)
+                         :P (v12 / label)
+                         :A (v13 / label
+                                 :R (v18 / label)
+                                 :A (v19 / label)
+                                 :P (v20 / label)
+                                 :A (v21 / label
+                                         :R (v22 / label)
+                                         :C (v23 / label))))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v14 / label)
+                         :D (v15 / label)
+                         :A (v16 / label)
+                         :P (v17 / label)))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)))

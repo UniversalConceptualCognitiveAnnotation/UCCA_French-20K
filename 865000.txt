@@ -1,12 +1,67 @@
 # ::id 865000
 # ::tok — Cependant , Ned , vous , un baleinier de profession , vous qui êtes familiarisé avec les grands mammifères marins , vous dont l’ imagination doit aisément accepter l’ hypothèse de cétacés énormes , vous devriez être le dernier à douter en de pareilles circonstances !
-(label :H label
-       :A label
-       :P label
-       :L label
-       :G label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :G (v8 / label)
+                         :A (v9 / label
+                                :E (v13 / label
+                                        :H (v18 / label
+                                                :C (v24 / label)
+                                                :E (v25 / label
+                                                        :A v24
+                                                        :S (v34 / label
+                                                                :E (v45 / label)
+                                                                :C (v46 / label))
+                                                        :D (v35 / label
+                                                                :R (v47 / label)
+                                                                :C (v48 / label))))
+                                        :H (v19 / label
+                                                :C (v26 / label)
+                                                :E (v27 / label
+                                                        :A v26
+                                                        :R (v36 / label)
+                                                        :P (v37 / label)
+                                                        :A (v38 / label
+                                                                :R (v49 / label)
+                                                                :E (v50 / label)
+                                                                :E (v51 / label)
+                                                                :C (v52 / label)
+                                                                :E (v53 / label))))
+                                        :H (v20 / label
+                                                :C (v28 / label)
+                                                :E (v29 / label
+                                                        :A v28
+                                                        :R (v39 / label)
+                                                        :A (v40 / label
+                                                                :E (v54 / label)
+                                                                :C (v55 / label))
+                                                        :D (v41 / label)
+                                                        :D (v42 / label)
+                                                        :P (v43 / label)
+                                                        :A (v44 / label
+                                                                :E (v56 / label)
+                                                                :C (v57 / label)
+                                                                :E (v58 / label
+                                                                        :R (v59 / label)
+                                                                        :C (v60 / label)
+                                                                        :E (v61 / label))))))
+                                :C (v14 / label))
+                         :D (v10 / label)
+                         :S (v11 / label)
+                         :A (v12 / label
+                                 :E (v15 / label)
+                                 :C (v16 / label)
+                                 :E (v17 / label
+                                         :A v16
+                                         :R (v21 / label)
+                                         :P (v22 / label)
+                                         :A (v23 / label
+                                                 :R (v30 / label)
+                                                 :E (v31 / label)
+                                                 :E (v32 / label)
+                                                 :C (v33 / label))))))))

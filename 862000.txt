@@ -1,12 +1,49 @@
 # ::id 862000
 # ::tok Assis sur la dunette , Ned Land et moi , nous causions de choses et d’ autres , regardant cette mystérieuse mer dont les profondeurs sont restées jusqu’ ici inaccessibles aux regards de l’ homme .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :N label
-       :S label
-       :R label
-       :D label
-       :T label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :A (v7 / label
+                                :C (v14 / label)
+                                :N (v15 / label)
+                                :C (v16 / label))
+                         :S (v12 / label)
+                         :A (v13 / label
+                                 :R (v23 / label)
+                                 :E (v24 / label)
+                                 :C (v25 / label)))
+                  :C v7
+                  :E (v8 / label
+                         :A v7
+                         :P (v17 / label)
+                         :A (v18 / label
+                                 :E (v26 / label)
+                                 :E (v27 / label)
+                                 :C (v28 / label)
+                                 :E (v29 / label
+                                         :R (v30 / label)
+                                         :A (v31 / label
+                                                 :E v28
+                                                 :E (v36 / label)
+                                                 :C (v37 / label))
+                                         :D (v32 / label)
+                                         :T (v33 / label)
+                                         :S (v34 / label)
+                                         :A (v35 / label
+                                                 :R (v38 / label)
+                                                 :C (v39 / label)
+                                                 :E (v40 / label
+                                                         :R (v41 / label)
+                                                         :E (v42 / label)
+                                                         :C (v43 / label)))))))
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v9 / label
+                         :R (v19 / label)
+                         :C (v20 / label))
+                  :N (v10 / label)
+                  :C (v11 / label
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :C v20))))

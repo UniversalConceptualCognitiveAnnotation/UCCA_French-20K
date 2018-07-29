@@ -1,10 +1,68 @@
 # ::id 916000
 # ::tok Le 6 juillet , vers trois heures du soir , I' Abraham Lincoln , à quinze milles dans le sud , doubla cet îlot solitaire , ce roc perdu à l’ extrémité du continent américain , auquel des marins hollandais imposèrent le nom de leur villa natale , le cap Horn .
-(label :H label
-       :T label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :R (v15 / label)
+                         :E (v16 / label)
+                         :C (v17 / label)
+                         :E (v18 / label
+                                 :R (v27 / label)
+                                 :C (v28 / label))))
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :S (v19 / label)
+                          :R (v20 / label)
+                          :A (v21 / label
+                                  :E (v29 / label)
+                                  :C (v30 / label)
+                                  :E (v31 / label
+                                          :R (v40 / label)
+                                          :E (v41 / label)
+                                          :C (v42 / label)))))
+           :P (v5 / label)
+           :A (v6 / label
+                  :C (v13 / label
+                          :E (v22 / label)
+                          :C (v23 / label)
+                          :E (v24 / label))
+                  :C (v14 / label
+                          :C (v25 / label
+                                  :A (v32 / label
+                                          :E (v43 / label)
+                                          :C (v39 / label))
+                                  :P (v33 / label)
+                                  :A (v34 / label
+                                          :E (v44 / label
+                                                  :R (v55 / label)
+                                                  :E (v56 / label)
+                                                  :C (v57 / label)
+                                                  :R (v47 / label))
+                                          :C (v45 / label)
+                                          :E (v46 / label)
+                                          :E v47))
+                          :E (v26 / label
+                                  :R (v35 / label)
+                                  :A (v36 / label
+                                          :E (v48 / label)
+                                          :C (v49 / label)
+                                          :E (v50 / label))
+                                  :P (v37 / label)
+                                  :A (v38 / label
+                                          :E (v51 / label)
+                                          :C (v52 / label)
+                                          :E (v53 / label
+                                                  :R (v58 / label)
+                                                  :E (v59 / label)
+                                                  :C (v60 / label)
+                                                  :E (v61 / label))
+                                          :E (v54 / label
+                                                  :E (v62 / label)
+                                                  :C (v63 / label)))
+                                  :A v39)))))

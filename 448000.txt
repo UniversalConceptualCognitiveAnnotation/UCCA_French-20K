@@ -1,11 +1,67 @@
 # ::id 448000
 # ::tok « Monsieur Aronnax , professeur au Muséum de Paris , « Fifth Avenue hotel . « New York . « Monsieur , « Si vous voulez vous joindre à l' expédition de l' Abraham - Lincoln , le gouvernement de l' Union verra avec plaisir que la France soit représentée par vous dans cette entreprise . Le commandant Farragut tient une cabine à votre disposition . « Très - cordialement , votre « J . -B . HOBSON , Secrétaire de la marine . »
-(label :H label
-       :A label
-       :P label
-       :L label
-       :G label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label)
+                  :H (v7 / label)
+                  :H (v8 / label
+                         :G (v15 / label))
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :A (v16 / label)
+                          :P (v17 / label)
+                          :A (v18 / label
+                                  :A v16
+                                  :P (v27 / label)
+                                  :A (v28 / label
+                                          :R (v46 / label)
+                                          :E (v47 / label)
+                                          :C (v48 / label)
+                                          :E (v49 / label
+                                                  :R (v62 / label)
+                                                  :E (v63 / label)
+                                                  :C (v64 / label)))))
+                  :H (v11 / label
+                          :A (v19 / label
+                                  :E (v29 / label)
+                                  :C (v30 / label)
+                                  :E (v31 / label
+                                          :R (v50 / label)
+                                          :E (v51 / label)
+                                          :C (v52 / label)))
+                          :P (v20 / label)
+                          :D (v21 / label
+                                  :R (v32 / label)
+                                  :C (v33 / label))
+                          :A (v22 / label
+                                  :R (v34 / label)
+                                  :A (v35 / label
+                                          :E (v53 / label)
+                                          :C (v54 / label))
+                                  :P (v36 / label)
+                                  :A (v37 / label
+                                          :R (v55 / label)
+                                          :C (v56 / label))
+                                  :A (v38 / label
+                                          :R (v57 / label)
+                                          :E (v58 / label)
+                                          :C (v59 / label))))
+                  :H (v12 / label
+                          :A (v23 / label
+                                  :E (v39 / label
+                                          :E (v60 / label)
+                                          :C (v61 / label))
+                                  :C (v40 / label))
+                          :P (v24 / label)
+                          :A (v25 / label
+                                  :E (v41 / label)
+                                  :C (v42 / label))
+                          :A (v26 / label
+                                  :R (v43 / label)
+                                  :E (v44 / label)
+                                  :C (v45 / label)))
+                  :H (v13 / label)
+                  :H (v14 / label))))

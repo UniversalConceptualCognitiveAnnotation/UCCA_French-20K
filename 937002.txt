@@ -1,10 +1,27 @@
 # ::id 937002
 # ::tok Peut-être , et pour la première fois , ses nerfs vibraient - ils sous l’ action d’ un sentiment de curiosité .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :C (v7 / label)
+                  :N (v8 / label)
+                  :C (v9 / label
+                         :R (v15 / label)
+                         :E (v16 / label)
+                         :E (v17 / label)
+                         :C (v18 / label)))
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label)
+                          :R (v22 / label))
+                  :E (v13 / label
+                          :E (v23 / label)
+                          :C (v24 / label)
+                          :R (v25 / label))
+                  :C (v14 / label))))

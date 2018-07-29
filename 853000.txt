@@ -1,10 +1,16 @@
 # ::id 853000
 # ::tok Donc , l’ Abraham - Lincoln ne manquait d’ aucun moyen de destruction .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v13 / label)
+                          :C (v14 / label)))))

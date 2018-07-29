@@ -1,12 +1,73 @@
 # ::id 775001
 # ::tok D’ ordinaire , je ne lui demandais jamais s’ il lui convenait ou non de me suivre dans mes voyages , mais cette fois , il s’ agissait d’ une expédition qui pouvait indéfiniment se prolonger , d’ une entreprise hasardeuse , à la poursuite d’ un animal capable de couler une frégate comme une coque de noix !
-(label :H label
-       :L label
-       :D label
-       :A label
-       :T label
-       :P label
-       :S label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v6 / label)
+           :T (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :A (v17 / label)
+                   :P (v18 / label)
+                   :D (v19 / label
+                           :E (v25 / label)
+                           :C (v26 / label))
+                   :A (v20 / label
+                           :A v17
+                           :A (v27 / label)
+                           :P (v28 / label)
+                           :A (v29 / label
+                                   :R (v39 / label)
+                                   :E (v40 / label)
+                                   :C (v41 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :S (v12 / label)
+           :A (v13 / label
+                   :C (v23 / label
+                           :R (v30 / label)
+                           :E (v31 / label)
+                           :C (v32 / label)
+                           :E (v33 / label
+                                   :A v32
+                                   :R (v42 / label)
+                                   :D (v43 / label)
+                                   :D (v44 / label)
+                                   :P (v45 / label)))
+                   :C (v24 / label
+                           :R (v34 / label)
+                           :E (v35 / label)
+                           :C (v36 / label)
+                           :E (v37 / label)
+                           :E (v38 / label
+                                   :A (v46 / label)
+                                   :R (v47 / label)
+                                   :P (v48 / label
+                                           :E (v50 / label)
+                                           :C (v51 / label))
+                                   :A (v49 / label
+                                           :R (v52 / label)
+                                           :E (v53 / label)
+                                           :C (v54 / label)
+                                           :E (v55 / label
+                                                   :A v54
+                                                   :D (v56 / label)
+                                                   :P (v57 / label
+                                                           :C (v60 / label))
+                                                   :A (v58 / label
+                                                           :E (v61 / label)
+                                                           :C (v62 / label))
+                                                   :D (v59 / label
+                                                           :R (v63 / label)
+                                                           :E (v64 / label)
+                                                           :C (v65 / label)
+                                                           :E (v66 / label
+                                                                   :R (v67 / label)
+                                                                   :C (v68 / label))))))))))

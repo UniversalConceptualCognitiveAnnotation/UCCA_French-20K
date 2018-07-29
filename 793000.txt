@@ -1,9 +1,34 @@
 # ::id 793000
 # ::tok Les quais de Brooklyn et toute la partie de New York qui borde la rivière de l’ Est étaient couverts de curieux .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label
+                         :E (v11 / label)
+                         :C (v12 / label)
+                         :E (v13 / label
+                                 :R (v19 / label)
+                                 :C (v20 / label)))
+                  :N (v7 / label)
+                  :C (v8 / label
+                         :E (v14 / label)
+                         :E (v15 / label)
+                         :C (v16 / label)
+                         :E (v17 / label
+                                 :R (v21 / label)
+                                 :C (v22 / label))
+                         :E (v18 / label
+                                 :A v16
+                                 :R (v23 / label)
+                                 :S (v24 / label)
+                                 :A (v25 / label
+                                         :E (v26 / label)
+                                         :C (v27 / label)
+                                         :E (v28 / label
+                                                 :R (v29 / label)
+                                                 :E (v30 / label)
+                                                 :C (v31 / label))))))
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v9 / label)
+                  :C (v10 / label))))

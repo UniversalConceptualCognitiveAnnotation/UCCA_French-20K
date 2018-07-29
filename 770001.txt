@@ -1,11 +1,72 @@
 # ::id 770001
 # ::tok J’ avais en lui un spécialiste , très - ferré sur la classification en histoire naturelle , parcourant avec une agilité d’ acrobate toute l’ échelle des embranchements des groupes , des classes , des sous - classes , des ordres , des familles , des genres , des sous - genres , des espèces et des variétés .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :D label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v10
+                          :D (v13 / label)
+                          :S (v14 / label)
+                          :A (v15 / label
+                                  :R (v19 / label)
+                                  :E (v20 / label)
+                                  :C (v21 / label)
+                                  :E (v22 / label
+                                          :R (v31 / label)
+                                          :C (v32 / label)
+                                          :E (v33 / label))))
+                  :E (v12 / label
+                          :A v10
+                          :P (v16 / label)
+                          :D (v17 / label
+                                  :R (v23 / label)
+                                  :E (v24 / label)
+                                  :C (v25 / label)
+                                  :E (v26 / label
+                                          :R (v34 / label)
+                                          :C (v35 / label)))
+                          :A (v18 / label
+                                  :E (v27 / label)
+                                  :E (v28 / label)
+                                  :C (v29 / label)
+                                  :E (v30 / label
+                                          :R (v36 / label)
+                                          :C (v37 / label)
+                                          :E (v38 / label
+                                                  :C (v39 / label
+                                                          :R (v49 / label)
+                                                          :C (v50 / label))
+                                                  :C (v40 / label
+                                                          :R (v51 / label)
+                                                          :C (v52 / label))
+                                                  :C (v41 / label
+                                                          :R (v53 / label)
+                                                          :E (v54 / label)
+                                                          :C (v55 / label))
+                                                  :C (v42 / label
+                                                          :R (v56 / label)
+                                                          :C (v57 / label))
+                                                  :C (v43 / label
+                                                          :R (v58 / label)
+                                                          :C (v59 / label))
+                                                  :C (v44 / label
+                                                          :R (v60 / label)
+                                                          :C (v61 / label))
+                                                  :C (v45 / label
+                                                          :R (v62 / label)
+                                                          :E (v63 / label)
+                                                          :C (v64 / label))
+                                                  :C (v46 / label
+                                                          :R (v65 / label)
+                                                          :C (v66 / label))
+                                                  :N (v47 / label)
+                                                  :C (v48 / label
+                                                          :R (v67 / label)
+                                                          :C (v68 / label)))))))))

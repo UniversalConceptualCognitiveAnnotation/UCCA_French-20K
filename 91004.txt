@@ -1,10 +1,27 @@
 # ::id 91004
 # ::tok Le relèvement du lieu fut exactement pris , et le Moravian continua sa route sans avaries apparentes .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v22 / label)
+                          :C (v23 / label)))
+           :D (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v19 / label)
+                   :C (v15 / label))
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :D v5
+           :P (v13 / label)
+           :D (v14 / label)
+           :A v15))

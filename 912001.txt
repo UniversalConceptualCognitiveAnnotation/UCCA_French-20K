@@ -1,9 +1,49 @@
 # ::id 912001
 # ::tok Mais l’ un d’ eux , le capitaine du Monroe , sachant que Ned Land était embarqué à bord de l' Abraham-Lincoln , demanda son aide pour chasser une baleine qui était en vue .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label
+                         :E (v14 / label)
+                         :C (v15 / label)
+                         :R (v16 / label))
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :E (v17 / label)
+                         :C (v13 / label)
+                         :E (v18 / label
+                                 :R (v26 / label)
+                                 :C (v27 / label)))
+                  :E (v10 / label
+                          :P (v19 / label)
+                          :A (v20 / label
+                                  :A (v28 / label)
+                                  :P (v29 / label)
+                                  :A (v30 / label
+                                          :E (v34 / label
+                                                  :R (v39 / label)
+                                                  :C (v40 / label)
+                                                  :R (v41 / label))
+                                          :E (v35 / label)
+                                          :C (v36 / label)))
+                          :A v13))
+           :P (v5 / label)
+           :A (v6 / label
+                  :P (v11 / label
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :A (v12 / label
+                          :R (v23 / label)
+                          :P (v24 / label)
+                          :A (v25 / label
+                                  :E (v31 / label)
+                                  :C (v32 / label)
+                                  :E (v33 / label
+                                          :A v32
+                                          :R (v37 / label)
+                                          :P (v38 / label
+                                                  :R (v42 / label)
+                                                  :C (v43 / label))))
+                          :A v13)
+                  :A v13)))

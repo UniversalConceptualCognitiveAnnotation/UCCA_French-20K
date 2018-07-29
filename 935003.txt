@@ -1,10 +1,12 @@
 # ::id 935003
 # ::tok On venait de piquer huit heures .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :T label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label
+                  :C (v7 / label)
+                  :R (v8 / label))
+           :P (v5 / label)
+           :T (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

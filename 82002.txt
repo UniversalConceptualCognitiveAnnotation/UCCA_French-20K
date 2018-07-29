@@ -1,13 +1,62 @@
 # ::id 82002
 # ::tok Donc , à moins que cet écueil ne fût soumis aux expansions intermittentes d' un geyser , le Governor-Higginson avait affaire bel et bien à quelque mammifère aquatique , inconnu jusque - là , qui rejetait par ses évents des colonnes d' eau , mélangées d' air et de vapeur .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :T label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :D (v7 / label)
+           :S (v8 / label)
+           :A (v9 / label
+                  :P (v16 / label
+                          :R (v27 / label)
+                          :C (v28 / label))
+                  :D (v17 / label)
+                  :A (v18 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label))))
+    :H (v5 / label
+           :A (v10 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P (v11 / label)
+           :D (v12 / label)
+           :A (v13 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label)
+                   :E (v25 / label
+                           :A v23
+                           :S (v32 / label)
+                           :T (v33 / label
+                                   :E (v38 / label)
+                                   :C (v39 / label)))
+                   :E (v26 / label
+                           :A v23
+                           :R (v34 / label)
+                           :P (v35 / label)
+                           :A (v36 / label
+                                   :R (v40 / label)
+                                   :E (v41 / label)
+                                   :C (v42 / label))
+                           :A (v37 / label
+                                   :E (v43 / label)
+                                   :C (v44 / label)
+                                   :E (v45 / label
+                                           :R (v47 / label)
+                                           :C (v48 / label))
+                                   :E (v46 / label
+                                           :A v44
+                                           :S (v49 / label)
+                                           :A (v50 / label
+                                                   :C (v51 / label
+                                                           :R (v54 / label)
+                                                           :C (v55 / label))
+                                                   :N (v52 / label)
+                                                   :C (v53 / label
+                                                           :R (v56 / label)
+                                                           :C (v57 / label)))))))))

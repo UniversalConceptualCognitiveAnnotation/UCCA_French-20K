@@ -1,10 +1,32 @@
 # ::id 855002
 # ::tok Sa personne provoquait l’ attention , et surtout la puissance de son regard qui accentuait singulièrement sa physionomie .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v10 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v8 / label)
+           :A (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :E (v18 / label
+                          :A v16
+                          :R (v22 / label)
+                          :P (v23 / label)
+                          :D (v24 / label)
+                          :A (v25 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))))
+           :P v6
+           :A v10))

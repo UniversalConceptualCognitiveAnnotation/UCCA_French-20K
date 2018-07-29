@@ -1,10 +1,18 @@
 # ::id 785000
 # ::tok L’ Abraham - Lincoln avait été parfaitement choisi et aménagé pour sa destination nouvelle .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :D (v5 / label)
+           :P (v6 / label
+                  :C (v10 / label)
+                  :N (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label))))

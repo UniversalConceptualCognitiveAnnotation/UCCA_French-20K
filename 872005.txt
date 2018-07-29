@@ -1,12 +1,62 @@
 # ::id 872005
 # ::tok Eh bien , quand vous plongez , Ned , autant de fois trente-deux pieds d’ eau au - dessus de vous , autant de fois votre corps supporte une pression égale à celle de l’ atmosphère , c’est-à-dire de kilogrammes par chaque centimètre carré de sa surface .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :G label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label)
+           :L (v4 / label)
+           :H (v5 / label
+                  :A (v7 / label)
+                  :P (v8 / label)
+                  :G (v9 / label)
+                  :D (v10 / label
+                          :E (v16 / label
+                                  :C (v30 / label)
+                                  :R (v31 / label))
+                          :C (v17 / label))
+                  :A (v11 / label
+                          :E (v18 / label)
+                          :C (v19 / label)
+                          :E (v20 / label
+                                  :R (v32 / label)
+                                  :C (v33 / label))
+                          :E (v21 / label
+                                  :E (v34 / label
+                                          :C (v44 / label)
+                                          :R (v45 / label))
+                                  :C (v35 / label))))
+           :H (v6 / label
+                  :D (v12 / label
+                          :E (v22 / label
+                                  :C (v36 / label)
+                                  :R (v37 / label))
+                          :C (v23 / label))
+                  :A (v13 / label
+                          :E (v24 / label)
+                          :C (v25 / label))
+                  :P (v14 / label)
+                  :A (v15 / label
+                          :E (v26 / label)
+                          :C (v27 / label)
+                          :E (v28 / label
+                                  :A v27
+                                  :S (v38 / label)
+                                  :A (v39 / label
+                                          :C v27
+                                          :R (v46 / label)
+                                          :E (v47 / label
+                                                  :R (v53 / label)
+                                                  :E (v54 / label)
+                                                  :C (v55 / label))))
+                          :E (v29 / label
+                                  :R (v40 / label)
+                                  :R (v41 / label)
+                                  :C (v42 / label)
+                                  :E (v43 / label
+                                          :R (v48 / label)
+                                          :E (v49 / label)
+                                          :E (v50 / label)
+                                          :C (v51 / label)
+                                          :E (v52 / label
+                                                  :R (v56 / label)
+                                                  :E (v57 / label)
+                                                  :C (v58 / label))))))))

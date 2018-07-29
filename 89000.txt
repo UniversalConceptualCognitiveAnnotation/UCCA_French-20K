@@ -1,12 +1,42 @@
 # ::id 89000
 # ::tok Pendant les premiers mois de l' année 1867 , la question parut être enterrée , et elle ne semblait pas devoir renaître , quand de nouveaux faits furent portés à la connaissance du public .
-(label :H label
-       :L label
-       :A label
-       :T label
-       :D label
-       :P label
-       :G label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :T (v8 / label
+                  :R (v20 / label)
+                  :E (v21 / label
+                          :E (v34 / label)
+                          :E (v35 / label)
+                          :C (v36 / label))
+                  :R (v22 / label)
+                  :E (v23 / label
+                          :E (v37 / label)
+                          :C (v38 / label))
+                  :C (v24 / label))
+           :A (v9 / label
+                  :E (v25 / label)
+                  :C (v26 / label))
+           :D (v10 / label)
+           :P (v11 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :G (v14 / label)
+           :D (v15 / label)
+           :P (v16 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v17 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :P (v18 / label)
+           :A (v19 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :C (v32 / label)
+                   :E (v33 / label
+                           :R (v39 / label)
+                           :C (v40 / label)))))

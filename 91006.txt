@@ -1,11 +1,41 @@
 # ::id 91006
 # ::tok On ne put le savoir ; mais , examen fait de sa carène dans les bassins de radoub , il fut reconnu qu' une partie de la quille avait été brisée .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :D (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label)
+           :S (v10 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label)
+           :A (v12 / label
+                   :P (v18 / label)
+                   :A (v19 / label
+                           :R (v25 / label)
+                           :E (v26 / label)
+                           :C (v27 / label))
+                   :A (v20 / label
+                           :R (v28 / label)
+                           :E (v29 / label)
+                           :C (v30 / label)
+                           :E (v31 / label
+                                   :R (v35 / label)
+                                   :C (v36 / label))))
+           :P (v13 / label))
+    :H (v5 / label
+           :A (v14 / label)
+           :A (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :A (v21 / label)
+                   :R (v22 / label)
+                   :A (v23 / label
+                           :E (v32 / label)
+                           :C (v33 / label)
+                           :E (v34 / label
+                                   :R (v37 / label)
+                                   :E (v38 / label)
+                                   :C (v39 / label)))
+                   :P (v24 / label))))

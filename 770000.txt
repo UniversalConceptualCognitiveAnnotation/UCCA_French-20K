@@ -1,10 +1,23 @@
 # ::id 770000
 # ::tok À se frotter aux savants de notre petit monde du Jardin des Plantes , Conseil en était venu à savoir quelque chose .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v14 / label)
+                          :E (v15 / label)
+                          :E (v16 / label)
+                          :C (v17 / label)
+                          :E (v18 / label
+                                  :R (v19 / label)
+                                  :C (v20 / label)))))
+    :H (v4 / label
+           :A v5
+           :D (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label)))

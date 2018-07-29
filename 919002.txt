@@ -1,10 +1,52 @@
 # ::id 919002
 # ::tok Tantôt penché sur les bastingages du gaillard d’ avant , tantôt appuyé à la lisse de l’ arrière , je dévorais d’ un oeil avide le cotonneux sillage qui blanchissait la mer jusqu’ à perte de vue !
-(label :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :S (v7 / label)
+           :A (v8 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v29 / label)
+                          :C (v30 / label)
+                          :E (v31 / label
+                                  :R (v42 / label)
+                                  :C (v43 / label)))))
+    :H (v3 / label
+           :A v5
+           :D (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label)
+                   :E (v22 / label
+                           :R (v32 / label)
+                           :E (v33 / label)
+                           :C (v34 / label))))
+    :H (v4 / label
+           :A v5
+           :P (v12 / label)
+           :A (v13 / label
+                   :A (v23 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :S (v24 / label))
+           :A (v14 / label
+                   :E (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :A v27
+                           :R (v38 / label)
+                           :P (v39 / label)
+                           :A (v40 / label
+                                   :E (v44 / label)
+                                   :C (v45 / label))
+                           :A (v41 / label
+                                   :R (v46 / label)
+                                   :C (v47 / label))))))

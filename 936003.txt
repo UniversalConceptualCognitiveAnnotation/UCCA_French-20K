@@ -1,9 +1,24 @@
 # ::id 936003
 # ::tok Les officiers , armes de leur lorgnette de nuit , fouillaient l’ obscurité croissante .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :A v7
+                         :S (v12 / label)
+                         :A (v13 / label
+                                 :R (v15 / label)
+                                 :E (v16 / label)
+                                 :C (v17 / label)
+                                 :E (v18 / label
+                                         :R (v19 / label)
+                                         :C (v20 / label)))))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v10
+                          :P (v14 / label)))))

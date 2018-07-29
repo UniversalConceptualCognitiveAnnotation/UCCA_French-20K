@@ -1,9 +1,24 @@
 # ::id 443003
 # ::tok Les arsenaux furent ouverts au commandant Farragut , qui pressa activement l' armement de sa frégate .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v10
+                          :R (v12 / label)
+                          :P (v13 / label)
+                          :D (v14 / label)
+                          :A (v15 / label
+                                  :E (v16 / label)
+                                  :C (v17 / label)
+                                  :E (v18 / label
+                                          :R (v19 / label)
+                                          :E (v20 / label)
+                                          :C (v21 / label)))))))

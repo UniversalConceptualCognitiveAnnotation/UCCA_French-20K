@@ -1,10 +1,21 @@
 # ::id 441000
 # ::tok Mais je me laisse entraîner à des rêveries qu' il ne m' appartient plus d' entretenir !
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :D (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v14 / label)
+                          :D (v15 / label)
+                          :D (v16 / label)
+                          :P (v17 / label
+                                  :R (v18 / label)
+                                  :C (v19 / label))))))

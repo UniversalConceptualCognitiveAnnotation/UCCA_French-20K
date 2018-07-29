@@ -1,10 +1,16 @@
 # ::id 922001
 # ::tok Et pourtant sa merveilleuse puissance de vision aurait rendu de grands services .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v13 / label)
+                          :C (v14 / label)))
+           :P (v7 / label)
+           :D (v8 / label)))

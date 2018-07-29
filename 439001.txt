@@ -1,7 +1,10 @@
 # ::id 439001
 # ::tok Je me réservais une échappatoire .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :C (v8 / label))))

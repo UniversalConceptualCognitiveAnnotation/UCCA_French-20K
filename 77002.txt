@@ -1,10 +1,65 @@
 # ::id 77002
 # ::tok Les négociants , armateurs , capitaines de navires , skippers et masters de l' Europe et de l' Amérique , officiers des marines militaires de tous pays , et , après eux , les gouvernements des divers États des deux continents , se préoccupèrent de ce fait au plus haut point .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label
+                         :C (v18 / label
+                                 :C (v26 / label
+                                         :E (v43 / label)
+                                         :C (v44 / label))
+                                 :C (v27 / label
+                                         :C (v45 / label)
+                                         :E v43)
+                                 :C (v28 / label
+                                         :C (v46 / label)
+                                         :E (v47 / label
+                                                 :R (v60 / label)
+                                                 :C (v61 / label))
+                                         :E v43)
+                                 :C (v29 / label)
+                                 :N (v30 / label)
+                                 :C (v31 / label))
+                         :E (v19 / label
+                                 :C (v32 / label
+                                         :R (v48 / label)
+                                         :E (v49 / label)
+                                         :C (v50 / label))
+                                 :N (v33 / label)
+                                 :C (v34 / label
+                                         :R (v51 / label)
+                                         :E (v52 / label)
+                                         :C (v53 / label))))
+                  :C (v8 / label
+                         :C (v20 / label)
+                         :E (v21 / label
+                                 :R (v35 / label)
+                                 :C (v36 / label)
+                                 :E (v37 / label)
+                                 :E (v38 / label
+                                         :R (v54 / label)
+                                         :E (v55 / label)
+                                         :C (v56 / label))))
+                  :N (v9 / label)
+                  :C (v10 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label)
+                          :E (v25 / label
+                                  :R (v39 / label)
+                                  :E (v40 / label)
+                                  :C (v41 / label)
+                                  :E (v42 / label
+                                          :R (v57 / label)
+                                          :E (v58 / label)
+                                          :C (v59 / label)))))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :D (v6 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))))

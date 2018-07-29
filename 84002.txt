@@ -1,13 +1,46 @@
 # ::id 84002
 # ::tok Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l' Umgullick , n' ont jamais dépassé la longueur de cinquante-six mètres , - si même elles l' atteignent .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :T label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v14 / label)
+                  :E (v15 / label
+                          :A (v16 / label)
+                          :D (v22 / label)
+                          :S (v23 / label))
+                  :C v16
+                  :E (v17 / label
+                          :A v16
+                          :R (v24 / label)
+                          :P (v25 / label)
+                          :A (v26 / label
+                                  :E (v33 / label
+                                          :E (v40 / label)
+                                          :C (v41 / label)
+                                          :R (v42 / label))
+                                  :C (v34 / label)
+                                  :E (v35 / label)))
+                  :E (v18 / label
+                          :C (v27 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :N (v28 / label)
+                          :C (v29 / label
+                                  :E (v38 / label)
+                                  :C (v39 / label))))
+           :D (v7 / label)
+           :T (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v19 / label
+                           :E (v30 / label)
+                           :C (v31 / label)
+                           :R (v32 / label))
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v11 / label)
+           :A (v12 / label)
+           :P (v13 / label)))

@@ -1,11 +1,33 @@
 # ::id 916001
 # ::tok La route fut donnée vers le nord-ouest , et le lendemain , l’ hélice de la frégate battit enfin les eaux du Pacifique .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :T label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :T (v9 / label
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v10 / label
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :E (v23 / label
+                           :R (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label)))
+           :P (v11 / label)
+           :D (v12 / label)
+           :A (v13 / label
+                   :E (v24 / label)
+                   :C (v25 / label)
+                   :E (v26 / label
+                           :R (v30 / label)
+                           :C (v31 / label)))))

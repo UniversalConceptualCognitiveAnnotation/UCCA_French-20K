@@ -1,13 +1,35 @@
 # ::id 92000
 # ::tok Ce fait , extrêmement grave en lui - même , eût peut-être été oublié comme tant d' autres , si , trois semaines après , il ne se fût reproduit dans des conditions identiques .
-(label :H label
-       :L label
-       :A label
-       :G label
-       :P label
-       :T label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :A v15
+                          :D (v28 / label)
+                          :S (v29 / label)
+                          :A (v30 / label
+                                  :R (v31 / label)
+                                  :C (v32 / label))))
+           :G (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :T (v9 / label
+                  :E (v21 / label)
+                  :C (v22 / label)
+                  :R (v23 / label))
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label)
+                   :E (v27 / label))))

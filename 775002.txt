@@ -1,9 +1,22 @@
 # ::id 775002
 # ::tok Il y avait là matière à réflexion , même pour l’homme le plus impassible du monde !
-(label :H label
-       :S label
-       :A label
-       :C label
-       :E label
-       :R label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label)
+                  :E (v7 / label
+                         :R (v8 / label)
+                         :P (v9 / label)
+                         :A (v10 / label
+                                 :R (v11 / label)
+                                 :R (v12 / label)
+                                 :C (v13 / label)
+                                 :E (v14 / label
+                                         :E (v15 / label)
+                                         :E (v16 / label)
+                                         :C (v17 / label)
+                                         :E (v18 / label
+                                                 :R (v19 / label)
+                                                 :C (v20 / label))))))))

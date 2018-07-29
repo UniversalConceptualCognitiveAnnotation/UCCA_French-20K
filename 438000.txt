@@ -1,12 +1,38 @@
 # ::id 438000
 # ::tok « Ainsi s' expliquerait ce phénomène inexplicable , - à moins qu' il n' y ait rien , en dépit de ce qu' on a entrevu , vu , senti et ressenti , - ce qui est encore possible ! »
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :S label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :P (v13 / label)
+                         :A (v14 / label
+                                 :E (v28 / label)
+                                 :C (v29 / label)
+                                 :E (v30 / label)))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :D (v15 / label)
+                         :A (v16 / label)
+                         :S (v17 / label)
+                         :A (v18 / label))
+                  :L (v10 / label
+                          :R (v19 / label)
+                          :C (v20 / label)
+                          :R (v21 / label))
+                  :H (v11 / label
+                          :A (v22 / label)
+                          :R (v23 / label)
+                          :A (v24 / label)
+                          :P (v25 / label
+                                  :C (v31 / label)
+                                  :C (v32 / label)
+                                  :C (v33 / label)
+                                  :N (v34 / label)
+                                  :C (v35 / label)))
+                  :H (v12 / label
+                          :A v9
+                          :D (v26 / label)
+                          :S (v27 / label)))))

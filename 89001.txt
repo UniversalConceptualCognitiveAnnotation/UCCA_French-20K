@@ -1,10 +1,29 @@
 # ::id 89001
 # ::tok Il ne s' agit plus alors d' un problème scientifique à résoudre , mais bien d' un danger réel , sérieux à éviter .
-(label :H label
-       :L label
-       :D label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label
+                          :A v12
+                          :A (v19 / label)
+                          :P (v20 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :A (v15 / label)
+                  :R (v16 / label)
+                  :A (v17 / label
+                          :E (v21 / label)
+                          :C (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label))
+                  :P (v18 / label
+                          :C (v25 / label)))
+           :P v6))

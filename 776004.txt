@@ -1,8 +1,13 @@
 # ::id 776004
 # ::tok – Comme il plaira à monsieur , répondit tranquillement Conseil .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v7 / label)
+                  :P (v8 / label)
+                  :A (v9 / label
+                         :R (v10 / label)
+                         :C (v11 / label)))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)))

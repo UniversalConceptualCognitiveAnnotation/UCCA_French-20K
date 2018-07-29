@@ -1,12 +1,23 @@
 # ::id 933003
 # ::tok D’ énormes quartiers de lard furent mis à la traîne pour la plus grande satisfaction des requins , je dois le dire .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :G label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :R (v21 / label))
+                  :C (v12 / label))
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :S (v8 / label)
+           :A (v9 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :G (v10 / label)))

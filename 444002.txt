@@ -1,6 +1,9 @@
 # ::id 444002
 # ::tok Aucun navire ne le rencontra .
-(label :H label
-       :D label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)
+           :P (v7 / label)))

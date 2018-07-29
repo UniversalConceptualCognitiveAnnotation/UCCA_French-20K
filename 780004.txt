@@ -1,10 +1,28 @@
 # ::id 780004
 # ::tok Je fis ouvrir un crédit suffisant au babiroussa , et , Conseil me suivant , je sautai dans une voiture .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :A v17
+                          :S (v22 / label)
+                          :A (v23 / label
+                                  :R (v24 / label)
+                                  :C (v25 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :A (v11 / label)
+           :P (v12 / label))
+    :H (v5 / label
+           :A (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))))

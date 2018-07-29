@@ -1,11 +1,28 @@
 # ::id 875002
 # ::tok — Oui… en effet… peut-être , répondit le Canadien , ébranlé par ces chiffres , mais qui ne voulait pas se rendre .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :L label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label)
+                  :D (v7 / label)
+                  :D (v8 / label)
+                  :S (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :H (v13 / label
+                                  :A v11
+                                  :P (v16 / label)
+                                  :A (v17 / label
+                                          :R (v22 / label)
+                                          :E (v23 / label)
+                                          :C (v24 / label)))
+                          :L (v14 / label)
+                          :H (v15 / label
+                                  :A v11
+                                  :R (v18 / label)
+                                  :D (v19 / label)
+                                  :D (v20 / label)
+                                  :P (v21 / label))))))

@@ -1,9 +1,17 @@
 # ::id 851001
 # ::tok La frégate aurait eu cent fois raison de s’ appeler l’Argus .
-(label :H label
-       :A label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :D (v4 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :S (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :S (v12 / label
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :A (v13 / label))))

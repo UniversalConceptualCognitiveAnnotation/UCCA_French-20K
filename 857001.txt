@@ -1,8 +1,10 @@
 # ::id 857001
 # ::tok Ma nationalité l’ attirait sans doute .
-(label :H label
-       :A label
-       :P label
-       :G label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :G (v6 / label)))

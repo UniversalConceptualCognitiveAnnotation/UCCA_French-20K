@@ -1,10 +1,44 @@
 # ::id 872004
 # ::tok En réalité , la colonne d’ eau serait d’ une moindre hauteur , puisqu’ il s’ agit de l’ eau de mer dont la densité est supérieure à celle de l’ eau douce .
-(label :H label
-       :L label
-       :R label
-       :C label
-       :A label
-       :S label
-       :D label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :L (v3 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :H (v4 / label
+                  :A (v11 / label
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label
+                                  :R (v33 / label)
+                                  :C (v34 / label)))
+                  :S (v12 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :D (v13 / label))
+           :L (v5 / label)
+           :H (v6 / label
+                  :S (v14 / label)
+                  :A (v15 / label
+                          :R (v25 / label)
+                          :E (v26 / label)
+                          :C (v27 / label)
+                          :E (v28 / label
+                                  :R (v35 / label)
+                                  :C (v36 / label))))
+           :L (v7 / label)
+           :H (v8 / label
+                  :A (v16 / label
+                          :E (v29 / label)
+                          :C (v30 / label)
+                          :E v27)
+                  :S (v17 / label)
+                  :A (v18 / label
+                          :R (v31 / label)
+                          :E (v32 / label
+                                  :R (v37 / label)
+                                  :E (v38 / label)
+                                  :C (v39 / label)
+                                  :E (v40 / label))
+                          :C v30))))

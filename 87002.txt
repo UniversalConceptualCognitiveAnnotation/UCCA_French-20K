@@ -1,13 +1,79 @@
 # ::id 87002
 # ::tok Les journalistes , qui font profession de science en lutte avec ceux qui font profession d' esprit , versèrent des flots d' encre pendant cette mémorable campagne ; quelques - uns même , deux ou trois gouttes de sang , car du serpent de mer , ils en vinrent aux personnalités les plus offensantes .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :G label
-       :E label
-       :C label
-       :R label
-       :D label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :E (v24 / label)
+                  :C (v25 / label)
+                  :E (v26 / label
+                          :A v25
+                          :R (v45 / label)
+                          :D (v46 / label)
+                          :P (v47 / label)
+                          :A (v48 / label
+                                  :R (v65 / label)
+                                  :C (v66 / label))))
+           :P (v10 / label
+                   :R (v27 / label)
+                   :C (v28 / label))
+           :A (v11 / label
+                   :R (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label
+                           :R (v49 / label)
+                           :D (v50 / label)
+                           :P (v51 / label)
+                           :A (v52 / label
+                                   :R (v67 / label)
+                                   :C (v68 / label))
+                           :A v25)))
+    :H (v3 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v32 / label
+                           :E (v53 / label)
+                           :C (v54 / label)
+                           :R (v55 / label))
+                   :C (v33 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label
+                   :P (v34 / label
+                           :E (v56 / label)
+                           :C (v57 / label))
+                   :A (v35 / label))
+           :S (v15 / label))
+    :H (v6 / label
+           :A (v16 / label
+                   :C (v36 / label))
+           :G (v17 / label)
+           :A (v18 / label
+                   :E (v37 / label
+                           :E (v58 / label
+                                   :C (v69 / label)
+                                   :N (v70 / label)
+                                   :C (v71 / label))
+                           :C (v59 / label)
+                           :R (v60 / label))
+                   :C (v38 / label))
+           :P v12)
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v19 / label
+                   :R (v39 / label)
+                   :C (v40 / label)
+                   :E (v41 / label
+                           :E (v61 / label)
+                           :C (v62 / label)))
+           :A (v20 / label)
+           :A (v21 / label)
+           :P (v22 / label)
+           :A (v23 / label
+                   :R (v42 / label)
+                   :C (v43 / label)
+                   :E (v44 / label
+                           :A v43
+                           :S (v63 / label
+                                   :E (v72 / label)
+                                   :C (v73 / label))
+                           :D (v64 / label)))))

@@ -1,10 +1,23 @@
 # ::id 937000
 # ::tok En observant Conseil , je constatai que ce brave garçon subissait tant soit peu l’ influence générale .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label))
+    :H (v4 / label
+           :A v5
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v10 / label)
+                  :A (v11 / label
+                          :E (v15 / label)
+                          :E (v16 / label)
+                          :C (v17 / label))
+                  :P (v12 / label)
+                  :D (v13 / label)
+                  :A (v14 / label
+                          :E (v18 / label)
+                          :C (v19 / label)
+                          :E (v20 / label)))))

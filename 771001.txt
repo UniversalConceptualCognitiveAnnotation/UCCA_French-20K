@@ -1,10 +1,24 @@
 # ::id 771001
 # ::tok Jamais une réflexion de lui sur la longueur ou la fatigue d’ un voyage .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label)
+           :P (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v5 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label
+                          :C (v16 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :N (v17 / label)
+                          :C (v18 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label)))
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

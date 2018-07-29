@@ -1,10 +1,18 @@
 # ::id 770003
 # ::tok Classer , c’ était sa vie , et il n’ en savait pas davantage .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v13 / label)
+                  :P (v14 / label))
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label)))

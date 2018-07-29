@@ -1,10 +1,19 @@
 # ::id 81001
 # ::tok Quant à la rejeter au rang des fables , il fallait y renoncer .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v13 / label
+                          :R (v15 / label)
+                          :C (v16 / label)
+                          :R (v17 / label))
+                  :C (v14 / label)))
+    :H (v4 / label
+           :A (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label)
+           :P (v12 / label)))

@@ -1,10 +1,13 @@
 # ::id 98001
 # ::tok En effet , le danger ne pouvait être imminent .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :A label
-       :D label
-       :S label
-       :E label)
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label)
+           :C (v5 / label))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v7 / label)
+           :D (v8 / label)
+           :S (v9 / label)))

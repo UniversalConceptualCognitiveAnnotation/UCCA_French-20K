@@ -1,11 +1,43 @@
 # ::id 783001
 # ::tok – Lui - même , répondis - je . Le commandant Farragut ? – En personne . Soyez le bienvenu , monsieur le professeur . Votre cabine vous attend . »
-(label :H label
-       :A label
-       :P label
-       :S label
-       :D label
-       :G label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :H (v10 / label
+                          :A (v15 / label)
+                          :S (v16 / label)
+                          :A (v17 / label))
+                  :H (v11 / label
+                          :A (v18 / label)
+                          :S (v19 / label)
+                          :A (v20 / label
+                                  :E (v31 / label
+                                          :E (v39 / label)
+                                          :C (v40 / label))
+                                  :C (v24 / label))))
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :H (v12 / label
+                          :A (v21 / label)
+                          :S (v22 / label)
+                          :D (v23 / label
+                                  :R (v32 / label)
+                                  :C (v33 / label))
+                          :A v24)
+                  :H (v13 / label
+                          :A (v25 / label)
+                          :S (v26 / label)
+                          :G (v27 / label
+                                  :E (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label)))
+                  :H (v14 / label
+                          :A (v28 / label
+                                  :E (v37 / label)
+                                  :C (v38 / label))
+                          :A (v29 / label)
+                          :P (v30 / label)))))

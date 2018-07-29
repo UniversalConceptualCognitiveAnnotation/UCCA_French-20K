@@ -1,8 +1,28 @@
 # ::id 95001
 # ::tok Il marchait avec une vitesse de treize nuds quarante-trois centièmes sous la poussée de ses mille chevaux - vapeur .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :R (v14 / label)
+                          :E (v15 / label
+                                  :C (v23 / label)
+                                  :C (v24 / label
+                                          :E (v25 / label)
+                                          :C (v26 / label)))
+                          :C (v16 / label)))
+           :A (v6 / label
+                  :R (v11 / label)
+                  :P (v12 / label
+                          :E (v17 / label)
+                          :C (v18 / label))
+                  :A (v13 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label)))))

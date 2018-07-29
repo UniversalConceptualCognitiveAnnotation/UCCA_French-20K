@@ -1,12 +1,50 @@
 # ::id 873003
 # ::tok — Et comme en réalité la pression atmosphérique est un peu supérieure au poids d’ un kilogramme par centimètre carré , vos dix-sept mille centimètres carrés supportent en ce moment une pression de dix-sept mille cinq cent soixante-huit kilogrammes .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :S label
-       :T label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :D (v10 / label
+                                 :R (v19 / label)
+                                 :C (v20 / label))
+                         :A (v11 / label
+                                 :E (v21 / label)
+                                 :C (v22 / label)
+                                 :E (v23 / label))
+                         :D (v12 / label)
+                         :S (v13 / label)
+                         :A (v14 / label
+                                 :E (v24 / label
+                                         :R (v38 / label)
+                                         :C (v39 / label)
+                                         :R (v40 / label))
+                                 :E (v25 / label)
+                                 :C (v26 / label)
+                                 :E (v27 / label
+                                         :R (v41 / label)
+                                         :C (v42 / label)
+                                         :E (v43 / label))))
+                  :H (v9 / label
+                         :A (v15 / label
+                                 :E (v28 / label)
+                                 :E (v29 / label
+                                         :E (v44 / label)
+                                         :C (v45 / label))
+                                 :E (v30 / label)
+                                 :C (v31 / label))
+                         :P (v16 / label)
+                         :T (v17 / label
+                                 :R (v32 / label)
+                                 :E (v33 / label)
+                                 :C (v34 / label))
+                         :A (v18 / label
+                                 :E (v35 / label
+                                         :E (v46 / label)
+                                         :C (v47 / label)
+                                         :R (v48 / label))
+                                 :E (v36 / label)
+                                 :C (v37 / label))))))

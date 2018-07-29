@@ -1,9 +1,25 @@
 # ::id 440008
 # ::tok Le Créateur les avait jetés dans un moule colossal que le temps a réduit peu à peu .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :A v11
+                          :R (v14 / label)
+                          :A (v15 / label
+                                  :E (v18 / label)
+                                  :C (v19 / label))
+                          :P (v16 / label)
+                          :D (v17 / label
+                                  :C (v20 / label)
+                                  :R (v21 / label)
+                                  :C (v22 / label))))))

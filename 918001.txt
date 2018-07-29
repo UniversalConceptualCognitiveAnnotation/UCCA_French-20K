@@ -1,13 +1,35 @@
 # ::id 918001
 # ::tok Les yeux et les lunettes , un peu éblouis , il est vrai , par la perspective de deux mille dollars , ne restèrent pas un instant au repos .
-(label :H label
-       :A label
-       :D label
-       :T label
-       :P label
-       :C label
-       :E label
-       :R label
-       :N label
-       :G label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v8 / label
+                         :C (v14 / label
+                                 :E (v21 / label)
+                                 :C (v22 / label))
+                         :N (v15 / label)
+                         :C (v16 / label
+                                 :E (v23 / label)
+                                 :C (v24 / label)))
+                  :E (v9 / label
+                         :A v8
+                         :D (v17 / label)
+                         :P (v18 / label)
+                         :G (v19 / label)
+                         :A (v20 / label
+                                 :R (v25 / label)
+                                 :S (v26 / label
+                                         :E (v28 / label)
+                                         :C (v29 / label))
+                                 :A (v27 / label
+                                         :R (v30 / label)
+                                         :E (v31 / label)
+                                         :C (v32 / label)))))
+           :D (v4 / label)
+           :D (v5 / label)
+           :T (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v7 / label
+                  :R (v12 / label)
+                  :C (v13 / label))))

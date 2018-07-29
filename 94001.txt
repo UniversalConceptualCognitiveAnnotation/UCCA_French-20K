@@ -1,9 +1,28 @@
 # ::id 94001
 # ::tok Nulle entreprise de navigation transocéanienne n' a été conduite avec plus d' habileté ; nulle affaire n' a été couronnée de plus de succès .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label)
+           :A (v5 / label
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v24 / label)
+                          :C (v25 / label)
+                          :E (v26 / label)))
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v3 / label
+           :D (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))))

@@ -1,12 +1,27 @@
 # ::id 875005
 # ::tok — Mais s’ ils n’ existent pas , entêté harponneur , comment expliquez - vous l’ accident arrivé au Scotia ?
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :S label
-       :G label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v10 / label)
+                         :D (v11 / label)
+                         :S (v12 / label)
+                         :G (v13 / label))
+                  :H (v9 / label
+                         :D (v14 / label)
+                         :P (v15 / label)
+                         :A (v16 / label)
+                         :A (v17 / label
+                                 :E (v18 / label)
+                                 :C (v19 / label)
+                                 :E (v20 / label
+                                         :A v19
+                                         :P (v21 / label)
+                                         :A (v22 / label
+                                                 :R (v23 / label)
+                                                 :C (v24 / label))))))))

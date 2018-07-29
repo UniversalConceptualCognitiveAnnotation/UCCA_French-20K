@@ -1,10 +1,24 @@
 # ::id 926003
 # ::tok L’ équipage entier subissait une surexcitation nerveuse , dont je ne saurais donner l’ idée .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label)
+                  :E (v12 / label
+                          :A v10
+                          :R (v13 / label)
+                          :A (v14 / label)
+                          :D (v15 / label)
+                          :S (v16 / label)
+                          :A (v17 / label
+                                  :P (v18 / label)
+                                  :A (v19 / label
+                                          :E (v20 / label)
+                                          :C (v21 / label)))))))

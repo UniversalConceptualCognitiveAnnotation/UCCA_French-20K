@@ -1,8 +1,11 @@
 # ::id 932000
 # ::tok Cette promesse fut faite le 2 novembre .
-(label :H label
-       :A label
-       :P label
-       :T label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :T (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label))))

@@ -1,9 +1,21 @@
 # ::id 416003
 # ::tok Mon départ pour la France était fixé aux premiers jours de mai .
-(label :H label
-       :A label
-       :P label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :P (v7 / label
+                         :E (v11 / label)
+                         :C (v12 / label))
+                  :A (v8 / label
+                         :R (v13 / label)
+                         :E (v14 / label)
+                         :C (v15 / label)))
+           :P (v5 / label)
+           :T (v6 / label
+                  :E (v9 / label
+                         :R (v16 / label)
+                         :E (v17 / label)
+                         :C (v18 / label)
+                         :R (v19 / label))
+                  :C (v10 / label))))

@@ -1,10 +1,49 @@
 # ::id 424000
 # ::tok Donc , après enquêtes faites en Angleterre , en France , en Russie , en Prusse , en Espagne , en Italie , en Amérique , voire même en Turquie , l' hypothèse d' un Monitor sous - marin fut définitivement rejetée .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :C (v14 / label
+                          :R (v26 / label)
+                          :C (v27 / label))
+                  :C (v15 / label
+                          :R (v28 / label)
+                          :C (v29 / label))
+                  :C (v16 / label
+                          :R (v30 / label)
+                          :C (v31 / label))
+                  :C (v17 / label
+                          :R (v32 / label)
+                          :C (v33 / label))
+                  :C (v18 / label
+                          :R (v34 / label)
+                          :C (v35 / label))
+                  :C (v19 / label
+                          :R (v36 / label)
+                          :C (v37 / label))
+                  :C (v20 / label
+                          :R (v38 / label)
+                          :C (v39 / label))
+                  :C (v21 / label
+                          :E (v40 / label)
+                          :R (v41 / label)
+                          :C (v42 / label))))
+    :H (v5 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v22 / label
+                           :E (v43 / label)
+                           :C (v44 / label)
+                           :R (v45 / label))
+                   :E (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :R (v46 / label)
+                           :C (v47 / label)))
+           :D (v12 / label)
+           :P (v13 / label)))

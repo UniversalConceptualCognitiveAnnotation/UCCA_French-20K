@@ -1,11 +1,79 @@
 # ::id 93003
 # ::tok En 1853 , la compagnie Cunard , dont le privilège pour le transport des dépêches venait d' être renouvelé , ajouta successivement à son matériel l' Arabia , le Persia , le China , le Scotia , le Java , le Russia , tous navires de première marche , et les plus vastes qui , après le Great-Eastern , eussent jamais sillonné les mers .
-(label :H label
-       :T label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :A (v4 / label
+                  :E (v11 / label
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :A (v21 / label)
+                          :R (v22 / label)
+                          :A (v23 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label)
+                                  :E (v38 / label
+                                          :R (v58 / label)
+                                          :E (v59 / label)
+                                          :C (v60 / label)
+                                          :E (v61 / label
+                                                  :R (v72 / label)
+                                                  :C (v73 / label))))
+                          :D (v24 / label)
+                          :P (v25 / label)))
+           :P (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v8 / label
+                  :C (v17 / label
+                          :C (v26 / label
+                                  :E (v39 / label)
+                                  :C (v40 / label))
+                          :C (v27 / label
+                                  :E (v41 / label)
+                                  :C (v42 / label))
+                          :C (v28 / label
+                                  :E (v43 / label)
+                                  :C (v44 / label))
+                          :C (v29 / label
+                                  :E (v45 / label)
+                                  :C (v46 / label))
+                          :C (v30 / label
+                                  :E (v47 / label)
+                                  :C (v48 / label))
+                          :C (v31 / label
+                                  :E (v49 / label)
+                                  :C (v50 / label)))
+                  :E (v18 / label
+                          :C (v32 / label)
+                          :C (v33 / label
+                                  :C (v51 / label)
+                                  :E (v52 / label
+                                          :R (v62 / label)
+                                          :E (v63 / label)
+                                          :C (v64 / label)))
+                          :N (v34 / label)
+                          :C (v35 / label
+                                  :E (v53 / label)
+                                  :E (v54 / label)
+                                  :E (v55 / label)
+                                  :E (v56 / label
+                                          :R (v65 / label)
+                                          :D (v66 / label)
+                                          :P (v67 / label)
+                                          :A (v68 / label
+                                                  :E (v74 / label)
+                                                  :C (v75 / label))
+                                          :A v51)
+                                  :E (v57 / label
+                                          :R (v69 / label)
+                                          :E (v70 / label)
+                                          :C (v71 / label))
+                                  :C v51)))))

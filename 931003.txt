@@ -1,11 +1,46 @@
 # ::id 931003
 # ::tok Je ne veux pas dire qu’ il y eut révolte à bord , mais après une raisonnable période d’ obstination , le commandant Farragut comme autrefois Colomb , demanda trois jours de patience .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :T label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :D (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v23 / label)
+                   :P (v24 / label)
+                   :A (v25 / label
+                           :R (v34 / label)
+                           :C (v35 / label))))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label)
+           :T (v15 / label
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :P (v16 / label
+                   :C (v29 / label)))
+    :H (v6 / label
+           :A (v17 / label
+                   :E (v30 / label
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :C v14)
+           :A (v18 / label)
+           :P (v19 / label)
+           :A (v20 / label
+                   :A (v31 / label)
+                   :T (v32 / label
+                           :E (v38 / label)
+                           :C (v39 / label))
+                   :P (v33 / label
+                           :R (v40 / label)
+                           :C (v41 / label))))
+    :L (v7 / label)
+    :H (v8 / label
+           :D (v21 / label)
+           :A (v22 / label)
+           :P v19
+           :A v20))

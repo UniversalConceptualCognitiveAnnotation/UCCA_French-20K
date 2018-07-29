@@ -1,8 +1,16 @@
 # ::id 91002
 # ::tok Ils examinèrent l' Océan avec la plus scrupuleuse attention .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label
+                          :E (v12 / label)
+                          :E (v13 / label)
+                          :C (v14 / label))
+                  :C (v11 / label))))

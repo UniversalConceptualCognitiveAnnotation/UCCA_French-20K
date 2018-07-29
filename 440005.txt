@@ -1,12 +1,68 @@
 # ::id 440005
 # ::tok Les masses liquides transportent les plus grandes espèces connues de mammifères , et peut-être recèlent - elles des mollusques d' une incomparable taille , des crustacés effrayants à contempler , tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !
-(label :H label
-       :L label
-       :A label
-       :P label
-       :G label
-       :E label
-       :C label
-       :R label
-       :N label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :E (v16 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :A v17
+                          :A (v24 / label)
+                          :P (v25 / label))
+                  :E (v19 / label
+                          :R (v26 / label)
+                          :C (v27 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :G (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :C (v20 / label
+                           :E (v28 / label)
+                           :C (v29 / label)
+                           :E (v30 / label
+                                   :R (v35 / label)
+                                   :E (v36 / label)
+                                   :E (v37 / label)
+                                   :C (v38 / label)))
+                   :C (v21 / label
+                           :E (v31 / label)
+                           :C (v32 / label)
+                           :E (v33 / label
+                                   :A v32
+                                   :A (v39 / label)
+                                   :P (v40 / label
+                                           :E (v44 / label)
+                                           :C (v45 / label)))
+                           :E (v34 / label
+                                   :R (v41 / label)
+                                   :P (v42 / label
+                                           :E v44
+                                           :C v45)
+                                   :A (v43 / label
+                                           :C (v46 / label
+                                                   :E (v49 / label)
+                                                   :C (v50 / label)
+                                                   :E (v51 / label
+                                                           :R (v55 / label)
+                                                           :E (v56 / label)
+                                                           :C (v57 / label)))
+                                           :N (v47 / label)
+                                           :C (v48 / label
+                                                   :E (v52 / label)
+                                                   :C (v53 / label)
+                                                   :E (v54 / label
+                                                           :A v53
+                                                           :S (v58 / label)
+                                                           :A (v59 / label
+                                                                   :E (v60 / label)
+                                                                   :C (v61 / label))))))))))

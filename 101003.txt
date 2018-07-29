@@ -1,11 +1,29 @@
 # ::id 101003
 # ::tok La cassure de la tôle était d' une netteté parfaite , et elle n' eût pas été frappée plus sûrement à l' emporte - pièce .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :P (v13 / label
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :A (v14 / label
+                          :R (v25 / label)
+                          :E (v26 / label)
+                          :C (v27 / label)))
+           :S (v6 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :P (v10 / label)
+           :D (v11 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v12 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))))

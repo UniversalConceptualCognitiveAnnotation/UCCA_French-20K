@@ -1,12 +1,92 @@
 # ::id 868001
 # ::tok — Oui , Ned , je vous le répète avec une conviction qui s’ appuie sur la logique des faits . Je crois à l’ existence d’ un mammifère , puissamment organisé , appartenant à l’ embranchement des vertébrés , comme les baleines , les cachalots ou les dauphins , et muni d’ une défense cornée dont la force de pénétration est extrême .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :G label
-       :R label
-       :E label
-       :C label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :P (v9 / label)
+                         :A (v10 / label)
+                         :D (v11 / label)
+                         :G (v12 / label))
+                  :H (v7 / label
+                         :A (v13 / label)
+                         :A (v14 / label)
+                         :A (v15 / label)
+                         :P (v16 / label)
+                         :A (v17 / label
+                                 :R (v21 / label)
+                                 :E (v22 / label)
+                                 :C (v23 / label)
+                                 :E (v24 / label
+                                         :A v23
+                                         :R (v28 / label)
+                                         :P (v29 / label)
+                                         :A (v30 / label
+                                                 :R (v37 / label)
+                                                 :E (v38 / label)
+                                                 :C (v39 / label)
+                                                 :E (v40 / label
+                                                         :R (v45 / label)
+                                                         :C (v46 / label))))))
+                  :H (v8 / label
+                         :A (v18 / label)
+                         :P (v19 / label)
+                         :A (v20 / label
+                                 :R (v25 / label)
+                                 :S (v26 / label
+                                         :E (v31 / label)
+                                         :C (v32 / label))
+                                 :A (v27 / label
+                                         :R (v33 / label)
+                                         :E (v34 / label)
+                                         :C (v35 / label)
+                                         :E (v36 / label
+                                                 :C (v41 / label
+                                                         :A v35
+                                                         :D (v47 / label)
+                                                         :S (v48 / label))
+                                                 :C (v42 / label
+                                                         :A v35
+                                                         :P (v49 / label)
+                                                         :A (v50 / label
+                                                                 :E (v54 / label
+                                                                         :R (v64 / label)
+                                                                         :E (v65 / label)
+                                                                         :C (v66 / label)
+                                                                         :R (v56 / label))
+                                                                 :C (v55 / label)
+                                                                 :E v56)
+                                                         :A (v51 / label
+                                                                 :R (v57 / label)
+                                                                 :C (v58 / label
+                                                                         :C (v67 / label
+                                                                                 :E (v74 / label)
+                                                                                 :C (v75 / label))
+                                                                         :C (v68 / label
+                                                                                 :E (v76 / label)
+                                                                                 :C (v77 / label))
+                                                                         :N (v69 / label)
+                                                                         :C (v70 / label
+                                                                                 :E (v78 / label)
+                                                                                 :C (v79 / label)))))
+                                                 :N (v43 / label)
+                                                 :C (v44 / label
+                                                         :A v35
+                                                         :P (v52 / label)
+                                                         :A (v53 / label
+                                                                 :R (v59 / label)
+                                                                 :E (v60 / label)
+                                                                 :C (v61 / label)
+                                                                 :E (v62 / label)
+                                                                 :E (v63 / label
+                                                                         :A v61
+                                                                         :R (v71 / label)
+                                                                         :A (v72 / label
+                                                                                 :E (v80 / label)
+                                                                                 :C (v81 / label)
+                                                                                 :E (v82 / label
+                                                                                         :R (v83 / label)
+                                                                                         :C (v84 / label)))
+                                                                         :S (v73 / label)))))))))))

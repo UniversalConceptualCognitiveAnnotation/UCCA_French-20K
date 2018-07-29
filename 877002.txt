@@ -1,11 +1,78 @@
 # ::id 877002
 # ::tok Pour la résoudre , il fallait disséquer ce monstre inconnu , pour le disséquer le prendre , pour le prendre le harponner , — ce qui était l’ affaire de Ned Land , — pour le harponner le voir , ce qui était l’ affaire de l’équipage — et pour le voir le rencontrer , — ce qui était l’ affaire du hasard .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v21 / label)
+           :A (v22 / label)
+           :P (v23 / label))
+    :H (v4 / label
+           :A (v24 / label)
+           :D (v25 / label)
+           :P (v26 / label)
+           :A (v27 / label
+                   :A (v58 / label
+                           :E (v72 / label)
+                           :C (v73 / label))
+                   :S (v59 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v28 / label)
+           :A (v29 / label)
+           :P (v30 / label))
+    :H (v7 / label
+           :A (v31 / label)
+           :A (v32 / label)
+           :P (v33 / label))
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v34 / label)
+           :A (v35 / label)
+           :P (v36 / label))
+    :H (v10 / label
+            :A (v37 / label)
+            :A (v38 / label)
+            :P (v39 / label))
+    :H (v11 / label
+            :A v10
+            :P (v40 / label
+                    :E (v60 / label)
+                    :C (v61 / label))
+            :A (v41 / label
+                    :R (v62 / label)
+                    :C (v63 / label)))
+    :L (v12 / label)
+    :H (v13 / label
+            :A (v42 / label)
+            :A (v43 / label)
+            :P (v44 / label))
+    :H (v14 / label
+            :A (v45 / label)
+            :A (v46 / label)
+            :P (v47 / label))
+    :H (v15 / label
+            :A v14
+            :P (v48 / label
+                    :E (v64 / label)
+                    :C (v65 / label))
+            :A (v49 / label
+                    :R (v66 / label)
+                    :C (v67 / label)))
+    :L (v16 / label)
+    :L (v17 / label)
+    :H (v18 / label
+            :A (v50 / label)
+            :A (v51 / label)
+            :P (v52 / label))
+    :H (v19 / label
+            :A (v53 / label)
+            :A (v54 / label)
+            :P (v55 / label))
+    :H (v20 / label
+            :A v19
+            :P (v56 / label
+                    :E (v68 / label)
+                    :C (v69 / label))
+            :A (v57 / label
+                    :R (v70 / label)
+                    :C (v71 / label))))

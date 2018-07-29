@@ -1,12 +1,109 @@
 # ::id 769001
 # ::tok Un garçon dévoué qui m’ accompagnait dans tous mes voyages ; un brave Flamand que j’ aimais et qui me le rendait bien , un être phlegmatique par nature , régulier par principe , zélé par habitude , s’ étonnant peu des surprises de la vie , très - adroit de ses mains , apte à tout service , et , en dépit de son nom , ne donnant jamais de conseils , même quand on ne lui en demandait pas .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label
-       :L label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label
+                          :A v15
+                          :R (v25 / label)
+                          :A (v26 / label)
+                          :P (v27 / label)
+                          :A (v28 / label
+                                  :R (v40 / label)
+                                  :E (v41 / label)
+                                  :E (v42 / label)
+                                  :C (v43 / label)))))
+    :H (v3 / label
+           :A (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :H (v29 / label
+                                   :A v20
+                                   :R (v44 / label)
+                                   :A (v45 / label)
+                                   :P (v46 / label))
+                           :L (v30 / label)
+                           :H (v31 / label
+                                   :A v20
+                                   :R (v47 / label)
+                                   :A (v48 / label)
+                                   :A (v49 / label)
+                                   :P (v50 / label)
+                                   :D (v51 / label)))))
+    :H (v4 / label
+           :A (v11 / label)
+           :S (v12 / label)
+           :A (v13 / label
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :C (v32 / label
+                                   :C (v52 / label)
+                                   :E (v53 / label
+                                           :R (v68 / label)
+                                           :C (v69 / label)))
+                           :C (v33 / label
+                                   :C (v54 / label)
+                                   :E (v55 / label
+                                           :R (v70 / label)
+                                           :C (v71 / label)))
+                           :C (v34 / label
+                                   :C (v56 / label)
+                                   :E (v57 / label
+                                           :R (v72 / label)
+                                           :C (v73 / label)))
+                           :C (v35 / label
+                                   :A v23
+                                   :P (v58 / label)
+                                   :D (v59 / label)
+                                   :A (v60 / label
+                                           :R (v74 / label)
+                                           :C (v75 / label)
+                                           :E (v76 / label
+                                                   :R (v89 / label)
+                                                   :E (v90 / label)
+                                                   :C (v91 / label))))
+                           :C (v36 / label
+                                   :E (v61 / label)
+                                   :C (v62 / label)
+                                   :E (v63 / label
+                                           :R (v77 / label)
+                                           :E (v78 / label)
+                                           :C (v79 / label)))
+                           :C (v37 / label
+                                   :A v23
+                                   :S (v64 / label)
+                                   :A (v65 / label
+                                           :R (v80 / label)
+                                           :E (v81 / label)
+                                           :C (v82 / label)))
+                           :N (v38 / label)
+                           :C (v39 / label
+                                   :E (v66 / label
+                                           :R (v83 / label)
+                                           :E (v84 / label)
+                                           :C (v85 / label))
+                                   :C (v67 / label
+                                           :H (v86 / label
+                                                   :A v23
+                                                   :D (v92 / label)
+                                                   :P (v93 / label)
+                                                   :A (v94 / label
+                                                           :E (v100 / label)
+                                                           :C (v101 / label)))
+                                           :L (v87 / label)
+                                           :H (v88 / label
+                                                   :A (v95 / label)
+                                                   :D (v96 / label)
+                                                   :A (v97 / label)
+                                                   :A (v98 / label)
+                                                   :P (v99 / label))))))))

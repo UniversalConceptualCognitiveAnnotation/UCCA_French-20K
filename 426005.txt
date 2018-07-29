@@ -1,10 +1,17 @@
 # ::id 426005
 # ::tok Mais bientôt , collé au mur , je dus m 'expliquer catégoriquement .
-(label :L label
-       :H label
-       :T label
-       :A label
-       :D label
-       :P label
-       :R label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :T (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :P (v8 / label)
+           :D (v9 / label))
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v13 / label)
+                   :C (v14 / label))
+           :A v6))

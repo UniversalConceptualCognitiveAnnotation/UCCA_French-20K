@@ -1,10 +1,46 @@
 # ::id 850002
 # ::tok D’ ailleurs , le commandant Farragut parlait d’ une certaine somme de deux mille dollars , réservée à quiconque , mousse ou matelot , maître ou officier , signalerait l’ animal .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :A label
-       :P label
-       :E label
-       :N label)
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label)
+           :C (v5 / label))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v9 / label
+                         :E (v15 / label)
+                         :C (v16 / label))
+                  :C (v10 / label))
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v11 / label
+                          :R (v17 / label)
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :R (v21 / label))
+                  :E (v12 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :A v13
+                          :P (v24 / label)
+                          :A (v25 / label
+                                  :C (v26 / label)
+                                  :R (v27 / label)
+                                  :R (v28 / label)
+                                  :E (v29 / label
+                                          :C (v31 / label
+                                                  :C (v36 / label)
+                                                  :N (v37 / label)
+                                                  :C (v38 / label))
+                                          :C (v32 / label
+                                                  :C (v39 / label)
+                                                  :N (v40 / label)
+                                                  :C (v41 / label)))
+                                  :E (v30 / label
+                                          :A (v33 / label)
+                                          :P (v34 / label)
+                                          :A (v35 / label
+                                                  :E (v42 / label)
+                                                  :C (v43 / label))))))))

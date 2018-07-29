@@ -1,12 +1,32 @@
 # ::id 97000
 # ::tok Le Scotia n' avait pas heurté , il avait été heurté , et plutôt par un instrument tranchant ou perforant que contondant .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v7 / label)
+           :P (v8 / label))
+    :H (v3 / label
+           :A (v9 / label)
+           :A (v10 / label)
+           :P (v11 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :R (v12 / label)
+           :A (v13 / label
+                   :R (v18 / label)
+                   :A (v19 / label
+                           :E (v24 / label)
+                           :C (v23 / label))
+                   :S (v20 / label
+                           :C (v25 / label)
+                           :N (v26 / label)
+                           :C (v27 / label)))
+           :R (v14 / label)
+           :A (v15 / label
+                   :D (v21 / label)
+                   :S (v22 / label)
+                   :A v23)
+           :A v10
+           :P v11))

@@ -1,11 +1,44 @@
 # ::id 857002
 # ::tok C’ était une occasion pour lui de parler , et pour moi d’ entendre cette vieille langue de Rabelais qui est encore en usage dans quelques provinces canadiennes .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label)
+           :S (v7 / label
+                  :E (v13 / label)
+                  :C (v12 / label))
+           :A (v8 / label
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v9 / label
+                  :P (v16 / label)
+                  :A v15))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :R (v17 / label)
+                   :C (v18 / label))
+           :A (v11 / label
+                   :P (v19 / label)
+                   :A (v20 / label
+                           :E (v21 / label)
+                           :E (v22 / label)
+                           :C v5
+                           :E (v23 / label
+                                   :R (v25 / label)
+                                   :C (v26 / label))
+                           :E (v24 / label
+                                   :A v5
+                                   :R (v27 / label)
+                                   :D (v28 / label)
+                                   :P (v29 / label
+                                           :R (v31 / label)
+                                           :C (v32 / label))
+                                   :A (v30 / label
+                                           :R (v33 / label)
+                                           :E (v34 / label)
+                                           :C (v35 / label)
+                                           :E (v36 / label))))
+                   :A v18)
+           :A v6
+           :S v12))

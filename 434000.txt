@@ -1,12 +1,121 @@
 # ::id 434000
 # ::tok « Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds . Quintuplez , décuplez même cette dimension , donnez à ce cétacé une force proportionnelle à sa taille , accroissez ses armes offensives , et vous obtenez l' animal voulu . Il aura les proportions déterminées par les officiers du Shannon , l' instrument exigé par la perforation du Scotia , et la puissance nécessaire pour entamer la coque d' un steamer .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :T label
-       :S label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v13 / label
+                                 :C (v33 / label
+                                         :E (v60 / label)
+                                         :C (v61 / label)
+                                         :E (v62 / label))
+                                 :N (v34 / label)
+                                 :C (v35 / label
+                                         :E (v63 / label)
+                                         :C (v64 / label)
+                                         :E (v65 / label
+                                                 :R (v82 / label)
+                                                 :C (v83 / label))))
+                         :P (v14 / label)
+                         :T (v15 / label)
+                         :A (v16 / label
+                                 :E (v36 / label
+                                         :E (v66 / label)
+                                         :C (v67 / label)
+                                         :R (v68 / label))
+                                 :E (v37 / label)
+                                 :C (v38 / label)))
+                  :H (v7 / label
+                         :A (v17 / label)
+                         :P (v18 / label
+                                 :C (v39 / label)
+                                 :C (v40 / label)
+                                 :N (v41 / label))
+                         :A (v19 / label
+                                 :E (v42 / label)
+                                 :C (v43 / label)))
+                  :H (v8 / label
+                         :A (v20 / label)
+                         :P (v21 / label)
+                         :A (v22 / label
+                                 :R (v44 / label)
+                                 :E (v45 / label)
+                                 :C (v46 / label))
+                         :A (v23 / label
+                                 :E (v47 / label)
+                                 :C (v48 / label)
+                                 :E (v49 / label
+                                         :A v48
+                                         :S (v69 / label)
+                                         :A (v70 / label
+                                                 :R (v84 / label)
+                                                 :E (v85 / label)
+                                                 :C (v86 / label)))))
+                  :H (v9 / label
+                         :A (v24 / label)
+                         :P (v25 / label)
+                         :A (v26 / label
+                                 :E (v50 / label)
+                                 :C (v51 / label)
+                                 :E (v52 / label)))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :A (v27 / label)
+                          :P (v28 / label)
+                          :A (v29 / label
+                                  :E (v53 / label)
+                                  :C (v54 / label)
+                                  :E (v55 / label
+                                          :A v54
+                                          :A (v71 / label)
+                                          :P (v72 / label))))
+                  :H (v12 / label
+                          :A (v30 / label)
+                          :S (v31 / label)
+                          :A (v32 / label
+                                  :C (v56 / label
+                                          :E (v73 / label)
+                                          :C (v74 / label)
+                                          :E (v75 / label
+                                                  :A v74
+                                                  :P (v87 / label)
+                                                  :A (v88 / label
+                                                          :R (v93 / label)
+                                                          :E (v94 / label)
+                                                          :C (v95 / label)
+                                                          :E (v96 / label
+                                                                  :R (v105 / label)
+                                                                  :C (v106 / label)))))
+                                  :C (v57 / label
+                                          :E (v76 / label)
+                                          :C (v77 / label)
+                                          :E (v78 / label
+                                                  :A v77
+                                                  :P (v89 / label)
+                                                  :A (v90 / label
+                                                          :R (v97 / label)
+                                                          :E (v98 / label)
+                                                          :C (v99 / label)
+                                                          :E (v100 / label
+                                                                   :R (v107 / label)
+                                                                   :C (v108 / label)))))
+                                  :N (v58 / label)
+                                  :C (v59 / label
+                                          :E (v79 / label)
+                                          :C (v80 / label)
+                                          :E (v81 / label
+                                                  :A v80
+                                                  :S (v91 / label)
+                                                  :A (v92 / label
+                                                          :A (v101 / label)
+                                                          :R (v102 / label)
+                                                          :P (v103 / label)
+                                                          :A (v104 / label
+                                                                   :E (v109 / label)
+                                                                   :C (v110 / label)
+                                                                   :E (v111 / label
+                                                                            :R (v112 / label)
+                                                                            :E (v113 / label)
+                                                                            :C (v114 / label)))))))))))

@@ -1,8 +1,26 @@
 # ::id 443001
 # ::tok On fit à New York les préparatifs d' une expédition destinée à poursuivre le narwal .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v12 / label)
+                          :E (v13 / label)
+                          :C (v14 / label)
+                          :E (v15 / label
+                                  :A v14
+                                  :P (v16 / label)
+                                  :A (v17 / label
+                                          :A v14
+                                          :R (v18 / label)
+                                          :P (v19 / label)
+                                          :A (v20 / label
+                                                  :E (v21 / label)
+                                                  :C (v22 / label))))))))

@@ -1,8 +1,14 @@
 # ::id 924000
 # ::tok À cela , je ne savais que répondre .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label)
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :A v4
+                  :A (v10 / label)
+                  :P (v11 / label))))

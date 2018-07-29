@@ -1,10 +1,40 @@
 # ::id 925000
 # ::tok Le 20 juillet , le tropique du Capricorne fut coupé par 105° de longitude , et le 27 du même mois , nous franchissions l’ équateur sur le cent dixième méridien .
-(label :H label
-       :L label
-       :A label
-       :T label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :T (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v31 / label)
+                          :C (v32 / label)))
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :R (v33 / label)
+                          :C (v34 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :T (v10 / label
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label)))
+           :A v5
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :A (v13 / label
+                   :R (v27 / label)
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))))

@@ -1,11 +1,49 @@
 # ::id 877001
 # ::tok Quant à la famille dans laquelle il prenait rang , baleine , cachalot ou dauphin , quant au genre dont il faisait partie , quant à l’ espèce dans laquelle il convenait de le ranger , c’ était une question à élucider ultérieurement .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :E label
-       :R label
-       :P label
-       :D label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label
+                         :R (v12 / label)
+                         :R (v13 / label)
+                         :E (v14 / label)
+                         :C (v15 / label)
+                         :E (v16 / label
+                                 :A v15
+                                 :R (v30 / label)
+                                 :A (v31 / label)
+                                 :S (v32 / label))
+                         :E (v17 / label
+                                 :C (v33 / label)
+                                 :C (v34 / label)
+                                 :N (v35 / label)
+                                 :C (v36 / label)))
+                  :C (v7 / label
+                         :R (v18 / label)
+                         :R (v19 / label)
+                         :C (v20 / label)
+                         :E (v21 / label
+                                 :A v20
+                                 :R (v37 / label)
+                                 :A (v38 / label)
+                                 :P (v39 / label)))
+                  :C (v8 / label
+                         :R (v22 / label)
+                         :R (v23 / label)
+                         :E (v24 / label)
+                         :C (v25 / label)
+                         :E (v26 / label
+                                 :A v25
+                                 :R (v40 / label)
+                                 :A (v41 / label)
+                                 :D (v42 / label)
+                                 :A (v43 / label)
+                                 :P (v44 / label))))
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A (v27 / label)
+                          :P (v28 / label)
+                          :D (v29 / label)))))

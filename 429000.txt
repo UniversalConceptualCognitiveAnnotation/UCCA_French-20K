@@ -1,11 +1,78 @@
 # ::id 429000
 # ::tok « Les grandes profondeurs de l' Océan nous sont totalement inconnues . La sonde n' a su les atteindre . Que se passe - t - il dans ces abîmes reculés ? Quels êtres habitent et peuvent habiter à douze ou quinze milles au - dessous de la surface des eaux ? Quel est l' organisme de ces animaux ? On saurait à peine le conjecturer .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v12 / label
+                                 :E (v35 / label)
+                                 :E (v36 / label)
+                                 :C (v37 / label)
+                                 :E (v38 / label
+                                         :R (v59 / label)
+                                         :E (v60 / label)
+                                         :C (v61 / label)))
+                         :A (v13 / label)
+                         :D (v14 / label)
+                         :S (v15 / label))
+                  :H (v7 / label
+                         :A (v16 / label
+                                 :E (v39 / label)
+                                 :C (v40 / label))
+                         :D (v17 / label)
+                         :D (v18 / label)
+                         :A (v19 / label)
+                         :P (v20 / label))
+                  :H (v8 / label
+                         :A (v21 / label)
+                         :P (v22 / label)
+                         :A (v23 / label
+                                 :R (v41 / label)
+                                 :E (v42 / label)
+                                 :C (v43 / label)
+                                 :E (v44 / label)))
+                  :H (v9 / label
+                         :A (v24 / label
+                                 :E (v45 / label)
+                                 :C (v46 / label))
+                         :P (v25 / label
+                                 :C (v47 / label)
+                                 :N (v48 / label)
+                                 :C (v49 / label
+                                         :E (v62 / label)
+                                         :C (v63 / label)))
+                         :A (v26 / label
+                                 :R (v50 / label)
+                                 :E (v51 / label
+                                         :C (v64 / label)
+                                         :N (v65 / label)
+                                         :C (v66 / label))
+                                 :C (v52 / label)
+                                 :E (v53 / label
+                                         :R (v67 / label)
+                                         :R (v68 / label)
+                                         :E (v69 / label
+                                                 :E (v74 / label)
+                                                 :C (v75 / label)
+                                                 :R (v76 / label))
+                                         :C (v70 / label))))
+                  :H (v10 / label
+                          :A (v27 / label)
+                          :S (v28 / label)
+                          :A (v29 / label
+                                  :E (v54 / label)
+                                  :C (v55 / label)
+                                  :E (v56 / label
+                                          :R (v71 / label)
+                                          :E (v72 / label)
+                                          :C (v73 / label))))
+                  :H (v11 / label
+                          :A (v30 / label)
+                          :D (v31 / label)
+                          :D (v32 / label
+                                  :R (v57 / label)
+                                  :C (v58 / label))
+                          :A (v33 / label)
+                          :P (v34 / label)))))

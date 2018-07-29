@@ -1,10 +1,31 @@
 # ::id 867007
 # ::tok Il faut donc rejeter au rang des fables les prouesses des Krakens ou autres monstres de cette espèce .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :A (v5 / label)
+                  :P (v6 / label)
+                  :A (v7 / label
+                         :E (v9 / label
+                                :R (v15 / label)
+                                :C (v16 / label)
+                                :R (v11 / label))
+                         :C (v10 / label)
+                         :E v11)
+                  :A (v8 / label
+                         :E (v12 / label)
+                         :C (v13 / label)
+                         :E (v14 / label
+                                 :C (v17 / label
+                                         :R (v20 / label)
+                                         :C (v21 / label))
+                                 :N (v18 / label)
+                                 :C (v19 / label
+                                         :E (v22 / label)
+                                         :C (v23 / label)
+                                         :E (v24 / label
+                                                 :R (v25 / label)
+                                                 :E (v26 / label)
+                                                 :C (v27 / label))
+                                         :R v20))))
+           :L (v4 / label)))

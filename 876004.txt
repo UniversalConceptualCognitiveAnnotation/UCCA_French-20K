@@ -1,12 +1,49 @@
 # ::id 876004
 # ::tok Or , ce trou ne s’ était pas fait tout seul , et puisqu’ il n’ avait pas été produit par des roches sous - marines ou des engins sous - marins , il était nécessairement dû à l’ outil perforant d’ un animal .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :G label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :D (v9 / label)
+           :P (v10 / label)
+           :D (v11 / label
+                   :E (v22 / label)
+                   :C (v23 / label)))
+    :L (v4 / label)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :C (v24 / label
+                           :R (v32 / label)
+                           :E (v33 / label)
+                           :C (v34 / label)
+                           :E (v35 / label
+                                   :R (v43 / label)
+                                   :C (v44 / label)))
+                   :N (v25 / label)
+                   :C (v26 / label
+                           :E (v36 / label)
+                           :C (v37 / label)
+                           :E (v38 / label
+                                   :R (v45 / label)
+                                   :C (v46 / label)))))
+    :H (v7 / label
+           :A (v16 / label)
+           :G (v17 / label)
+           :P (v18 / label)
+           :A (v19 / label
+                   :R (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label)
+                   :E (v30 / label
+                           :A v29
+                           :P (v39 / label))
+                   :E (v31 / label
+                           :R (v40 / label)
+                           :E (v41 / label)
+                           :C (v42 / label)))))

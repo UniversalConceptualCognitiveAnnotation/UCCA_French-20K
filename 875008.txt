@@ -1,11 +1,31 @@
 # ::id 875008
 # ::tok — Parce que… ça n’ est pas vrai ! » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :E label
-       :C label
-       :D label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v11 / label)
+                         :D (v12 / label)
+                         :S (v13 / label)))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :H (v14 / label
+                                  :A v9
+                                  :P (v17 / label
+                                          :C (v21 / label))
+                                  :A (v18 / label
+                                          :E (v22 / label)
+                                          :E (v23 / label)
+                                          :C (v24 / label)
+                                          :E (v25 / label
+                                                  :R (v26 / label)
+                                                  :C (v27 / label))))
+                          :L (v15 / label)
+                          :H (v16 / label
+                                  :A v9
+                                  :A (v19 / label)
+                                  :P (v20 / label))))))

@@ -1,11 +1,18 @@
 # ::id 926000
 # ::tok Nous étions enfin sur le théâtre des derniers ébats du monstre !
-(label :H label
-       :L label
-       :A label
-       :S label
-       :R label
-       :E label
-       :C label
-       :D label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :R (v11 / label)
+                          :D (v12 / label)
+                          :P (v13 / label)
+                          :A (v14 / label
+                                  :R (v15 / label)
+                                  :C (v16 / label)))))
+    :L (v3 / label))

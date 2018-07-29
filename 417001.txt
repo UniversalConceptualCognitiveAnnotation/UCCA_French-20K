@@ -1,10 +1,27 @@
 # ::id 417001
 # ::tok J' avais lu et relu tous les journaux américains et européens sans être plus avancé .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :C (v9 / label)
+                  :N (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :C (v18 / label)
+                          :N (v19 / label)
+                          :C (v20 / label
+                                  :E v12
+                                  :E v13
+                                  :C v14
+                                  :E (v21 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A v5))

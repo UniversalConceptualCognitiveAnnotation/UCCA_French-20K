@@ -1,9 +1,29 @@
 # ::id 417003
 # ::tok Dans l' impossibilité de me former une opinion , je flottais d' un extrême à l' autre .
-(label :H label
-       :A label
-       :R label
-       :S label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :R (v5 / label)
+           :S (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :A v4
+                  :R (v12 / label)
+                  :P (v13 / label)
+                  :A (v14 / label
+                          :E (v19 / label)
+                          :C (v20 / label))))
+    :H (v3 / label
+           :A v4
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v15 / label)
+                  :C (v16 / label
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :R (v17 / label)
+                  :C (v18 / label
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C v22))))

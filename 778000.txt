@@ -1,6 +1,14 @@
 # ::id 778000
 # ::tok – Comme fera monsieur , je ferai , répondit Conseil .
-(label :H label
-       :A label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label
+                         :A (v9 / label)
+                         :D (v10 / label)
+                         :P (v11 / label)
+                         :A (v12 / label))
+                  :A (v7 / label)
+                  :P (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label)))

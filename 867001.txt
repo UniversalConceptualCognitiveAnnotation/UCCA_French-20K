@@ -1,7 +1,17 @@
 # ::id 867001
 # ::tok — Écoutez - moi , Ned… — Non , monsieur le professeur , non .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :G label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :P (v8 / label)
+                  :A (v9 / label)
+                  :A (v10 / label)))
+    :H (v3 / label
+           :H (v7 / label
+                  :A (v11 / label)
+                  :D (v12 / label)
+                  :G (v13 / label)
+                  :D (v14 / label)
+                  :P v8)))

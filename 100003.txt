@@ -1,12 +1,39 @@
 # ::id 100003
 # ::tok Il se trouvait alors à trois cent mille du cap Clear , et après trois jours d' un retard qui inquiéta vivement Liverpool , il entra dans les bassins de la Compagnie .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :T label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :S (v7 / label)
+           :T (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :A (v19 / label
+                          :E (v33 / label)
+                          :C (v34 / label))
+                  :S (v20 / label)
+                  :A (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :T (v10 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v11 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :R (v28 / label))
+           :P (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label))
+    :H (v5 / label
+           :A (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label)
+                   :E (v32 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label)))))

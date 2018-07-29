@@ -1,11 +1,28 @@
 # ::id 936002
 # ::tok L’ équipage , juché dans les haubans , examinait l’ horizon qui se rétrécissait et s’ obscurcissait peu à peu .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label
-       :D label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :A v7
+                         :S (v12 / label)
+                         :A (v13 / label
+                                 :R (v17 / label)
+                                 :E (v18 / label)
+                                 :C (v19 / label))))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v14 / label)
+                          :P (v15 / label
+                                  :C (v20 / label)
+                                  :N (v21 / label)
+                                  :C (v22 / label))
+                          :D (v16 / label
+                                  :C (v23 / label)
+                                  :R (v24 / label)
+                                  :C (v25 / label))))))

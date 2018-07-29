@@ -1,10 +1,25 @@
 # ::id 417000
 # ::tok J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label
+                                  :R (v22 / label)
+                                  :C (v23 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label)
+           :S (v13 / label)))
