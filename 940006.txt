@@ -1,31 +1,32 @@
 # ::id 940006
 # ::tok — Quand on a l’ honneur d’ être un savant comme monsieur , on ne s’ expose pas… »
+# ::alignments 1-1.1.3.1 2-1.1.3.2.1 4-1.1.3.2.3.1 5-1.1.3.2.3.2 7-1.1.3.4.3 8-1.1.3.2.4.2.1 9-1.1.3.4.2.2 10-1.1.3.3 11-1.1.3.4.1 13-1.1.3.5.1 14-1.1.3.5.2 15-1.1.3.5.3 16-1.1.3.5.4 17-1.1.3.5.2
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
-                  :L (v6 / label)
+                  :L (v6 / label~e.1)
                   :H (v7 / label
-                         :A (v11 / label)
+                         :A (v11 / label~e.2)
                          :S (v12 / label
-                                 :E (v21 / label)
-                                 :C (v22 / label))
+                                 :E (v21 / label~e.4)
+                                 :C (v22 / label~e.5))
                          :A (v13 / label
                                  :S (v23 / label
-                                         :C (v16 / label))
+                                         :C (v16 / label~e.7))
                                  :A (v24 / label
-                                         :E (v27 / label)
+                                         :E (v27 / label~e.8)
                                          :C (v15 / label
                                                  :A (v25 / label)
-                                                 :S (v26 / label)))))
-                  :L (v8 / label)
+                                                 :S (v26 / label~e.9)))))
+                  :L (v8 / label~e.10)
                   :H (v9 / label
-                         :A (v14 / label)
+                         :A (v14 / label~e.11)
                          :A v15
                          :S v16)
                   :H (v10 / label
-                          :A (v17 / label)
-                          :D (v18 / label)
-                          :A (v19 / label)
-                          :P (v20 / label)))))
+                          :A (v17 / label~e.13)
+                          :D (v18 / label~e.14,17)
+                          :A (v19 / label~e.15)
+                          :P (v20 / label~e.16)))))
