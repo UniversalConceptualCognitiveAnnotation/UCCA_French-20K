@@ -41,12 +41,12 @@
 39	mois	_	Word	Word	_	60	D	_	_
 40	déjà	_	Word	Word	_	39	E	_	_
 41	,	_	Punctuation	Punctuation	_	44	U	_	_
-42	nous	_	Word	Word	_	60	A	_	_
 42	nous	_	Word	Word	_	44	A	_	_
+42	nous	_	Word	Word	_	60	A	_	_
 42	nous	_	Word	Word	_	51	A	_	_
 43	serions	_	Word	Word	_	44	F	_	_
-44	rentrés	_	Word	Word	_	60	P	_	_
 44	rentrés	_	Word	Word	_	51	P	_	_
+44	rentrés	_	Word	Word	_	60	P	_	_
 45	en	_	Word	Word	_	46	R	_	_
 46	France…	_	Word	Word	_	0	ROOT	_	_
 47	—	_	Punctuation	Punctuation	_	4	U	_	_
