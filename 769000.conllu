@@ -1,9 +1,0 @@
-# sent_id = 769000
-# text = Conseil était mon domestique .
-# doc_id = 
-1	Conseil	_	Word	Word	_	2	A	2:A	_
-2	était	_	Word	Word	_	0	root	0:root	_
-3	mon	_	Word	Word	_	4	E	4:E	_
-4	domestique	_	Word	Word	_	2	orphan	2:orphan	_
-5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-
