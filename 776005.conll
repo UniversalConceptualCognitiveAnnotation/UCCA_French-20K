@@ -6,8 +6,8 @@
 5	à	_	Word	Word	_	6	F	_	_
 6	perdre	_	Word	Word	_	0	ROOT	_	_
 7	.	_	Punctuation	Punctuation	_	6	U	_	_
-8	Serre	_	Word	Word	_	31	P	_	_
 8	Serre	_	Word	Word	_	35	C	_	_
+8	Serre	_	Word	Word	_	31	P	_	_
 9	dans	_	Word	Word	_	11	R	_	_
 10	ma	_	Word	Word	_	11	E	_	_
 11	malle	_	Word	Word	_	0	ROOT	_	_
@@ -26,8 +26,8 @@
 24	des	_	Word	Word	_	25	E	_	_
 25	chaussettes	_	Word	Word	_	0	ROOT	_	_
 26	,	_	Punctuation	Punctuation	_	28	U	_	_
-27	sans	_	Word	Word	_	28	D	_	_
 27	sans	_	Word	Word	_	6	L	_	_
+27	sans	_	Word	Word	_	28	D	_	_
 28	compter	_	Word	Word	_	0	ROOT	_	_
 29	,	_	Punctuation	Punctuation	_	6	U	_	_
 30	mais	_	Word	Word	_	6	L	_	_
