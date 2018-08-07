@@ -1,0 +1,19 @@
+# sent_id = 856001
+1	Il	_	Word	Word	_	2	A	_	_
+2	valait	_	Word	Word	_	0	ROOT	_	_
+3	tout	_	Word	Word	_	5	E	_	_
+4	l’	_	Word	Word	_	5	E	_	_
+5	équipage	_	Word	Word	_	0	ROOT	_	_
+6	,	_	Punctuation	Punctuation	_	2	U	_	_
+7	à	_	Word	Word	_	9	R	_	_
+8	lui	_	Word	Word	_	9	E	_	_
+9	seul	_	Word	Word	_	0	ROOT	_	_
+10	,	_	Punctuation	Punctuation	_	2	U	_	_
+11	pour	_	Word	Word	_	13	R	_	_
+12	l’	_	Word	Word	_	13	E	_	_
+13	œil	_	Word	Word	_	0	ROOT	_	_
+14	et	_	Word	Word	_	13	N	_	_
+15	le	_	Word	Word	_	16	E	_	_
+16	bras	_	Word	Word	_	0	ROOT	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+

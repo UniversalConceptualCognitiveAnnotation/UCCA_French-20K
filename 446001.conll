@@ -1,0 +1,14 @@
+# sent_id = 446001
+1	On	_	Word	Word	_	3	A	_	_
+2	n'	_	Word	Word	_	3	D	_	_
+3	accorda	_	Word	Word	_	0	ROOT	_	_
+4	pas	_	Word	Word	_	2	Terminal	_	_
+5	vingt-quatre	_	Word	Word	_	6	E	_	_
+6	heures	_	Word	Word	_	0	ROOT	_	_
+7	de	_	Word	Word	_	8	R	_	_
+8	répit	_	Word	Word	_	0	ROOT	_	_
+9	au	_	Word	Word	_	11	R	_	_
+10	commandant	_	Word	Word	_	11	E	_	_
+11	Farragut	_	Word	Word	_	0	ROOT	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

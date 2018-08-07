@@ -1,0 +1,33 @@
+# sent_id = 850000
+1	Quant	_	Word	Word	_	8	L	_	_
+2	à	_	Word	Word	_	1	Terminal	_	_
+3	l’	_	Word	Word	_	4	E	_	_
+4	équipage	_	Word	Word	_	11	A	_	_
+4	équipage	_	Word	Word	_	21	A	_	_
+4	équipage	_	Word	Word	_	27	A	_	_
+4	équipage	_	Word	Word	_	17	A	_	_
+5	,	_	Punctuation	Punctuation	_	8	U	_	_
+6	il	_	Word	Word	_	8	F	_	_
+7	ne	_	Word	Word	_	8	D	_	_
+8	demandait	_	Word	Word	_	0	ROOT	_	_
+9	qu’	_	Word	Word	_	7	Terminal	_	_
+10	à	_	Word	Word	_	11	F	_	_
+11	rencontrer	_	Word	Word	_	0	ROOT	_	_
+12	la	_	Word	Word	_	13	E	_	_
+13	licorne	_	Word	Word	_	0	ROOT	_	_
+14	,	_	Punctuation	Punctuation	_	11	U	_	_
+15	à	_	Word	Word	_	17	F	_	_
+16	la	_	Word	Word	_	17	A	_	_
+17	harponner	_	Word	Word	_	0	ROOT	_	_
+18	,	_	Punctuation	Punctuation	_	11	U	_	_
+19	à	_	Word	Word	_	21	F	_	_
+20	la	_	Word	Word	_	21	A	_	_
+21	hisser	_	Word	Word	_	0	ROOT	_	_
+22	à	_	Word	Word	_	23	R	_	_
+23	bord	_	Word	Word	_	0	ROOT	_	_
+24	,	_	Punctuation	Punctuation	_	11	U	_	_
+25	à	_	Word	Word	_	27	F	_	_
+26	la	_	Word	Word	_	27	A	_	_
+27	dépecer	_	Word	Word	_	0	ROOT	_	_
+28	.	_	Punctuation	Punctuation	_	27	U	_	_
+

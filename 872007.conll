@@ -1,0 +1,34 @@
+# sent_id = 872007
+1	Ce	_	Word	Word	_	3	F	_	_
+2	qui	_	Word	Word	_	3	F	_	_
+3	équivaut	_	Word	Word	_	0	ROOT	_	_
+4	à	_	Word	Word	_	5	F	_	_
+5	dire	_	Word	Word	_	0	ROOT	_	_
+6	que	_	Word	Word	_	3	L	_	_
+7	si	_	Word	Word	_	3	L	_	_
+8	vous	_	Word	Word	_	10	A	_	_
+9	pouviez	_	Word	Word	_	10	D	_	_
+10	atteindre	_	Word	Word	_	0	ROOT	_	_
+11	cette	_	Word	Word	_	12	E	_	_
+12	profondeur	_	Word	Word	_	0	ROOT	_	_
+13	dans	_	Word	Word	_	15	R	_	_
+14	l’	_	Word	Word	_	15	E	_	_
+15	Océan	_	Word	Word	_	0	ROOT	_	_
+16	,	_	Punctuation	Punctuation	_	3	U	_	_
+17	chaque	_	Word	Word	_	19	E	_	_
+18	centimètre	_	Word	Word	_	19	E	_	_
+19	carré	_	Word	Word	_	0	ROOT	_	_
+20	de	_	Word	Word	_	22	R	_	_
+21	la	_	Word	Word	_	22	E	_	_
+22	surface	_	Word	Word	_	0	ROOT	_	_
+23	de	_	Word	Word	_	25	R	_	_
+24	votre	_	Word	Word	_	25	E	_	_
+25	corps	_	Word	Word	_	0	ROOT	_	_
+26	subirait	_	Word	Word	_	0	ROOT	_	_
+27	une	_	Word	Word	_	28	E	_	_
+28	pression	_	Word	Word	_	0	ROOT	_	_
+29	de	_	Word	Word	_	31	R	_	_
+30	mille	_	Word	Word	_	31	E	_	_
+31	kilogrammes	_	Word	Word	_	0	ROOT	_	_
+32	.	_	Punctuation	Punctuation	_	31	U	_	_
+

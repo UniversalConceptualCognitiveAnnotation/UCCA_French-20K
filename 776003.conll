@@ -1,0 +1,22 @@
+# sent_id = 776003
+1	–	_	Punctuation	Punctuation	_	2	U	_	_
+2	Oui	_	Word	Word	_	0	ROOT	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	mon	_	Word	Word	_	2	G	_	_
+5	garçon	_	Word	Word	_	4	Terminal	_	_
+6	.	_	Punctuation	Punctuation	_	2	U	_	_
+7	Prépare	_	Word	Word	_	0	ROOT	_	_
+8	-	_	Punctuation	Punctuation	_	7	U	_	_
+9	moi	_	Word	Word	_	7	A	_	_
+10	,	_	Punctuation	Punctuation	_	2	U	_	_
+11	prépare	_	Word	Word	_	0	ROOT	_	_
+12	-	_	Punctuation	Punctuation	_	11	U	_	_
+13	toi	_	Word	Word	_	11	A	_	_
+14	.	_	Punctuation	Punctuation	_	2	U	_	_
+15	Nous	_	Word	Word	_	16	A	_	_
+16	partons	_	Word	Word	_	0	ROOT	_	_
+17	dans	_	Word	Word	_	19	R	_	_
+18	deux	_	Word	Word	_	19	E	_	_
+19	heures	_	Word	Word	_	0	ROOT	_	_
+20	.	_	Punctuation	Punctuation	_	19	U	_	_
+

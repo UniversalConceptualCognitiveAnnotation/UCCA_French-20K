@@ -1,0 +1,21 @@
+# sent_id = 417001
+1	J'	_	Word	Word	_	3	A	_	_
+1	J'	_	Word	Word	_	15	A	_	_
+2	avais	_	Word	Word	_	3	F	_	_
+3	lu	_	Word	Word	_	0	ROOT	_	_
+4	et	_	Word	Word	_	3	N	_	_
+5	relu	_	Word	Word	_	3	C	_	_
+6	tous	_	Word	Word	_	8	E	_	_
+6	tous	_	Word	Word	_	11	E	_	_
+7	les	_	Word	Word	_	8	E	_	_
+7	les	_	Word	Word	_	11	E	_	_
+8	journaux	_	Word	Word	_	11	C	_	_
+9	américains	_	Word	Word	_	0	ROOT	_	_
+10	et	_	Word	Word	_	9	N	_	_
+11	européens	_	Word	Word	_	0	ROOT	_	_
+12	sans	_	Word	Word	_	3	L	_	_
+13	être	_	Word	Word	_	15	F	_	_
+14	plus	_	Word	Word	_	15	E	_	_
+15	avancé	_	Word	Word	_	0	ROOT	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+

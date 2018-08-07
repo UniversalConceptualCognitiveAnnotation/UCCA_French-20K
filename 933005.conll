@@ -1,0 +1,20 @@
+# sent_id = 933005
+1	Mais	_	Word	Word	_	7	L	_	_
+2	le	_	Word	Word	_	3	E	_	_
+3	soir	_	Word	Word	_	0	ROOT	_	_
+4	du	_	Word	Word	_	3	R	_	_
+5	4	_	Word	Word	_	6	E	_	_
+6	novembre	_	Word	Word	_	0	ROOT	_	_
+7	arriva	_	Word	Word	_	0	ROOT	_	_
+8	sans	_	Word	Word	_	7	L	_	_
+9	que	_	Word	Word	_	8	Terminal	_	_
+10	se	_	Word	Word	_	0	ROOT	_	_
+11	fût	_	Word	Word	_	10	F	_	_
+12	dévoilé	_	Word	Word	_	10	Terminal	_	_
+13	ce	_	Word	Word	_	14	E	_	_
+14	mystère	_	Word	Word	_	0	ROOT	_	_
+15	sous	_	Word	Word	_	14	E	_	_
+16	-	_	Punctuation	Punctuation	_	14	U	_	_
+17	marin	_	Word	Word	_	15	Terminal	_	_
+18	.	_	Punctuation	Punctuation	_	14	U	_	_
+

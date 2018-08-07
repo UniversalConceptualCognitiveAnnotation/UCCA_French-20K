@@ -1,0 +1,26 @@
+# sent_id = 765003
+1	J’	_	Word	Word	_	2	A	_	_
+2	oubliai	_	Word	Word	_	0	ROOT	_	_
+3	tout	_	Word	Word	_	0	ROOT	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	fatigues	_	Word	Word	_	0	ROOT	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	amis	_	Word	Word	_	5	C	_	_
+8	,	_	Punctuation	Punctuation	_	5	U	_	_
+9	collections	_	Word	Word	_	5	C	_	_
+10	,	_	Punctuation	Punctuation	_	2	U	_	_
+11	et	_	Word	Word	_	2	L	_	_
+12	j’	_	Word	Word	_	13	A	_	_
+12	j’	_	Word	Word	_	17	A	_	_
+13	acceptai	_	Word	Word	_	0	ROOT	_	_
+14	sans	_	Word	Word	_	2	L	_	_
+15	plus	_	Word	Word	_	17	D	_	_
+16	de	_	Word	Word	_	17	E	_	_
+17	réflexions	_	Word	Word	_	0	ROOT	_	_
+18	l’	_	Word	Word	_	19	E	_	_
+19	offre	_	Word	Word	_	0	ROOT	_	_
+20	du	_	Word	Word	_	21	R	_	_
+21	gouvernement	_	Word	Word	_	0	ROOT	_	_
+22	américain	_	Word	Word	_	21	E	_	_
+23	.	_	Punctuation	Punctuation	_	21	U	_	_
+

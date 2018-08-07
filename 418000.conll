@@ -1,0 +1,13 @@
+# sent_id = 418000
+1	À	_	Word	Word	_	3	L	_	_
+2	mon	_	Word	Word	_	3	E	_	_
+3	arrivée	_	Word	Word	_	0	ROOT	_	_
+4	à	_	Word	Word	_	5	R	_	_
+5	New	_	Word	Word	_	0	ROOT	_	_
+6	York	_	Word	Word	_	5	Terminal	_	_
+7	,	_	Punctuation	Punctuation	_	3	U	_	_
+8	la	_	Word	Word	_	9	E	_	_
+9	question	_	Word	Word	_	0	ROOT	_	_
+10	brûlait	_	Word	Word	_	0	ROOT	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+

@@ -1,0 +1,30 @@
+# sent_id = 417004
+1	Qu'	_	Word	Word	_	2	L	_	_
+2	il	_	Word	Word	_	0	ROOT	_	_
+3	y	_	Word	Word	_	2	Terminal	_	_
+4	eut	_	Word	Word	_	2	Terminal	_	_
+5	quelque	_	Word	Word	_	6	E	_	_
+6	chose	_	Word	Word	_	0	ROOT	_	_
+7	,	_	Punctuation	Punctuation	_	2	U	_	_
+8	cela	_	Word	Word	_	12	A	_	_
+9	ne	_	Word	Word	_	12	D	_	_
+10	pouvait	_	Word	Word	_	12	D	_	_
+11	être	_	Word	Word	_	12	F	_	_
+12	douteux	_	Word	Word	_	0	ROOT	_	_
+13	,	_	Punctuation	Punctuation	_	2	U	_	_
+14	et	_	Word	Word	_	2	L	_	_
+15	les	_	Word	Word	_	16	E	_	_
+16	incrédules	_	Word	Word	_	20	A	_	_
+17	étaient	_	Word	Word	_	18	F	_	_
+18	invités	_	Word	Word	_	0	ROOT	_	_
+19	à	_	Word	Word	_	20	R	_	_
+20	mettre	_	Word	Word	_	0	ROOT	_	_
+21	le	_	Word	Word	_	22	E	_	_
+22	doigt	_	Word	Word	_	0	ROOT	_	_
+23	sur	_	Word	Word	_	25	R	_	_
+24	la	_	Word	Word	_	25	E	_	_
+25	plaie	_	Word	Word	_	0	ROOT	_	_
+26	du	_	Word	Word	_	27	R	_	_
+27	Scotia	_	Word	Word	_	0	ROOT	_	_
+28	.	_	Punctuation	Punctuation	_	27	U	_	_
+
