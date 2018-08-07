@@ -1,0 +1,39 @@
+# sent_id = 785002
+# text = Sous cette pression , l’ Abraham - Lincoln atteignait une vitesse moyenne de dix-huit milles et trois dixièmes à l’ heure , vitesse considérable , mais cependant insuffisante pour lutter avec le gigantesque cétacé .
+# doc_id = 
+1	Sous	_	Word	Word	_	3	R	3:R	_
+2	cette	_	Word	Word	_	3	E	3:E	_
+3	pression	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+5	l’	_	Word	Word	_	6	E	6:E	_
+6	Abraham	_	Word	Word	_	3	orphan	3:orphan	_
+7	-	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+8	Lincoln	_	Word	Word	_	6	flat	6:flat	_
+9	atteignait	_	Word	Word	_	3	orphan	3:orphan	_
+10	une	_	Word	Word	_	11	E	11:E	_
+11	vitesse	_	Word	Word	_	3	orphan	3:orphan	_
+12	moyenne	_	Word	Word	_	11	E	11:E	_
+13	de	_	Word	Word	_	11	R	11:R	_
+14	dix-huit	_	Word	Word	_	15	E	15:E	_
+15	milles	_	Word	Word	_	3	orphan	3:orphan	_
+16	et	_	Word	Word	_	15	N	15:N	_
+17	trois	_	Word	Word	_	18	E	18:E	_
+18	dixièmes	_	Word	Word	_	3	orphan	3:orphan	_
+19	à	_	Word	Word	_	21	R	21:R	_
+20	l’	_	Word	Word	_	21	E	21:E	_
+21	heure	_	Word	Word	_	3	orphan	3:orphan	_
+22	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+23	vitesse	_	Word	Word	_	3	orphan	3:orphan	_
+24	considérable	_	Word	Word	_	23	E	23:E	_
+25	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+26	mais	_	Word	Word	_	9	L	9:L	_
+27	cependant	_	Word	Word	_	26	flat	26:flat	_
+28	insuffisante	_	Word	Word	_	3	orphan	3:orphan	_
+29	pour	_	Word	Word	_	9	L	9:L	_
+30	lutter	_	Word	Word	_	3	orphan	3:orphan	_
+31	avec	_	Word	Word	_	34	R	34:R	_
+32	le	_	Word	Word	_	34	E	34:E	_
+33	gigantesque	_	Word	Word	_	34	E	34:E	_
+34	cétacé	_	Word	Word	_	3	orphan	3:orphan	_
+35	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+

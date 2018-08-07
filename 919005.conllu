@@ -1,0 +1,15 @@
+# sent_id = 919005
+# text = Les capots vomissaient un torrent de matelots et d’ officiers .
+# doc_id = 
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	capots	_	Word	Word	_	0	root	0:root	_
+3	vomissaient	_	Word	Word	_	2	orphan	2:orphan	_
+4	un	_	Word	Word	_	5	E	5:E	_
+5	torrent	_	Word	Word	_	2	orphan	2:orphan	_
+6	de	_	Word	Word	_	5	R	5:R	_
+7	matelots	_	Word	Word	_	2	orphan	2:orphan	_
+8	et	_	Word	Word	_	7	N	7:N	_
+9	d’	_	Word	Word	_	7	F	7:F	_
+10	officiers	_	Word	Word	_	7	C	7:C	_
+11	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+

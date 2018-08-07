@@ -1,0 +1,28 @@
+# sent_id = 102001
+# text = Depuis ce moment , en effet , les sinistres maritimes qui n'avaient pas de cause déterminée furent mis sur le compte du monstre .
+# doc_id = 
+1	Depuis	_	Word	Word	_	3	R	3:R	_
+2	ce	_	Word	Word	_	3	E	3:E	_
+3	moment	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+5	en	_	Word	Word	_	6	R	6:R	_
+6	effet	_	Word	Word	_	3	orphan	3:orphan	_
+7	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	sinistres	_	Word	Word	_	3	orphan	3:orphan	_
+10	maritimes	_	Word	Word	_	9	E	9:E	_
+11	qui	_	Word	Word	_	12	R	12:R	_
+12	n'avaient	_	Word	Word	_	3	orphan	3:orphan	_
+13	pas	_	Word	Word	_	12	D	12:D	_
+14	de	_	Word	Word	_	15	R	15:R	_
+15	cause	_	Word	Word	_	3	orphan	3:orphan	_
+16	déterminée	_	Word	Word	_	15	E	15:E	_
+17	furent	_	Word	Word	_	3	orphan	3:orphan	_
+18	mis	_	Word	Word	_	17	flat	17:flat	_
+19	sur	_	Word	Word	_	17	flat	17:flat	_
+20	le	_	Word	Word	_	17	flat	17:flat	_
+21	compte	_	Word	Word	_	17	flat	17:flat	_
+22	du	_	Word	Word	_	23	R	23:R	_
+23	monstre	_	Word	Word	_	3	orphan	3:orphan	_
+24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+

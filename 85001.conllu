@@ -1,0 +1,37 @@
+# sent_id = 85001
+# text = Dans les pays d' humeur légère , on plaisanta le phénomène , mais les pays graves et pratiques , l' Angleterre , l' Amérique , l' Allemagne , s' en préoccupèrent vivement .
+# doc_id = 
+1	Dans	_	Word	Word	_	3	R	3:R	_
+2	les	_	Word	Word	_	3	E	3:E	_
+3	pays	_	Word	Word	_	0	root	0:root	_
+4	d'	_	Word	Word	_	5	R	5:R	_
+5	humeur	_	Word	Word	_	3	orphan	3:orphan	_
+6	légère	_	Word	Word	_	5	E	5:E	_
+7	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+8	on	_	Word	Word	_	9	A	9:A	_
+9	plaisanta	_	Word	Word	_	3	orphan	3:orphan	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	phénomène	_	Word	Word	_	3	orphan	3:orphan	_
+12	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+13	mais	_	Word	Word	_	9	L	9:L	_
+14	les	_	Word	Word	_	15	E	15:E	_
+15	pays	_	Word	Word	_	3	orphan	3:orphan	_
+16	graves	_	Word	Word	_	3	orphan	3:orphan	_
+17	et	_	Word	Word	_	16	N	16:N	_
+18	pratiques	_	Word	Word	_	16	C	16:C	_
+19	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+20	l'	_	Word	Word	_	21	E	21:E	_
+21	Angleterre	_	Word	Word	_	3	orphan	3:orphan	_
+22	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+23	l'	_	Word	Word	_	24	E	24:E	_
+24	Amérique	_	Word	Word	_	3	orphan	3:orphan	_
+25	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+26	l'	_	Word	Word	_	27	E	27:E	_
+27	Allemagne	_	Word	Word	_	3	orphan	3:orphan	_
+28	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+29	s'	_	Word	Word	_	3	orphan	3:orphan	_
+30	en	_	Word	Word	_	29	A	29:A	_
+31	préoccupèrent	_	Word	Word	_	29	flat	29:flat	_
+32	vivement	_	Word	Word	_	29	D	29:D	_
+33	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+

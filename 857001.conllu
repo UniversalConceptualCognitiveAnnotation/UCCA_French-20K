@@ -1,0 +1,11 @@
+# sent_id = 857001
+# text = Ma nationalité l’ attirait sans doute .
+# doc_id = 
+1	Ma	_	Word	Word	_	2	E	2:E	_
+2	nationalité	_	Word	Word	_	0	root	0:root	_
+3	l’	_	Word	Word	_	4	A	4:A	_
+4	attirait	_	Word	Word	_	2	orphan	2:orphan	_
+5	sans	_	Word	Word	_	4	G	4:G	_
+6	doute	_	Word	Word	_	5	flat	5:flat	_
+7	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+

@@ -1,0 +1,30 @@
+# sent_id = 419000
+# text = De même fut repoussée l' existence d' une coque flottante , d' une énorme épave , et toujours à cause de la rapidité du déplacement .
+# doc_id = 
+1	De	_	Word	Word	_	4	L	4:L	_
+2	même	_	Word	Word	_	1	flat	1:flat	_
+3	fut	_	Word	Word	_	4	F	4:F	_
+4	repoussée	_	Word	Word	_	0	root	0:root	_
+5	l'	_	Word	Word	_	6	E	6:E	_
+6	existence	_	Word	Word	_	4	orphan	4:orphan	_
+7	d'	_	Word	Word	_	9	R	9:R	_
+8	une	_	Word	Word	_	9	E	9:E	_
+9	coque	_	Word	Word	_	4	orphan	4:orphan	_
+10	flottante	_	Word	Word	_	9	E	9:E	_
+11	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+12	d'	_	Word	Word	_	15	R	15:R	_
+13	une	_	Word	Word	_	15	E	15:E	_
+14	énorme	_	Word	Word	_	15	E	15:E	_
+15	épave	_	Word	Word	_	4	orphan	4:orphan	_
+16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+17	et	_	Word	Word	_	4	F	4:F	_
+18	toujours	_	Word	Word	_	23	T	23:T	_
+19	à	_	Word	Word	_	23	D	23:D	_
+20	cause	_	Word	Word	_	19	flat	19:flat	_
+21	de	_	Word	Word	_	19	flat	19:flat	_
+22	la	_	Word	Word	_	23	E	23:E	_
+23	rapidité	_	Word	Word	_	4	orphan	4:orphan	_
+24	du	_	Word	Word	_	25	R	25:R	_
+25	déplacement	_	Word	Word	_	4	orphan	4:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+

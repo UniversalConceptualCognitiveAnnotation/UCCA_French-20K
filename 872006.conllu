@@ -1,0 +1,47 @@
+# sent_id = 872006
+# text = Il suit de là qu’ à trois cent vingt pieds cette pression est de dix atmosphères , de cent atmosphères à trois mille deux cents pieds , et de mille atmosphères à trente-deux mille pieds , soit deux lieues et demie environ .
+# doc_id = 
+1	Il	_	Word	Word	_	2	F	2:F	_
+2	suit	_	Word	Word	_	0	root	0:root	_
+3	de	_	Word	Word	_	4	R	4:R	_
+4	là	_	Word	Word	_	2	orphan	2:orphan	_
+5	qu’	_	Word	Word	_	13	R	13:R	_
+6	à	_	Word	Word	_	10	R	10:R	_
+7	trois	_	Word	Word	_	10	E	10:E	_
+8	cent	_	Word	Word	_	7	flat	7:flat	_
+9	vingt	_	Word	Word	_	7	flat	7:flat	_
+10	pieds	_	Word	Word	_	2	orphan	2:orphan	_
+11	cette	_	Word	Word	_	12	E	12:E	_
+12	pression	_	Word	Word	_	2	orphan	2:orphan	_
+13	est	_	Word	Word	_	2	orphan	2:orphan	_
+14	de	_	Word	Word	_	16	R	16:R	_
+15	dix	_	Word	Word	_	16	E	16:E	_
+16	atmosphères	_	Word	Word	_	2	orphan	2:orphan	_
+17	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+18	de	_	Word	Word	_	20	R	20:R	_
+19	cent	_	Word	Word	_	20	E	20:E	_
+20	atmosphères	_	Word	Word	_	2	orphan	2:orphan	_
+21	à	_	Word	Word	_	26	R	26:R	_
+22	trois	_	Word	Word	_	26	E	26:E	_
+23	mille	_	Word	Word	_	22	flat	22:flat	_
+24	deux	_	Word	Word	_	22	flat	22:flat	_
+25	cents	_	Word	Word	_	22	flat	22:flat	_
+26	pieds	_	Word	Word	_	2	orphan	2:orphan	_
+27	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+28	et	_	Word	Word	_	13	L	13:L	_
+29	de	_	Word	Word	_	31	R	31:R	_
+30	mille	_	Word	Word	_	31	E	31:E	_
+31	atmosphères	_	Word	Word	_	2	orphan	2:orphan	_
+32	à	_	Word	Word	_	35	R	35:R	_
+33	trente-deux	_	Word	Word	_	34	E	34:E	_
+34	mille	_	Word	Word	_	2	orphan	2:orphan	_
+35	pieds	_	Word	Word	_	2	orphan	2:orphan	_
+36	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+37	soit	_	Word	Word	_	39	R	39:R	_
+38	deux	_	Word	Word	_	39	E	39:E	_
+39	lieues	_	Word	Word	_	2	orphan	2:orphan	_
+40	et	_	Word	Word	_	39	N	39:N	_
+41	demie	_	Word	Word	_	2	orphan	2:orphan	_
+42	environ	_	Word	Word	_	39	E	39:E	_
+43	.	_	Punctuation	Punctuation	_	39	punct	39:punct	_
+

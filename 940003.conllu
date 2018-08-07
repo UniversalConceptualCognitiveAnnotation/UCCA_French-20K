@@ -1,0 +1,12 @@
+# sent_id = 940003
+# text = — Il faut le dire , Conseil .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	Il	_	Word	Word	_	5	F	5:F	_
+3	faut	_	Word	Word	_	5	D	5:D	_
+4	le	_	Word	Word	_	5	A	5:A	_
+5	dire	_	Word	Word	_	0	root	0:root	_
+6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	Conseil	_	Word	Word	_	5	G	5:G	_
+8	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+

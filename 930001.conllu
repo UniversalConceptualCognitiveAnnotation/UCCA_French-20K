@@ -1,0 +1,20 @@
+# sent_id = 930001
+# text = L ' Abraham-Lincoln n’ avait rien à se reprocher , ayant tout fait pour réussir .
+# doc_id = 
+1	L	_	Word	Word	_	3	E	3:E	_
+2	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+3	Abraham-Lincoln	_	Word	Word	_	0	root	0:root	_
+4	n’	_	Word	Word	_	8	D	8:D	_
+5	avait	_	Word	Word	_	8	F	8:F	_
+6	rien	_	Word	Word	_	8	A	8:A	_
+7	à	_	Word	Word	_	8	R	8:R	_
+8	se	_	Word	Word	_	3	orphan	3:orphan	_
+9	reprocher	_	Word	Word	_	8	flat	8:flat	_
+10	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+11	ayant	_	Word	Word	_	13	F	13:F	_
+12	tout	_	Word	Word	_	3	orphan	3:orphan	_
+13	fait	_	Word	Word	_	3	orphan	3:orphan	_
+14	pour	_	Word	Word	_	8	L	8:L	_
+15	réussir	_	Word	Word	_	3	orphan	3:orphan	_
+16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

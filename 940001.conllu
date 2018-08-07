@@ -1,0 +1,26 @@
+# sent_id = 940001
+# text = — Comme tu dis , Conseil , et sans compter , j’ imagine , que l’ on se moquera de nous !
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Comme	_	Word	Word	_	4	D	4:D	_
+3	tu	_	Word	Word	_	4	A	4:A	_
+4	dis	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	Conseil	_	Word	Word	_	4	G	4:G	_
+7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	et	_	Word	Word	_	4	L	4:L	_
+9	sans	_	Word	Word	_	10	R	10:R	_
+10	compter	_	Word	Word	_	4	orphan	4:orphan	_
+11	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+12	j’	_	Word	Word	_	13	A	13:A	_
+13	imagine	_	Word	Word	_	4	orphan	4:orphan	_
+14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+15	que	_	Word	Word	_	18	F	18:F	_
+16	l’	_	Word	Word	_	18	F	18:F	_
+17	on	_	Word	Word	_	18	A	18:A	_
+18	se	_	Word	Word	_	4	orphan	4:orphan	_
+19	moquera	_	Word	Word	_	18	flat	18:flat	_
+20	de	_	Word	Word	_	21	R	21:R	_
+21	nous	_	Word	Word	_	4	orphan	4:orphan	_
+22	!	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+

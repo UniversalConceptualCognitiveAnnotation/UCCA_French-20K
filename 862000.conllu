@@ -1,0 +1,40 @@
+# sent_id = 862000
+# text = Assis sur la dunette , Ned Land et moi , nous causions de choses et d’ autres , regardant cette mystérieuse mer dont les profondeurs sont restées jusqu’ ici inaccessibles aux regards de l’ homme .
+# doc_id = 
+1	Assis	_	Word	Word	_	0	root	0:root	_
+2	sur	_	Word	Word	_	4	R	4:R	_
+3	la	_	Word	Word	_	4	E	4:E	_
+4	dunette	_	Word	Word	_	1	orphan	1:orphan	_
+5	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+6	Ned	_	Word	Word	_	1	orphan	1:orphan	_
+7	Land	_	Word	Word	_	6	flat	6:flat	_
+8	et	_	Word	Word	_	6	N	6:N	_
+9	moi	_	Word	Word	_	6	C	6:C	_
+10	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+11	nous	_	Word	Word	_	12	F	12:F	_
+12	causions	_	Word	Word	_	1	orphan	1:orphan	_
+13	de	_	Word	Word	_	14	R	14:R	_
+14	choses	_	Word	Word	_	1	orphan	1:orphan	_
+15	et	_	Word	Word	_	14	N	14:N	_
+16	d’	_	Word	Word	_	17	R	17:R	_
+17	autres	_	Word	Word	_	1	orphan	1:orphan	_
+18	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+19	regardant	_	Word	Word	_	1	orphan	1:orphan	_
+20	cette	_	Word	Word	_	22	E	22:E	_
+21	mystérieuse	_	Word	Word	_	22	E	22:E	_
+22	mer	_	Word	Word	_	1	orphan	1:orphan	_
+23	dont	_	Word	Word	_	30	R	30:R	_
+24	les	_	Word	Word	_	25	E	25:E	_
+25	profondeurs	_	Word	Word	_	1	orphan	1:orphan	_
+26	sont	_	Word	Word	_	30	F	30:F	_
+27	restées	_	Word	Word	_	30	D	30:D	_
+28	jusqu’	_	Word	Word	_	30	T	30:T	_
+29	ici	_	Word	Word	_	28	flat	28:flat	_
+30	inaccessibles	_	Word	Word	_	1	orphan	1:orphan	_
+31	aux	_	Word	Word	_	32	R	32:R	_
+32	regards	_	Word	Word	_	1	orphan	1:orphan	_
+33	de	_	Word	Word	_	35	R	35:R	_
+34	l’	_	Word	Word	_	35	E	35:E	_
+35	homme	_	Word	Word	_	1	orphan	1:orphan	_
+36	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+

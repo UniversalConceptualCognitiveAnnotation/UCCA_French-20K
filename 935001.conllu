@@ -1,0 +1,20 @@
+# sent_id = 935001
+# text = Les terres du Japon nous restaient à moins de deux cents milles sous le vent .
+# doc_id = 
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	terres	_	Word	Word	_	0	root	0:root	_
+3	du	_	Word	Word	_	4	R	4:R	_
+4	Japon	_	Word	Word	_	2	orphan	2:orphan	_
+5	nous	_	Word	Word	_	6	A	6:A	_
+6	restaient	_	Word	Word	_	2	orphan	2:orphan	_
+7	à	_	Word	Word	_	8	R	8:R	_
+8	moins	_	Word	Word	_	2	orphan	2:orphan	_
+9	de	_	Word	Word	_	8	R	8:R	_
+10	deux	_	Word	Word	_	11	E	11:E	_
+11	cents	_	Word	Word	_	2	orphan	2:orphan	_
+12	milles	_	Word	Word	_	2	orphan	2:orphan	_
+13	sous	_	Word	Word	_	15	R	15:R	_
+14	le	_	Word	Word	_	15	E	15:E	_
+15	vent	_	Word	Word	_	2	orphan	2:orphan	_
+16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

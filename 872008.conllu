@@ -1,0 +1,23 @@
+# sent_id = 872008
+# text = Or , mon brave Ned , savez - vous ce que vous avez de centimètres carrés en surface ?
+# doc_id = 
+1	Or	_	Word	Word	_	7	L	7:L	_
+2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+3	mon	_	Word	Word	_	5	E	5:E	_
+4	brave	_	Word	Word	_	5	E	5:E	_
+5	Ned	_	Word	Word	_	0	root	0:root	_
+6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	savez	_	Word	Word	_	5	orphan	5:orphan	_
+8	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	vous	_	Word	Word	_	7	A	7:A	_
+10	ce	_	Word	Word	_	15	F	15:F	_
+11	que	_	Word	Word	_	15	F	15:F	_
+12	vous	_	Word	Word	_	13	A	13:A	_
+13	avez	_	Word	Word	_	5	orphan	5:orphan	_
+14	de	_	Word	Word	_	15	E	15:E	_
+15	centimètres	_	Word	Word	_	5	orphan	5:orphan	_
+16	carrés	_	Word	Word	_	15	E	15:E	_
+17	en	_	Word	Word	_	18	R	18:R	_
+18	surface	_	Word	Word	_	5	orphan	5:orphan	_
+19	?	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+

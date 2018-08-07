@@ -1,0 +1,27 @@
+# sent_id = 859002
+# text = Ah ! brave Ned ! je ne demande qu’ à vivre cent ans encore , pour me souvenir plus longtemps de toi !
+# doc_id = 
+1	Ah	_	Word	Word	_	3	F	3:F	_
+2	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+3	brave	_	Word	Word	_	0	root	0:root	_
+4	Ned	_	Word	Word	_	3	A	3:A	_
+5	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	je	_	Word	Word	_	8	A	8:A	_
+7	ne	_	Word	Word	_	8	D	8:D	_
+8	demande	_	Word	Word	_	3	orphan	3:orphan	_
+9	qu’	_	Word	Word	_	7	flat	7:flat	_
+10	à	_	Word	Word	_	11	F	11:F	_
+11	vivre	_	Word	Word	_	3	orphan	3:orphan	_
+12	cent	_	Word	Word	_	13	E	13:E	_
+13	ans	_	Word	Word	_	3	orphan	3:orphan	_
+14	encore	_	Word	Word	_	11	D	11:D	_
+15	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+16	pour	_	Word	Word	_	3	L	3:L	_
+17	me	_	Word	Word	_	3	orphan	3:orphan	_
+18	souvenir	_	Word	Word	_	17	flat	17:flat	_
+19	plus	_	Word	Word	_	20	E	20:E	_
+20	longtemps	_	Word	Word	_	3	orphan	3:orphan	_
+21	de	_	Word	Word	_	22	R	22:R	_
+22	toi	_	Word	Word	_	3	orphan	3:orphan	_
+23	!	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+

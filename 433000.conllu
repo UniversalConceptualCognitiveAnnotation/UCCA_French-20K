@@ -1,0 +1,49 @@
+# sent_id = 433000
+# text = « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l' animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l' existence d 'un Narwal géant .
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	Si	_	Word	Word	_	8	L	8:L	_
+3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+4	au	_	Word	Word	_	5	R	5:R	_
+5	contraire	_	Word	Word	_	0	root	0:root	_
+6	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+7	nous	_	Word	Word	_	8	A	8:A	_
+8	connaissons	_	Word	Word	_	5	orphan	5:orphan	_
+9	toutes	_	Word	Word	_	11	E	11:E	_
+10	les	_	Word	Word	_	11	E	11:E	_
+11	espèces	_	Word	Word	_	5	orphan	5:orphan	_
+12	vivantes	_	Word	Word	_	11	E	11:E	_
+13	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+14	il	_	Word	Word	_	17	F	17:F	_
+15	faut	_	Word	Word	_	17	D	17:D	_
+16	nécessairement	_	Word	Word	_	17	D	17:D	_
+17	chercher	_	Word	Word	_	5	orphan	5:orphan	_
+18	l'	_	Word	Word	_	19	E	19:E	_
+19	animal	_	Word	Word	_	5	orphan	5:orphan	_
+20	en	_	Word	Word	_	21	R	21:R	_
+21	question	_	Word	Word	_	5	orphan	5:orphan	_
+22	parmi	_	Word	Word	_	24	R	24:R	_
+23	les	_	Word	Word	_	24	E	24:E	_
+24	êtres	_	Word	Word	_	5	orphan	5:orphan	_
+25	marins	_	Word	Word	_	24	E	24:E	_
+26	déjà	_	Word	Word	_	27	D	27:D	_
+27	catalogués	_	Word	Word	_	5	orphan	5:orphan	_
+28	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+29	et	_	Word	Word	_	8	L	8:L	_
+30	dans	_	Word	Word	_	32	R	32:R	_
+31	ce	_	Word	Word	_	32	E	32:E	_
+32	cas	_	Word	Word	_	5	orphan	5:orphan	_
+33	,	_	Punctuation	Punctuation	_	38	punct	38:punct	_
+34	je	_	Word	Word	_	38	A	38:A	_
+35	serai	_	Word	Word	_	38	F	38:F	_
+36	disposé	_	Word	Word	_	5	orphan	5:orphan	_
+37	à	_	Word	Word	_	36	R	36:R	_
+38	admettre	_	Word	Word	_	5	orphan	5:orphan	_
+39	l'	_	Word	Word	_	40	E	40:E	_
+40	existence	_	Word	Word	_	5	orphan	5:orphan	_
+41	d	_	Word	Word	_	43	R	43:R	_
+42	'un	_	Word	Word	_	43	E	43:E	_
+43	Narwal	_	Word	Word	_	5	orphan	5:orphan	_
+44	géant	_	Word	Word	_	43	E	43:E	_
+45	.	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+

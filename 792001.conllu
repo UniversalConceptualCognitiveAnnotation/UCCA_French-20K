@@ -1,0 +1,15 @@
+# sent_id = 792001
+# text = La vapeur siffla en se précipitant dans les tiroirs entr’ouverts .
+# doc_id = 
+1	La	_	Word	Word	_	2	E	2:E	_
+2	vapeur	_	Word	Word	_	0	root	0:root	_
+3	siffla	_	Word	Word	_	2	orphan	2:orphan	_
+4	en	_	Word	Word	_	3	L	3:L	_
+5	se	_	Word	Word	_	2	orphan	2:orphan	_
+6	précipitant	_	Word	Word	_	5	flat	5:flat	_
+7	dans	_	Word	Word	_	9	R	9:R	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	tiroirs	_	Word	Word	_	2	orphan	2:orphan	_
+10	entr’ouverts	_	Word	Word	_	9	E	9:E	_
+11	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

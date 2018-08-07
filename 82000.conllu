@@ -1,0 +1,42 @@
+# sent_id = 82000
+# text = En effet , le 20 juillet 1866 , le steamer Governor- Higginson , de Calcutta and Burnach steam navigation Company , avait rencontré cette masse mouvante à cinq milles dans l' est des côtes de l' Australie .
+# doc_id = 
+1	En	_	Word	Word	_	2	E	2:E	_
+2	effet	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+4	le	_	Word	Word	_	5	E	5:E	_
+5	20	_	Word	Word	_	2	orphan	2:orphan	_
+6	juillet	_	Word	Word	_	5	flat	5:flat	_
+7	1866	_	Word	Word	_	5	flat	5:flat	_
+8	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+9	le	_	Word	Word	_	10	E	10:E	_
+10	steamer	_	Word	Word	_	2	orphan	2:orphan	_
+11	Governor-	_	Word	Word	_	2	orphan	2:orphan	_
+12	Higginson	_	Word	Word	_	11	flat	11:flat	_
+13	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+14	de	_	Word	Word	_	15	R	15:R	_
+15	Calcutta	_	Word	Word	_	2	orphan	2:orphan	_
+16	and	_	Word	Word	_	15	flat	15:flat	_
+17	Burnach	_	Word	Word	_	15	flat	15:flat	_
+18	steam	_	Word	Word	_	15	flat	15:flat	_
+19	navigation	_	Word	Word	_	15	flat	15:flat	_
+20	Company	_	Word	Word	_	15	flat	15:flat	_
+21	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+22	avait	_	Word	Word	_	23	F	23:F	_
+23	rencontré	_	Word	Word	_	2	orphan	2:orphan	_
+24	cette	_	Word	Word	_	25	E	25:E	_
+25	masse	_	Word	Word	_	2	orphan	2:orphan	_
+26	mouvante	_	Word	Word	_	25	E	25:E	_
+27	à	_	Word	Word	_	34	R	34:R	_
+28	cinq	_	Word	Word	_	29	E	29:E	_
+29	milles	_	Word	Word	_	2	orphan	2:orphan	_
+30	dans	_	Word	Word	_	32	R	32:R	_
+31	l'	_	Word	Word	_	32	E	32:E	_
+32	est	_	Word	Word	_	2	orphan	2:orphan	_
+33	des	_	Word	Word	_	29	R	29:R	_
+34	côtes	_	Word	Word	_	2	orphan	2:orphan	_
+35	de	_	Word	Word	_	37	R	37:R	_
+36	l'	_	Word	Word	_	37	E	37:E	_
+37	Australie	_	Word	Word	_	2	orphan	2:orphan	_
+38	.	_	Punctuation	Punctuation	_	37	punct	37:punct	_
+

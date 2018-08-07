@@ -1,0 +1,27 @@
+# sent_id = 933003
+# text = D’ énormes quartiers de lard furent mis à la traîne pour la plus grande satisfaction des requins , je dois le dire .
+# doc_id = 
+1	D’	_	Word	Word	_	3	E	3:E	_
+2	énormes	_	Word	Word	_	3	E	3:E	_
+3	quartiers	_	Word	Word	_	0	root	0:root	_
+4	de	_	Word	Word	_	3	R	3:R	_
+5	lard	_	Word	Word	_	3	orphan	3:orphan	_
+6	furent	_	Word	Word	_	7	F	7:F	_
+7	mis	_	Word	Word	_	3	orphan	3:orphan	_
+8	à	_	Word	Word	_	7	flat	7:flat	_
+9	la	_	Word	Word	_	7	flat	7:flat	_
+10	traîne	_	Word	Word	_	7	flat	7:flat	_
+11	pour	_	Word	Word	_	7	L	7:L	_
+12	la	_	Word	Word	_	14	E	14:E	_
+13	plus	_	Word	Word	_	14	E	14:E	_
+14	grande	_	Word	Word	_	3	orphan	3:orphan	_
+15	satisfaction	_	Word	Word	_	3	orphan	3:orphan	_
+16	des	_	Word	Word	_	17	R	17:R	_
+17	requins	_	Word	Word	_	3	orphan	3:orphan	_
+18	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+19	je	_	Word	Word	_	15	G	15:G	_
+20	dois	_	Word	Word	_	19	flat	19:flat	_
+21	le	_	Word	Word	_	19	flat	19:flat	_
+22	dire	_	Word	Word	_	19	flat	19:flat	_
+23	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

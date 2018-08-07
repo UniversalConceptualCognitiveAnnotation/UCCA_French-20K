@@ -1,0 +1,38 @@
+# sent_id = 767000
+# text = Mais , en attendant , il me fallait chercher ce narwal dans le nord de l’ océan Pacifique ; ce qui , pour revenir en France , était prendre le chemin des antipodes .
+# doc_id = 
+1	Mais	_	Word	Word	_	9	L	9:L	_
+2	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+3	en	_	Word	Word	_	4	R	4:R	_
+4	attendant	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+6	il	_	Word	Word	_	9	D	9:D	_
+7	me	_	Word	Word	_	6	flat	6:flat	_
+8	fallait	_	Word	Word	_	6	flat	6:flat	_
+9	chercher	_	Word	Word	_	4	orphan	4:orphan	_
+10	ce	_	Word	Word	_	11	E	11:E	_
+11	narwal	_	Word	Word	_	4	orphan	4:orphan	_
+12	dans	_	Word	Word	_	17	R	17:R	_
+13	le	_	Word	Word	_	14	E	14:E	_
+14	nord	_	Word	Word	_	4	orphan	4:orphan	_
+15	de	_	Word	Word	_	14	R	14:R	_
+16	l’	_	Word	Word	_	17	E	17:E	_
+17	océan	_	Word	Word	_	4	orphan	4:orphan	_
+18	Pacifique	_	Word	Word	_	17	E	17:E	_
+19	;	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+20	ce	_	Word	Word	_	28	R	28:R	_
+21	qui	_	Word	Word	_	20	flat	20:flat	_
+22	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+23	pour	_	Word	Word	_	9	L	9:L	_
+24	revenir	_	Word	Word	_	4	orphan	4:orphan	_
+25	en	_	Word	Word	_	26	R	26:R	_
+26	France	_	Word	Word	_	4	orphan	4:orphan	_
+27	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+28	était	_	Word	Word	_	4	orphan	4:orphan	_
+29	prendre	_	Word	Word	_	4	orphan	4:orphan	_
+30	le	_	Word	Word	_	31	E	31:E	_
+31	chemin	_	Word	Word	_	4	orphan	4:orphan	_
+32	des	_	Word	Word	_	33	R	33:R	_
+33	antipodes	_	Word	Word	_	4	orphan	4:orphan	_
+34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+

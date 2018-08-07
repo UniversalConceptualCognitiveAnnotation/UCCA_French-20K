@@ -1,0 +1,30 @@
+# sent_id = 862001
+# text = J’ amenai tout naturellement la conversation sur la licorne géante , et j’ examinai les diverses chances de succès ou d’ insuccès de notre expédition .
+# doc_id = 
+1	J’	_	Word	Word	_	2	A	2:A	_
+2	amenai	_	Word	Word	_	0	root	0:root	_
+3	tout	_	Word	Word	_	4	E	4:E	_
+4	naturellement	_	Word	Word	_	2	orphan	2:orphan	_
+5	la	_	Word	Word	_	6	E	6:E	_
+6	conversation	_	Word	Word	_	2	orphan	2:orphan	_
+7	sur	_	Word	Word	_	9	R	9:R	_
+8	la	_	Word	Word	_	9	E	9:E	_
+9	licorne	_	Word	Word	_	2	orphan	2:orphan	_
+10	géante	_	Word	Word	_	9	E	9:E	_
+11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+12	et	_	Word	Word	_	2	L	2:L	_
+13	j’	_	Word	Word	_	14	A	14:A	_
+14	examinai	_	Word	Word	_	2	orphan	2:orphan	_
+15	les	_	Word	Word	_	17	E	17:E	_
+16	diverses	_	Word	Word	_	17	E	17:E	_
+17	chances	_	Word	Word	_	2	orphan	2:orphan	_
+18	de	_	Word	Word	_	19	R	19:R	_
+19	succès	_	Word	Word	_	2	orphan	2:orphan	_
+20	ou	_	Word	Word	_	19	N	19:N	_
+21	d’	_	Word	Word	_	22	R	22:R	_
+22	insuccès	_	Word	Word	_	2	orphan	2:orphan	_
+23	de	_	Word	Word	_	25	R	25:R	_
+24	notre	_	Word	Word	_	25	E	25:E	_
+25	expédition	_	Word	Word	_	2	orphan	2:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+

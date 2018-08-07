@@ -1,0 +1,36 @@
+# sent_id = 875001
+# text = — Comme vous dites , Ned , et songez alors aux ravages que peut produire une pareille masse lancée avec la vitesse d’ un express contre la coque d’ un navire .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Comme	_	Word	Word	_	4	D	4:D	_
+3	vous	_	Word	Word	_	4	A	4:A	_
+4	dites	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	Ned	_	Word	Word	_	4	G	4:G	_
+7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	et	_	Word	Word	_	4	L	4:L	_
+9	songez	_	Word	Word	_	4	orphan	4:orphan	_
+10	alors	_	Word	Word	_	4	L	4:L	_
+11	aux	_	Word	Word	_	12	R	12:R	_
+12	ravages	_	Word	Word	_	4	orphan	4:orphan	_
+13	que	_	Word	Word	_	15	R	15:R	_
+14	peut	_	Word	Word	_	15	D	15:D	_
+15	produire	_	Word	Word	_	4	orphan	4:orphan	_
+16	une	_	Word	Word	_	18	E	18:E	_
+17	pareille	_	Word	Word	_	18	E	18:E	_
+18	masse	_	Word	Word	_	4	orphan	4:orphan	_
+19	lancée	_	Word	Word	_	4	orphan	4:orphan	_
+20	avec	_	Word	Word	_	22	R	22:R	_
+21	la	_	Word	Word	_	22	E	22:E	_
+22	vitesse	_	Word	Word	_	4	orphan	4:orphan	_
+23	d’	_	Word	Word	_	25	R	25:R	_
+24	un	_	Word	Word	_	25	E	25:E	_
+25	express	_	Word	Word	_	4	orphan	4:orphan	_
+26	contre	_	Word	Word	_	28	R	28:R	_
+27	la	_	Word	Word	_	28	E	28:E	_
+28	coque	_	Word	Word	_	4	orphan	4:orphan	_
+29	d’	_	Word	Word	_	31	R	31:R	_
+30	un	_	Word	Word	_	31	E	31:E	_
+31	navire	_	Word	Word	_	4	orphan	4:orphan	_
+32	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+

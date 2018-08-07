@@ -1,0 +1,56 @@
+# sent_id = 83001
+# text = Donc , ce cétacé extraordinaire pouvait se transporter d' un endroit à un autre avec une vélocité surprenante , puisque à trois jours d' intervalle , le Governor-Higginson et le Cristobal-Colon l' avaient observé en deux points de la carte séparés par une distance de plus de sept cents lieues marines .
+# doc_id = 
+1	Donc	_	Word	Word	_	7	L	7:L	_
+2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+3	ce	_	Word	Word	_	4	E	4:E	_
+4	cétacé	_	Word	Word	_	0	root	0:root	_
+5	extraordinaire	_	Word	Word	_	4	E	4:E	_
+6	pouvait	_	Word	Word	_	7	D	7:D	_
+7	se	_	Word	Word	_	4	orphan	4:orphan	_
+8	transporter	_	Word	Word	_	7	flat	7:flat	_
+9	d'	_	Word	Word	_	11	R	11:R	_
+10	un	_	Word	Word	_	11	E	11:E	_
+11	endroit	_	Word	Word	_	4	orphan	4:orphan	_
+12	à	_	Word	Word	_	11	R	11:R	_
+13	un	_	Word	Word	_	14	E	14:E	_
+14	autre	_	Word	Word	_	4	orphan	4:orphan	_
+15	avec	_	Word	Word	_	17	R	17:R	_
+16	une	_	Word	Word	_	17	E	17:E	_
+17	vélocité	_	Word	Word	_	4	orphan	4:orphan	_
+18	surprenante	_	Word	Word	_	17	E	17:E	_
+19	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+20	puisque	_	Word	Word	_	7	L	7:L	_
+21	à	_	Word	Word	_	23	R	23:R	_
+22	trois	_	Word	Word	_	23	E	23:E	_
+23	jours	_	Word	Word	_	4	orphan	4:orphan	_
+24	d'	_	Word	Word	_	25	R	25:R	_
+25	intervalle	_	Word	Word	_	4	orphan	4:orphan	_
+26	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+27	le	_	Word	Word	_	28	E	28:E	_
+28	Governor-Higginson	_	Word	Word	_	4	orphan	4:orphan	_
+29	et	_	Word	Word	_	28	N	28:N	_
+30	le	_	Word	Word	_	31	E	31:E	_
+31	Cristobal-Colon	_	Word	Word	_	4	orphan	4:orphan	_
+32	l'	_	Word	Word	_	34	A	34:A	_
+33	avaient	_	Word	Word	_	34	F	34:F	_
+34	observé	_	Word	Word	_	4	orphan	4:orphan	_
+35	en	_	Word	Word	_	37	R	37:R	_
+36	deux	_	Word	Word	_	37	E	37:E	_
+37	points	_	Word	Word	_	4	orphan	4:orphan	_
+38	de	_	Word	Word	_	40	R	40:R	_
+39	la	_	Word	Word	_	40	E	40:E	_
+40	carte	_	Word	Word	_	4	orphan	4:orphan	_
+41	séparés	_	Word	Word	_	4	orphan	4:orphan	_
+42	par	_	Word	Word	_	50	R	50:R	_
+43	une	_	Word	Word	_	44	E	44:E	_
+44	distance	_	Word	Word	_	4	orphan	4:orphan	_
+45	de	_	Word	Word	_	44	R	44:R	_
+46	plus	_	Word	Word	_	4	orphan	4:orphan	_
+47	de	_	Word	Word	_	46	R	46:R	_
+48	sept	_	Word	Word	_	50	E	50:E	_
+49	cents	_	Word	Word	_	48	flat	48:flat	_
+50	lieues	_	Word	Word	_	4	orphan	4:orphan	_
+51	marines	_	Word	Word	_	50	E	50:E	_
+52	.	_	Punctuation	Punctuation	_	50	punct	50:punct	_
+
