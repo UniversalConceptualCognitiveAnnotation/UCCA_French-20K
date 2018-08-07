@@ -1,0 +1,20 @@
+#BOS 773000
+Seulement	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Conseil	Word	--	Terminal	502
+avait	Word	--	Terminal	503
+un	Word	--	Terminal	504
+défaut	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	509	LR	510
+#501	PNCT	--	U	509
+#502	FN	--	A	508
+#503	FN	--	S	508
+#504	FN	--	E	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	A	508
+#508	FN	--	H	509	LA	510
+#509	FN	--	--	0
+#510	LKG	--	--	0
+#EOS 773000

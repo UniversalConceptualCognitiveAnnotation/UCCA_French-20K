@@ -1,0 +1,63 @@
+#BOS 911002
+Cependant	Word	--	Terminal	500
+une	Word	--	Terminal	501
+circonstance	Word	--	Terminal	502
+se	Word	--	Terminal	503
+présenta	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+qui	Word	--	Terminal	505
+mit	Word	--	Terminal	506
+en	Word	--	Terminal	506
+relief	Word	--	Terminal	506
+la	Word	--	Terminal	507
+merveilleuse	Word	--	Terminal	508
+habileté	Word	--	Terminal	509
+de	Word	--	Terminal	510
+Ned	Word	--	Terminal	511
+Land	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+et	Word	--	Terminal	513
+montra	Word	--	Terminal	514
+quelle	Word	--	Terminal	515
+confiance	Word	--	Terminal	516
+on	Word	--	Terminal	517
+devait	Word	--	Terminal	518
+avoir	Word	--	Terminal	519
+en	Word	--	Terminal	520
+lui	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	L	532
+#501	FN	--	E	523
+#502	FN	--	C	523	A*	530	A*	531
+#503	FN	--	P	524
+#504	PNCT	--	U	532
+#505	FN	--	L	532
+#506	FN	--	P	530
+#507	FN	--	E	525
+#508	FN	--	D	528
+#509	FN	--	C	525
+#510	FN	--	R	526
+#511	FN	--	C	526
+#512	PNCT	--	U	532
+#513	FN	--	L	532	LR	533
+#514	FN	--	P	531
+#515	FN	--	D	529
+#516	FN	--	S	529
+#517	FN	--	A	529
+#518	FN	--	D	529
+#519	FN	--	F	529
+#520	FN	--	R	527
+#521	FN	--	C	527
+#522	PNCT	--	U	527
+#523	FN	--	A	524
+#524	FN	--	H	532
+#525	FN	--	S	528
+#526	FN	--	A	528
+#527	FN	--	A	529
+#528	FN	--	A	530
+#529	FN	--	A	531
+#530	FN	--	H	532	LA	533
+#531	FN	--	H	532	LA	533
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 911002

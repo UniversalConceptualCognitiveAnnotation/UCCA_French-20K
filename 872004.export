@@ -1,0 +1,86 @@
+#BOS 872004
+En	Word	--	Terminal	500
+réalité	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+la	Word	--	Terminal	503
+colonne	Word	--	Terminal	504
+d’	Word	--	Terminal	505
+eau	Word	--	Terminal	506
+serait	Word	--	Terminal	507
+d’	Word	--	Terminal	508
+une	Word	--	Terminal	509
+moindre	Word	--	Terminal	510
+hauteur	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+puisqu’	Word	--	Terminal	513
+il	Word	--	Terminal	514
+s’	Word	--	Terminal	515
+agit	Word	--	Terminal	515
+de	Word	--	Terminal	516
+l’	Word	--	Terminal	517
+eau	Word	--	Terminal	518
+de	Word	--	Terminal	519
+mer	Word	--	Terminal	520
+dont	Word	--	Terminal	521
+la	Word	--	Terminal	522
+densité	Word	--	Terminal	523
+est	Word	--	Terminal	524
+supérieure	Word	--	Terminal	525
+à	Word	--	Terminal	526
+celle	Word	--	Terminal	527
+de	Word	--	Terminal	528
+l’	Word	--	Terminal	529
+eau	Word	--	Terminal	530
+douce	Word	--	Terminal	531
+.	Punctuation	--	Terminal	532
+#500	FN	--	R	533
+#501	FN	--	C	533
+#502	PNCT	--	U	545
+#503	FN	--	E	539
+#504	FN	--	C	539
+#505	FN	--	R	534
+#506	FN	--	C	534
+#507	FN	--	F	540
+#508	FN	--	R	535
+#509	FN	--	E	535
+#510	FN	--	D	540
+#511	FN	--	C	535
+#512	PNCT	--	U	545
+#513	FN	--	L	545	LR	546
+#514	FN	--	F	542
+#515	FN	--	S	542
+#516	FN	--	R	541
+#517	FN	--	E	541
+#518	FN	--	C	541	E*	536
+#519	FN	--	R	537
+#520	FN	--	C	537
+#521	FN	--	L	545	LR	548
+#522	FN	--	E	536
+#523	FN	--	C	536	C*	543
+#524	FN	--	F	544
+#525	FN	--	S	544
+#526	FN	--	R	543
+#527	FN	--	F	543
+#528	FN	--	R	538
+#529	FN	--	E	538
+#530	FN	--	C	538
+#531	FN	--	E	538
+#532	PNCT	--	U	538
+#533	FN	--	L	545	LR	547
+#534	FN	--	E	539
+#535	FN	--	S	540
+#536	FN	--	A	544
+#537	FN	--	E	541
+#538	FN	--	E	543
+#539	FN	--	A	540
+#540	FN	--	H	545	LA	546	LA	547
+#541	FN	--	A	542
+#542	FN	--	H	545	LA	548	LA	546
+#543	FN	--	A	544
+#544	FN	--	H	545	LA	548
+#545	FN	--	H	549
+#546	LKG	--	--	0
+#547	LKG	--	--	0
+#548	LKG	--	--	0
+#549	FN	--	--	0
+#EOS 872004

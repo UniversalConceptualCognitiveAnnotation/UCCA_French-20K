@@ -1,0 +1,19 @@
+#BOS 924001
+Évidemment	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+nous	Word	--	Terminal	502
+marchions	Word	--	Terminal	503
+en	Word	--	Terminal	504
+aveugles	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	G	508
+#501	PNCT	--	U	508
+#502	FN	--	A	508
+#503	FN	--	P	508
+#504	FN	--	R	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	D	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 924001

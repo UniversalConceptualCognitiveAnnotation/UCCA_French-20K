@@ -1,0 +1,106 @@
+#BOS 876004
+Or	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+ce	Word	--	Terminal	502
+trou	Word	--	Terminal	503
+ne	Word	--	Terminal	504
+s’	Word	--	Terminal	505
+était	Word	--	Terminal	506
+pas	Word	--	Terminal	504
+fait	Word	--	Terminal	505
+tout	Word	--	Terminal	507
+seul	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+et	Word	--	Terminal	510
+puisqu’	Word	--	Terminal	511
+il	Word	--	Terminal	512
+n’	Word	--	Terminal	513
+avait	Word	--	Terminal	514
+pas	Word	--	Terminal	513
+été	Word	--	Terminal	515
+produit	Word	--	Terminal	516
+par	Word	--	Terminal	517
+des	Word	--	Terminal	518
+roches	Word	--	Terminal	519
+sous	Word	--	Terminal	520
+-	Punctuation	--	Terminal	521
+marines	Word	--	Terminal	522
+ou	Word	--	Terminal	523
+des	Word	--	Terminal	524
+engins	Word	--	Terminal	525
+sous	Word	--	Terminal	526
+-	Punctuation	--	Terminal	527
+marins	Word	--	Terminal	528
+,	Punctuation	--	Terminal	529
+il	Word	--	Terminal	530
+était	Word	--	Terminal	531
+nécessairement	Word	--	Terminal	532
+dû	Word	--	Terminal	533
+à	Word	--	Terminal	534
+l’	Word	--	Terminal	535
+outil	Word	--	Terminal	536
+perforant	Word	--	Terminal	537
+d’	Word	--	Terminal	538
+un	Word	--	Terminal	539
+animal	Word	--	Terminal	540
+.	Punctuation	--	Terminal	541
+#500	FN	--	L	556	LR	552
+#501	PNCT	--	U	556
+#502	FN	--	E	542
+#503	FN	--	C	542
+#504	FN	--	D	548
+#505	FN	--	P	548
+#506	FN	--	F	548
+#507	FN	--	E	543
+#508	FN	--	C	543
+#509	PNCT	--	U	556
+#510	FN	--	L	556	LR	558
+#511	FN	--	L	556	LR	557
+#512	FN	--	A	555
+#513	FN	--	D	555
+#514	FN	--	F	555
+#515	FN	--	F	555
+#516	FN	--	P	555
+#517	FN	--	R	549
+#518	FN	--	E	549
+#519	FN	--	C	549
+#520	FN	--	R	544
+#521	PNCT	--	U	544
+#522	FN	--	C	544
+#523	FN	--	N	553
+#524	FN	--	E	550
+#525	FN	--	C	550
+#526	FN	--	R	545
+#527	PNCT	--	U	545
+#528	FN	--	C	545
+#529	PNCT	--	U	556
+#530	FN	--	A	554
+#531	FN	--	F	554
+#532	FN	--	G	554
+#533	FN	--	P	554
+#534	FN	--	R	551
+#535	FN	--	E	551
+#536	FN	--	C	551	A*	546
+#537	FN	--	P	546
+#538	FN	--	R	547
+#539	FN	--	E	547
+#540	FN	--	C	547
+#541	PNCT	--	U	547
+#542	FN	--	A	548
+#543	FN	--	D	548
+#544	FN	--	E	549
+#545	FN	--	E	550
+#546	FN	--	E	551
+#547	FN	--	E	551
+#548	FN	--	H	556	LA	558	LA	552
+#549	FN	--	C	553
+#550	FN	--	C	553
+#551	FN	--	A	554
+#552	LKG	--	--	0
+#553	FN	--	A	555
+#554	FN	--	H	556	LA	557	LA	558
+#555	FN	--	H	556	LA	557
+#556	FN	--	--	0
+#557	LKG	--	--	0
+#558	LKG	--	--	0
+#EOS 876004

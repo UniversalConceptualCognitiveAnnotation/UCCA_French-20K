@@ -1,0 +1,32 @@
+#BOS 926000
+Nous	Word	--	Terminal	500
+étions	Word	--	Terminal	501
+enfin	Word	--	Terminal	502
+sur	Word	--	Terminal	503
+le	Word	--	Terminal	504
+théâtre	Word	--	Terminal	505
+des	Word	--	Terminal	506
+derniers	Word	--	Terminal	507
+ébats	Word	--	Terminal	508
+du	Word	--	Terminal	509
+monstre	Word	--	Terminal	510
+!	Punctuation	--	Terminal	511
+#500	FN	--	A	515
+#501	FN	--	S	515
+#502	FN	--	L	516	LR	517
+#503	FN	--	R	514
+#504	FN	--	E	514
+#505	FN	--	C	514
+#506	FN	--	R	513
+#507	FN	--	D	513
+#508	FN	--	P	513
+#509	FN	--	R	512
+#510	FN	--	C	512
+#511	PNCT	--	U	512
+#512	FN	--	A	513
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516	LA	517
+#516	FN	--	--	0
+#517	LKG	--	--	0
+#EOS 926000

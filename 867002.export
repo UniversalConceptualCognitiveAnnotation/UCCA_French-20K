@@ -1,0 +1,27 @@
+#BOS 867002
+Tout	Word	--	Terminal	500
+ce	Word	--	Terminal	501
+que	Word	--	Terminal	502
+vous	Word	--	Terminal	503
+voudrez	Word	--	Terminal	504
+excepté	Word	--	Terminal	505
+cela	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	E	509
+#501	FN	--	F	510
+#502	FN	--	F	510
+#503	FN	--	A	510
+#504	FN	--	P	510
+#505	FN	--	S	511
+#506	FN	--	A	511
+#507	PNCT	--	U	511
+#508	FN	--	C	509
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	A	514
+#512	FN	--	A	514
+#513	FN	--	P	514
+#514	FN	--	H	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 867002

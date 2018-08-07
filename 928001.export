@@ -1,0 +1,56 @@
+#BOS 928001
+Un	Word	--	Terminal	500
+nouveau	Word	--	Terminal	501
+sentiment	Word	--	Terminal	502
+se	Word	--	Terminal	503
+produisit	Word	--	Terminal	503
+à	Word	--	Terminal	504
+bord	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+qui	Word	--	Terminal	507
+se	Word	--	Terminal	508
+composait	Word	--	Terminal	508
+de	Word	--	Terminal	509
+trois	Word	--	Terminal	510
+dixièmes	Word	--	Terminal	511
+de	Word	--	Terminal	512
+honte	Word	--	Terminal	513
+contre	Word	--	Terminal	514
+sept	Word	--	Terminal	515
+dixièmes	Word	--	Terminal	516
+de	Word	--	Terminal	517
+fureur	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	E	520
+#501	FN	--	E	520
+#502	FN	--	C	520	A*	529
+#503	FN	--	P	526
+#504	FN	--	R	521
+#505	FN	--	C	521
+#506	PNCT	--	U	530
+#507	FN	--	L	530	LR	531
+#508	FN	--	S	529
+#509	FN	--	R	528
+#510	FN	--	E	522
+#511	FN	--	C	522
+#512	FN	--	R	522
+#513	FN	--	C	523
+#514	FN	--	N	527
+#515	FN	--	E	524
+#516	FN	--	C	524
+#517	FN	--	R	524
+#518	FN	--	C	525
+#519	PNCT	--	U	525
+#520	FN	--	A	526
+#521	FN	--	A	526
+#522	FN	--	E	523
+#523	FN	--	C	527
+#524	FN	--	E	525
+#525	FN	--	C	527
+#526	FN	--	H	530	LA	531
+#527	FN	--	C	528
+#528	FN	--	A	529
+#529	FN	--	H	530	LA	531
+#530	FN	--	--	0
+#531	LKG	--	--	0
+#EOS 928001

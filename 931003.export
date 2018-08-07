@@ -1,0 +1,86 @@
+#BOS 931003
+Je	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+veux	Word	--	Terminal	502
+pas	Word	--	Terminal	501
+dire	Word	--	Terminal	503
+qu’	Word	--	Terminal	504
+il	Word	--	Terminal	505
+y	Word	--	Terminal	505
+eut	Word	--	Terminal	505
+révolte	Word	--	Terminal	506
+à	Word	--	Terminal	507
+bord	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+mais	Word	--	Terminal	510
+après	Word	--	Terminal	511
+une	Word	--	Terminal	512
+raisonnable	Word	--	Terminal	513
+période	Word	--	Terminal	514
+d’	Word	--	Terminal	515
+obstination	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+le	Word	--	Terminal	518
+commandant	Word	--	Terminal	519
+Farragut	Word	--	Terminal	520
+comme	Word	--	Terminal	521
+autrefois	Word	--	Terminal	522
+Colomb	Word	--	Terminal	523
+,	Punctuation	--	Terminal	524
+demanda	Word	--	Terminal	525
+trois	Word	--	Terminal	526
+jours	Word	--	Terminal	527
+de	Word	--	Terminal	528
+patience	Word	--	Terminal	529
+.	Punctuation	--	Terminal	530
+#500	FN	--	A	540
+#501	FN	--	D	540
+#502	FN	--	D	540
+#503	FN	--	P	540
+#504	FN	--	R	539
+#505	FN	--	F	539
+#506	FN	--	P	539
+#507	FN	--	R	531
+#508	FN	--	C	531
+#509	PNCT	--	U	546
+#510	FN	--	L	546	LR	549
+#511	FN	--	L	546	LR	548
+#512	FN	--	E	532
+#513	FN	--	E	532
+#514	FN	--	C	532
+#515	FN	--	F	533
+#516	FN	--	C	533
+#517	PNCT	--	U	546
+#518	FN	--	E	534
+#519	FN	--	C	534
+#520	FN	--	C	535	A*	536
+#521	FN	--	L	546	LR	547
+#522	FN	--	D	545
+#523	FN	--	A	545
+#524	PNCT	--	U	545
+#525	FN	--	P	544	P*	545
+#526	FN	--	E	537
+#527	FN	--	C	537
+#528	FN	--	R	538
+#529	FN	--	C	538
+#530	PNCT	--	U	538
+#531	FN	--	A	539
+#532	FN	--	T	536
+#533	FN	--	P	536
+#534	FN	--	E	535
+#535	FN	--	A	544
+#536	FN	--	H	546	LA	548
+#537	FN	--	T	543
+#538	FN	--	P	543
+#539	FN	--	A	540
+#540	FN	--	H	546	LA	549
+#541	FN	--	A	544
+#542	FN	--	A	543
+#543	FN	--	A	544	A*	545
+#544	FN	--	H	546	LA	547	LA	548	LA	549
+#545	FN	--	H	546	LA	547
+#546	FN	--	--	0
+#547	LKG	--	--	0
+#548	LKG	--	--	0
+#549	LKG	--	--	0
+#EOS 931003

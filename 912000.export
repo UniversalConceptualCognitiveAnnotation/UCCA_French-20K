@@ -1,0 +1,72 @@
+#BOS 912000
+Au	Word	--	Terminal	500
+large	Word	--	Terminal	501
+des	Word	--	Terminal	502
+Malouines	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+le	Word	--	Terminal	505
+30	Word	--	Terminal	506
+juin	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+la	Word	--	Terminal	508
+frégate	Word	--	Terminal	509
+communiqua	Word	--	Terminal	510
+avec	Word	--	Terminal	511
+des	Word	--	Terminal	512
+baleiniers	Word	--	Terminal	513
+américains	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+et	Word	--	Terminal	516
+nous	Word	--	Terminal	517
+apprîmes	Word	--	Terminal	518
+qu’	Word	--	Terminal	519
+ils	Word	--	Terminal	520
+n’	Word	--	Terminal	521
+avaient	Word	--	Terminal	522
+eu	Word	--	Terminal	523
+aucune	Word	--	Terminal	524
+connaissance	Word	--	Terminal	525
+du	Word	--	Terminal	526
+narwal	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	R	529
+#501	FN	--	C	529
+#502	FN	--	R	529	E*	530
+#503	FN	--	C	530
+#504	PNCT	--	U	535
+#505	FN	--	E	531
+#506	FN	--	C	531
+#507	PNCT	--	U	535
+#508	FN	--	E	532
+#509	FN	--	C	532
+#510	FN	--	P	535
+#511	FN	--	R	533
+#512	FN	--	E	533
+#513	FN	--	C	533
+#514	FN	--	E	533
+#515	PNCT	--	U	538
+#516	FN	--	L	538	LR	539
+#517	FN	--	A	537
+#518	FN	--	P	537
+#519	FN	--	R	536
+#520	FN	--	A	536
+#521	FN	--	D	536
+#522	FN	--	F	536
+#523	FN	--	F	536
+#524	FN	--	D	536
+#525	FN	--	S	536
+#526	FN	--	R	534
+#527	FN	--	C	534
+#528	PNCT	--	U	534
+#529	FN	--	E	530
+#530	FN	--	A	535
+#531	FN	--	T	535
+#532	FN	--	A	535
+#533	FN	--	A	535
+#534	FN	--	A	536
+#535	FN	--	H	538	LA	539
+#536	FN	--	A	537
+#537	FN	--	H	538	LA	539
+#538	FN	--	--	0
+#539	LKG	--	--	0
+#EOS 912000

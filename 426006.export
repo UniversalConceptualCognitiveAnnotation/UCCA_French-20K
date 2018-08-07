@@ -1,0 +1,65 @@
+#BOS 426006
+Et	Word	--	Terminal	500
+même	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+«	Punctuation	--	Terminal	503
+l'honorable	Word	--	Terminal	504
+Pierre	Word	--	Terminal	505
+Aronnax	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+professeur	Word	--	Terminal	507
+au	Word	--	Terminal	508
+Muséum	Word	--	Terminal	509
+de	Word	--	Terminal	510
+Paris	Word	--	Terminal	511
+»	Punctuation	--	Terminal	512
+,	Punctuation	--	Terminal	513
+fut	Word	--	Terminal	514
+mis	Word	--	Terminal	515
+en	Word	--	Terminal	515
+demeure	Word	--	Terminal	515
+par	Word	--	Terminal	516
+le	Word	--	Terminal	517
+New	Word	--	Terminal	518
+York-Herald	Word	--	Terminal	518
+de	Word	--	Terminal	519
+formuler	Word	--	Terminal	520
+une	Word	--	Terminal	521
+opinion	Word	--	Terminal	522
+quelconque	Word	--	Terminal	523
+#500	FN	--	L	532	LR	534
+#501	FN	--	L	532	LR	533
+#502	PNCT	--	U	532
+#503	PNCT	--	U	532
+#504	FN	--	E	530
+#505	FN	--	C	530	A*	528
+#506	PNCT	--	U	530
+#507	FN	--	C	529
+#508	FN	--	R	527
+#509	FN	--	C	527
+#510	FN	--	R	524
+#511	FN	--	C	524
+#512	PNCT	--	U	531
+#513	PNCT	--	U	531
+#514	FN	--	F	531
+#515	FN	--	P	531
+#516	FN	--	R	525
+#517	FN	--	E	525
+#518	FN	--	C	525
+#519	FN	--	R	528
+#520	FN	--	P	528
+#521	FN	--	E	526
+#522	FN	--	C	526
+#523	FN	--	E	526
+#524	FN	--	E	527
+#525	FN	--	A	531
+#526	FN	--	A	528
+#527	FN	--	E	529
+#528	FN	--	A	531
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	H	532	LA	533	LA	534
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#534	LKG	--	--	0
+#EOS 426006

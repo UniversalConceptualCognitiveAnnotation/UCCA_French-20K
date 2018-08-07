@@ -1,0 +1,43 @@
+#BOS 426001
+J	Word	--	Terminal	500
+'avais	Word	--	Terminal	501
+publié	Word	--	Terminal	502
+en	Word	--	Terminal	503
+France	Word	--	Terminal	504
+un	Word	--	Terminal	505
+ouvrage	Word	--	Terminal	506
+in-quarto	Word	--	Terminal	507
+en	Word	--	Terminal	508
+deux	Word	--	Terminal	509
+volumes	Word	--	Terminal	510
+intitulé	Word	--	Terminal	511
+:	Punctuation	--	Terminal	512
+Les	Word	--	Terminal	513
+Mystères	Word	--	Terminal	513
+des	Word	--	Terminal	513
+grands	Word	--	Terminal	513
+fonds	Word	--	Terminal	513
+sous-marins	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	519
+#501	FN	--	F	519
+#502	FN	--	P	519
+#503	FN	--	R	515
+#504	FN	--	C	515
+#505	FN	--	E	518
+#506	FN	--	C	518	A*	516
+#507	FN	--	E	518
+#508	FN	--	R	517
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	P	516
+#512	PNCT	--	U	516
+#513	FN	--	A	516
+#514	PNCT	--	U	516
+#515	FN	--	A	519
+#516	FN	--	E	518
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 426001

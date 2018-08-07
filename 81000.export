@@ -1,0 +1,104 @@
+#BOS 81000
+Or	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+il	Word	--	Terminal	502
+existait	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+le	Word	--	Terminal	505
+fait	Word	--	Terminal	506
+en	Word	--	Terminal	507
+lui	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+même	Word	--	Terminal	508
+n'	Word	--	Terminal	510
+était	Word	--	Terminal	511
+plus	Word	--	Terminal	510
+niable	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+et	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+avec	Word	--	Terminal	516
+ce	Word	--	Terminal	517
+penchant	Word	--	Terminal	518
+qui	Word	--	Terminal	519
+pousse	Word	--	Terminal	520
+au	Word	--	Terminal	521
+merveilleux	Word	--	Terminal	522
+la	Word	--	Terminal	523
+cervelle	Word	--	Terminal	524
+humaine	Word	--	Terminal	525
+,	Punctuation	--	Terminal	526
+on	Word	--	Terminal	527
+comprendra	Word	--	Terminal	528
+l'	Word	--	Terminal	529
+émotion	Word	--	Terminal	530
+produite	Word	--	Terminal	531
+dans	Word	--	Terminal	532
+le	Word	--	Terminal	533
+monde	Word	--	Terminal	534
+entier	Word	--	Terminal	535
+par	Word	--	Terminal	536
+cette	Word	--	Terminal	537
+surnaturelle	Word	--	Terminal	538
+apparition	Word	--	Terminal	539
+.	Punctuation	--	Terminal	540
+#500	FN	--	L	557	LR	549
+#501	PNCT	--	U	557
+#502	FN	--	A	541
+#503	FN	--	P	541
+#504	PNCT	--	U	557
+#505	FN	--	E	550
+#506	FN	--	C	550
+#507	FN	--	R	542
+#508	FN	--	C	542
+#509	PNCT	--	U	542
+#510	FN	--	D	552
+#511	FN	--	F	552
+#512	FN	--	P	552
+#513	PNCT	--	U	557
+#514	FN	--	L	557	LR	558
+#515	PNCT	--	U	557
+#516	FN	--	L	557	LR	554
+#517	FN	--	E	543
+#518	FN	--	C	543
+#519	FN	--	F	548
+#520	FN	--	P	548
+#521	FN	--	R	544
+#522	FN	--	C	544
+#523	FN	--	E	545
+#524	FN	--	C	545
+#525	FN	--	E	545
+#526	PNCT	--	U	557
+#527	FN	--	A	556
+#528	FN	--	P	556
+#529	FN	--	E	555
+#530	FN	--	C	555	A*	553
+#531	FN	--	P	553
+#532	FN	--	R	546
+#533	FN	--	E	546
+#534	FN	--	C	546
+#535	FN	--	E	546
+#536	FN	--	R	547
+#537	FN	--	E	547
+#538	FN	--	E	547
+#539	FN	--	C	547
+#540	PNCT	--	U	547
+#541	FN	--	H	557	LA	549
+#542	FN	--	E	550
+#543	FN	--	A	548
+#544	FN	--	A	548
+#545	FN	--	A	548
+#546	FN	--	A	553
+#547	FN	--	A	553
+#548	FN	--	H	557	LA	554
+#549	LKG	--	--	0
+#550	FN	--	A	552
+#551	FN	--	A	552
+#552	FN	--	H	557
+#553	FN	--	E	555
+#554	LKG	--	--	0
+#555	FN	--	A	556
+#556	FN	--	H	557	LA	558
+#557	FN	--	--	0
+#558	LKG	--	--	0
+#EOS 81000
