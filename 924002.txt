@@ -1,0 +1,16 @@
+# ::id 924002
+# ::tok Mais le moyen de procéder autrement ?
+# ::alignments 0-1.1 1-1.2.3.1 2-1.2.3.2 3-1.2.3.3.2 4-1.2.3.3.3 5-1.2.3.3.4
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2)
+                  :E (v9 / label
+                         :A (v10 / label)
+                         :R (v11 / label~e.3)
+                         :P (v12 / label~e.4)
+                         :D (v13 / label~e.5)))))
