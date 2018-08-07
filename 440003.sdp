@@ -1,0 +1,13 @@
+1	L'esprit	_	Word	-	+	_	_	_	_	_
+2	humain	_	Word	-	-	_	E	_	_	_
+3	se	_	Word	-	+	_	_	_	_	_
+4	plaît	_	Word	-	-	_	_	Terminal	_	_
+5	à	_	Word	-	-	_	_	_	R	_
+6	ces	_	Word	-	-	_	_	_	E	_
+7	conceptions	_	Word	-	+	_	_	_	_	_
+8	grandioses	_	Word	-	-	_	_	_	E	_
+9	d'	_	Word	-	-	_	_	_	_	R
+10	êtres	_	Word	-	+	_	_	_	_	_
+11	surnaturels	_	Word	-	-	_	_	_	_	E
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

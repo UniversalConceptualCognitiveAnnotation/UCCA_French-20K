@@ -1,0 +1,24 @@
+1	Ceci	_	Word	-	+	_	_	L	_	_	_	_	_
+2	dit	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+4	personne	_	Word	-	-	_	_	A	_	_	_	_	_
+5	ne	_	Word	-	-	_	_	D	_	_	_	_	_
+6	s'	_	Word	-	+	_	_	_	_	_	_	_	_
+7	étonnera	_	Word	-	-	_	_	Terminal	_	_	_	_	_
+8	du	_	Word	-	-	_	_	_	R	_	_	_	_
+9	retentissement	_	Word	-	+	_	_	_	_	_	_	_	_
+10	que	_	Word	-	-	_	_	_	R	_	_	_	_
+11	provoqua	_	Word	-	-	_	_	_	_	_	_	_	_
+12	l'	_	Word	-	-	_	_	_	_	E	_	_	_
+13	accident	_	Word	-	+	_	_	_	_	_	_	_	_
+14	arrivé	_	Word	-	-	_	_	_	_	_	_	_	_
+15	à	_	Word	-	-	_	_	_	_	_	R	_	_
+16	l'	_	Word	-	-	_	_	_	_	_	E	_	_
+17	un	_	Word	-	+	_	_	_	_	_	_	_	_
+18	de	_	Word	-	-	_	_	_	_	_	_	_	R
+19	ses	_	Word	-	-	_	_	_	_	_	_	_	E
+20	plus	_	Word	-	-	_	_	_	_	_	_	E	_
+21	beaux	_	Word	-	+	_	_	_	_	_	_	_	_
+22	steamers	_	Word	-	+	_	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

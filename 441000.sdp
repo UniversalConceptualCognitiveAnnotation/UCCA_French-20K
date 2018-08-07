@@ -1,0 +1,18 @@
+1	Mais	_	Word	-	-	_	_	L	_	_	_	_
+2	je	_	Word	-	-	_	_	A	_	_	_	_
+3	me	_	Word	-	-	_	E	_	_	_	_	_
+4	laisse	_	Word	-	+	_	_	_	_	_	_	_
+5	entraîner	_	Word	-	+	_	_	_	_	_	_	_
+6	à	_	Word	-	-	_	_	_	R	_	_	_
+7	des	_	Word	-	-	_	_	_	E	_	_	_
+8	rêveries	_	Word	-	+	_	_	_	_	_	_	_
+9	qu'	_	Word	-	-	_	_	_	_	_	_	R
+10	il	_	Word	-	-	_	_	_	_	_	_	F
+11	ne	_	Word	-	+	_	_	_	_	_	_	D
+12	m'	_	Word	-	+	_	_	_	_	_	_	D
+13	appartient	_	Word	-	-	_	_	_	_	_	Terminal	_
+14	plus	_	Word	-	-	_	_	_	_	Terminal	_	_
+15	d'	_	Word	-	-	_	_	_	_	_	_	R
+16	entretenir	_	Word	-	+	_	_	_	_	_	_	_
+17	!	_	Punctuation	-	-	_	_	_	_	_	_	U
+

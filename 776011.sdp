@@ -1,0 +1,24 @@
+1	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+2	On	_	Word	-	-	_	A	_	_	_	_	_	_
+3	le	_	Word	-	-	_	A	_	_	_	_	_	_
+4	nourrira	_	Word	-	+	_	_	_	_	_	_	_	_
+5	pendant	_	Word	-	-	_	_	R	_	_	_	_	_
+6	notre	_	Word	-	-	_	_	E	_	_	_	_	_
+7	absence	_	Word	-	+	_	_	_	_	_	_	_	_
+8	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+9	D’	_	Word	-	-	_	_	_	R	_	_	_	_
+10	ailleurs	_	Word	-	+	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+12	je	_	Word	-	-	_	_	_	_	A	_	_	_
+13	donnerai	_	Word	-	+	_	_	_	_	_	_	_	_
+14	l’	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+15	ordre	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+16	de	_	Word	-	-	_	_	_	_	_	F	_	_
+17	nous	_	Word	-	-	_	_	_	_	_	A	_	_
+18	expédier	_	Word	-	+	_	_	_	_	_	_	_	_
+19	en	_	Word	-	-	_	_	_	_	_	_	R	_
+20	France	_	Word	-	+	_	_	_	_	_	_	_	_
+21	notre	_	Word	-	-	_	_	_	_	_	_	_	E
+22	ménagerie	_	Word	-	+	_	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,17 @@
+1	J'	_	Word	-	-	_	A	_	_	_	A
+2	avais	_	Word	-	-	_	F	_	_	_	_
+3	lu	_	Word	-	+	_	_	_	_	_	_
+4	et	_	Word	-	-	_	N	_	_	_	_
+5	relu	_	Word	-	-	_	C	_	_	_	_
+6	tous	_	Word	-	-	_	_	E	_	E	_
+7	les	_	Word	-	-	_	_	E	_	E	_
+8	journaux	_	Word	-	+	_	_	_	_	C	_
+9	américains	_	Word	-	+	_	_	_	_	_	_
+10	et	_	Word	-	-	_	_	_	N	_	_
+11	européens	_	Word	-	+	_	_	_	_	_	_
+12	sans	_	Word	-	-	_	L	_	_	_	_
+13	être	_	Word	-	-	_	_	_	_	_	F
+14	plus	_	Word	-	-	_	_	_	_	_	E
+15	avancé	_	Word	-	+	_	_	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+

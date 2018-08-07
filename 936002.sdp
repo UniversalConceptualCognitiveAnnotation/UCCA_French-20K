@@ -1,0 +1,22 @@
+1	L’	_	Word	-	-	_	E	_	_	_	_	_	_	_
+2	équipage	_	Word	-	+	_	_	A	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+4	juché	_	Word	-	+	_	_	_	_	_	_	_	_	_
+5	dans	_	Word	-	-	_	_	_	R	_	_	_	_	_
+6	les	_	Word	-	-	_	_	_	E	_	_	_	_	_
+7	haubans	_	Word	-	+	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+9	examinait	_	Word	-	+	_	_	_	_	_	_	_	_	_
+10	l’	_	Word	-	-	_	_	_	_	_	E	_	_	_
+11	horizon	_	Word	-	+	_	_	_	_	_	_	_	_	_
+12	qui	_	Word	-	-	_	_	_	_	_	_	R	_	_
+13	se	_	Word	-	+	_	_	_	_	_	_	_	_	_
+14	rétrécissait	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+15	et	_	Word	-	-	_	_	_	_	_	_	N	_	_
+16	s’	_	Word	-	+	_	_	_	_	_	_	C	_	_
+17	obscurcissait	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+18	peu	_	Word	-	+	_	_	_	_	_	_	_	_	_
+19	à	_	Word	-	-	_	_	_	_	_	_	_	_	R
+20	peu	_	Word	-	-	_	_	_	_	_	_	_	_	C
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+
