@@ -6,10 +6,9 @@
 5	se	_	Word	-	+	_	_	_	_	_	_
 6	précipitèrent	_	Word	-	-	_	_	_	Terminal	_	_
 7	à	_	Word	-	-	_	_	_	_	R	_
-8	l	_	Word	-	-	_	_	_	_	E	_
-9	'	_	Punctuation	-	-	_	_	_	_	U	_
-10	arrière	_	Word	-	+	_	_	_	_	_	E
-11	du	_	Word	-	-	_	_	_	_	R	_
-12	bâtiment	_	Word	-	+	_	_	_	A	_	_
-13	.	_	Punctuation	-	-	_	_	_	_	_	U
+8	l'	_	Word	-	-	_	_	_	_	E	_
+9	arrière	_	Word	-	+	_	_	_	_	_	E
+10	du	_	Word	-	-	_	_	_	_	R	_
+11	bâtiment	_	Word	-	+	_	_	_	A	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	_	U
 

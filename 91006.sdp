@@ -21,15 +21,14 @@
 20	il	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
 21	fut	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
 22	reconnu	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-23	qu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-24	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
-25	une	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-26	partie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
-27	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-28	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-29	quille	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-30	avait	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-31	été	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-32	brisée	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+23	qu'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+24	une	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+25	partie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+26	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+27	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+28	quille	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+29	avait	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+30	été	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+31	brisée	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

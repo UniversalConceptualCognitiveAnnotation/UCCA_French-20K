@@ -7,9 +7,8 @@
 6	ces	_	Word	-	-	_	_	_	E	_
 7	conceptions	_	Word	-	+	_	_	A	_	_
 8	grandioses	_	Word	-	-	_	_	_	E	_
-9	d	_	Word	-	-	_	_	_	_	R
-10	'	_	Punctuation	-	-	_	_	_	_	U
-11	êtres	_	Word	-	+	_	_	_	E	_
-12	surnaturels	_	Word	-	-	_	_	_	_	E
-13	.	_	Punctuation	-	-	_	_	_	_	U
+9	d'	_	Word	-	-	_	_	_	_	R
+10	êtres	_	Word	-	+	_	_	_	E	_
+11	surnaturels	_	Word	-	-	_	_	_	_	E
+12	.	_	Punctuation	-	-	_	_	_	_	U
 

@@ -11,9 +11,8 @@
 10	quelque	_	Word	-	-	_	_	_	E	_
 11	énorme	_	Word	-	-	_	_	_	E	_
 12	épave	_	Word	-	+	_	H	_	_	_
-13	d	_	Word	-	-	_	_	_	_	R
-14	'	_	Punctuation	-	-	_	_	_	_	U
-15	un	_	Word	-	-	_	_	_	_	E
-16	naufrage	_	Word	-	+	_	_	_	E	_
-17	?	_	Punctuation	-	-	_	_	_	_	U
+13	d'	_	Word	-	-	_	_	_	_	R
+14	un	_	Word	-	-	_	_	_	_	E
+15	naufrage	_	Word	-	+	_	_	_	E	_
+16	?	_	Punctuation	-	-	_	_	_	_	U
 

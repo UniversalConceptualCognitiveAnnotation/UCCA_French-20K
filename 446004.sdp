@@ -7,8 +7,7 @@
 6	à	_	Word	-	-	_	_	_	F	_
 7	son	_	Word	-	-	_	_	_	E	_
 8	rôle	_	Word	-	+	_	_	A	_	_
-9	d	_	Word	-	-	_	_	_	_	R
-10	'	_	Punctuation	-	-	_	_	_	_	U
-11	équipage	_	Word	-	+	_	_	_	E	_
-12	.	_	Punctuation	-	-	_	_	_	_	U
+9	d'	_	Word	-	-	_	_	_	_	R
+10	équipage	_	Word	-	+	_	_	_	E	_
+11	.	_	Punctuation	-	-	_	_	_	_	U
 

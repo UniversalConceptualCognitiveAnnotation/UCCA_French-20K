@@ -27,11 +27,10 @@
 26	cent	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
 27	trente-sept	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
 28	passagers	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-29	qu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-30	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
-31	il	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
-32	ramenait	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-33	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-34	Canada	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+29	qu'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+30	il	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
+31	ramenait	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+32	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+33	Canada	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

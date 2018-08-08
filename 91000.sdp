@@ -1,20 +1,19 @@
 # format = ucca
-1	L	_	Word	-	-	_	E	_	_	_	_	_
-2	'	_	Punctuation	-	-	_	U	_	_	_	_	_
-3	accident	_	Word	-	+	_	_	A	_	_	_	_
-4	était	_	Word	-	-	_	_	F	_	_	_	_
-5	arrivé	_	Word	-	+	_	_	_	_	_	_	_
-6	vers	_	Word	-	-	_	_	_	E	_	_	_
-7	cinq	_	Word	-	+	_	_	T	_	_	_	_
-8	heures	_	Word	-	-	_	_	_	Terminal	_	_	_
-9	du	_	Word	-	-	_	_	_	_	R	_	_
-10	matin	_	Word	-	+	_	_	_	E	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-12	lorsque	_	Word	-	-	_	_	L	_	_	_	_
-13	le	_	Word	-	-	_	_	_	_	_	E	_
-14	jour	_	Word	-	+	_	_	_	_	_	_	A
-15	commençait	_	Word	-	-	_	_	_	_	_	_	D
-16	à	_	Word	-	-	_	_	_	_	_	_	R
-17	poindre	_	Word	-	+	_	_	H	_	_	_	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	L'	_	Word	-	-	_	E	_	_	_	_	_
+2	accident	_	Word	-	+	_	_	A	_	_	_	_
+3	était	_	Word	-	-	_	_	F	_	_	_	_
+4	arrivé	_	Word	-	+	_	_	_	_	_	_	_
+5	vers	_	Word	-	-	_	_	_	E	_	_	_
+6	cinq	_	Word	-	+	_	_	T	_	_	_	_
+7	heures	_	Word	-	-	_	_	_	Terminal	_	_	_
+8	du	_	Word	-	-	_	_	_	_	R	_	_
+9	matin	_	Word	-	+	_	_	_	E	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+11	lorsque	_	Word	-	-	_	_	L	_	_	_	_
+12	le	_	Word	-	-	_	_	_	_	_	E	_
+13	jour	_	Word	-	+	_	_	_	_	_	_	A
+14	commençait	_	Word	-	-	_	_	_	_	_	_	D
+15	à	_	Word	-	-	_	_	_	_	_	_	R
+16	poindre	_	Word	-	+	_	_	H	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

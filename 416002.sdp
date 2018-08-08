@@ -12,16 +12,15 @@
 11	précieuses	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
 12	collections	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
 13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-14	j	_	Word	-	-	_	_	A	_	A	_	A	_	_	_
-15	'	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-16	arrivai	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
-17	à	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-18	New	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
-19	York	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-20	vers	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-21	la	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-22	fin	_	Word	-	+	_	_	_	_	_	_	_	_	_	E
-23	de	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-24	mars	_	Word	-	+	_	_	_	_	_	_	T	_	_	_
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+14	j'	_	Word	-	-	_	_	A	_	A	_	A	_	_	_
+15	arrivai	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+16	à	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+17	New	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+18	York	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+19	vers	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+20	la	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+21	fin	_	Word	-	+	_	_	_	_	_	_	_	_	_	E
+22	de	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+23	mars	_	Word	-	+	_	_	_	_	_	_	T	_	_	_
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

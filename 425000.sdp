@@ -33,10 +33,9 @@
 32	plus	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 33	absurdes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
 34	rêveries	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-35	d	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-36	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-37	une	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	ichthyologie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-39	fantastique	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+35	d'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+36	une	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+37	ichthyologie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+38	fantastique	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
