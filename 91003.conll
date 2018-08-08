@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 91003
-1	Ils	_	Word	Word	_	13	A	_	_
+1	Ils	_	Word	Word	_	12	A	_	_
 1	Ils	_	Word	Word	_	3	A	_	_
 2	ne	_	Word	Word	_	3	D	_	_
 3	virent	_	Word	Word	_	0	ROOT	_	_
@@ -8,26 +8,25 @@
 5	,	_	Punctuation	Punctuation	_	3	U	_	_
 6	si	_	Word	Word	_	3	L	_	_
 7	ce	_	Word	Word	_	6	Terminal	_	_
-8	n	_	Word	Word	_	6	Terminal	_	_
-9	'	_	Punctuation	Punctuation	_	3	U	_	_
-10	est	_	Word	Word	_	6	Terminal	_	_
-11	un	_	Word	Word	_	13	E	_	_
-12	fort	_	Word	Word	_	13	E	_	_
-13	remous	_	Word	Word	_	3	H	_	_
-14	qui	_	Word	Word	_	15	R	_	_
-15	brisait	_	Word	Word	_	13	E	_	_
-16	à	_	Word	Word	_	18	R	_	_
-17	trois	_	Word	Word	_	18	E	_	_
-18	encablures	_	Word	Word	_	15	A	_	_
-19	,	_	Punctuation	Punctuation	_	3	U	_	_
-20	comme	_	Word	Word	_	3	L	_	_
-21	si	_	Word	Word	_	20	Terminal	_	_
-22	les	_	Word	Word	_	23	E	_	_
-23	nappes	_	Word	Word	_	28	A	_	_
-24	liquides	_	Word	Word	_	23	E	_	_
-25	eussent	_	Word	Word	_	28	F	_	_
-26	été	_	Word	Word	_	28	F	_	_
-27	violemment	_	Word	Word	_	28	D	_	_
-28	battues	_	Word	Word	_	3	H	_	_
-29	.	_	Punctuation	Punctuation	_	28	U	_	_
+8	n'	_	Word	Word	_	6	Terminal	_	_
+9	est	_	Word	Word	_	6	Terminal	_	_
+10	un	_	Word	Word	_	12	E	_	_
+11	fort	_	Word	Word	_	12	E	_	_
+12	remous	_	Word	Word	_	3	H	_	_
+13	qui	_	Word	Word	_	14	R	_	_
+14	brisait	_	Word	Word	_	12	E	_	_
+15	à	_	Word	Word	_	17	R	_	_
+16	trois	_	Word	Word	_	17	E	_	_
+17	encablures	_	Word	Word	_	14	A	_	_
+18	,	_	Punctuation	Punctuation	_	3	U	_	_
+19	comme	_	Word	Word	_	3	L	_	_
+20	si	_	Word	Word	_	19	Terminal	_	_
+21	les	_	Word	Word	_	22	E	_	_
+22	nappes	_	Word	Word	_	27	A	_	_
+23	liquides	_	Word	Word	_	22	E	_	_
+24	eussent	_	Word	Word	_	27	F	_	_
+25	été	_	Word	Word	_	27	F	_	_
+26	violemment	_	Word	Word	_	27	D	_	_
+27	battues	_	Word	Word	_	3	H	_	_
+28	.	_	Punctuation	Punctuation	_	27	U	_	_
 

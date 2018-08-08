@@ -37,8 +37,8 @@
 35	-	_	Punctuation	Punctuation	_	11	U	_	_
 36	ce	_	Word	Word	_	40	Terminal	_	_
 37	que	_	Word	Word	_	40	Terminal	_	_
-38	nous	_	Word	Word	_	40	A	_	_
 38	nous	_	Word	Word	_	56	A	_	_
+38	nous	_	Word	Word	_	40	A	_	_
 39	ne	_	Word	Word	_	40	D	_	_
 40	courons	_	Word	Word	_	11	H	_	_
 41	pas	_	Word	Word	_	39	Terminal	_	_

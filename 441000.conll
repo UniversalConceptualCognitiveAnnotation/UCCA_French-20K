@@ -8,16 +8,13 @@
 6	à	_	Word	Word	_	8	R	_	_
 7	des	_	Word	Word	_	8	E	_	_
 8	rêveries	_	Word	Word	_	5	A	_	_
-9	qu	_	Word	Word	_	19	R	_	_
-10	'	_	Punctuation	Punctuation	_	19	U	_	_
-11	il	_	Word	Word	_	19	F	_	_
-12	ne	_	Word	Word	_	19	D	_	_
-13	m	_	Word	Word	_	19	D	_	_
-14	'	_	Punctuation	Punctuation	_	19	U	_	_
-15	appartient	_	Word	Word	_	13	Terminal	_	_
-16	plus	_	Word	Word	_	12	Terminal	_	_
-17	d	_	Word	Word	_	19	R	_	_
-18	'	_	Punctuation	Punctuation	_	19	U	_	_
-19	entretenir	_	Word	Word	_	8	E	_	_
-20	!	_	Punctuation	Punctuation	_	19	U	_	_
+9	qu'	_	Word	Word	_	16	R	_	_
+10	il	_	Word	Word	_	16	F	_	_
+11	ne	_	Word	Word	_	16	D	_	_
+12	m'	_	Word	Word	_	16	D	_	_
+13	appartient	_	Word	Word	_	12	Terminal	_	_
+14	plus	_	Word	Word	_	11	Terminal	_	_
+15	d'	_	Word	Word	_	16	R	_	_
+16	entretenir	_	Word	Word	_	8	E	_	_
+17	!	_	Punctuation	Punctuation	_	16	U	_	_
 

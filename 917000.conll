@@ -15,10 +15,9 @@
 13	répétaient	_	Word	Word	_	0	ROOT	_	_
 14	les	_	Word	Word	_	15	E	_	_
 15	matelots	_	Word	Word	_	13	A	_	_
-16	de	_	Word	Word	_	19	R	_	_
-17	l	_	Word	Word	_	19	E	_	_
-18	'	_	Punctuation	Punctuation	_	19	U	_	_
-19	Abraham	_	Word	Word	_	15	E	_	_
-20	Lincoln	_	Word	Word	_	19	Terminal	_	_
-21	.	_	Punctuation	Punctuation	_	19	U	_	_
+16	de	_	Word	Word	_	18	R	_	_
+17	l'	_	Word	Word	_	18	E	_	_
+18	Abraham	_	Word	Word	_	15	E	_	_
+19	Lincoln	_	Word	Word	_	18	Terminal	_	_
+20	.	_	Punctuation	Punctuation	_	18	U	_	_
 
