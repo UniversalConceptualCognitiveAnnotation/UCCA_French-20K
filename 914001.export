@@ -1,0 +1,54 @@
+#BOS 914001
+Le	Word	--	Terminal	500
+3	Word	--	Terminal	501
+juillet	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+nous	Word	--	Terminal	503
+étions	Word	--	Terminal	504
+à	Word	--	Terminal	505
+l’	Word	--	Terminal	506
+ouvert	Word	--	Terminal	507
+du	Word	--	Terminal	508
+détroit	Word	--	Terminal	509
+de	Word	--	Terminal	510
+Magellan	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+à	Word	--	Terminal	513
+la	Word	--	Terminal	514
+hauteur	Word	--	Terminal	515
+du	Word	--	Terminal	516
+cap	Word	--	Terminal	517
+des	Word	--	Terminal	518
+Vierges	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	E	521
+#501	FN	--	C	521
+#502	PNCT	--	U	528
+#503	FN	--	A	528
+#504	FN	--	S	528
+#505	FN	--	R	522
+#506	FN	--	E	522
+#507	FN	--	C	522
+#508	FN	--	R	522	E*	527
+#509	FN	--	C	527
+#510	FN	--	R	523
+#511	FN	--	C	523
+#512	PNCT	--	U	527
+#513	FN	--	R	524
+#514	FN	--	E	524
+#515	FN	--	C	524
+#516	FN	--	R	524	E*	526
+#517	FN	--	C	526
+#518	FN	--	R	525
+#519	FN	--	C	525
+#520	PNCT	--	U	525
+#521	FN	--	T	528
+#522	FN	--	E	527
+#523	FN	--	E	527
+#524	FN	--	E	526
+#525	FN	--	E	526
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 914001

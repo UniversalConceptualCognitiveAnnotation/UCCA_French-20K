@@ -1,0 +1,30 @@
+#BOS 919005
+Les	Word	--	Terminal	500
+capots	Word	--	Terminal	501
+vomissaient	Word	--	Terminal	502
+un	Word	--	Terminal	503
+torrent	Word	--	Terminal	504
+de	Word	--	Terminal	505
+matelots	Word	--	Terminal	506
+et	Word	--	Terminal	507
+d’	Word	--	Terminal	508
+officiers	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	511
+#501	FN	--	C	511
+#502	FN	--	P	515
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	R	512
+#506	FN	--	C	513
+#507	FN	--	N	513
+#508	FN	--	F	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	A	515
+#512	FN	--	E	514
+#513	FN	--	C	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 919005

@@ -1,0 +1,57 @@
+#BOS 940005
+—	Punctuation	--	Terminal	500
+Quand	Word	--	Terminal	501
+on	Word	--	Terminal	502
+a	Word	--	Terminal	503
+l’	Word	--	Terminal	504
+honneur	Word	--	Terminal	505
+d’	Word	--	Terminal	506
+être	Word	--	Terminal	507
+un	Word	--	Terminal	508
+savant	Word	--	Terminal	509
+comme	Word	--	Terminal	510
+monsieur	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+on	Word	--	Terminal	513
+ne	Word	--	Terminal	514
+s’	Word	--	Terminal	515
+expose	Word	--	Terminal	516
+pas	Word	--	Terminal	514
+...	Punctuation	--	Terminal	517
+»	Punctuation	--	Terminal	518
+#500	PNCT	--	U	528
+#501	FN	--	L	528	LR	530
+#502	FN	--	A	527
+#503	FN	--	F	527
+#504	FN	--	E	519
+#505	FN	--	C	519
+#506	FN	--	F	520
+#507	FN	--	C	520	S*	524
+#508	FN	--	E	525
+#509	FN	--	S	523
+#510	FN	--	L	528	LR	529
+#511	FN	--	A	524
+#512	PNCT	--	U	528
+#513	FN	--	A	521
+#514	FN	--	D	521
+#515	FN	--	A	521
+#516	FN	--	P	521
+#517	PNCT	--	U	521
+#518	PNCT	--	U	521
+#519	FN	--	S	527
+#520	FN	--	S	526
+#521	FN	--	H	528	LA	530
+#522	FN	--	A	523
+#523	FN	--	C	525	A*	524
+#524	FN	--	H	528	LA	529
+#525	FN	--	A	526
+#526	FN	--	A	527
+#527	FN	--	H	528	LA	529	LA	530
+#528	FN	--	A	533
+#529	LKG	--	--	0
+#530	LKG	--	--	0
+#531	FN	--	P	533
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 940005

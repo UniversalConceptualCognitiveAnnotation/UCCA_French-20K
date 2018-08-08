@@ -1,0 +1,61 @@
+#BOS 858000
+Peu	Word	--	Terminal	500
+à	Word	--	Terminal	501
+peu	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Ned	Word	--	Terminal	504
+prit	Word	--	Terminal	505
+goût	Word	--	Terminal	505
+à	Word	--	Terminal	506
+causer	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+et	Word	--	Terminal	509
+j’	Word	--	Terminal	510
+aimais	Word	--	Terminal	511
+à	Word	--	Terminal	512
+entendre	Word	--	Terminal	513
+le	Word	--	Terminal	514
+récit	Word	--	Terminal	515
+de	Word	--	Terminal	516
+ses	Word	--	Terminal	517
+aventures	Word	--	Terminal	518
+dans	Word	--	Terminal	519
+les	Word	--	Terminal	520
+mers	Word	--	Terminal	521
+polaires	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	C	524
+#501	FN	--	R	524
+#502	FN	--	C	524
+#503	PNCT	--	U	525
+#504	FN	--	A	525
+#505	FN	--	D	525
+#506	FN	--	F	525
+#507	FN	--	P	525
+#508	PNCT	--	U	532
+#509	FN	--	L	532	LR	533
+#510	FN	--	A	531
+#511	FN	--	D	531
+#512	FN	--	F	531
+#513	FN	--	P	531
+#514	FN	--	E	530
+#515	FN	--	C	530
+#516	FN	--	R	529
+#517	FN	--	E	526
+#518	FN	--	C	526
+#519	FN	--	R	527
+#520	FN	--	E	527
+#521	FN	--	C	527
+#522	FN	--	E	527
+#523	PNCT	--	U	527
+#524	FN	--	D	525
+#525	FN	--	H	532	LA	533
+#526	FN	--	P	529
+#527	FN	--	A	529
+#528	FN	--	A	529
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	H	532	LA	533
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 858000

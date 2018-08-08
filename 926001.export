@@ -1,0 +1,28 @@
+#BOS 926001
+Et	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+pour	Word	--	Terminal	502
+tout	Word	--	Terminal	502
+dire	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+on	Word	--	Terminal	504
+ne	Word	--	Terminal	505
+vivait	Word	--	Terminal	506
+plus	Word	--	Terminal	505
+à	Word	--	Terminal	507
+bord	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	512
+#501	PNCT	--	U	512
+#502	FN	--	G	511
+#503	PNCT	--	U	511
+#504	FN	--	A	511
+#505	FN	--	D	511
+#506	FN	--	P	511
+#507	FN	--	R	510
+#508	FN	--	C	510
+#509	PNCT	--	U	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 926001

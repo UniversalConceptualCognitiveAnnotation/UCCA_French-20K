@@ -1,0 +1,68 @@
+#BOS 100002
+Une	Word	--	Terminal	500
+telle	Word	--	Terminal	501
+voie	Word	--	Terminal	502
+d	Word	--	Terminal	503
+'	Punctuation	--	Terminal	504
+eau	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+pouvait	Word	--	Terminal	507
+être	Word	--	Terminal	508
+aveuglée	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+et	Word	--	Terminal	511
+le	Word	--	Terminal	512
+Scotia	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+ses	Word	--	Terminal	515
+roues	Word	--	Terminal	516
+à	Word	--	Terminal	517
+demi	Word	--	Terminal	518
+noyées	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+dut	Word	--	Terminal	521
+continuer	Word	--	Terminal	522
+ainsi	Word	--	Terminal	523
+son	Word	--	Terminal	524
+voyage	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	E	532
+#501	FN	--	E	532
+#502	FN	--	C	532
+#503	FN	--	R	527
+#504	PNCT	--	U	527
+#505	FN	--	C	527
+#506	FN	--	D	534
+#507	FN	--	D	534
+#508	FN	--	F	534
+#509	FN	--	P	534
+#510	PNCT	--	U	537
+#511	FN	--	L	537	LR	538
+#512	FN	--	E	535
+#513	FN	--	C	535	A*	530
+#514	PNCT	--	U	535
+#515	FN	--	E	528
+#516	FN	--	C	528
+#517	FN	--	R	529
+#518	FN	--	C	529
+#519	FN	--	S	530
+#520	PNCT	--	U	536
+#521	FN	--	D	536
+#522	FN	--	P	536
+#523	FN	--	D	536
+#524	FN	--	E	531
+#525	FN	--	C	531
+#526	PNCT	--	U	531
+#527	FN	--	E	532
+#528	FN	--	A	530
+#529	FN	--	D	530
+#530	FN	--	E	535
+#531	FN	--	A	536
+#532	FN	--	A	534
+#533	FN	--	A	534
+#534	FN	--	H	537	LA	538
+#535	FN	--	A	536
+#536	FN	--	H	537	LA	538
+#537	FN	--	--	0
+#538	LKG	--	--	0
+#EOS 100002

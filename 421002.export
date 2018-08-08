@@ -1,0 +1,50 @@
+#BOS 421002
+Où	Word	--	Terminal	500
+et	Word	--	Terminal	501
+quand	Word	--	Terminal	502
+l	Word	--	Terminal	503
+'	Punctuation	--	Terminal	504
+eut	Word	--	Terminal	505
+-	Punctuation	--	Terminal	506
+il	Word	--	Terminal	507
+fait	Word	--	Terminal	508
+construire	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+et	Word	--	Terminal	511
+comment	Word	--	Terminal	512
+aurait	Word	--	Terminal	513
+-	Punctuation	--	Terminal	514
+il	Word	--	Terminal	515
+tenu	Word	--	Terminal	516
+cette	Word	--	Terminal	517
+construction	Word	--	Terminal	518
+secrète	Word	--	Terminal	519
+?	Punctuation	--	Terminal	520
+#500	FN	--	C	521
+#501	FN	--	N	521
+#502	FN	--	C	521
+#503	FN	--	A	522
+#504	PNCT	--	U	522
+#505	FN	--	F	522
+#506	PNCT	--	U	522
+#507	FN	--	A	522
+#508	FN	--	D	522
+#509	FN	--	P	522
+#510	PNCT	--	U	525
+#511	FN	--	L	525	LR	526
+#512	FN	--	D	524
+#513	FN	--	F	524
+#514	PNCT	--	U	524
+#515	FN	--	A	524
+#516	FN	--	D	524
+#517	FN	--	E	523
+#518	FN	--	C	523
+#519	FN	--	S	524
+#520	PNCT	--	U	524
+#521	FN	--	A	522
+#522	FN	--	H	525	LA	526
+#523	FN	--	A	524
+#524	FN	--	H	525	LA	526
+#525	FN	--	--	0
+#526	LKG	--	--	0
+#EOS 421002

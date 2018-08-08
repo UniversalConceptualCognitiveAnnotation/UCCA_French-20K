@@ -1,0 +1,68 @@
+#BOS 444000
+Précisément	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+et	Word	--	Terminal	502
+ainsi	Word	--	Terminal	503
+que	Word	--	Terminal	503
+cela	Word	--	Terminal	504
+arrive	Word	--	Terminal	505
+toujours	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+du	Word	--	Terminal	508
+moment	Word	--	Terminal	509
+que	Word	--	Terminal	510
+l	Word	--	Terminal	511
+'	Punctuation	--	Terminal	512
+on	Word	--	Terminal	513
+se	Word	--	Terminal	514
+fut	Word	--	Terminal	515
+décidé	Word	--	Terminal	514
+à	Word	--	Terminal	516
+poursuivre	Word	--	Terminal	517
+le	Word	--	Terminal	518
+monstre	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+le	Word	--	Terminal	521
+monstre	Word	--	Terminal	522
+ne	Word	--	Terminal	523
+reparut	Word	--	Terminal	524
+plus	Word	--	Terminal	523
+.	Punctuation	--	Terminal	525
+#500	FN	--	E	526
+#501	PNCT	--	U	535
+#502	FN	--	L	535	LR	532
+#503	FN	--	L	535	LR	531
+#504	FN	--	A	527
+#505	FN	--	P	527
+#506	FN	--	T	527
+#507	PNCT	--	U	535
+#508	FN	--	R	526
+#509	FN	--	C	526
+#510	FN	--	R	526
+#511	FN	--	F	534
+#512	PNCT	--	U	534
+#513	FN	--	A	534
+#514	FN	--	P	534
+#515	FN	--	F	534
+#516	FN	--	F	534
+#517	FN	--	P	533
+#518	FN	--	E	528
+#519	FN	--	C	528
+#520	PNCT	--	U	535
+#521	FN	--	E	529
+#522	FN	--	C	529
+#523	FN	--	D	530
+#524	FN	--	P	530
+#525	PNCT	--	U	530
+#526	FN	--	L	535	LR	536
+#527	FN	--	H	535	LA	531	LA	532
+#528	FN	--	A	533
+#529	FN	--	A	530
+#530	FN	--	H	535
+#531	LKG	--	--	0
+#532	LKG	--	--	0
+#533	FN	--	A	534
+#534	FN	--	H	535	LA	536
+#535	FN	--	--	0
+#536	LKG	--	--	0
+#EOS 444000

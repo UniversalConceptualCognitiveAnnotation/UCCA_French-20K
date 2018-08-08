@@ -1,0 +1,45 @@
+#BOS 848008
+Ou	Word	--	Terminal	500
+le	Word	--	Terminal	501
+commandant	Word	--	Terminal	502
+Farragut	Word	--	Terminal	503
+tuerait	Word	--	Terminal	504
+le	Word	--	Terminal	505
+narwal	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+ou	Word	--	Terminal	508
+le	Word	--	Terminal	509
+narwal	Word	--	Terminal	510
+tuerait	Word	--	Terminal	511
+le	Word	--	Terminal	512
+commandant	Word	--	Terminal	513
+Farragut	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	524	LR	525
+#501	FN	--	E	516
+#502	FN	--	C	516
+#503	FN	--	C	517
+#504	FN	--	P	522
+#505	FN	--	E	518
+#506	FN	--	C	518
+#507	PNCT	--	U	524
+#508	FN	--	L	524	LR	526
+#509	FN	--	E	519
+#510	FN	--	C	519
+#511	FN	--	P	523
+#512	FN	--	E	520
+#513	FN	--	C	520
+#514	FN	--	C	521
+#515	PNCT	--	U	521
+#516	FN	--	E	517
+#517	FN	--	A	522
+#518	FN	--	A	522
+#519	FN	--	A	523
+#520	FN	--	E	521
+#521	FN	--	A	523
+#522	FN	--	H	524	LA	525
+#523	FN	--	H	524	LA	526
+#524	FN	--	--	0
+#525	LKG	--	--	0
+#526	LKG	--	--	0
+#EOS 848008

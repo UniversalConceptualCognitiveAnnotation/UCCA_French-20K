@@ -1,0 +1,29 @@
+#BOS 778000
+–	Punctuation	--	Terminal	500
+Comme	Word	--	Terminal	501
+fera	Word	--	Terminal	502
+monsieur	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+je	Word	--	Terminal	505
+ferai	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+répondit	Word	--	Terminal	508
+Conseil	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	514
+#501	FN	--	D	512
+#502	FN	--	P	512
+#503	FN	--	A	512
+#504	PNCT	--	U	513
+#505	FN	--	A	513
+#506	FN	--	P	513
+#507	PNCT	--	U	514
+#508	FN	--	P	514
+#509	FN	--	A	514
+#510	PNCT	--	U	514
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 778000

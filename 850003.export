@@ -1,0 +1,32 @@
+#BOS 850003
+Je	Word	--	Terminal	500
+laisse	Word	--	Terminal	500
+à	Word	--	Terminal	500
+penser	Word	--	Terminal	500
+si	Word	--	Terminal	500
+les	Word	--	Terminal	501
+yeux	Word	--	Terminal	502
+s’	Word	--	Terminal	503
+exerçaient	Word	--	Terminal	503
+à	Word	--	Terminal	504
+bord	Word	--	Terminal	505
+de	Word	--	Terminal	506
+l’	Word	--	Terminal	507
+Abraham-Lincoln	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	G	513
+#501	FN	--	E	510
+#502	FN	--	C	510
+#503	FN	--	P	513
+#504	FN	--	R	511
+#505	FN	--	C	511
+#506	FN	--	R	511
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	A	513
+#511	FN	--	E	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 850003

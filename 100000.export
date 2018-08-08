@@ -1,0 +1,54 @@
+#BOS 100000
+Le	Word	--	Terminal	500
+capitaine	Word	--	Terminal	501
+Anderson	Word	--	Terminal	502
+fit	Word	--	Terminal	503
+stopper	Word	--	Terminal	504
+immédiatement	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+et	Word	--	Terminal	507
+l	Word	--	Terminal	508
+'	Punctuation	--	Terminal	509
+un	Word	--	Terminal	510
+des	Word	--	Terminal	511
+matelots	Word	--	Terminal	512
+plongea	Word	--	Terminal	513
+pour	Word	--	Terminal	514
+reconnaître	Word	--	Terminal	515
+l	Word	--	Terminal	516
+'	Punctuation	--	Terminal	517
+avarie	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	E	520
+#501	FN	--	C	520
+#502	FN	--	C	521
+#503	FN	--	D	527
+#504	FN	--	P	527
+#505	FN	--	T	527
+#506	PNCT	--	U	529
+#507	FN	--	L	529	LR	530
+#508	FN	--	E	522
+#509	PNCT	--	U	522
+#510	FN	--	C	522
+#511	FN	--	R	522
+#512	FN	--	C	523
+#513	FN	--	P	524
+#514	FN	--	L	529	LR	531
+#515	FN	--	P	528
+#516	FN	--	E	525
+#517	PNCT	--	U	525
+#518	FN	--	C	525
+#519	PNCT	--	U	525
+#520	FN	--	E	521
+#521	FN	--	A	527
+#522	FN	--	E	523
+#523	FN	--	A	524	A*	528
+#524	FN	--	H	529	LA	530
+#525	FN	--	A	528
+#526	FN	--	A	527
+#527	FN	--	H	529	LA	530
+#528	FN	--	H	529	LA	531
+#529	FN	--	--	0
+#530	LKG	--	--	0
+#531	LKG	--	--	0
+#EOS 100000

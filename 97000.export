@@ -1,0 +1,61 @@
+#BOS 97000
+Le	Word	--	Terminal	500
+Scotia	Word	--	Terminal	501
+n	Word	--	Terminal	502
+'	Punctuation	--	Terminal	503
+avait	Word	--	Terminal	504
+pas	Word	--	Terminal	502
+heurté	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+il	Word	--	Terminal	507
+avait	Word	--	Terminal	508
+été	Word	--	Terminal	509
+heurté	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+et	Word	--	Terminal	512
+plutôt	Word	--	Terminal	513
+par	Word	--	Terminal	514
+un	Word	--	Terminal	515
+instrument	Word	--	Terminal	516
+tranchant	Word	--	Terminal	517
+ou	Word	--	Terminal	518
+perforant	Word	--	Terminal	519
+que	Word	--	Terminal	520
+contondant	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	E	523
+#501	FN	--	C	523
+#502	FN	--	D	524
+#503	PNCT	--	U	524
+#504	FN	--	F	524
+#505	FN	--	P	524
+#506	PNCT	--	U	533
+#507	FN	--	A	529	A*	532
+#508	FN	--	F	529
+#509	FN	--	F	529
+#510	FN	--	P	529	P*	532
+#511	PNCT	--	U	533
+#512	FN	--	L	533	LR	534
+#513	FN	--	R	532
+#514	FN	--	R	528
+#515	FN	--	E	525
+#516	FN	--	C	525	A*	531
+#517	FN	--	C	526
+#518	FN	--	N	526
+#519	FN	--	C	526
+#520	FN	--	R	532
+#521	FN	--	S	531
+#522	PNCT	--	U	531
+#523	FN	--	A	524
+#524	FN	--	H	533
+#525	FN	--	A	528
+#526	FN	--	S	528
+#527	FN	--	A	529
+#528	FN	--	A	532
+#529	FN	--	H	533	LA	534
+#530	FN	--	D	531
+#531	FN	--	A	532
+#532	FN	--	H	533	LA	534
+#533	FN	--	--	0
+#534	LKG	--	--	0
+#EOS 97000
