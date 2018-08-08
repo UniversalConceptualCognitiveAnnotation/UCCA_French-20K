@@ -1,54 +1,52 @@
 #BOS 98000
 Tout	Word	--	Terminal	500
-d	Word	--	Terminal	500
-'	Punctuation	--	Terminal	501
+d'	Word	--	Terminal	500
 abord	Word	--	Terminal	500
-,	Punctuation	--	Terminal	502
-les	Word	--	Terminal	503
-passagers	Word	--	Terminal	504
-furent	Word	--	Terminal	505
-très	Word	--	Terminal	506
--	Punctuation	--	Terminal	507
-effrayés	Word	--	Terminal	508
-;	Punctuation	--	Terminal	509
-mais	Word	--	Terminal	510
-le	Word	--	Terminal	511
-capitaine	Word	--	Terminal	512
-Anderson	Word	--	Terminal	513
-se	Word	--	Terminal	514
-hâta	Word	--	Terminal	515
-de	Word	--	Terminal	516
-les	Word	--	Terminal	517
-rassurer	Word	--	Terminal	518
-.	Punctuation	--	Terminal	519
-#500	FN	--	L	527	LR	529
-#501	PNCT	--	U	527
-#502	PNCT	--	U	527
-#503	FN	--	E	520
-#504	FN	--	C	520
-#505	FN	--	F	526
-#506	FN	--	E	521
-#507	PNCT	--	U	521
-#508	FN	--	C	521
-#509	PNCT	--	U	527
-#510	FN	--	L	527	LR	528
-#511	FN	--	E	522
+,	Punctuation	--	Terminal	501
+les	Word	--	Terminal	502
+passagers	Word	--	Terminal	503
+furent	Word	--	Terminal	504
+très	Word	--	Terminal	505
+-	Punctuation	--	Terminal	506
+effrayés	Word	--	Terminal	507
+;	Punctuation	--	Terminal	508
+mais	Word	--	Terminal	509
+le	Word	--	Terminal	510
+capitaine	Word	--	Terminal	511
+Anderson	Word	--	Terminal	512
+se	Word	--	Terminal	513
+hâta	Word	--	Terminal	514
+de	Word	--	Terminal	515
+les	Word	--	Terminal	516
+rassurer	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	526	LR	528
+#501	PNCT	--	U	526
+#502	FN	--	E	519
+#503	FN	--	C	519
+#504	FN	--	F	525
+#505	FN	--	E	520
+#506	PNCT	--	U	520
+#507	FN	--	C	520
+#508	PNCT	--	U	526
+#509	FN	--	L	526	LR	527
+#510	FN	--	E	521
+#511	FN	--	C	521
 #512	FN	--	C	522
-#513	FN	--	C	523
-#514	FN	--	E	524
-#515	FN	--	C	524
-#516	FN	--	F	525
-#517	FN	--	A	525
-#518	FN	--	P	525
-#519	PNCT	--	U	525
-#520	FN	--	A	526
-#521	FN	--	S	526
-#522	FN	--	E	523
-#523	FN	--	A	525
-#524	FN	--	D	525
-#525	FN	--	H	527	LA	528
-#526	FN	--	H	527	LA	529
-#527	FN	--	--	0
+#513	FN	--	E	523
+#514	FN	--	C	523
+#515	FN	--	F	524
+#516	FN	--	A	524
+#517	FN	--	P	524
+#518	PNCT	--	U	524
+#519	FN	--	A	525
+#520	FN	--	S	525
+#521	FN	--	E	522
+#522	FN	--	A	524
+#523	FN	--	D	524
+#524	FN	--	H	526	LA	527
+#525	FN	--	H	526	LA	528
+#526	FN	--	--	0
+#527	LKG	--	--	0
 #528	LKG	--	--	0
-#529	LKG	--	--	0
 #EOS 98000

@@ -7,48 +7,44 @@ stopper	Word	--	Terminal	504
 immédiatement	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
 et	Word	--	Terminal	507
-l	Word	--	Terminal	508
-'	Punctuation	--	Terminal	509
-un	Word	--	Terminal	510
-des	Word	--	Terminal	511
-matelots	Word	--	Terminal	512
-plongea	Word	--	Terminal	513
-pour	Word	--	Terminal	514
-reconnaître	Word	--	Terminal	515
-l	Word	--	Terminal	516
-'	Punctuation	--	Terminal	517
-avarie	Word	--	Terminal	518
-.	Punctuation	--	Terminal	519
-#500	FN	--	E	520
-#501	FN	--	C	520
-#502	FN	--	C	521
-#503	FN	--	D	527
-#504	FN	--	P	527
-#505	FN	--	T	527
-#506	PNCT	--	U	529
-#507	FN	--	L	529	LR	530
-#508	FN	--	E	522
-#509	PNCT	--	U	522
-#510	FN	--	C	522
-#511	FN	--	R	522
-#512	FN	--	C	523
-#513	FN	--	P	524
-#514	FN	--	L	529	LR	531
-#515	FN	--	P	528
-#516	FN	--	E	525
-#517	PNCT	--	U	525
-#518	FN	--	C	525
-#519	PNCT	--	U	525
+l'	Word	--	Terminal	508
+un	Word	--	Terminal	509
+des	Word	--	Terminal	510
+matelots	Word	--	Terminal	511
+plongea	Word	--	Terminal	512
+pour	Word	--	Terminal	513
+reconnaître	Word	--	Terminal	514
+l'	Word	--	Terminal	515
+avarie	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	518
+#501	FN	--	C	518
+#502	FN	--	C	519
+#503	FN	--	D	525
+#504	FN	--	P	525
+#505	FN	--	T	525
+#506	PNCT	--	U	527
+#507	FN	--	L	527	LR	528
+#508	FN	--	E	520
+#509	FN	--	C	520
+#510	FN	--	R	520
+#511	FN	--	C	521
+#512	FN	--	P	522
+#513	FN	--	L	527	LR	529
+#514	FN	--	P	526
+#515	FN	--	E	523
+#516	FN	--	C	523
+#517	PNCT	--	U	523
+#518	FN	--	E	519
+#519	FN	--	A	525
 #520	FN	--	E	521
-#521	FN	--	A	527
-#522	FN	--	E	523
-#523	FN	--	A	524	A*	528
-#524	FN	--	H	529	LA	530
-#525	FN	--	A	528
-#526	FN	--	A	527
-#527	FN	--	H	529	LA	530
-#528	FN	--	H	529	LA	531
-#529	FN	--	--	0
-#530	LKG	--	--	0
-#531	LKG	--	--	0
+#521	FN	--	A	522	A*	526
+#522	FN	--	H	527	LA	528
+#523	FN	--	A	526
+#524	FN	--	A	525
+#525	FN	--	H	527	LA	528
+#526	FN	--	H	527	LA	529
+#527	FN	--	--	0
+#528	LKG	--	--	0
+#529	LKG	--	--	0
 #EOS 100000

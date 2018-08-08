@@ -9,65 +9,63 @@ moins	Word	--	Terminal	505
 que	Word	--	Terminal	505
 cet	Word	--	Terminal	506
 écueil	Word	--	Terminal	507
-n	Word	--	Terminal	508
-'	Punctuation	--	Terminal	509
-eût	Word	--	Terminal	510
-une	Word	--	Terminal	511
-machine	Word	--	Terminal	512
-dans	Word	--	Terminal	513
-le	Word	--	Terminal	514
-ventre	Word	--	Terminal	515
-,	Punctuation	--	Terminal	516
-comment	Word	--	Terminal	517
-pouvait	Word	--	Terminal	518
--	Punctuation	--	Terminal	519
-il	Word	--	Terminal	520
-se	Word	--	Terminal	521
-déplacer	Word	--	Terminal	521
-avec	Word	--	Terminal	522
-une	Word	--	Terminal	523
-rapidité	Word	--	Terminal	524
-si	Word	--	Terminal	525
-prodigieuse	Word	--	Terminal	526
-?	Punctuation	--	Terminal	527
-#500	FN	--	L	537	LR	539
-#501	PNCT	--	U	537
-#502	FN	--	R	528
-#503	FN	--	C	528
-#504	PNCT	--	U	537
-#505	FN	--	L	537	LR	535
-#506	FN	--	E	529
-#507	FN	--	C	529
-#508	FN	--	D	533
-#509	PNCT	--	U	533
-#510	FN	--	S	533
-#511	FN	--	E	530
-#512	FN	--	C	530
-#513	FN	--	R	531
-#514	FN	--	E	531
-#515	FN	--	C	531
-#516	PNCT	--	U	537
-#517	FN	--	D	536
-#518	FN	--	D	536
-#519	PNCT	--	U	536
-#520	FN	--	A	536
-#521	FN	--	P	536
-#522	FN	--	R	534
-#523	FN	--	E	534
-#524	FN	--	C	534
-#525	FN	--	E	532
-#526	FN	--	C	532
-#527	PNCT	--	U	532
-#528	FN	--	L	537	LR	538
-#529	FN	--	A	533
-#530	FN	--	A	533
-#531	FN	--	A	533
-#532	FN	--	E	534
-#533	FN	--	H	537	LA	535
-#534	FN	--	A	536
-#535	LKG	--	--	0
-#536	FN	--	H	537	LA	538	LA	539
-#537	FN	--	--	0
+n'	Word	--	Terminal	508
+eût	Word	--	Terminal	509
+une	Word	--	Terminal	510
+machine	Word	--	Terminal	511
+dans	Word	--	Terminal	512
+le	Word	--	Terminal	513
+ventre	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+comment	Word	--	Terminal	516
+pouvait	Word	--	Terminal	517
+-	Punctuation	--	Terminal	518
+il	Word	--	Terminal	519
+se	Word	--	Terminal	520
+déplacer	Word	--	Terminal	520
+avec	Word	--	Terminal	521
+une	Word	--	Terminal	522
+rapidité	Word	--	Terminal	523
+si	Word	--	Terminal	524
+prodigieuse	Word	--	Terminal	525
+?	Punctuation	--	Terminal	526
+#500	FN	--	L	536	LR	538
+#501	PNCT	--	U	536
+#502	FN	--	R	527
+#503	FN	--	C	527
+#504	PNCT	--	U	536
+#505	FN	--	L	536	LR	534
+#506	FN	--	E	528
+#507	FN	--	C	528
+#508	FN	--	D	532
+#509	FN	--	S	532
+#510	FN	--	E	529
+#511	FN	--	C	529
+#512	FN	--	R	530
+#513	FN	--	E	530
+#514	FN	--	C	530
+#515	PNCT	--	U	536
+#516	FN	--	D	535
+#517	FN	--	D	535
+#518	PNCT	--	U	535
+#519	FN	--	A	535
+#520	FN	--	P	535
+#521	FN	--	R	533
+#522	FN	--	E	533
+#523	FN	--	C	533
+#524	FN	--	E	531
+#525	FN	--	C	531
+#526	PNCT	--	U	531
+#527	FN	--	L	536	LR	537
+#528	FN	--	A	532
+#529	FN	--	A	532
+#530	FN	--	A	532
+#531	FN	--	E	533
+#532	FN	--	H	536	LA	534
+#533	FN	--	A	535
+#534	LKG	--	--	0
+#535	FN	--	H	536	LA	537	LA	538
+#536	FN	--	--	0
+#537	LKG	--	--	0
 #538	LKG	--	--	0
-#539	LKG	--	--	0
 #EOS 418002

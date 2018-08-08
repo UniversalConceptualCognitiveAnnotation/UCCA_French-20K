@@ -1,36 +1,32 @@
 #BOS 446007
-D	Word	--	Terminal	500
-'	Punctuation	--	Terminal	501
-ailleurs	Word	--	Terminal	502
-,	Punctuation	--	Terminal	503
-le	Word	--	Terminal	504
-commandant	Word	--	Terminal	505
-Farragut	Word	--	Terminal	506
-ne	Word	--	Terminal	507
-demandait	Word	--	Terminal	508
-qu	Word	--	Terminal	507
-'	Punctuation	--	Terminal	509
-à	Word	--	Terminal	510
-partir	Word	--	Terminal	511
-.	Punctuation	--	Terminal	512
-#500	FN	--	R	513
-#501	PNCT	--	U	513
-#502	FN	--	C	513
-#503	PNCT	--	U	518
-#504	FN	--	E	514
-#505	FN	--	C	514
-#506	FN	--	C	515	A*	516
-#507	FN	--	D	517
-#508	FN	--	P	517
-#509	PNCT	--	U	517
-#510	FN	--	F	516
-#511	FN	--	P	516
-#512	PNCT	--	U	516
-#513	FN	--	L	518	LR	519
-#514	FN	--	E	515
-#515	FN	--	A	517
-#516	FN	--	A	517
-#517	FN	--	H	518	LA	519
-#518	FN	--	--	0
-#519	LKG	--	--	0
+D'	Word	--	Terminal	500
+ailleurs	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+le	Word	--	Terminal	503
+commandant	Word	--	Terminal	504
+Farragut	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+demandait	Word	--	Terminal	507
+qu'	Word	--	Terminal	506
+à	Word	--	Terminal	508
+partir	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	R	511
+#501	FN	--	C	511
+#502	PNCT	--	U	516
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	C	513	A*	514
+#506	FN	--	D	515
+#507	FN	--	P	515
+#508	FN	--	F	514
+#509	FN	--	P	514
+#510	PNCT	--	U	514
+#511	FN	--	L	516	LR	517
+#512	FN	--	E	513
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516	LA	517
+#516	FN	--	--	0
+#517	LKG	--	--	0
 #EOS 446007

@@ -1,45 +1,43 @@
 #BOS 417001
-J	Word	--	Terminal	500
-'	Punctuation	--	Terminal	501
-avais	Word	--	Terminal	502
-lu	Word	--	Terminal	503
-et	Word	--	Terminal	504
-relu	Word	--	Terminal	505
-tous	Word	--	Terminal	506
-les	Word	--	Terminal	507
-journaux	Word	--	Terminal	508
-américains	Word	--	Terminal	509
-et	Word	--	Terminal	510
-européens	Word	--	Terminal	511
-sans	Word	--	Terminal	512
-être	Word	--	Terminal	513
-plus	Word	--	Terminal	514
-avancé	Word	--	Terminal	515
-.	Punctuation	--	Terminal	516
-#500	FN	--	A	522	A*	523
-#501	PNCT	--	U	522
-#502	FN	--	F	522
-#503	FN	--	C	517
-#504	FN	--	N	517
-#505	FN	--	C	517
-#506	FN	--	E	521	E*	518
-#507	FN	--	E	521	E*	518
-#508	FN	--	C	521	C*	518
-#509	FN	--	C	519
-#510	FN	--	N	519
-#511	FN	--	E	518
-#512	FN	--	L	524	LR	525
-#513	FN	--	F	523
-#514	FN	--	E	520
-#515	FN	--	C	520
-#516	PNCT	--	U	520
-#517	FN	--	P	522
-#518	FN	--	C	519
-#519	FN	--	E	521
-#520	FN	--	S	523
-#521	FN	--	A	522
-#522	FN	--	H	524
-#523	FN	--	H	524	LA	525
-#524	FN	--	--	0
-#525	LKG	--	--	0
+J'	Word	--	Terminal	500
+avais	Word	--	Terminal	501
+lu	Word	--	Terminal	502
+et	Word	--	Terminal	503
+relu	Word	--	Terminal	504
+tous	Word	--	Terminal	505
+les	Word	--	Terminal	506
+journaux	Word	--	Terminal	507
+américains	Word	--	Terminal	508
+et	Word	--	Terminal	509
+européens	Word	--	Terminal	510
+sans	Word	--	Terminal	511
+être	Word	--	Terminal	512
+plus	Word	--	Terminal	513
+avancé	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	521	A*	522
+#501	FN	--	F	521
+#502	FN	--	C	516
+#503	FN	--	N	516
+#504	FN	--	C	516
+#505	FN	--	E	520	E*	517
+#506	FN	--	E	520	E*	517
+#507	FN	--	C	520	C*	517
+#508	FN	--	C	518
+#509	FN	--	N	518
+#510	FN	--	E	517
+#511	FN	--	L	523	LR	524
+#512	FN	--	F	522
+#513	FN	--	E	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	P	521
+#517	FN	--	C	518
+#518	FN	--	E	520
+#519	FN	--	S	522
+#520	FN	--	A	521
+#521	FN	--	H	523
+#522	FN	--	H	523	LA	524
+#523	FN	--	--	0
+#524	LKG	--	--	0
 #EOS 417001
