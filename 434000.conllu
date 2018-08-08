@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 434000
-# text = « Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds . Quintuplez , décuplez même cette dimension , donnez à ce cétacé une force proportionnelle à sa taille , accroissez ses armes offensives , et vous obtenez l ' animal voulu . Il aura les proportions déterminées par les officiers du Shannon , l ' instrument exigé par la perforation du Scotia , et la puissance nécessaire pour entamer la coque d ' un steamer .
+# text = « Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds . Quintuplez , décuplez même cette dimension , donnez à ce cétacé une force proportionnelle à sa taille , accroissez ses armes offensives , et vous obtenez l' animal voulu . Il aura les proportions déterminées par les officiers du Shannon , l' instrument exigé par la perforation du Scotia , et la puissance nécessaire pour entamer la coque d' un steamer .
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Le	_	Word	Word	_	3	E	3:E	_
@@ -44,43 +44,40 @@
 40	et	_	Word	Word	_	9	L	9:L	_
 41	vous	_	Word	Word	_	42	A	42:A	_
 42	obtenez	_	Word	Word	_	3	orphan	3:orphan	_
-43	l	_	Word	Word	_	45	E	45:E	_
-44	'	_	Punctuation	Punctuation	_	45	punct	45:punct	_
-45	animal	_	Word	Word	_	3	orphan	3:orphan	_
-46	voulu	_	Word	Word	_	3	orphan	3:orphan	_
-47	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-48	Il	_	Word	Word	_	49	A	49:A	_
-49	aura	_	Word	Word	_	3	orphan	3:orphan	_
-50	les	_	Word	Word	_	51	E	51:E	_
-51	proportions	_	Word	Word	_	3	orphan	3:orphan	_
-52	déterminées	_	Word	Word	_	3	orphan	3:orphan	_
-53	par	_	Word	Word	_	55	R	55:R	_
-54	les	_	Word	Word	_	55	E	55:E	_
-55	officiers	_	Word	Word	_	3	orphan	3:orphan	_
-56	du	_	Word	Word	_	57	R	57:R	_
-57	Shannon	_	Word	Word	_	3	orphan	3:orphan	_
-58	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
-59	l	_	Word	Word	_	61	E	61:E	_
-60	'	_	Punctuation	Punctuation	_	61	punct	61:punct	_
-61	instrument	_	Word	Word	_	3	orphan	3:orphan	_
-62	exigé	_	Word	Word	_	3	orphan	3:orphan	_
-63	par	_	Word	Word	_	65	R	65:R	_
-64	la	_	Word	Word	_	65	E	65:E	_
-65	perforation	_	Word	Word	_	3	orphan	3:orphan	_
-66	du	_	Word	Word	_	67	R	67:R	_
-67	Scotia	_	Word	Word	_	3	orphan	3:orphan	_
-68	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
-69	et	_	Word	Word	_	51	N	51:N	_
-70	la	_	Word	Word	_	71	E	71:E	_
-71	puissance	_	Word	Word	_	3	orphan	3:orphan	_
-72	nécessaire	_	Word	Word	_	3	orphan	3:orphan	_
-73	pour	_	Word	Word	_	74	R	74:R	_
-74	entamer	_	Word	Word	_	3	orphan	3:orphan	_
-75	la	_	Word	Word	_	76	E	76:E	_
-76	coque	_	Word	Word	_	3	orphan	3:orphan	_
-77	d	_	Word	Word	_	80	R	80:R	_
-78	'	_	Punctuation	Punctuation	_	80	punct	80:punct	_
-79	un	_	Word	Word	_	80	E	80:E	_
-80	steamer	_	Word	Word	_	3	orphan	3:orphan	_
-81	.	_	Punctuation	Punctuation	_	80	punct	80:punct	_
+43	l'	_	Word	Word	_	44	E	44:E	_
+44	animal	_	Word	Word	_	3	orphan	3:orphan	_
+45	voulu	_	Word	Word	_	3	orphan	3:orphan	_
+46	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+47	Il	_	Word	Word	_	48	A	48:A	_
+48	aura	_	Word	Word	_	3	orphan	3:orphan	_
+49	les	_	Word	Word	_	50	E	50:E	_
+50	proportions	_	Word	Word	_	3	orphan	3:orphan	_
+51	déterminées	_	Word	Word	_	3	orphan	3:orphan	_
+52	par	_	Word	Word	_	54	R	54:R	_
+53	les	_	Word	Word	_	54	E	54:E	_
+54	officiers	_	Word	Word	_	3	orphan	3:orphan	_
+55	du	_	Word	Word	_	56	R	56:R	_
+56	Shannon	_	Word	Word	_	3	orphan	3:orphan	_
+57	,	_	Punctuation	Punctuation	_	50	punct	50:punct	_
+58	l'	_	Word	Word	_	59	E	59:E	_
+59	instrument	_	Word	Word	_	3	orphan	3:orphan	_
+60	exigé	_	Word	Word	_	3	orphan	3:orphan	_
+61	par	_	Word	Word	_	63	R	63:R	_
+62	la	_	Word	Word	_	63	E	63:E	_
+63	perforation	_	Word	Word	_	3	orphan	3:orphan	_
+64	du	_	Word	Word	_	65	R	65:R	_
+65	Scotia	_	Word	Word	_	3	orphan	3:orphan	_
+66	,	_	Punctuation	Punctuation	_	50	punct	50:punct	_
+67	et	_	Word	Word	_	50	N	50:N	_
+68	la	_	Word	Word	_	69	E	69:E	_
+69	puissance	_	Word	Word	_	3	orphan	3:orphan	_
+70	nécessaire	_	Word	Word	_	3	orphan	3:orphan	_
+71	pour	_	Word	Word	_	72	R	72:R	_
+72	entamer	_	Word	Word	_	3	orphan	3:orphan	_
+73	la	_	Word	Word	_	74	E	74:E	_
+74	coque	_	Word	Word	_	3	orphan	3:orphan	_
+75	d'	_	Word	Word	_	77	R	77:R	_
+76	un	_	Word	Word	_	77	E	77:E	_
+77	steamer	_	Word	Word	_	3	orphan	3:orphan	_
+78	.	_	Punctuation	Punctuation	_	77	punct	77:punct	_
 

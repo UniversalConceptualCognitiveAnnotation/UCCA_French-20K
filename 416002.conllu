@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 416002
-# text = Après six mois passés dans le Nebraska , chargé de précieuses collections , j ' arrivai à New York vers la fin de mars .
+# text = Après six mois passés dans le Nebraska , chargé de précieuses collections , j' arrivai à New York vers la fin de mars .
 # doc_id = 
 1	Après	_	Word	Word	_	4	L	4:L	_
 2	six	_	Word	Word	_	3	E	3:E	_
@@ -15,16 +15,15 @@
 11	précieuses	_	Word	Word	_	12	E	12:E	_
 12	collections	_	Word	Word	_	3	orphan	3:orphan	_
 13	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-14	j	_	Word	Word	_	16	A	16:A	_
-15	'	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-16	arrivai	_	Word	Word	_	3	orphan	3:orphan	_
-17	à	_	Word	Word	_	18	R	18:R	_
-18	New	_	Word	Word	_	3	orphan	3:orphan	_
-19	York	_	Word	Word	_	18	flat	18:flat	_
-20	vers	_	Word	Word	_	24	R	24:R	_
-21	la	_	Word	Word	_	22	E	22:E	_
-22	fin	_	Word	Word	_	3	orphan	3:orphan	_
-23	de	_	Word	Word	_	22	R	22:R	_
-24	mars	_	Word	Word	_	3	orphan	3:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+14	j'	_	Word	Word	_	15	A	15:A	_
+15	arrivai	_	Word	Word	_	3	orphan	3:orphan	_
+16	à	_	Word	Word	_	17	R	17:R	_
+17	New	_	Word	Word	_	3	orphan	3:orphan	_
+18	York	_	Word	Word	_	17	flat	17:flat	_
+19	vers	_	Word	Word	_	23	R	23:R	_
+20	la	_	Word	Word	_	21	E	21:E	_
+21	fin	_	Word	Word	_	3	orphan	3:orphan	_
+22	de	_	Word	Word	_	21	R	21:R	_
+23	mars	_	Word	Word	_	3	orphan	3:orphan	_
+24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 

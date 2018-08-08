@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 77001
-# text = Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l ' esprit public à l ' intérieur des continents , les gens de mer furent particulièrement émus .
+# text = Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l' esprit public à l' intérieur des continents , les gens de mer furent particulièrement émus .
 # doc_id = 
 1	Sans	_	Word	Word	_	2	L	2:L	_
 2	parler	_	Word	Word	_	0	root	0:root	_
@@ -14,23 +14,21 @@
 10	ports	_	Word	Word	_	2	orphan	2:orphan	_
 11	et	_	Word	Word	_	6	L	6:L	_
 12	surexcitaient	_	Word	Word	_	2	orphan	2:orphan	_
-13	l	_	Word	Word	_	15	E	15:E	_
-14	'	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-15	esprit	_	Word	Word	_	2	orphan	2:orphan	_
-16	public	_	Word	Word	_	15	E	15:E	_
-17	à	_	Word	Word	_	22	R	22:R	_
-18	l	_	Word	Word	_	20	E	20:E	_
-19	'	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-20	intérieur	_	Word	Word	_	2	orphan	2:orphan	_
-21	des	_	Word	Word	_	20	R	20:R	_
-22	continents	_	Word	Word	_	2	orphan	2:orphan	_
-23	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-24	les	_	Word	Word	_	25	E	25:E	_
-25	gens	_	Word	Word	_	2	orphan	2:orphan	_
-26	de	_	Word	Word	_	27	R	27:R	_
-27	mer	_	Word	Word	_	2	orphan	2:orphan	_
-28	furent	_	Word	Word	_	30	F	30:F	_
-29	particulièrement	_	Word	Word	_	30	D	30:D	_
-30	émus	_	Word	Word	_	2	orphan	2:orphan	_
-31	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+13	l'	_	Word	Word	_	14	E	14:E	_
+14	esprit	_	Word	Word	_	2	orphan	2:orphan	_
+15	public	_	Word	Word	_	14	E	14:E	_
+16	à	_	Word	Word	_	20	R	20:R	_
+17	l'	_	Word	Word	_	18	E	18:E	_
+18	intérieur	_	Word	Word	_	2	orphan	2:orphan	_
+19	des	_	Word	Word	_	18	R	18:R	_
+20	continents	_	Word	Word	_	2	orphan	2:orphan	_
+21	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+22	les	_	Word	Word	_	23	E	23:E	_
+23	gens	_	Word	Word	_	2	orphan	2:orphan	_
+24	de	_	Word	Word	_	25	R	25:R	_
+25	mer	_	Word	Word	_	2	orphan	2:orphan	_
+26	furent	_	Word	Word	_	28	F	28:F	_
+27	particulièrement	_	Word	Word	_	28	D	28:D	_
+28	émus	_	Word	Word	_	2	orphan	2:orphan	_
+29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 

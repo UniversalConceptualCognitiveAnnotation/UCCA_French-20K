@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 422000
-# text = Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l ' homme s ' ingénie à multiplier la puissance des armes de guerre , il était possible qu ' un État essayât à l ' insu des autres ce formidable engin .
+# text = Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l' homme s' ingénie à multiplier la puissance des armes de guerre , il était possible qu' un État essayât à l' insu des autres ce formidable engin .
 # doc_id = 
 1	Seul	_	Word	Word	_	4	E	4:E	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -19,38 +19,34 @@
 15	ces	_	Word	Word	_	16	E	16:E	_
 16	temps	_	Word	Word	_	4	orphan	4:orphan	_
 17	désastreux	_	Word	Word	_	16	E	16:E	_
-18	où	_	Word	Word	_	26	R	26:R	_
-19	l	_	Word	Word	_	21	E	21:E	_
-20	'	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-21	homme	_	Word	Word	_	4	orphan	4:orphan	_
-22	s	_	Word	Word	_	26	D	26:D	_
-23	'	_	Punctuation	Punctuation	_	26	punct	26:punct	_
-24	ingénie	_	Word	Word	_	22	flat	22:flat	_
-25	à	_	Word	Word	_	26	F	26:F	_
-26	multiplier	_	Word	Word	_	4	orphan	4:orphan	_
-27	la	_	Word	Word	_	28	E	28:E	_
-28	puissance	_	Word	Word	_	4	orphan	4:orphan	_
-29	des	_	Word	Word	_	30	R	30:R	_
-30	armes	_	Word	Word	_	4	orphan	4:orphan	_
-31	de	_	Word	Word	_	32	R	32:R	_
-32	guerre	_	Word	Word	_	4	orphan	4:orphan	_
-33	,	_	Punctuation	Punctuation	_	36	punct	36:punct	_
-34	il	_	Word	Word	_	36	F	36:F	_
-35	était	_	Word	Word	_	36	F	36:F	_
-36	possible	_	Word	Word	_	4	orphan	4:orphan	_
-37	qu	_	Word	Word	_	41	R	41:R	_
-38	'	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-39	un	_	Word	Word	_	40	E	40:E	_
-40	État	_	Word	Word	_	4	orphan	4:orphan	_
-41	essayât	_	Word	Word	_	4	orphan	4:orphan	_
-42	à	_	Word	Word	_	45	R	45:R	_
-43	l	_	Word	Word	_	45	E	45:E	_
-44	'	_	Punctuation	Punctuation	_	45	punct	45:punct	_
-45	insu	_	Word	Word	_	4	orphan	4:orphan	_
-46	des	_	Word	Word	_	47	R	47:R	_
-47	autres	_	Word	Word	_	4	orphan	4:orphan	_
-48	ce	_	Word	Word	_	50	E	50:E	_
-49	formidable	_	Word	Word	_	50	E	50:E	_
-50	engin	_	Word	Word	_	4	orphan	4:orphan	_
-51	.	_	Punctuation	Punctuation	_	50	punct	50:punct	_
+18	où	_	Word	Word	_	24	R	24:R	_
+19	l'	_	Word	Word	_	20	E	20:E	_
+20	homme	_	Word	Word	_	4	orphan	4:orphan	_
+21	s'	_	Word	Word	_	24	D	24:D	_
+22	ingénie	_	Word	Word	_	21	flat	21:flat	_
+23	à	_	Word	Word	_	24	F	24:F	_
+24	multiplier	_	Word	Word	_	4	orphan	4:orphan	_
+25	la	_	Word	Word	_	26	E	26:E	_
+26	puissance	_	Word	Word	_	4	orphan	4:orphan	_
+27	des	_	Word	Word	_	28	R	28:R	_
+28	armes	_	Word	Word	_	4	orphan	4:orphan	_
+29	de	_	Word	Word	_	30	R	30:R	_
+30	guerre	_	Word	Word	_	4	orphan	4:orphan	_
+31	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+32	il	_	Word	Word	_	34	F	34:F	_
+33	était	_	Word	Word	_	34	F	34:F	_
+34	possible	_	Word	Word	_	4	orphan	4:orphan	_
+35	qu'	_	Word	Word	_	38	R	38:R	_
+36	un	_	Word	Word	_	37	E	37:E	_
+37	État	_	Word	Word	_	4	orphan	4:orphan	_
+38	essayât	_	Word	Word	_	4	orphan	4:orphan	_
+39	à	_	Word	Word	_	41	R	41:R	_
+40	l'	_	Word	Word	_	41	E	41:E	_
+41	insu	_	Word	Word	_	4	orphan	4:orphan	_
+42	des	_	Word	Word	_	43	R	43:R	_
+43	autres	_	Word	Word	_	4	orphan	4:orphan	_
+44	ce	_	Word	Word	_	46	E	46:E	_
+45	formidable	_	Word	Word	_	46	E	46:E	_
+46	engin	_	Word	Word	_	4	orphan	4:orphan	_
+47	.	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 

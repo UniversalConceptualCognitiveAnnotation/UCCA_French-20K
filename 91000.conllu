@@ -1,23 +1,22 @@
 # format = ucca
 # sent_id = 91000
-# text = L ' accident était arrivé vers cinq heures du matin , lorsque le jour commençait à poindre .
+# text = L' accident était arrivé vers cinq heures du matin , lorsque le jour commençait à poindre .
 # doc_id = 
-1	L	_	Word	Word	_	3	E	3:E	_
-2	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	accident	_	Word	Word	_	0	root	0:root	_
-4	était	_	Word	Word	_	5	F	5:F	_
-5	arrivé	_	Word	Word	_	3	orphan	3:orphan	_
-6	vers	_	Word	Word	_	7	E	7:E	_
-7	cinq	_	Word	Word	_	3	orphan	3:orphan	_
-8	heures	_	Word	Word	_	7	flat	7:flat	_
-9	du	_	Word	Word	_	10	R	10:R	_
-10	matin	_	Word	Word	_	3	orphan	3:orphan	_
-11	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-12	lorsque	_	Word	Word	_	5	L	5:L	_
-13	le	_	Word	Word	_	14	E	14:E	_
-14	jour	_	Word	Word	_	3	orphan	3:orphan	_
-15	commençait	_	Word	Word	_	17	D	17:D	_
-16	à	_	Word	Word	_	17	R	17:R	_
-17	poindre	_	Word	Word	_	3	orphan	3:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	L'	_	Word	Word	_	2	E	2:E	_
+2	accident	_	Word	Word	_	0	root	0:root	_
+3	était	_	Word	Word	_	4	F	4:F	_
+4	arrivé	_	Word	Word	_	2	orphan	2:orphan	_
+5	vers	_	Word	Word	_	6	E	6:E	_
+6	cinq	_	Word	Word	_	2	orphan	2:orphan	_
+7	heures	_	Word	Word	_	6	flat	6:flat	_
+8	du	_	Word	Word	_	9	R	9:R	_
+9	matin	_	Word	Word	_	2	orphan	2:orphan	_
+10	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+11	lorsque	_	Word	Word	_	4	L	4:L	_
+12	le	_	Word	Word	_	13	E	13:E	_
+13	jour	_	Word	Word	_	2	orphan	2:orphan	_
+14	commençait	_	Word	Word	_	16	D	16:D	_
+15	à	_	Word	Word	_	16	R	16:R	_
+16	poindre	_	Word	Word	_	2	orphan	2:orphan	_
+17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 

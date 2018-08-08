@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 84002
-# text = Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l ' Umgullick , n ' ont jamais dépassé la longueur de cinquante-six mètres , - si même elles l ' atteignent .
+# text = Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l' Umgullick , n' ont jamais dépassé la longueur de cinquante-six mètres , - si même elles l' atteignent .
 # doc_id = 
-1	Or	_	Word	Word	_	28	L	28:L	_
-2	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+1	Or	_	Word	Word	_	26	L	26:L	_
+2	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 3	les	_	Word	Word	_	6	E	6:E	_
 4	plus	_	Word	Word	_	5	D	5:D	_
 5	vastes	_	Word	Word	_	0	root	0:root	_
@@ -21,27 +21,24 @@
 17	le	_	Word	Word	_	18	E	18:E	_
 18	Kulammak	_	Word	Word	_	5	orphan	5:orphan	_
 19	et	_	Word	Word	_	18	N	18:N	_
-20	l	_	Word	Word	_	22	E	22:E	_
-21	'	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-22	Umgullick	_	Word	Word	_	5	orphan	5:orphan	_
-23	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-24	n	_	Word	Word	_	28	D	28:D	_
-25	'	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-26	ont	_	Word	Word	_	28	F	28:F	_
-27	jamais	_	Word	Word	_	28	T	28:T	_
-28	dépassé	_	Word	Word	_	5	orphan	5:orphan	_
-29	la	_	Word	Word	_	30	E	30:E	_
-30	longueur	_	Word	Word	_	5	orphan	5:orphan	_
-31	de	_	Word	Word	_	30	R	30:R	_
-32	cinquante-six	_	Word	Word	_	33	E	33:E	_
-33	mètres	_	Word	Word	_	5	orphan	5:orphan	_
-34	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-35	-	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-36	si	_	Word	Word	_	28	L	28:L	_
-37	même	_	Word	Word	_	36	flat	36:flat	_
-38	elles	_	Word	Word	_	41	A	41:A	_
-39	l	_	Word	Word	_	41	A	41:A	_
-40	'	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-41	atteignent	_	Word	Word	_	5	orphan	5:orphan	_
-42	.	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+20	l'	_	Word	Word	_	21	E	21:E	_
+21	Umgullick	_	Word	Word	_	5	orphan	5:orphan	_
+22	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+23	n'	_	Word	Word	_	26	D	26:D	_
+24	ont	_	Word	Word	_	26	F	26:F	_
+25	jamais	_	Word	Word	_	26	T	26:T	_
+26	dépassé	_	Word	Word	_	5	orphan	5:orphan	_
+27	la	_	Word	Word	_	28	E	28:E	_
+28	longueur	_	Word	Word	_	5	orphan	5:orphan	_
+29	de	_	Word	Word	_	28	R	28:R	_
+30	cinquante-six	_	Word	Word	_	31	E	31:E	_
+31	mètres	_	Word	Word	_	5	orphan	5:orphan	_
+32	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+33	-	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+34	si	_	Word	Word	_	26	L	26:L	_
+35	même	_	Word	Word	_	34	flat	34:flat	_
+36	elles	_	Word	Word	_	38	A	38:A	_
+37	l'	_	Word	Word	_	38	A	38:A	_
+38	atteignent	_	Word	Word	_	5	orphan	5:orphan	_
+39	.	_	Punctuation	Punctuation	_	38	punct	38:punct	_
 

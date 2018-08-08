@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 428000
-# text = « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l ' existence d ' un animal marin d ' une puissance excessive .
+# text = « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l' existence d' un animal marin d' une puissance excessive .
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Ainsi	_	Word	Word	_	11	L	11:L	_
@@ -30,18 +30,15 @@
 26	faut	_	Word	Word	_	28	D	28:D	_
 27	nécessairement	_	Word	Word	_	28	D	28:D	_
 28	admettre	_	Word	Word	_	5	orphan	5:orphan	_
-29	l	_	Word	Word	_	31	E	31:E	_
-30	'	_	Punctuation	Punctuation	_	31	punct	31:punct	_
-31	existence	_	Word	Word	_	5	orphan	5:orphan	_
-32	d	_	Word	Word	_	35	R	35:R	_
-33	'	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-34	un	_	Word	Word	_	35	E	35:E	_
-35	animal	_	Word	Word	_	5	orphan	5:orphan	_
-36	marin	_	Word	Word	_	35	E	35:E	_
-37	d	_	Word	Word	_	40	R	40:R	_
-38	'	_	Punctuation	Punctuation	_	40	punct	40:punct	_
-39	une	_	Word	Word	_	40	E	40:E	_
-40	puissance	_	Word	Word	_	5	orphan	5:orphan	_
-41	excessive	_	Word	Word	_	40	E	40:E	_
-42	.	_	Punctuation	Punctuation	_	40	punct	40:punct	_
+29	l'	_	Word	Word	_	30	E	30:E	_
+30	existence	_	Word	Word	_	5	orphan	5:orphan	_
+31	d'	_	Word	Word	_	33	R	33:R	_
+32	un	_	Word	Word	_	33	E	33:E	_
+33	animal	_	Word	Word	_	5	orphan	5:orphan	_
+34	marin	_	Word	Word	_	33	E	33:E	_
+35	d'	_	Word	Word	_	37	R	37:R	_
+36	une	_	Word	Word	_	37	E	37:E	_
+37	puissance	_	Word	Word	_	5	orphan	5:orphan	_
+38	excessive	_	Word	Word	_	37	E	37:E	_
+39	.	_	Punctuation	Punctuation	_	37	punct	37:punct	_
 

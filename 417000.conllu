@@ -1,30 +1,29 @@
 # format = ucca
 # sent_id = 417000
-# text = J ' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
+# text = J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
 # doc_id = 
-1	J	_	Word	Word	_	3	A	3:A	_
-2	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	étais	_	Word	Word	_	0	root	0:root	_
-4	parfaitement	_	Word	Word	_	3	D	3:D	_
-5	au	_	Word	Word	_	3	flat	3:flat	_
-6	courant	_	Word	Word	_	3	flat	3:flat	_
-7	de	_	Word	Word	_	9	R	9:R	_
-8	la	_	Word	Word	_	9	E	9:E	_
-9	question	_	Word	Word	_	3	orphan	3:orphan	_
-10	à	_	Word	Word	_	12	R	12:R	_
-11	l'	_	Word	Word	_	12	E	12:E	_
-12	ordre	_	Word	Word	_	3	orphan	3:orphan	_
-13	du	_	Word	Word	_	14	R	14:R	_
-14	jour	_	Word	Word	_	3	orphan	3:orphan	_
-15	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-16	et	_	Word	Word	_	3	L	3:L	_
-17	comment	_	Word	Word	_	24	D	24:D	_
-18	ne	_	Word	Word	_	24	D	24:D	_
-19	l'	_	Word	Word	_	24	A	24:A	_
-20	aurais	_	Word	Word	_	24	F	24:F	_
-21	-	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-22	je	_	Word	Word	_	24	A	24:A	_
-23	pas	_	Word	Word	_	18	flat	18:flat	_
-24	été	_	Word	Word	_	3	orphan	3:orphan	_
-25	?	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+1	J'	_	Word	Word	_	2	A	2:A	_
+2	étais	_	Word	Word	_	0	root	0:root	_
+3	parfaitement	_	Word	Word	_	2	D	2:D	_
+4	au	_	Word	Word	_	2	flat	2:flat	_
+5	courant	_	Word	Word	_	2	flat	2:flat	_
+6	de	_	Word	Word	_	8	R	8:R	_
+7	la	_	Word	Word	_	8	E	8:E	_
+8	question	_	Word	Word	_	2	orphan	2:orphan	_
+9	à	_	Word	Word	_	11	R	11:R	_
+10	l'	_	Word	Word	_	11	E	11:E	_
+11	ordre	_	Word	Word	_	2	orphan	2:orphan	_
+12	du	_	Word	Word	_	13	R	13:R	_
+13	jour	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+15	et	_	Word	Word	_	2	L	2:L	_
+16	comment	_	Word	Word	_	23	D	23:D	_
+17	ne	_	Word	Word	_	23	D	23:D	_
+18	l'	_	Word	Word	_	23	A	23:A	_
+19	aurais	_	Word	Word	_	23	F	23:F	_
+20	-	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+21	je	_	Word	Word	_	23	A	23:A	_
+22	pas	_	Word	Word	_	17	flat	17:flat	_
+23	été	_	Word	Word	_	2	orphan	2:orphan	_
+24	?	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 

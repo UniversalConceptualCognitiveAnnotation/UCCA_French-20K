@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 90002
-# text = Nul doute que sans la qualité supérieure de sa coque , le Moravian , ouvert au choc , ne se fût englouti avec les deux cent trente-sept passagers qu ' il ramenait du Canada .
+# text = Nul doute que sans la qualité supérieure de sa coque , le Moravian , ouvert au choc , ne se fût englouti avec les deux cent trente-sept passagers qu' il ramenait du Canada .
 # doc_id = 
 1	Nul	_	Word	Word	_	20	G	20:G	_
 2	doute	_	Word	Word	_	1	flat	1:flat	_
@@ -30,11 +30,10 @@
 26	cent	_	Word	Word	_	25	flat	25:flat	_
 27	trente-sept	_	Word	Word	_	25	flat	25:flat	_
 28	passagers	_	Word	Word	_	6	orphan	6:orphan	_
-29	qu	_	Word	Word	_	32	R	32:R	_
-30	'	_	Punctuation	Punctuation	_	32	punct	32:punct	_
-31	il	_	Word	Word	_	32	A	32:A	_
-32	ramenait	_	Word	Word	_	6	orphan	6:orphan	_
-33	du	_	Word	Word	_	34	R	34:R	_
-34	Canada	_	Word	Word	_	6	orphan	6:orphan	_
-35	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+29	qu'	_	Word	Word	_	31	R	31:R	_
+30	il	_	Word	Word	_	31	A	31:A	_
+31	ramenait	_	Word	Word	_	6	orphan	6:orphan	_
+32	du	_	Word	Word	_	33	R	33:R	_
+33	Canada	_	Word	Word	_	6	orphan	6:orphan	_
+34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
 

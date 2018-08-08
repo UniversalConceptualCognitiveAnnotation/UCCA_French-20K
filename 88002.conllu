@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 88002
-# text = Ses spirituels écrivains parodiant un mot de Linné , cité par les adversaires du monstre , soutinrent en effet que « la nature ne faisait pas de sots » , et ils adjurèrent leurs contemporains de ne point donner un démenti à la nature , en admettant l ' existence des Krakens , des serpents de mer , des « Moby Dick » , et autres élucubrations de marins en délire .
+# text = Ses spirituels écrivains parodiant un mot de Linné , cité par les adversaires du monstre , soutinrent en effet que « la nature ne faisait pas de sots » , et ils adjurèrent leurs contemporains de ne point donner un démenti à la nature , en admettant l' existence des Krakens , des serpents de mer , des « Moby Dick » , et autres élucubrations de marins en délire .
 # doc_id = 
 1	Ses	_	Word	Word	_	3	E	3:E	_
 2	spirituels	_	Word	Word	_	3	E	3:E	_
@@ -49,29 +49,28 @@
 45	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 46	en	_	Word	Word	_	47	R	47:R	_
 47	admettant	_	Word	Word	_	3	orphan	3:orphan	_
-48	l	_	Word	Word	_	50	E	50:E	_
-49	'	_	Punctuation	Punctuation	_	50	punct	50:punct	_
-50	existence	_	Word	Word	_	3	orphan	3:orphan	_
-51	des	_	Word	Word	_	52	R	52:R	_
-52	Krakens	_	Word	Word	_	3	orphan	3:orphan	_
-53	,	_	Punctuation	Punctuation	_	52	punct	52:punct	_
-54	des	_	Word	Word	_	55	R	55:R	_
-55	serpents	_	Word	Word	_	3	orphan	3:orphan	_
-56	de	_	Word	Word	_	57	R	57:R	_
-57	mer	_	Word	Word	_	3	orphan	3:orphan	_
-58	,	_	Punctuation	Punctuation	_	52	punct	52:punct	_
-59	des	_	Word	Word	_	61	R	61:R	_
-60	«	_	Punctuation	Punctuation	_	61	punct	61:punct	_
-61	Moby	_	Word	Word	_	3	orphan	3:orphan	_
-62	Dick	_	Word	Word	_	61	flat	61:flat	_
-63	»	_	Punctuation	Punctuation	_	52	punct	52:punct	_
-64	,	_	Punctuation	Punctuation	_	52	punct	52:punct	_
-65	et	_	Word	Word	_	52	N	52:N	_
-66	autres	_	Word	Word	_	67	E	67:E	_
-67	élucubrations	_	Word	Word	_	3	orphan	3:orphan	_
-68	de	_	Word	Word	_	69	R	69:R	_
-69	marins	_	Word	Word	_	3	orphan	3:orphan	_
-70	en	_	Word	Word	_	71	R	71:R	_
-71	délire	_	Word	Word	_	3	orphan	3:orphan	_
-72	.	_	Punctuation	Punctuation	_	71	punct	71:punct	_
+48	l'	_	Word	Word	_	49	E	49:E	_
+49	existence	_	Word	Word	_	3	orphan	3:orphan	_
+50	des	_	Word	Word	_	51	R	51:R	_
+51	Krakens	_	Word	Word	_	3	orphan	3:orphan	_
+52	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
+53	des	_	Word	Word	_	54	R	54:R	_
+54	serpents	_	Word	Word	_	3	orphan	3:orphan	_
+55	de	_	Word	Word	_	56	R	56:R	_
+56	mer	_	Word	Word	_	3	orphan	3:orphan	_
+57	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
+58	des	_	Word	Word	_	60	R	60:R	_
+59	«	_	Punctuation	Punctuation	_	60	punct	60:punct	_
+60	Moby	_	Word	Word	_	3	orphan	3:orphan	_
+61	Dick	_	Word	Word	_	60	flat	60:flat	_
+62	»	_	Punctuation	Punctuation	_	51	punct	51:punct	_
+63	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
+64	et	_	Word	Word	_	51	N	51:N	_
+65	autres	_	Word	Word	_	66	E	66:E	_
+66	élucubrations	_	Word	Word	_	3	orphan	3:orphan	_
+67	de	_	Word	Word	_	68	R	68:R	_
+68	marins	_	Word	Word	_	3	orphan	3:orphan	_
+69	en	_	Word	Word	_	70	R	70:R	_
+70	délire	_	Word	Word	_	3	orphan	3:orphan	_
+71	.	_	Punctuation	Punctuation	_	70	punct	70:punct	_
 
