@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 849003
+# text = Tant que le soleil décrivait son arc diurne , la mâture était peuplée de matelots auxquels les planches du pont brûlaient les pieds , et qui n’ y pouvaient tenir en place !
+# doc_id = 
+1	Tant	_	Word	Word	_	5	L	5:L	_
+2	que	_	Word	Word	_	1	flat	1:flat	_
+3	le	_	Word	Word	_	4	E	4:E	_
+4	soleil	_	Word	Word	_	0	root	0:root	_
+5	décrivait	_	Word	Word	_	4	orphan	4:orphan	_
+6	son	_	Word	Word	_	7	E	7:E	_
+7	arc	_	Word	Word	_	4	orphan	4:orphan	_
+8	diurne	_	Word	Word	_	7	E	7:E	_
+9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+10	la	_	Word	Word	_	11	E	11:E	_
+11	mâture	_	Word	Word	_	4	orphan	4:orphan	_
+12	était	_	Word	Word	_	13	F	13:F	_
+13	peuplée	_	Word	Word	_	4	orphan	4:orphan	_
+14	de	_	Word	Word	_	15	R	15:R	_
+15	matelots	_	Word	Word	_	4	orphan	4:orphan	_
+16	auxquels	_	Word	Word	_	21	R	21:R	_
+17	les	_	Word	Word	_	18	E	18:E	_
+18	planches	_	Word	Word	_	4	orphan	4:orphan	_
+19	du	_	Word	Word	_	20	R	20:R	_
+20	pont	_	Word	Word	_	4	orphan	4:orphan	_
+21	brûlaient	_	Word	Word	_	4	orphan	4:orphan	_
+22	les	_	Word	Word	_	23	E	23:E	_
+23	pieds	_	Word	Word	_	4	orphan	4:orphan	_
+24	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+25	et	_	Word	Word	_	21	L	21:L	_
+26	qui	_	Word	Word	_	30	R	30:R	_
+27	n’	_	Word	Word	_	30	D	30:D	_
+28	y	_	Word	Word	_	30	A	30:A	_
+29	pouvaient	_	Word	Word	_	30	D	30:D	_
+30	tenir	_	Word	Word	_	4	orphan	4:orphan	_
+31	en	_	Word	Word	_	30	flat	30:flat	_
+32	place	_	Word	Word	_	30	flat	30:flat	_
+33	!	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+

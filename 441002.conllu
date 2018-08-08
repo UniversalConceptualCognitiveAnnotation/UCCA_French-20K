@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 441002
+# text = Je le répète , l ' opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l ' existence d ' un être prodigieux qui n ' avait rien de commun avec les fabuleux serpents de mer .
+# doc_id = 
+1	Je	_	Word	Word	_	3	A	3:A	_
+2	le	_	Word	Word	_	3	A	3:A	_
+3	répète	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	l	_	Word	Word	_	7	E	7:E	_
+6	'	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	opinion	_	Word	Word	_	3	orphan	3:orphan	_
+8	se	_	Word	Word	_	3	orphan	3:orphan	_
+9	fit	_	Word	Word	_	8	flat	8:flat	_
+10	alors	_	Word	Word	_	3	L	3:L	_
+11	sur	_	Word	Word	_	13	R	13:R	_
+12	la	_	Word	Word	_	13	E	13:E	_
+13	nature	_	Word	Word	_	3	orphan	3:orphan	_
+14	du	_	Word	Word	_	15	R	15:R	_
+15	phénomène	_	Word	Word	_	3	orphan	3:orphan	_
+16	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+17	et	_	Word	Word	_	3	L	3:L	_
+18	le	_	Word	Word	_	19	E	19:E	_
+19	public	_	Word	Word	_	3	orphan	3:orphan	_
+20	admit	_	Word	Word	_	3	orphan	3:orphan	_
+21	sans	_	Word	Word	_	3	L	3:L	_
+22	conteste	_	Word	Word	_	3	orphan	3:orphan	_
+23	l	_	Word	Word	_	25	E	25:E	_
+24	'	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+25	existence	_	Word	Word	_	3	orphan	3:orphan	_
+26	d	_	Word	Word	_	29	R	29:R	_
+27	'	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+28	un	_	Word	Word	_	29	E	29:E	_
+29	être	_	Word	Word	_	3	orphan	3:orphan	_
+30	prodigieux	_	Word	Word	_	29	E	29:E	_
+31	qui	_	Word	Word	_	37	R	37:R	_
+32	n	_	Word	Word	_	37	D	37:D	_
+33	'	_	Punctuation	Punctuation	_	37	punct	37:punct	_
+34	avait	_	Word	Word	_	37	F	37:F	_
+35	rien	_	Word	Word	_	37	A	37:A	_
+36	de	_	Word	Word	_	37	R	37:R	_
+37	commun	_	Word	Word	_	3	orphan	3:orphan	_
+38	avec	_	Word	Word	_	41	R	41:R	_
+39	les	_	Word	Word	_	41	E	41:E	_
+40	fabuleux	_	Word	Word	_	41	E	41:E	_
+41	serpents	_	Word	Word	_	3	orphan	3:orphan	_
+42	de	_	Word	Word	_	43	R	43:R	_
+43	mer	_	Word	Word	_	3	orphan	3:orphan	_
+44	.	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+

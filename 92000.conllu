@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 92000
+# text = Ce fait , extrêmement grave en lui - même , eût peut-être été oublié comme tant d ' autres , si , trois semaines après , il ne se fût reproduit dans des conditions identiques .
+# doc_id = 
+1	Ce	_	Word	Word	_	2	E	2:E	_
+2	fait	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	extrêmement	_	Word	Word	_	5	D	5:D	_
+5	grave	_	Word	Word	_	2	orphan	2:orphan	_
+6	en	_	Word	Word	_	7	R	7:R	_
+7	lui	_	Word	Word	_	2	orphan	2:orphan	_
+8	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	même	_	Word	Word	_	7	flat	7:flat	_
+10	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+11	eût	_	Word	Word	_	14	F	14:F	_
+12	peut-être	_	Word	Word	_	14	G	14:G	_
+13	été	_	Word	Word	_	14	F	14:F	_
+14	oublié	_	Word	Word	_	2	orphan	2:orphan	_
+15	comme	_	Word	Word	_	19	R	19:R	_
+16	tant	_	Word	Word	_	19	E	19:E	_
+17	d	_	Word	Word	_	19	E	19:E	_
+18	'	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	autres	_	Word	Word	_	2	orphan	2:orphan	_
+20	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+21	si	_	Word	Word	_	14	L	14:L	_
+22	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+23	trois	_	Word	Word	_	24	E	24:E	_
+24	semaines	_	Word	Word	_	2	orphan	2:orphan	_
+25	après	_	Word	Word	_	24	R	24:R	_
+26	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+27	il	_	Word	Word	_	29	A	29:A	_
+28	ne	_	Word	Word	_	29	D	29:D	_
+29	se	_	Word	Word	_	2	orphan	2:orphan	_
+30	fût	_	Word	Word	_	29	F	29:F	_
+31	reproduit	_	Word	Word	_	29	flat	29:flat	_
+32	dans	_	Word	Word	_	34	R	34:R	_
+33	des	_	Word	Word	_	34	E	34:E	_
+34	conditions	_	Word	Word	_	2	orphan	2:orphan	_
+35	identiques	_	Word	Word	_	34	E	34:E	_
+36	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+

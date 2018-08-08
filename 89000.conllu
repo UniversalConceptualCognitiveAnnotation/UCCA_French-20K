@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 89000
+# text = Pendant les premiers mois de l ' année 1867 , la question parut être enterrée , et elle ne semblait pas devoir renaître , quand de nouveaux faits furent portés à la connaissance du public .
+# doc_id = 
+1	Pendant	_	Word	Word	_	9	R	9:R	_
+2	les	_	Word	Word	_	4	E	4:E	_
+3	premiers	_	Word	Word	_	4	E	4:E	_
+4	mois	_	Word	Word	_	0	root	0:root	_
+5	de	_	Word	Word	_	9	R	9:R	_
+6	l	_	Word	Word	_	8	E	8:E	_
+7	'	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	année	_	Word	Word	_	4	orphan	4:orphan	_
+9	1867	_	Word	Word	_	4	orphan	4:orphan	_
+10	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+11	la	_	Word	Word	_	12	E	12:E	_
+12	question	_	Word	Word	_	4	orphan	4:orphan	_
+13	parut	_	Word	Word	_	15	D	15:D	_
+14	être	_	Word	Word	_	15	F	15:F	_
+15	enterrée	_	Word	Word	_	4	orphan	4:orphan	_
+16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+17	et	_	Word	Word	_	15	L	15:L	_
+18	elle	_	Word	Word	_	23	A	23:A	_
+19	ne	_	Word	Word	_	23	D	23:D	_
+20	semblait	_	Word	Word	_	23	G	23:G	_
+21	pas	_	Word	Word	_	19	flat	19:flat	_
+22	devoir	_	Word	Word	_	23	D	23:D	_
+23	renaître	_	Word	Word	_	4	orphan	4:orphan	_
+24	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+25	quand	_	Word	Word	_	15	L	15:L	_
+26	de	_	Word	Word	_	28	E	28:E	_
+27	nouveaux	_	Word	Word	_	28	E	28:E	_
+28	faits	_	Word	Word	_	4	orphan	4:orphan	_
+29	furent	_	Word	Word	_	30	F	30:F	_
+30	portés	_	Word	Word	_	4	orphan	4:orphan	_
+31	à	_	Word	Word	_	33	R	33:R	_
+32	la	_	Word	Word	_	33	E	33:E	_
+33	connaissance	_	Word	Word	_	4	orphan	4:orphan	_
+34	du	_	Word	Word	_	35	R	35:R	_
+35	public	_	Word	Word	_	4	orphan	4:orphan	_
+36	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+

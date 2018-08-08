@@ -1,0 +1,61 @@
+# format = ucca
+# sent_id = 79000
+# text = Les faits relatifs à cette apparition , consignés aux divers livres de bord , s ' accordaient assez exactement sur la structure de l ' objet ou de l ' être en question , la vitesse inouïe de ses mouvements , la puissance surprenante de sa locomotion , la vie particulière dont il semblait doué .
+# doc_id = 
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	faits	_	Word	Word	_	0	root	0:root	_
+3	relatifs	_	Word	Word	_	2	orphan	2:orphan	_
+4	à	_	Word	Word	_	6	R	6:R	_
+5	cette	_	Word	Word	_	6	E	6:E	_
+6	apparition	_	Word	Word	_	2	orphan	2:orphan	_
+7	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+8	consignés	_	Word	Word	_	2	orphan	2:orphan	_
+9	aux	_	Word	Word	_	11	R	11:R	_
+10	divers	_	Word	Word	_	11	E	11:E	_
+11	livres	_	Word	Word	_	2	orphan	2:orphan	_
+12	de	_	Word	Word	_	13	R	13:R	_
+13	bord	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+15	s	_	Word	Word	_	2	orphan	2:orphan	_
+16	'	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+17	accordaient	_	Word	Word	_	15	flat	15:flat	_
+18	assez	_	Word	Word	_	19	E	19:E	_
+19	exactement	_	Word	Word	_	2	orphan	2:orphan	_
+20	sur	_	Word	Word	_	22	R	22:R	_
+21	la	_	Word	Word	_	22	E	22:E	_
+22	structure	_	Word	Word	_	2	orphan	2:orphan	_
+23	de	_	Word	Word	_	26	R	26:R	_
+24	l	_	Word	Word	_	26	E	26:E	_
+25	'	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+26	objet	_	Word	Word	_	2	orphan	2:orphan	_
+27	ou	_	Word	Word	_	26	N	26:N	_
+28	de	_	Word	Word	_	31	R	31:R	_
+29	l	_	Word	Word	_	31	E	31:E	_
+30	'	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+31	être	_	Word	Word	_	2	orphan	2:orphan	_
+32	en	_	Word	Word	_	33	R	33:R	_
+33	question	_	Word	Word	_	2	orphan	2:orphan	_
+34	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+35	la	_	Word	Word	_	36	E	36:E	_
+36	vitesse	_	Word	Word	_	2	orphan	2:orphan	_
+37	inouïe	_	Word	Word	_	36	D	36:D	_
+38	de	_	Word	Word	_	40	R	40:R	_
+39	ses	_	Word	Word	_	40	E	40:E	_
+40	mouvements	_	Word	Word	_	2	orphan	2:orphan	_
+41	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+42	la	_	Word	Word	_	43	E	43:E	_
+43	puissance	_	Word	Word	_	2	orphan	2:orphan	_
+44	surprenante	_	Word	Word	_	43	D	43:D	_
+45	de	_	Word	Word	_	47	R	47:R	_
+46	sa	_	Word	Word	_	47	E	47:E	_
+47	locomotion	_	Word	Word	_	2	orphan	2:orphan	_
+48	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+49	la	_	Word	Word	_	50	E	50:E	_
+50	vie	_	Word	Word	_	2	orphan	2:orphan	_
+51	particulière	_	Word	Word	_	50	E	50:E	_
+52	dont	_	Word	Word	_	55	R	55:R	_
+53	il	_	Word	Word	_	55	A	55:A	_
+54	semblait	_	Word	Word	_	55	G	55:G	_
+55	doué	_	Word	Word	_	2	orphan	2:orphan	_
+56	.	_	Punctuation	Punctuation	_	55	punct	55:punct	_
+

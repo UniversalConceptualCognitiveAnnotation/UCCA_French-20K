@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 920001
+# text = L’ Abraham - Lincoln modifiait sa route , courait sur l’ animal signalé , simple baleine ou cachalot vulgaire , qui disparaissait bientôt au milieu d’ un concert d’ imprécations !
+# doc_id = 
+1	L’	_	Word	Word	_	2	E	2:E	_
+2	Abraham	_	Word	Word	_	0	root	0:root	_
+3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	Lincoln	_	Word	Word	_	2	flat	2:flat	_
+5	modifiait	_	Word	Word	_	2	orphan	2:orphan	_
+6	sa	_	Word	Word	_	7	E	7:E	_
+7	route	_	Word	Word	_	2	orphan	2:orphan	_
+8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+9	courait	_	Word	Word	_	2	orphan	2:orphan	_
+10	sur	_	Word	Word	_	12	R	12:R	_
+11	l’	_	Word	Word	_	12	E	12:E	_
+12	animal	_	Word	Word	_	2	orphan	2:orphan	_
+13	signalé	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+15	simple	_	Word	Word	_	16	E	16:E	_
+16	baleine	_	Word	Word	_	2	orphan	2:orphan	_
+17	ou	_	Word	Word	_	16	N	16:N	_
+18	cachalot	_	Word	Word	_	2	orphan	2:orphan	_
+19	vulgaire	_	Word	Word	_	18	E	18:E	_
+20	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+21	qui	_	Word	Word	_	22	R	22:R	_
+22	disparaissait	_	Word	Word	_	2	orphan	2:orphan	_
+23	bientôt	_	Word	Word	_	22	D	22:D	_
+24	au	_	Word	Word	_	25	R	25:R	_
+25	milieu	_	Word	Word	_	2	orphan	2:orphan	_
+26	d’	_	Word	Word	_	25	R	25:R	_
+27	un	_	Word	Word	_	28	E	28:E	_
+28	concert	_	Word	Word	_	2	orphan	2:orphan	_
+29	d’	_	Word	Word	_	28	R	28:R	_
+30	imprécations	_	Word	Word	_	2	orphan	2:orphan	_
+31	!	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+

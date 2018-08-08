@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 852004
+# text = Ce précieux instrument , d’ origine américaine , envoyait sans se gêner , un projectile conique de quatre kilogrammes à une distance moyenne de seize kilomètres .
+# doc_id = 
+1	Ce	_	Word	Word	_	2	E	2:E	_
+2	précieux	_	Word	Word	_	0	root	0:root	_
+3	instrument	_	Word	Word	_	2	E	2:E	_
+4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	d’	_	Word	Word	_	6	R	6:R	_
+6	origine	_	Word	Word	_	2	orphan	2:orphan	_
+7	américaine	_	Word	Word	_	6	E	6:E	_
+8	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	envoyait	_	Word	Word	_	2	orphan	2:orphan	_
+10	sans	_	Word	Word	_	9	D	9:D	_
+11	se	_	Word	Word	_	10	flat	10:flat	_
+12	gêner	_	Word	Word	_	10	flat	10:flat	_
+13	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+14	un	_	Word	Word	_	15	E	15:E	_
+15	projectile	_	Word	Word	_	2	orphan	2:orphan	_
+16	conique	_	Word	Word	_	15	E	15:E	_
+17	de	_	Word	Word	_	19	R	19:R	_
+18	quatre	_	Word	Word	_	19	E	19:E	_
+19	kilogrammes	_	Word	Word	_	2	orphan	2:orphan	_
+20	à	_	Word	Word	_	22	R	22:R	_
+21	une	_	Word	Word	_	22	E	22:E	_
+22	distance	_	Word	Word	_	2	orphan	2:orphan	_
+23	moyenne	_	Word	Word	_	22	E	22:E	_
+24	de	_	Word	Word	_	26	R	26:R	_
+25	seize	_	Word	Word	_	26	E	26:E	_
+26	kilomètres	_	Word	Word	_	2	orphan	2:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

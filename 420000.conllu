@@ -1,0 +1,61 @@
+# format = ucca
+# sent_id = 420000
+# text = Restaient donc deux solutions possibles de la question , qui créaient deux clans très - distincts de partisans : d ' un côté , ceux qui tenaient pour un monstre d ' une force colossale ; de l ' autre , ceux qui tenaient pour un bateau « sous-marin » d ' une extrême puissance motrice
+# doc_id = 
+1	Restaient	_	Word	Word	_	0	root	0:root	_
+2	donc	_	Word	Word	_	1	L	1:L	_
+3	deux	_	Word	Word	_	4	E	4:E	_
+4	solutions	_	Word	Word	_	1	orphan	1:orphan	_
+5	possibles	_	Word	Word	_	4	E	4:E	_
+6	de	_	Word	Word	_	8	R	8:R	_
+7	la	_	Word	Word	_	8	E	8:E	_
+8	question	_	Word	Word	_	1	orphan	1:orphan	_
+9	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+10	qui	_	Word	Word	_	11	R	11:R	_
+11	créaient	_	Word	Word	_	1	orphan	1:orphan	_
+12	deux	_	Word	Word	_	13	E	13:E	_
+13	clans	_	Word	Word	_	1	orphan	1:orphan	_
+14	très	_	Word	Word	_	16	E	16:E	_
+15	-	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	distincts	_	Word	Word	_	1	orphan	1:orphan	_
+17	de	_	Word	Word	_	18	R	18:R	_
+18	partisans	_	Word	Word	_	1	orphan	1:orphan	_
+19	:	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+20	d	_	Word	Word	_	23	R	23:R	_
+21	'	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+22	un	_	Word	Word	_	23	E	23:E	_
+23	côté	_	Word	Word	_	1	orphan	1:orphan	_
+24	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+25	ceux	_	Word	Word	_	27	F	27:F	_
+26	qui	_	Word	Word	_	27	R	27:R	_
+27	tenaient	_	Word	Word	_	1	orphan	1:orphan	_
+28	pour	_	Word	Word	_	30	R	30:R	_
+29	un	_	Word	Word	_	30	E	30:E	_
+30	monstre	_	Word	Word	_	1	orphan	1:orphan	_
+31	d	_	Word	Word	_	34	R	34:R	_
+32	'	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+33	une	_	Word	Word	_	34	E	34:E	_
+34	force	_	Word	Word	_	1	orphan	1:orphan	_
+35	colossale	_	Word	Word	_	34	E	34:E	_
+36	;	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+37	de	_	Word	Word	_	40	R	40:R	_
+38	l	_	Word	Word	_	40	E	40:E	_
+39	'	_	Punctuation	Punctuation	_	40	punct	40:punct	_
+40	autre	_	Word	Word	_	1	orphan	1:orphan	_
+41	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
+42	ceux	_	Word	Word	_	44	F	44:F	_
+43	qui	_	Word	Word	_	44	R	44:R	_
+44	tenaient	_	Word	Word	_	1	orphan	1:orphan	_
+45	pour	_	Word	Word	_	47	R	47:R	_
+46	un	_	Word	Word	_	47	E	47:E	_
+47	bateau	_	Word	Word	_	1	orphan	1:orphan	_
+48	«	_	Punctuation	Punctuation	_	47	punct	47:punct	_
+49	sous-marin	_	Word	Word	_	47	E	47:E	_
+50	»	_	Punctuation	Punctuation	_	47	punct	47:punct	_
+51	d	_	Word	Word	_	55	R	55:R	_
+52	'	_	Punctuation	Punctuation	_	55	punct	55:punct	_
+53	une	_	Word	Word	_	55	E	55:E	_
+54	extrême	_	Word	Word	_	55	E	55:E	_
+55	puissance	_	Word	Word	_	1	orphan	1:orphan	_
+56	motrice	_	Word	Word	_	55	E	55:E	_
+

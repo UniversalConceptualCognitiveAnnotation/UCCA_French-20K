@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 875002
+# text = — Oui ... en effet ... peut-être , répondit le Canadien , ébranlé par ces chiffres , mais qui ne voulait pas se rendre .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+2	Oui	_	Word	Word	_	7	D	7:D	_
+3	...	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+4	en	_	Word	Word	_	7	D	7:D	_
+5	effet	_	Word	Word	_	4	flat	4:flat	_
+6	...	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	peut-être	_	Word	Word	_	0	root	0:root	_
+8	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	répondit	_	Word	Word	_	7	orphan	7:orphan	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	Canadien	_	Word	Word	_	7	orphan	7:orphan	_
+12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	ébranlé	_	Word	Word	_	7	orphan	7:orphan	_
+14	par	_	Word	Word	_	16	R	16:R	_
+15	ces	_	Word	Word	_	16	E	16:E	_
+16	chiffres	_	Word	Word	_	7	orphan	7:orphan	_
+17	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+18	mais	_	Word	Word	_	13	L	13:L	_
+19	qui	_	Word	Word	_	23	R	23:R	_
+20	ne	_	Word	Word	_	23	D	23:D	_
+21	voulait	_	Word	Word	_	23	D	23:D	_
+22	pas	_	Word	Word	_	20	flat	20:flat	_
+23	se	_	Word	Word	_	7	orphan	7:orphan	_
+24	rendre	_	Word	Word	_	23	flat	23:flat	_
+25	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+

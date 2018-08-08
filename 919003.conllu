@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 919003
+# text = Et que de fois j’ ai partagé l’ émotion de l’ état - major , de l’ équipage , lorsque quelque capricieuse baleine élevait son dos noirâtre au - dessus des flots .
+# doc_id = 
+1	Et	_	Word	Word	_	7	L	7:L	_
+2	que	_	Word	Word	_	4	E	4:E	_
+3	de	_	Word	Word	_	4	E	4:E	_
+4	fois	_	Word	Word	_	0	root	0:root	_
+5	j’	_	Word	Word	_	7	A	7:A	_
+6	ai	_	Word	Word	_	7	F	7:F	_
+7	partagé	_	Word	Word	_	4	orphan	4:orphan	_
+8	l’	_	Word	Word	_	9	E	9:E	_
+9	émotion	_	Word	Word	_	4	orphan	4:orphan	_
+10	de	_	Word	Word	_	12	R	12:R	_
+11	l’	_	Word	Word	_	12	E	12:E	_
+12	état	_	Word	Word	_	4	orphan	4:orphan	_
+13	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+14	major	_	Word	Word	_	12	flat	12:flat	_
+15	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+16	de	_	Word	Word	_	18	R	18:R	_
+17	l’	_	Word	Word	_	18	E	18:E	_
+18	équipage	_	Word	Word	_	4	orphan	4:orphan	_
+19	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+20	lorsque	_	Word	Word	_	7	L	7:L	_
+21	quelque	_	Word	Word	_	23	E	23:E	_
+22	capricieuse	_	Word	Word	_	23	E	23:E	_
+23	baleine	_	Word	Word	_	4	orphan	4:orphan	_
+24	élevait	_	Word	Word	_	4	orphan	4:orphan	_
+25	son	_	Word	Word	_	26	E	26:E	_
+26	dos	_	Word	Word	_	4	orphan	4:orphan	_
+27	noirâtre	_	Word	Word	_	26	E	26:E	_
+28	au	_	Word	Word	_	30	R	30:R	_
+29	-	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+30	dessus	_	Word	Word	_	4	orphan	4:orphan	_
+31	des	_	Word	Word	_	30	R	30:R	_
+32	flots	_	Word	Word	_	4	orphan	4:orphan	_
+33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+

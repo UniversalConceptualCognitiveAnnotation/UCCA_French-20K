@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 94003
+# text = Aussi , les passagers choisissent - ils encore , malgré la concurrence puissante que lui fait la France , la ligne Cunard de préférence à toute autre , ainsi qu ' il appert d ' un relevé fait sur les documents officiels des dernières années .
+# doc_id = 
+1	Aussi	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+3	les	_	Word	Word	_	4	E	4:E	_
+4	passagers	_	Word	Word	_	0	root	0:root	_
+5	choisissent	_	Word	Word	_	4	orphan	4:orphan	_
+6	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	ils	_	Word	Word	_	5	A	5:A	_
+8	encore	_	Word	Word	_	5	D	5:D	_
+9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+10	malgré	_	Word	Word	_	5	L	5:L	_
+11	la	_	Word	Word	_	12	E	12:E	_
+12	concurrence	_	Word	Word	_	4	orphan	4:orphan	_
+13	puissante	_	Word	Word	_	12	D	12:D	_
+14	que	_	Word	Word	_	12	R	12:R	_
+15	lui	_	Word	Word	_	12	A	12:A	_
+16	fait	_	Word	Word	_	12	F	12:F	_
+17	la	_	Word	Word	_	18	E	18:E	_
+18	France	_	Word	Word	_	4	orphan	4:orphan	_
+19	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+20	la	_	Word	Word	_	21	E	21:E	_
+21	ligne	_	Word	Word	_	4	orphan	4:orphan	_
+22	Cunard	_	Word	Word	_	4	orphan	4:orphan	_
+23	de	_	Word	Word	_	24	R	24:R	_
+24	préférence	_	Word	Word	_	4	orphan	4:orphan	_
+25	à	_	Word	Word	_	24	R	24:R	_
+26	toute	_	Word	Word	_	27	E	27:E	_
+27	autre	_	Word	Word	_	4	orphan	4:orphan	_
+28	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+29	ainsi	_	Word	Word	_	5	L	5:L	_
+30	qu	_	Word	Word	_	29	flat	29:flat	_
+31	'	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+32	il	_	Word	Word	_	33	F	33:F	_
+33	appert	_	Word	Word	_	4	orphan	4:orphan	_
+34	d	_	Word	Word	_	37	R	37:R	_
+35	'	_	Punctuation	Punctuation	_	37	punct	37:punct	_
+36	un	_	Word	Word	_	37	E	37:E	_
+37	relevé	_	Word	Word	_	4	orphan	4:orphan	_
+38	fait	_	Word	Word	_	4	orphan	4:orphan	_
+39	sur	_	Word	Word	_	41	R	41:R	_
+40	les	_	Word	Word	_	41	E	41:E	_
+41	documents	_	Word	Word	_	4	orphan	4:orphan	_
+42	officiels	_	Word	Word	_	41	E	41:E	_
+43	des	_	Word	Word	_	45	R	45:R	_
+44	dernières	_	Word	Word	_	45	E	45:E	_
+45	années	_	Word	Word	_	4	orphan	4:orphan	_
+46	.	_	Punctuation	Punctuation	_	45	punct	45:punct	_
+

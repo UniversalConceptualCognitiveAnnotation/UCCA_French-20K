@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 91003
+# text = Ils ne virent rien , si ce n ' est un fort remous qui brisait à trois encablures , comme si les nappes liquides eussent été violemment battues .
+# doc_id = 
+1	Ils	_	Word	Word	_	3	A	3:A	_
+2	ne	_	Word	Word	_	3	D	3:D	_
+3	virent	_	Word	Word	_	0	root	0:root	_
+4	rien	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	si	_	Word	Word	_	3	L	3:L	_
+7	ce	_	Word	Word	_	6	flat	6:flat	_
+8	n	_	Word	Word	_	6	flat	6:flat	_
+9	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+10	est	_	Word	Word	_	6	flat	6:flat	_
+11	un	_	Word	Word	_	13	E	13:E	_
+12	fort	_	Word	Word	_	13	E	13:E	_
+13	remous	_	Word	Word	_	3	orphan	3:orphan	_
+14	qui	_	Word	Word	_	15	R	15:R	_
+15	brisait	_	Word	Word	_	3	orphan	3:orphan	_
+16	à	_	Word	Word	_	18	R	18:R	_
+17	trois	_	Word	Word	_	18	E	18:E	_
+18	encablures	_	Word	Word	_	3	orphan	3:orphan	_
+19	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+20	comme	_	Word	Word	_	3	L	3:L	_
+21	si	_	Word	Word	_	20	flat	20:flat	_
+22	les	_	Word	Word	_	23	E	23:E	_
+23	nappes	_	Word	Word	_	3	orphan	3:orphan	_
+24	liquides	_	Word	Word	_	23	E	23:E	_
+25	eussent	_	Word	Word	_	28	F	28:F	_
+26	été	_	Word	Word	_	28	F	28:F	_
+27	violemment	_	Word	Word	_	28	D	28:D	_
+28	battues	_	Word	Word	_	3	orphan	3:orphan	_
+29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+

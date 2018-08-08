@@ -1,0 +1,65 @@
+# format = ucca
+# sent_id = 437000
+# text = « Donc , jusqu' à plus amples informations , j ' opinerais pour une licorne de mer , de dimensions colossales , armée , non plus d' une hallebarde , mais d' un véritable éperon comme les frégates cuirassées ou les « rams » de guerre , dont elle aurait à la fois la masse et la puissance motrice .
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+2	Donc	_	Word	Word	_	7	L	7:L	_
+3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+4	jusqu'	_	Word	Word	_	7	L	7:L	_
+5	à	_	Word	Word	_	4	flat	4:flat	_
+6	plus	_	Word	Word	_	7	E	7:E	_
+7	amples	_	Word	Word	_	0	root	0:root	_
+8	informations	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+10	j	_	Word	Word	_	12	A	12:A	_
+11	'	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+12	opinerais	_	Word	Word	_	7	orphan	7:orphan	_
+13	pour	_	Word	Word	_	15	R	15:R	_
+14	une	_	Word	Word	_	15	E	15:E	_
+15	licorne	_	Word	Word	_	7	orphan	7:orphan	_
+16	de	_	Word	Word	_	17	R	17:R	_
+17	mer	_	Word	Word	_	7	orphan	7:orphan	_
+18	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+19	de	_	Word	Word	_	20	R	20:R	_
+20	dimensions	_	Word	Word	_	7	orphan	7:orphan	_
+21	colossales	_	Word	Word	_	20	E	20:E	_
+22	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+23	armée	_	Word	Word	_	7	orphan	7:orphan	_
+24	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+25	non	_	Word	Word	_	23	D	23:D	_
+26	plus	_	Word	Word	_	25	flat	25:flat	_
+27	d'	_	Word	Word	_	29	R	29:R	_
+28	une	_	Word	Word	_	29	E	29:E	_
+29	hallebarde	_	Word	Word	_	7	orphan	7:orphan	_
+30	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+31	mais	_	Word	Word	_	7	L	7:L	_
+32	d'	_	Word	Word	_	35	R	35:R	_
+33	un	_	Word	Word	_	35	E	35:E	_
+34	véritable	_	Word	Word	_	35	E	35:E	_
+35	éperon	_	Word	Word	_	7	orphan	7:orphan	_
+36	comme	_	Word	Word	_	38	R	38:R	_
+37	les	_	Word	Word	_	38	E	38:E	_
+38	frégates	_	Word	Word	_	7	orphan	7:orphan	_
+39	cuirassées	_	Word	Word	_	38	E	38:E	_
+40	ou	_	Word	Word	_	38	N	38:N	_
+41	les	_	Word	Word	_	43	E	43:E	_
+42	«	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+43	rams	_	Word	Word	_	7	orphan	7:orphan	_
+44	»	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+45	de	_	Word	Word	_	46	R	46:R	_
+46	guerre	_	Word	Word	_	7	orphan	7:orphan	_
+47	,	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+48	dont	_	Word	Word	_	50	R	50:R	_
+49	elle	_	Word	Word	_	50	A	50:A	_
+50	aurait	_	Word	Word	_	7	orphan	7:orphan	_
+51	à	_	Word	Word	_	53	R	53:R	_
+52	la	_	Word	Word	_	53	E	53:E	_
+53	fois	_	Word	Word	_	7	orphan	7:orphan	_
+54	la	_	Word	Word	_	55	E	55:E	_
+55	masse	_	Word	Word	_	7	orphan	7:orphan	_
+56	et	_	Word	Word	_	55	N	55:N	_
+57	la	_	Word	Word	_	58	E	58:E	_
+58	puissance	_	Word	Word	_	7	orphan	7:orphan	_
+59	motrice	_	Word	Word	_	58	E	58:E	_
+60	.	_	Punctuation	Punctuation	_	58	punct	58:punct	_
+

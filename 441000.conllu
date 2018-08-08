@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 441000
+# text = Mais je me laisse entraîner à des rêveries qu ' il ne m ' appartient plus d ' entretenir !
+# doc_id = 
+1	Mais	_	Word	Word	_	5	L	5:L	_
+2	je	_	Word	Word	_	5	A	5:A	_
+3	me	_	Word	Word	_	4	E	4:E	_
+4	laisse	_	Word	Word	_	0	root	0:root	_
+5	entraîner	_	Word	Word	_	4	orphan	4:orphan	_
+6	à	_	Word	Word	_	8	R	8:R	_
+7	des	_	Word	Word	_	8	E	8:E	_
+8	rêveries	_	Word	Word	_	4	orphan	4:orphan	_
+9	qu	_	Word	Word	_	19	R	19:R	_
+10	'	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+11	il	_	Word	Word	_	19	F	19:F	_
+12	ne	_	Word	Word	_	19	D	19:D	_
+13	m	_	Word	Word	_	19	D	19:D	_
+14	'	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+15	appartient	_	Word	Word	_	13	flat	13:flat	_
+16	plus	_	Word	Word	_	12	flat	12:flat	_
+17	d	_	Word	Word	_	19	R	19:R	_
+18	'	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	entretenir	_	Word	Word	_	4	orphan	4:orphan	_
+20	!	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+

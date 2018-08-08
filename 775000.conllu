@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 775000
+# text = Certainement , j’ étais sûr de ce garçon si dévoué .
+# doc_id = 
+1	Certainement	_	Word	Word	_	5	G	5:G	_
+2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+3	j’	_	Word	Word	_	5	A	5:A	_
+4	étais	_	Word	Word	_	5	F	5:F	_
+5	sûr	_	Word	Word	_	0	root	0:root	_
+6	de	_	Word	Word	_	8	R	8:R	_
+7	ce	_	Word	Word	_	8	E	8:E	_
+8	garçon	_	Word	Word	_	5	orphan	5:orphan	_
+9	si	_	Word	Word	_	10	E	10:E	_
+10	dévoué	_	Word	Word	_	5	orphan	5:orphan	_
+11	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+

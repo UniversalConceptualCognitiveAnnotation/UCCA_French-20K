@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 97000
+# text = Le Scotia n ' avait pas heurté , il avait été heurté , et plutôt par un instrument tranchant ou perforant que contondant .
+# doc_id = 
+1	Le	_	Word	Word	_	2	E	2:E	_
+2	Scotia	_	Word	Word	_	0	root	0:root	_
+3	n	_	Word	Word	_	7	D	7:D	_
+4	'	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+5	avait	_	Word	Word	_	7	F	7:F	_
+6	pas	_	Word	Word	_	3	flat	3:flat	_
+7	heurté	_	Word	Word	_	2	orphan	2:orphan	_
+8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	il	_	Word	Word	_	12	A	12:A	_
+10	avait	_	Word	Word	_	12	F	12:F	_
+11	été	_	Word	Word	_	12	F	12:F	_
+12	heurté	_	Word	Word	_	2	orphan	2:orphan	_
+13	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+14	et	_	Word	Word	_	7	L	7:L	_
+15	plutôt	_	Word	Word	_	19	R	19:R	_
+16	par	_	Word	Word	_	19	R	19:R	_
+17	un	_	Word	Word	_	18	E	18:E	_
+18	instrument	_	Word	Word	_	2	orphan	2:orphan	_
+19	tranchant	_	Word	Word	_	2	orphan	2:orphan	_
+20	ou	_	Word	Word	_	19	N	19:N	_
+21	perforant	_	Word	Word	_	19	C	19:C	_
+22	que	_	Word	Word	_	19	R	19:R	_
+23	contondant	_	Word	Word	_	2	orphan	2:orphan	_
+24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+

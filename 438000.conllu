@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 438000
+# text = « Ainsi s ' expliquerait ce phénomène inexplicable , - à moins qu ' il n ' y ait rien , en dépit de ce qu ' on a entrevu , vu , senti et ressenti , - ce qui est encore possible ! »
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Ainsi	_	Word	Word	_	3	L	3:L	_
+3	s	_	Word	Word	_	0	root	0:root	_
+4	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	expliquerait	_	Word	Word	_	3	flat	3:flat	_
+6	ce	_	Word	Word	_	7	E	7:E	_
+7	phénomène	_	Word	Word	_	3	orphan	3:orphan	_
+8	inexplicable	_	Word	Word	_	7	E	7:E	_
+9	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+10	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+11	à	_	Word	Word	_	3	L	3:L	_
+12	moins	_	Word	Word	_	11	flat	11:flat	_
+13	qu	_	Word	Word	_	11	flat	11:flat	_
+14	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+15	il	_	Word	Word	_	19	F	19:F	_
+16	n	_	Word	Word	_	19	D	19:D	_
+17	'	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+18	y	_	Word	Word	_	19	A	19:A	_
+19	ait	_	Word	Word	_	3	orphan	3:orphan	_
+20	rien	_	Word	Word	_	19	A	19:A	_
+21	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+22	en	_	Word	Word	_	23	R	23:R	_
+23	dépit	_	Word	Word	_	3	orphan	3:orphan	_
+24	de	_	Word	Word	_	23	R	23:R	_
+25	ce	_	Word	Word	_	30	F	30:F	_
+26	qu	_	Word	Word	_	30	R	30:R	_
+27	'	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+28	on	_	Word	Word	_	30	A	30:A	_
+29	a	_	Word	Word	_	30	F	30:F	_
+30	entrevu	_	Word	Word	_	3	orphan	3:orphan	_
+31	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+32	vu	_	Word	Word	_	30	C	30:C	_
+33	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+34	senti	_	Word	Word	_	30	C	30:C	_
+35	et	_	Word	Word	_	30	N	30:N	_
+36	ressenti	_	Word	Word	_	30	C	30:C	_
+37	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+38	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+39	ce	_	Word	Word	_	43	F	43:F	_
+40	qui	_	Word	Word	_	43	F	43:F	_
+41	est	_	Word	Word	_	43	F	43:F	_
+42	encore	_	Word	Word	_	43	D	43:D	_
+43	possible	_	Word	Word	_	3	orphan	3:orphan	_
+44	!	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+45	»	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+

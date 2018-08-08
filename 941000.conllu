@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 941000
+# text = Conseil ne put achever son compliment .
+# doc_id = 
+1	Conseil	_	Word	Word	_	4	A	4:A	_
+2	ne	_	Word	Word	_	4	D	4:D	_
+3	put	_	Word	Word	_	4	D	4:D	_
+4	achever	_	Word	Word	_	0	root	0:root	_
+5	son	_	Word	Word	_	6	R	6:R	_
+6	compliment	_	Word	Word	_	4	orphan	4:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

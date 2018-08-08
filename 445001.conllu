@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 445001
+# text = Et l ' impatience allait croissant , quand , le 2 juillet , on apprit qu ' un steamer de la ligne de San Francisco de Californie à Shangaï avait revu l ' animal , trois semaines auparavant , dans les mers septentrionales du Pacifique .
+# doc_id = 
+1	Et	_	Word	Word	_	5	L	5:L	_
+2	l	_	Word	Word	_	4	E	4:E	_
+3	'	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	impatience	_	Word	Word	_	0	root	0:root	_
+5	allait	_	Word	Word	_	4	orphan	4:orphan	_
+6	croissant	_	Word	Word	_	5	flat	5:flat	_
+7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+8	quand	_	Word	Word	_	5	L	5:L	_
+9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	2	_	Word	Word	_	4	orphan	4:orphan	_
+12	juillet	_	Word	Word	_	11	flat	11:flat	_
+13	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+14	on	_	Word	Word	_	15	A	15:A	_
+15	apprit	_	Word	Word	_	4	orphan	4:orphan	_
+16	qu	_	Word	Word	_	31	R	31:R	_
+17	'	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+18	un	_	Word	Word	_	19	E	19:E	_
+19	steamer	_	Word	Word	_	4	orphan	4:orphan	_
+20	de	_	Word	Word	_	22	R	22:R	_
+21	la	_	Word	Word	_	22	E	22:E	_
+22	ligne	_	Word	Word	_	4	orphan	4:orphan	_
+23	de	_	Word	Word	_	24	R	24:R	_
+24	San	_	Word	Word	_	4	orphan	4:orphan	_
+25	Francisco	_	Word	Word	_	24	flat	24:flat	_
+26	de	_	Word	Word	_	27	R	27:R	_
+27	Californie	_	Word	Word	_	4	orphan	4:orphan	_
+28	à	_	Word	Word	_	24	R	24:R	_
+29	Shangaï	_	Word	Word	_	24	C	24:C	_
+30	avait	_	Word	Word	_	31	F	31:F	_
+31	revu	_	Word	Word	_	4	orphan	4:orphan	_
+32	l	_	Word	Word	_	34	E	34:E	_
+33	'	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+34	animal	_	Word	Word	_	4	orphan	4:orphan	_
+35	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+36	trois	_	Word	Word	_	37	E	37:E	_
+37	semaines	_	Word	Word	_	4	orphan	4:orphan	_
+38	auparavant	_	Word	Word	_	37	R	37:R	_
+39	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+40	dans	_	Word	Word	_	42	R	42:R	_
+41	les	_	Word	Word	_	42	E	42:E	_
+42	mers	_	Word	Word	_	4	orphan	4:orphan	_
+43	septentrionales	_	Word	Word	_	42	E	42:E	_
+44	du	_	Word	Word	_	45	R	45:R	_
+45	Pacifique	_	Word	Word	_	4	orphan	4:orphan	_
+46	.	_	Punctuation	Punctuation	_	45	punct	45:punct	_
+

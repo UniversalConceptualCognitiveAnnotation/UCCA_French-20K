@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 922001
+# text = Et pourtant sa merveilleuse puissance de vision aurait rendu de grands services .
+# doc_id = 
+1	Et	_	Word	Word	_	9	L	9:L	_
+2	pourtant	_	Word	Word	_	9	L	9:L	_
+3	sa	_	Word	Word	_	5	E	5:E	_
+4	merveilleuse	_	Word	Word	_	5	E	5:E	_
+5	puissance	_	Word	Word	_	0	root	0:root	_
+6	de	_	Word	Word	_	7	R	7:R	_
+7	vision	_	Word	Word	_	5	orphan	5:orphan	_
+8	aurait	_	Word	Word	_	9	F	9:F	_
+9	rendu	_	Word	Word	_	5	orphan	5:orphan	_
+10	de	_	Word	Word	_	9	flat	9:flat	_
+11	grands	_	Word	Word	_	9	D	9:D	_
+12	services	_	Word	Word	_	9	flat	9:flat	_
+13	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

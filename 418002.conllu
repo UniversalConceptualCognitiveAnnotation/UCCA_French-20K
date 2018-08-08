@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 418002
+# text = Et , en effet , à moins que cet écueil n ' eût une machine dans le ventre , comment pouvait - il se déplacer avec une rapidité si prodigieuse ?
+# doc_id = 
+1	Et	_	Word	Word	_	13	L	13:L	_
+2	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+3	en	_	Word	Word	_	4	R	4:R	_
+4	effet	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+6	à	_	Word	Word	_	13	L	13:L	_
+7	moins	_	Word	Word	_	6	flat	6:flat	_
+8	que	_	Word	Word	_	6	flat	6:flat	_
+9	cet	_	Word	Word	_	10	E	10:E	_
+10	écueil	_	Word	Word	_	4	orphan	4:orphan	_
+11	n	_	Word	Word	_	13	D	13:D	_
+12	'	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	eût	_	Word	Word	_	4	orphan	4:orphan	_
+14	une	_	Word	Word	_	15	E	15:E	_
+15	machine	_	Word	Word	_	4	orphan	4:orphan	_
+16	dans	_	Word	Word	_	18	R	18:R	_
+17	le	_	Word	Word	_	18	E	18:E	_
+18	ventre	_	Word	Word	_	4	orphan	4:orphan	_
+19	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+20	comment	_	Word	Word	_	24	D	24:D	_
+21	pouvait	_	Word	Word	_	24	D	24:D	_
+22	-	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+23	il	_	Word	Word	_	24	A	24:A	_
+24	se	_	Word	Word	_	4	orphan	4:orphan	_
+25	déplacer	_	Word	Word	_	24	flat	24:flat	_
+26	avec	_	Word	Word	_	28	R	28:R	_
+27	une	_	Word	Word	_	28	E	28:E	_
+28	rapidité	_	Word	Word	_	4	orphan	4:orphan	_
+29	si	_	Word	Word	_	30	E	30:E	_
+30	prodigieuse	_	Word	Word	_	4	orphan	4:orphan	_
+31	?	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+

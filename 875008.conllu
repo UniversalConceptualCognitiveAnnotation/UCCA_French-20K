@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 875008
+# text = — Parce que ... ça n’ est pas vrai ! » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d’ Arago .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+2	Parce	_	Word	Word	_	9	L	9:L	_
+3	que	_	Word	Word	_	2	flat	2:flat	_
+4	...	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+5	ça	_	Word	Word	_	9	A	9:A	_
+6	n’	_	Word	Word	_	9	D	9:D	_
+7	est	_	Word	Word	_	9	F	9:F	_
+8	pas	_	Word	Word	_	6	flat	6:flat	_
+9	vrai	_	Word	Word	_	0	root	0:root	_
+10	!	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+11	»	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+12	répondit	_	Word	Word	_	9	orphan	9:orphan	_
+13	le	_	Word	Word	_	14	E	14:E	_
+14	Canadien	_	Word	Word	_	9	orphan	9:orphan	_
+15	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	en	_	Word	Word	_	17	F	17:F	_
+17	reproduisant	_	Word	Word	_	9	orphan	9:orphan	_
+18	sans	_	Word	Word	_	17	L	17:L	_
+19	le	_	Word	Word	_	20	A	20:A	_
+20	savoir	_	Word	Word	_	9	orphan	9:orphan	_
+21	une	_	Word	Word	_	23	E	23:E	_
+22	célèbre	_	Word	Word	_	23	E	23:E	_
+23	réponse	_	Word	Word	_	9	orphan	9:orphan	_
+24	d’	_	Word	Word	_	25	R	25:R	_
+25	Arago	_	Word	Word	_	9	orphan	9:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+

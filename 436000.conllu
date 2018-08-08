@@ -1,0 +1,60 @@
+# format = ucca
+# sent_id = 436000
+# text = « Eh bien ! supposez l ' arme dix fois plus forte , et l ' animal dix fois plus puissant , lancez - le avec une rapidité de vingt milles à l ' heure , multipliez sa masse par sa vitesse , et vous obtenez un choc capable de produire la catastrophe demandée .
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	Eh	_	Word	Word	_	5	L	5:L	_
+3	bien	_	Word	Word	_	2	flat	2:flat	_
+4	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	supposez	_	Word	Word	_	0	root	0:root	_
+6	l	_	Word	Word	_	8	E	8:E	_
+7	'	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	arme	_	Word	Word	_	5	orphan	5:orphan	_
+9	dix	_	Word	Word	_	10	E	10:E	_
+10	fois	_	Word	Word	_	5	orphan	5:orphan	_
+11	plus	_	Word	Word	_	12	E	12:E	_
+12	forte	_	Word	Word	_	5	orphan	5:orphan	_
+13	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+14	et	_	Word	Word	_	5	L	5:L	_
+15	l	_	Word	Word	_	17	E	17:E	_
+16	'	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	animal	_	Word	Word	_	5	orphan	5:orphan	_
+18	dix	_	Word	Word	_	19	E	19:E	_
+19	fois	_	Word	Word	_	5	orphan	5:orphan	_
+20	plus	_	Word	Word	_	21	E	21:E	_
+21	puissant	_	Word	Word	_	5	orphan	5:orphan	_
+22	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+23	lancez	_	Word	Word	_	5	orphan	5:orphan	_
+24	-	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+25	le	_	Word	Word	_	23	A	23:A	_
+26	avec	_	Word	Word	_	28	R	28:R	_
+27	une	_	Word	Word	_	28	E	28:E	_
+28	rapidité	_	Word	Word	_	5	orphan	5:orphan	_
+29	de	_	Word	Word	_	31	R	31:R	_
+30	vingt	_	Word	Word	_	31	E	31:E	_
+31	milles	_	Word	Word	_	5	orphan	5:orphan	_
+32	à	_	Word	Word	_	35	R	35:R	_
+33	l	_	Word	Word	_	35	E	35:E	_
+34	'	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+35	heure	_	Word	Word	_	5	orphan	5:orphan	_
+36	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+37	multipliez	_	Word	Word	_	5	orphan	5:orphan	_
+38	sa	_	Word	Word	_	39	E	39:E	_
+39	masse	_	Word	Word	_	5	orphan	5:orphan	_
+40	par	_	Word	Word	_	42	R	42:R	_
+41	sa	_	Word	Word	_	42	E	42:E	_
+42	vitesse	_	Word	Word	_	5	orphan	5:orphan	_
+43	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+44	et	_	Word	Word	_	5	L	5:L	_
+45	vous	_	Word	Word	_	46	A	46:A	_
+46	obtenez	_	Word	Word	_	5	orphan	5:orphan	_
+47	un	_	Word	Word	_	48	E	48:E	_
+48	choc	_	Word	Word	_	5	orphan	5:orphan	_
+49	capable	_	Word	Word	_	51	D	51:D	_
+50	de	_	Word	Word	_	51	F	51:F	_
+51	produire	_	Word	Word	_	5	orphan	5:orphan	_
+52	la	_	Word	Word	_	53	E	53:E	_
+53	catastrophe	_	Word	Word	_	5	orphan	5:orphan	_
+54	demandée	_	Word	Word	_	53	E	53:E	_
+55	.	_	Punctuation	Punctuation	_	53	punct	53:punct	_
+

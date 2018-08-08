@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 446007
+# text = D ' ailleurs , le commandant Farragut ne demandait qu ' à partir .
+# doc_id = 
+1	D	_	Word	Word	_	3	R	3:R	_
+2	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+3	ailleurs	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+5	le	_	Word	Word	_	6	E	6:E	_
+6	commandant	_	Word	Word	_	3	orphan	3:orphan	_
+7	Farragut	_	Word	Word	_	3	orphan	3:orphan	_
+8	ne	_	Word	Word	_	9	D	9:D	_
+9	demandait	_	Word	Word	_	3	orphan	3:orphan	_
+10	qu	_	Word	Word	_	8	flat	8:flat	_
+11	'	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+12	à	_	Word	Word	_	13	F	13:F	_
+13	partir	_	Word	Word	_	3	orphan	3:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+
