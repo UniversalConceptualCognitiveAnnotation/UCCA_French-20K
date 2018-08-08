@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 89000
+1	Pendant	_	Word	Word	_	9	R	_	_
+2	les	_	Word	Word	_	4	E	_	_
+3	premiers	_	Word	Word	_	4	E	_	_
+4	mois	_	Word	Word	_	9	E	_	_
+5	de	_	Word	Word	_	9	R	_	_
+6	l	_	Word	Word	_	8	E	_	_
+7	'	_	Punctuation	Punctuation	_	8	U	_	_
+8	année	_	Word	Word	_	9	E	_	_
+9	1867	_	Word	Word	_	15	T	_	_
+10	,	_	Punctuation	Punctuation	_	15	U	_	_
+11	la	_	Word	Word	_	12	E	_	_
+12	question	_	Word	Word	_	15	A	_	_
+13	parut	_	Word	Word	_	15	D	_	_
+14	être	_	Word	Word	_	15	F	_	_
+15	enterrée	_	Word	Word	_	0	ROOT	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	et	_	Word	Word	_	15	L	_	_
+18	elle	_	Word	Word	_	23	A	_	_
+19	ne	_	Word	Word	_	23	D	_	_
+20	semblait	_	Word	Word	_	23	G	_	_
+21	pas	_	Word	Word	_	19	Terminal	_	_
+22	devoir	_	Word	Word	_	23	D	_	_
+23	renaître	_	Word	Word	_	15	H	_	_
+24	,	_	Punctuation	Punctuation	_	15	U	_	_
+25	quand	_	Word	Word	_	15	L	_	_
+26	de	_	Word	Word	_	28	E	_	_
+27	nouveaux	_	Word	Word	_	28	E	_	_
+28	faits	_	Word	Word	_	30	A	_	_
+29	furent	_	Word	Word	_	30	F	_	_
+30	portés	_	Word	Word	_	15	H	_	_
+31	à	_	Word	Word	_	33	R	_	_
+32	la	_	Word	Word	_	33	E	_	_
+33	connaissance	_	Word	Word	_	30	A	_	_
+34	du	_	Word	Word	_	35	R	_	_
+35	public	_	Word	Word	_	33	E	_	_
+36	.	_	Punctuation	Punctuation	_	35	U	_	_
+

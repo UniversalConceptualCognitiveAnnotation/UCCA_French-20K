@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 927004
+1	rien	_	Word	Word	_	0	ROOT	_	_
+2	qui	_	Word	Word	_	3	R	_	_
+3	ressemblât	_	Word	Word	_	1	A	_	_
+4	à	_	Word	Word	_	6	R	_	_
+5	un	_	Word	Word	_	6	E	_	_
+6	narwal	_	Word	Word	_	3	A	_	_
+7	gigantesque	_	Word	Word	_	6	E	_	_
+8	,	_	Punctuation	Punctuation	_	6	U	_	_
+9	ni	_	Word	Word	_	6	E	_	_
+9	ni	_	Word	Word	_	6	N	_	_
+10	à	_	Word	Word	_	12	R	_	_
+11	un	_	Word	Word	_	12	E	_	_
+12	îlot	_	Word	Word	_	6	C	_	_
+13	sous-marin	_	Word	Word	_	12	E	_	_
+14	,	_	Punctuation	Punctuation	_	6	U	_	_
+15	ni	_	Word	Word	_	6	N	_	_
+16	à	_	Word	Word	_	18	R	_	_
+17	une	_	Word	Word	_	18	E	_	_
+18	épave	_	Word	Word	_	6	C	_	_
+19	de	_	Word	Word	_	20	R	_	_
+20	naufrage	_	Word	Word	_	18	E	_	_
+21	,	_	Punctuation	Punctuation	_	6	U	_	_
+22	ni	_	Word	Word	_	6	N	_	_
+23	à	_	Word	Word	_	25	R	_	_
+24	un	_	Word	Word	_	25	E	_	_
+25	écueil	_	Word	Word	_	6	C	_	_
+26	fuyant	_	Word	Word	_	25	E	_	_
+27	,	_	Punctuation	Punctuation	_	6	U	_	_
+28	ni	_	Word	Word	_	6	N	_	_
+29	à	_	Word	Word	_	30	R	_	_
+30	quoi	_	Word	Word	_	6	C	_	_
+31	que	_	Word	Word	_	30	Terminal	_	_
+32	ce	_	Word	Word	_	30	Terminal	_	_
+33	fût	_	Word	Word	_	30	Terminal	_	_
+34	de	_	Word	Word	_	35	R	_	_
+35	surnaturel	_	Word	Word	_	30	E	_	_
+36	!	_	Punctuation	Punctuation	_	35	U	_	_
+

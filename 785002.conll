@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 785002
+1	Sous	_	Word	Word	_	3	R	_	_
+2	cette	_	Word	Word	_	3	E	_	_
+3	pression	_	Word	Word	_	9	A	_	_
+4	,	_	Punctuation	Punctuation	_	9	U	_	_
+5	l’	_	Word	Word	_	6	E	_	_
+6	Abraham	_	Word	Word	_	30	A	_	_
+7	-	_	Punctuation	Punctuation	_	30	U	_	_
+8	Lincoln	_	Word	Word	_	6	Terminal	_	_
+9	atteignait	_	Word	Word	_	0	ROOT	_	_
+10	une	_	Word	Word	_	11	E	_	_
+11	vitesse	_	Word	Word	_	15	E	_	_
+12	moyenne	_	Word	Word	_	11	E	_	_
+13	de	_	Word	Word	_	11	R	_	_
+14	dix-huit	_	Word	Word	_	15	E	_	_
+15	milles	_	Word	Word	_	9	A	_	_
+16	et	_	Word	Word	_	15	N	_	_
+17	trois	_	Word	Word	_	18	E	_	_
+18	dixièmes	_	Word	Word	_	15	C	_	_
+19	à	_	Word	Word	_	21	R	_	_
+20	l’	_	Word	Word	_	21	E	_	_
+21	heure	_	Word	Word	_	15	E	_	_
+22	,	_	Punctuation	Punctuation	_	15	U	_	_
+23	vitesse	_	Word	Word	_	28	A	_	_
+24	considérable	_	Word	Word	_	23	E	_	_
+25	,	_	Punctuation	Punctuation	_	9	U	_	_
+26	mais	_	Word	Word	_	9	L	_	_
+27	cependant	_	Word	Word	_	26	Terminal	_	_
+28	insuffisante	_	Word	Word	_	9	H	_	_
+29	pour	_	Word	Word	_	9	L	_	_
+30	lutter	_	Word	Word	_	9	H	_	_
+31	avec	_	Word	Word	_	34	R	_	_
+32	le	_	Word	Word	_	34	E	_	_
+33	gigantesque	_	Word	Word	_	34	E	_	_
+34	cétacé	_	Word	Word	_	30	A	_	_
+35	.	_	Punctuation	Punctuation	_	34	U	_	_
+

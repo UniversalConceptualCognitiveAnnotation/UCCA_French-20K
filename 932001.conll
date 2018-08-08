@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 932001
+1	Elle	_	Word	Word	_	9	A	_	_
+1	Elle	_	Word	Word	_	2	A	_	_
+2	eut	_	Word	Word	_	0	ROOT	_	_
+3	tout	_	Word	Word	_	2	L	_	_
+4	d’	_	Word	Word	_	3	Terminal	_	_
+5	abord	_	Word	Word	_	3	Terminal	_	_
+6	pour	_	Word	Word	_	2	Terminal	_	_
+7	résultat	_	Word	Word	_	2	Terminal	_	_
+8	de	_	Word	Word	_	9	F	_	_
+9	ranimer	_	Word	Word	_	2	A	_	_
+10	les	_	Word	Word	_	11	E	_	_
+11	défaillances	_	Word	Word	_	9	A	_	_
+12	de	_	Word	Word	_	14	R	_	_
+13	l’	_	Word	Word	_	14	E	_	_
+14	équipage	_	Word	Word	_	11	A	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 91000
+1	L	_	Word	Word	_	3	E	_	_
+2	'	_	Punctuation	Punctuation	_	3	U	_	_
+3	accident	_	Word	Word	_	5	A	_	_
+4	était	_	Word	Word	_	5	F	_	_
+5	arrivé	_	Word	Word	_	0	ROOT	_	_
+6	vers	_	Word	Word	_	7	E	_	_
+7	cinq	_	Word	Word	_	5	T	_	_
+8	heures	_	Word	Word	_	7	Terminal	_	_
+9	du	_	Word	Word	_	10	R	_	_
+10	matin	_	Word	Word	_	7	E	_	_
+11	,	_	Punctuation	Punctuation	_	5	U	_	_
+12	lorsque	_	Word	Word	_	5	L	_	_
+13	le	_	Word	Word	_	14	E	_	_
+14	jour	_	Word	Word	_	17	A	_	_
+15	commençait	_	Word	Word	_	17	D	_	_
+16	à	_	Word	Word	_	17	R	_	_
+17	poindre	_	Word	Word	_	5	H	_	_
+18	.	_	Punctuation	Punctuation	_	17	U	_	_
+

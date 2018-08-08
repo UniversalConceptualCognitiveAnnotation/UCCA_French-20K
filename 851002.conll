@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 851002
+1	Seul	_	Word	Word	_	5	E	_	_
+2	entre	_	Word	Word	_	3	R	_	_
+3	tous	_	Word	Word	_	1	A	_	_
+4	,	_	Punctuation	Punctuation	_	1	U	_	_
+5	Conseil	_	Word	Word	_	1	A	_	_
+5	Conseil	_	Word	Word	_	18	A	_	_
+6	protestait	_	Word	Word	_	0	ROOT	_	_
+7	par	_	Word	Word	_	9	R	_	_
+8	son	_	Word	Word	_	9	E	_	_
+9	indifférence	_	Word	Word	_	6	A	_	_
+10	touchant	_	Word	Word	_	12	R	_	_
+11	la	_	Word	Word	_	12	E	_	_
+12	question	_	Word	Word	_	9	E	_	_
+13	qui	_	Word	Word	_	15	R	_	_
+14	nous	_	Word	Word	_	15	A	_	_
+15	passionnait	_	Word	Word	_	12	E	_	_
+16	,	_	Punctuation	Punctuation	_	6	U	_	_
+17	et	_	Word	Word	_	6	L	_	_
+18	détonait	_	Word	Word	_	6	H	_	_
+19	sur	_	Word	Word	_	21	R	_	_
+20	l’	_	Word	Word	_	21	E	_	_
+21	enthousiasme	_	Word	Word	_	18	A	_	_
+22	général	_	Word	Word	_	21	E	_	_
+23	du	_	Word	Word	_	24	R	_	_
+24	bord	_	Word	Word	_	21	E	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
+

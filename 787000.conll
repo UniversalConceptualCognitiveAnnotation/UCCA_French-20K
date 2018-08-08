@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 787000
+1	«	_	Punctuation	Punctuation	_	7	U	_	_
+2	Nous	_	Word	Word	_	4	A	_	_
+3	serons	_	Word	Word	_	4	F	_	_
+4	bien	_	Word	Word	_	7	A	_	_
+5	ici	_	Word	Word	_	4	A	_	_
+6	,	_	Punctuation	Punctuation	_	7	U	_	_
+7	dis	_	Word	Word	_	0	ROOT	_	_
+8	-	_	Punctuation	Punctuation	_	7	U	_	_
+9	je	_	Word	Word	_	7	A	_	_
+10	à	_	Word	Word	_	11	R	_	_
+11	Conseil	_	Word	Word	_	7	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

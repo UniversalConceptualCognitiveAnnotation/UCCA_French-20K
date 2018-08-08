@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 439000
+1	Ces	_	Word	Word	_	3	E	_	_
+2	derniers	_	Word	Word	_	3	E	_	_
+3	mots	_	Word	Word	_	6	A	_	_
+4	étaient	_	Word	Word	_	6	F	_	_
+5	une	_	Word	Word	_	6	E	_	_
+6	lâcheté	_	Word	Word	_	0	ROOT	_	_
+7	de	_	Word	Word	_	9	R	_	_
+8	ma	_	Word	Word	_	9	E	_	_
+9	part	_	Word	Word	_	6	A	_	_
+10	;	_	Punctuation	Punctuation	_	6	U	_	_
+11	mais	_	Word	Word	_	6	L	_	_
+12	je	_	Word	Word	_	29	A	_	_
+12	je	_	Word	Word	_	19	A	_	_
+13	voulais	_	Word	Word	_	19	D	_	_
+13	voulais	_	Word	Word	_	29	P	_	_
+14	jusqu'	_	Word	Word	_	18	R	_	_
+15	à	_	Word	Word	_	14	Terminal	_	_
+16	un	_	Word	Word	_	18	E	_	_
+17	certain	_	Word	Word	_	18	E	_	_
+18	point	_	Word	Word	_	19	A	_	_
+19	couvrir	_	Word	Word	_	6	H	_	_
+20	ma	_	Word	Word	_	21	E	_	_
+21	dignité	_	Word	Word	_	19	A	_	_
+22	de	_	Word	Word	_	23	R	_	_
+23	professeur	_	Word	Word	_	21	E	_	_
+24	,	_	Punctuation	Punctuation	_	6	U	_	_
+25	et	_	Word	Word	_	6	L	_	_
+26	ne	_	Word	Word	_	29	D	_	_
+27	pas	_	Word	Word	_	26	Terminal	_	_
+28	trop	_	Word	Word	_	29	D	_	_
+29	prêter	_	Word	Word	_	6	H	_	_
+30	à	_	Word	Word	_	29	Terminal	_	_
+31	rire	_	Word	Word	_	29	Terminal	_	_
+32	aux	_	Word	Word	_	33	R	_	_
+33	Américains	_	Word	Word	_	29	A	_	_
+34	,	_	Punctuation	Punctuation	_	33	U	_	_
+35	qui	_	Word	Word	_	36	R	_	_
+36	rient	_	Word	Word	_	33	E	_	_
+37	bien	_	Word	Word	_	36	D	_	_
+38	,	_	Punctuation	Punctuation	_	36	U	_	_
+39	quand	_	Word	Word	_	36	L	_	_
+40	ils	_	Word	Word	_	41	A	_	_
+41	rient	_	Word	Word	_	36	H	_	_
+42	.	_	Punctuation	Punctuation	_	41	U	_	_
+
