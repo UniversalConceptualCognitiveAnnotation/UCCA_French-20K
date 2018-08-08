@@ -1,0 +1,47 @@
+# ::id 84002
+# ::tok Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l ' Umgullick , n ' ont jamais dépassé la longueur de cinquante-six mètres , - si même elles l ' atteignent .
+# ::alignments 0-1.1 2-1.2.1.1 3-1.2.1.2.2 4-1.2.1.2.3 5-1.2.1.3 7-1.2.1.4.2 8-1.2.1.4.2 9-1.2.1.4.3 10-1.2.1.4.4.1.1 11-1.2.1.4.4.1.2 12-1.2.1.4.4.1.3 13-1.2.1.4.4.2 14-1.2.1.4.4.3 16-1.2.1.5.1.1 17-1.2.1.5.1.2 18-1.2.1.5.2 19-1.2.1.5.3.1 21-1.2.1.5.3.2 23-1.2.2 26-1.2.4 27-1.2.5 28-1.2.6.1.1 29-1.2.6.1.2 30-1.2.6.1.3 31-1.2.6.2 32-1.2.6.3 35-1.3 36-1.3 37-1.4.1 38-1.4.2 40-1.4.3
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v14 / label~e.2)
+                  :E (v15 / label
+                          :A (v16 / label~e.5)
+                          :D (v22 / label~e.3)
+                          :S (v23 / label~e.4))
+                  :C v16
+                  :E (v17 / label
+                          :A v16
+                          :R (v24 / label~e.7,8)
+                          :P (v25 / label~e.9)
+                          :A (v26 / label
+                                  :E (v33 / label
+                                          :E (v40 / label~e.10)
+                                          :C (v41 / label~e.11)
+                                          :R (v42 / label~e.12))
+                                  :C (v34 / label~e.13)
+                                  :E (v35 / label~e.14)))
+                  :E (v18 / label
+                          :C (v27 / label
+                                  :E (v36 / label~e.16)
+                                  :C (v37 / label~e.17))
+                          :N (v28 / label~e.18)
+                          :C (v29 / label
+                                  :E (v38 / label~e.19)
+                                  :C (v39 / label~e.21))))
+           :D (v7 / label~e.23)
+           :T (v8 / label~e.26)
+           :S (v9 / label~e.27)
+           :A (v10 / label
+                   :E (v19 / label
+                           :E (v30 / label~e.28)
+                           :C (v31 / label~e.29)
+                           :R (v32 / label~e.30))
+                   :E (v20 / label~e.31)
+                   :C (v21 / label~e.32)))
+    :L (v4 / label~e.35,36)
+    :H (v5 / label
+           :A (v11 / label~e.37)
+           :A (v12 / label~e.38)
+           :P (v13 / label~e.40)))
