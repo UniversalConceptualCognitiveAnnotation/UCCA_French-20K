@@ -39,8 +39,8 @@
 37	peuplent	_	Word	Word	_	34	E	_	_
 38	l’	_	Word	Word	_	39	E	_	_
 39	intérieur	_	Word	Word	_	41	E	_	_
-40	du	_	Word	Word	_	39	R	_	_
 40	du	_	Word	Word	_	41	E	_	_
+40	du	_	Word	Word	_	39	R	_	_
 41	globe	_	Word	Word	_	37	A	_	_
 42	,	_	Punctuation	Punctuation	_	43	U	_	_
 43	passe	_	Word	Word	_	7	H	_	_
@@ -54,8 +54,8 @@
 51	ni	_	Word	Word	_	49	N	_	_
 52	le	_	Word	Word	_	53	E	_	_
 53	géologue	_	Word	Word	_	49	C	_	_
-54	n’	_	Word	Word	_	64	D	_	_
 54	n’	_	Word	Word	_	55	D	_	_
+54	n’	_	Word	Word	_	64	D	_	_
 55	admettent	_	Word	Word	_	7	H	_	_
 56	de	_	Word	Word	_	58	E	_	_
 57	telles	_	Word	Word	_	58	E	_	_
