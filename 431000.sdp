@@ -1,0 +1,24 @@
+# format = ucca
+1	«	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+2	Ou	_	Word	-	-	_	L	_	_	_	_	_	_
+3	nous	_	Word	-	-	_	A	_	_	_	_	_	_
+4	connaissons	_	Word	-	+	_	_	_	_	_	_	_	_
+5	toutes	_	Word	-	-	_	_	E	_	_	_	_	_
+6	les	_	Word	-	-	_	_	E	_	_	_	_	_
+7	variétés	_	Word	-	+	_	A	_	_	_	_	_	_
+8	d	_	Word	-	-	_	_	_	R	_	_	_	_
+9	'	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+10	êtres	_	Word	-	+	_	_	E	_	_	_	_	_
+11	qui	_	Word	-	-	_	_	_	_	R	_	_	_
+12	peuplent	_	Word	-	+	_	_	_	E	_	_	_	_
+13	notre	_	Word	-	-	_	_	_	_	_	E	_	_
+14	planète	_	Word	-	+	_	_	_	_	A	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+16	ou	_	Word	-	-	_	L	_	_	_	_	_	_
+17	nous	_	Word	-	-	_	_	_	_	_	_	_	A
+18	ne	_	Word	-	+	_	_	_	_	_	_	_	D
+19	les	_	Word	-	-	_	_	_	_	_	_	_	A
+20	connaissons	_	Word	-	+	_	H	_	_	_	_	_	_
+21	pas	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

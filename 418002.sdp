@@ -1,0 +1,33 @@
+# format = ucca
+1	Et	_	Word	-	-	_	_	_	_	L	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+3	en	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+4	effet	_	Word	-	+	_	_	_	_	L	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+6	à	_	Word	-	+	_	_	_	_	L	_	_	_	_	_
+7	moins	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+8	que	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+9	cet	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+10	écueil	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+11	n	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
+12	'	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+13	eût	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+14	une	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+15	machine	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+16	dans	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+17	le	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+18	ventre	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+20	comment	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+21	pouvait	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+22	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+23	il	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+24	se	_	Word	-	+	_	_	_	_	H	_	_	_	_	_
+25	déplacer	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+26	avec	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+27	une	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+28	rapidité	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+29	si	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+30	prodigieuse	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+31	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

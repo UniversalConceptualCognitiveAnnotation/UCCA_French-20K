@@ -1,0 +1,22 @@
+# format = ucca
+1	Alors	_	Word	-	-	_	L	_	_	_	_	_
+2	éclata	_	Word	-	+	_	_	_	_	_	_	_
+3	l	_	Word	-	-	_	_	E	_	_	_	_
+4	'	_	Punctuation	-	-	_	_	U	_	_	_	_
+5	interminable	_	Word	-	-	_	_	E	_	_	_	_
+6	polémique	_	Word	-	+	_	A	_	_	_	_	_
+7	des	_	Word	-	-	_	_	_	R	_	_	_
+8	crédules	_	Word	-	+	_	_	E	_	_	_	_
+9	et	_	Word	-	-	_	_	_	N	_	_	_
+10	des	_	Word	-	-	_	_	_	_	R	_	_
+11	incrédules	_	Word	-	+	_	_	_	C	_	_	_
+12	dans	_	Word	-	-	_	_	_	_	_	R	R
+13	les	_	Word	-	-	_	_	_	_	_	E	_
+14	sociétés	_	Word	-	+	_	A	_	_	_	_	_
+15	savantes	_	Word	-	-	_	_	_	_	_	E	_
+16	et	_	Word	-	-	_	_	_	_	_	N	_
+17	les	_	Word	-	-	_	_	_	_	_	_	E
+18	journaux	_	Word	-	+	_	_	_	_	_	C	_
+19	scientifiques	_	Word	-	-	_	_	_	_	_	_	E
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

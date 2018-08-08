@@ -1,0 +1,14 @@
+# format = ucca
+1	Personne	_	Word	-	-	_	A	_	_	_
+2	n	_	Word	-	-	_	D	_	_	_
+3	'	_	Punctuation	-	-	_	U	_	_	_
+4	ignore	_	Word	-	+	_	_	_	_	_
+5	le	_	Word	-	-	_	_	E	_	_
+6	nom	_	Word	-	+	_	A	_	_	_
+7	du	_	Word	-	-	_	_	_	_	R
+8	célèbre	_	Word	-	-	_	_	_	E	_
+9	armateur	_	Word	-	+	_	_	_	_	E
+10	anglais	_	Word	-	-	_	_	_	E	_
+11	Cunard	_	Word	-	+	_	_	E	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

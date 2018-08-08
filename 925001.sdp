@@ -1,0 +1,27 @@
+# format = ucca
+1	Ce	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+2	relèvement	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+3	fait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+5	la	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+6	frégate	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+7	prit	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+8	une	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+9	direction	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+10	plus	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+11	décidée	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_
+12	vers	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+13	l’	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+14	ouest	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+16	et	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+17	s’	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+18	engagea	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+19	dans	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+20	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+21	mers	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+22	centrales	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+23	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+24	Pacifique	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

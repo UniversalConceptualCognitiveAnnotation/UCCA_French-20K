@@ -1,0 +1,11 @@
+# format = ucca
+1	À	_	Word	-	-	_	R	_	_
+2	cela	_	Word	-	+	_	_	A	_
+3	,	_	Punctuation	-	-	_	_	U	_
+4	je	_	Word	-	-	_	_	A	A
+5	ne	_	Word	-	-	_	_	D	_
+6	savais	_	Word	-	+	_	_	_	_
+7	que	_	Word	-	-	_	_	_	A
+8	répondre	_	Word	-	+	_	_	A	_
+9	.	_	Punctuation	-	-	_	_	_	U
+

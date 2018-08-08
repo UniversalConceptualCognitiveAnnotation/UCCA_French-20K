@@ -1,0 +1,25 @@
+# format = ucca
+1	L'année	_	Word	-	-	_	E	_	_	_	_	_	_
+2	1866	_	Word	-	+	_	_	T	_	_	_	_	_
+3	fut	_	Word	-	-	_	_	F	_	_	_	_	_
+4	marquée	_	Word	-	+	_	_	_	_	_	_	_	_
+5	par	_	Word	-	-	_	_	_	R	_	_	_	_
+6	un	_	Word	-	-	_	_	_	E	_	_	_	_
+7	événement	_	Word	-	+	_	_	A	_	_	_	_	_
+8	bizarre	_	Word	-	-	_	_	_	E	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+10	un	_	Word	-	-	_	_	_	_	E	_	_	_
+11	phénomène	_	Word	-	+	_	_	_	C	_	_	_	_
+12	inexpliqué	_	Word	-	+	_	_	_	_	E	_	_	_
+13	et	_	Word	-	-	_	_	_	_	_	N	_	_
+14	inexplicable	_	Word	-	-	_	_	_	_	_	C	_	_
+15	que	_	Word	-	-	_	_	_	_	_	_	_	R
+16	personne	_	Word	-	-	_	_	_	_	_	_	_	A
+17	n	_	Word	-	-	_	_	_	_	_	_	_	D
+18	'	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+19	a	_	Word	-	-	_	_	_	_	_	_	_	F
+20	sans	_	Word	-	-	_	_	_	_	_	_	E	_
+21	doute	_	Word	-	+	_	_	_	_	_	_	_	D
+22	oublié	_	Word	-	+	_	_	_	_	E	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

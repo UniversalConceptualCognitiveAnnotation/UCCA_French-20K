@@ -1,0 +1,19 @@
+# format = ucca
+1	On	_	Word	-	-	_	A	_	_	_	_	_	_
+2	fit	_	Word	-	+	_	_	_	_	_	_	_	_
+3	à	_	Word	-	-	_	_	R	_	_	_	_	_
+4	New	_	Word	-	+	_	A	_	_	_	_	_	_
+5	York	_	Word	-	-	_	_	Terminal	_	_	_	_	_
+6	les	_	Word	-	-	_	_	_	E	_	_	_	_
+7	préparatifs	_	Word	-	+	_	A	_	_	_	_	_	_
+8	d	_	Word	-	-	_	_	_	_	R	_	_	_
+9	'	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+10	une	_	Word	-	-	_	_	_	_	E	_	_	_
+11	expédition	_	Word	-	+	_	_	_	E	_	_	_	_
+12	destinée	_	Word	-	+	_	_	_	_	E	_	_	_
+13	à	_	Word	-	-	_	_	_	_	_	_	R	_
+14	poursuivre	_	Word	-	+	_	_	_	_	_	A	_	_
+15	le	_	Word	-	-	_	_	_	_	_	_	_	E
+16	narwal	_	Word	-	+	_	_	_	_	_	_	A	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

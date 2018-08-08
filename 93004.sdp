@@ -1,0 +1,23 @@
+# format = ucca
+1	Ainsi	_	Word	-	+	_	_	_	_	L	_	_	_	_	_
+2	donc	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+4	en	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+5	1867	_	Word	-	+	_	_	_	_	T	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+7	la	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+8	Compagnie	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+9	possédait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+10	douze	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+11	navires	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+13	dont	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+14	huit	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+15	à	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+16	roues	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+17	et	_	Word	-	-	_	_	_	_	_	_	N	_	_	_
+18	quatre	_	Word	-	+	_	_	_	_	_	_	C	_	_	_
+19	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+20	hélices	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

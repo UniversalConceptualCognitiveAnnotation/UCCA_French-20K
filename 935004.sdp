@@ -1,0 +1,18 @@
+# format = ucca
+1	De	_	Word	-	-	_	E	_	_	_	_
+2	gros	_	Word	-	-	_	E	_	_	_	_
+3	nuages	_	Word	-	+	_	_	A	_	_	_
+4	voilaient	_	Word	-	+	_	_	_	_	_	_
+5	le	_	Word	-	-	_	_	_	E	_	_
+6	disque	_	Word	-	+	_	_	_	_	E	_
+7	de	_	Word	-	-	_	_	_	R	_	_
+8	la	_	Word	-	-	_	_	_	_	E	_
+9	lune	_	Word	-	+	_	_	A	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	U	_
+11	alors	_	Word	-	-	_	_	_	_	_	D
+12	dans	_	Word	-	-	_	_	_	_	_	R
+13	son	_	Word	-	-	_	_	_	_	_	E
+14	premier	_	Word	-	-	_	_	_	_	_	E
+15	quartier	_	Word	-	+	_	_	_	_	E	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+
