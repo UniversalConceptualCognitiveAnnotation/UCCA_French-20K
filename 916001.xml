@@ -245,7 +245,6 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra remarks="ALSO E" />
       <edge toID="0.22" type="Terminal">
         <attributes />
       </edge>

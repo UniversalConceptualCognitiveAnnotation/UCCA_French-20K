@@ -158,10 +158,10 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.3" type="S">
+      <edge toID="1.3" type="A">
         <attributes />
       </edge>
-      <edge toID="1.4" type="A">
+      <edge toID="1.4" type="S">
         <attributes />
       </edge>
       <edge toID="1.5" type="A">
@@ -179,7 +179,6 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra remarks="D" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
@@ -522,7 +521,6 @@
     </node>
     <node ID="1.44" type="FN">
       <attributes />
-      <extra remarks="can be internally analyzed as R+E." />
       <edge toID="0.13" type="Terminal">
         <attributes />
       </edge>

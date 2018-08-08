@@ -97,7 +97,6 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra remarks="symbols" />
       <edge toID="1.4" type="A">
         <attributes />
       </edge>

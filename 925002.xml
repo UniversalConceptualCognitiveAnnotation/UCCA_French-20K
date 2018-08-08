@@ -786,7 +786,6 @@
     </node>
     <node ID="1.64" type="FN">
       <attributes />
-      <extra remarks="ALSO E" />
       <edge toID="1.65" type="R">
         <attributes />
       </edge>
@@ -808,7 +807,6 @@
     </node>
     <node ID="1.67" type="FN">
       <attributes />
-      <extra remarks="ALSO E" />
       <edge toID="0.21" type="Terminal">
         <attributes />
       </edge>

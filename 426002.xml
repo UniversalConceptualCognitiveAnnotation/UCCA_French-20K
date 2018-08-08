@@ -229,7 +229,6 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra remarks="l' should be annotated as E" />
       <edge toID="0.21" type="Terminal">
         <attributes />
       </edge>
@@ -350,7 +349,6 @@
     </node>
     <node ID="1.31" type="FN">
       <attributes />
-      <extra remarks="ALSO E" />
       <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>

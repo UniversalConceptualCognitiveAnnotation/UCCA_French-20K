@@ -433,7 +433,6 @@
     </node>
     <node ID="1.38" type="FN">
       <attributes />
-      <extra remarks="also E" />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>

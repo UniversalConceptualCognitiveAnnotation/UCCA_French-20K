@@ -193,7 +193,6 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra remarks="L' should be separated from &quot;evenement&quot; and annotated as E" />
       <edge toID="0.28" type="Terminal">
         <attributes />
       </edge>

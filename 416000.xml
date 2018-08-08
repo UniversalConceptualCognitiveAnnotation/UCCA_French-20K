@@ -145,7 +145,6 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra remarks="T" />
       <edge toID="1.27" type="R">
         <attributes />
       </edge>
@@ -314,7 +313,6 @@
     </node>
     <node ID="1.23" type="FN">
       <attributes />
-      <extra remarks="also E" />
       <edge toID="0.24" type="Terminal">
         <attributes />
       </edge>
@@ -327,7 +325,6 @@
     </node>
     <node ID="1.25" type="FN">
       <attributes />
-      <extra remarks="also E" />
       <edge toID="0.21" type="Terminal">
         <attributes />
       </edge>

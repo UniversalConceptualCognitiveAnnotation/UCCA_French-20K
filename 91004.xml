@@ -281,7 +281,6 @@
     </node>
     <node ID="1.25" type="FN">
       <attributes />
-      <extra remarks="ALSO R" />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
