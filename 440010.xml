@@ -159,6 +159,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
+      <extra remarks="&quot;elle&quot; should be annotated as A " />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>

@@ -375,6 +375,7 @@
     </node>
     <node ID="1.21" type="FN">
       <attributes />
+      <extra remarks="qu' should be separated and annotated as R" />
       <edge toID="0.36" type="Terminal">
         <attributes />
       </edge>

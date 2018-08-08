@@ -324,6 +324,7 @@
     </node>
     <node ID="1.27" type="FN">
       <attributes />
+      <extra remarks="l' should be separated and annotated as E inside the Process." />
       <edge toID="0.11" type="Terminal">
         <attributes />
       </edge>

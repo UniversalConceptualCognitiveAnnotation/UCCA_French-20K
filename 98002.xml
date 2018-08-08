@@ -177,6 +177,7 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
+      <extra remarks="d' should be separated from eau and annotated as R. eau should be C  " />
       <edge toID="0.18" type="Terminal">
         <attributes />
       </edge>
