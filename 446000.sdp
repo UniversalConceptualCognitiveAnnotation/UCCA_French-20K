@@ -1,0 +1,11 @@
+# format = ucca
+1	L'	_	Word	-	-	_	E	_	_	_
+2	émotion	_	Word	-	+	_	_	_	_	A
+3	causée	_	Word	-	+	_	E	_	_	_
+4	par	_	Word	-	-	_	_	_	R	_
+5	cette	_	Word	-	-	_	_	_	E	_
+6	nouvelle	_	Word	-	+	_	_	A	_	_
+7	fut	_	Word	-	-	_	_	_	_	F
+8	extrême	_	Word	-	+	_	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	_	U
+

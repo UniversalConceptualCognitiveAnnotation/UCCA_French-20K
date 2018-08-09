@@ -1,0 +1,20 @@
+# format = ucca
+1	Le	_	Word	-	-	_	E	_	_	_	_	_	_
+2	relèvement	_	Word	-	+	_	_	_	A	_	_	_	_
+3	du	_	Word	-	-	_	_	R	_	_	_	_	_
+4	lieu	_	Word	-	+	_	E	_	_	_	_	_	_
+5	fut	_	Word	-	-	_	_	_	F	_	_	_	_
+6	exactement	_	Word	-	-	_	_	_	D	_	_	_	_
+7	pris	_	Word	-	+	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+9	et	_	Word	-	-	_	_	_	L	_	_	_	_
+10	le	_	Word	-	-	_	_	_	_	E	_	_	_
+11	Moravian	_	Word	-	+	_	_	_	_	_	_	_	A
+12	continua	_	Word	-	+	_	_	_	H	_	_	_	_
+13	sa	_	Word	-	-	_	_	_	_	_	_	E	_
+14	route	_	Word	-	+	_	_	_	_	_	A	_	_
+15	sans	_	Word	-	-	_	_	_	L	_	_	_	D
+16	avaries	_	Word	-	+	_	_	_	H	_	_	_	_
+17	apparentes	_	Word	-	-	_	_	_	_	_	_	_	D
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

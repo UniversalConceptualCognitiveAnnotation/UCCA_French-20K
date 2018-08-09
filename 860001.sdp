@@ -1,0 +1,29 @@
+# format = ucca
+1	Je	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	dois	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+3	avouer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	qu’	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+5	il	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+6	ne	_	Word	-	+	_	_	_	D	_	_	_	_	_	_
+7	croyait	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+8	guère	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+9	à	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+10	la	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	licorne	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+13	et	_	Word	-	-	_	_	_	L	_	_	_	_	_	_
+14	que	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+16	seul	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
+17	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+18	bord	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+20	il	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+21	ne	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
+22	partageait	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
+23	pas	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+24	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+25	conviction	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+26	générale	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

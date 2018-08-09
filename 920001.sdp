@@ -1,0 +1,33 @@
+# format = ucca
+1	L’	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+2	Abraham	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+4	Lincoln	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+5	modifiait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	sa	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+7	route	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+9	courait	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+10	sur	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+11	l’	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+12	animal	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+13	signalé	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+15	simple	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+16	baleine	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+17	ou	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_
+18	cachalot	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_
+19	vulgaire	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+21	qui	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+22	disparaissait	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+23	bientôt	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+24	au	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+25	milieu	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	R
+26	d’	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+27	un	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+28	concert	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+29	d’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+30	imprécations	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+31	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

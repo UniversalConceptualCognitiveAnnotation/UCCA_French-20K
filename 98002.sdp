@@ -1,0 +1,21 @@
+# format = ucca
+1	Le	_	Word	-	-	_	E	_	_	_	_	_
+2	Scotia	_	Word	-	+	_	_	_	_	_	A	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+4	divisé	_	Word	-	+	_	E	_	_	_	_	_
+5	en	_	Word	-	-	_	_	_	R	_	_	_
+6	sept	_	Word	-	-	_	_	_	E	_	_	_
+7	compartiments	_	Word	-	+	_	_	A	_	_	_	_
+8	par	_	Word	-	-	_	_	_	_	R	_	_
+9	des	_	Word	-	-	_	_	_	_	E	_	_
+10	cloisons	_	Word	-	+	_	_	A	_	_	_	_
+11	étanches	_	Word	-	-	_	_	_	_	E	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+13	devait	_	Word	-	-	_	_	_	_	_	F	_
+14	braver	_	Word	-	+	_	_	_	_	_	_	_
+15	impunément	_	Word	-	-	_	_	_	_	_	D	_
+16	une	_	Word	-	-	_	_	_	_	_	_	E
+17	voie	_	Word	-	+	_	_	_	_	_	A	_
+18	d'eau	_	Word	-	-	_	_	_	_	_	_	E
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

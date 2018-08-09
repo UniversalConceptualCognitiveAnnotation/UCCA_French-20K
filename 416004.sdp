@@ -1,0 +1,27 @@
+# format = ucca
+1	Je	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	m'	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+3	occupais	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	donc	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+6	en	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+7	attendant	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+9	de	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+10	classer	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+11	mes	_	Word	-	-	_	_	_	_	E	_	E	E	_	_	_
+12	richesses	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+13	minéralogiques	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+15	botaniques	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_
+16	et	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_
+17	zoologiques	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+19	quand	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+20	arriva	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+21	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+22	incident	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+23	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+24	Scotia	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

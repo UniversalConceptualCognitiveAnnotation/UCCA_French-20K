@@ -1,0 +1,27 @@
+# format = ucca
+1	—	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+2	Oui	_	Word	-	-	_	_	D	_	_	_	_	_	_
+3	...	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+4	en	_	Word	-	+	_	_	D	_	_	_	_	_	_
+5	effet	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+6	...	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	peut-être	_	Word	-	+	_	_	_	A	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+9	répondit	_	Word	-	+	_	_	_	_	_	_	_	_	_
+10	le	_	Word	-	-	_	_	_	_	E	_	_	_	_
+11	Canadien	_	Word	-	+	_	_	_	A	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+13	ébranlé	_	Word	-	+	_	_	_	_	E	_	_	_	_
+14	par	_	Word	-	-	_	_	_	_	_	_	R	_	_
+15	ces	_	Word	-	-	_	_	_	_	_	_	E	_	_
+16	chiffres	_	Word	-	+	_	_	_	_	_	A	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
+18	mais	_	Word	-	-	_	_	_	_	_	L	_	_	_
+19	qui	_	Word	-	-	_	_	_	_	_	_	_	_	R
+20	ne	_	Word	-	+	_	_	_	_	_	_	_	_	D
+21	voulait	_	Word	-	-	_	_	_	_	_	_	_	_	D
+22	pas	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+23	se	_	Word	-	+	_	_	_	_	_	H	_	_	_
+24	rendre	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

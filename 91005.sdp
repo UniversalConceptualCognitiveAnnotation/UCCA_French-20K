@@ -1,0 +1,18 @@
+# format = ucca
+1	Avait	_	Word	-	-	_	F	_	_	_
+2	-	_	Punctuation	-	-	_	U	_	_	_
+3	il	_	Word	-	-	_	A	_	A	_
+4	heurté	_	Word	-	+	_	_	_	_	_
+5	une	_	Word	-	-	_	_	E	_	_
+6	roche	_	Word	-	+	_	A	_	_	_
+7	sous-marine	_	Word	-	-	_	_	E	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_
+9	ou	_	Word	-	-	_	L	_	_	_
+10	quelque	_	Word	-	-	_	_	_	E	_
+11	énorme	_	Word	-	-	_	_	_	E	_
+12	épave	_	Word	-	+	_	H	_	_	_
+13	d'	_	Word	-	-	_	_	_	_	R
+14	un	_	Word	-	-	_	_	_	_	E
+15	naufrage	_	Word	-	+	_	_	_	E	_
+16	?	_	Punctuation	-	-	_	_	_	_	U
+
