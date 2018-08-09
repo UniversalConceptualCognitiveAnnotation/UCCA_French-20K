@@ -1,11 +1,24 @@
 # ::id 91000
 # ::tok L' accident était arrivé vers cinq heures du matin , lorsque le jour commençait à poindre .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :T label
-       :D label
-       :E label
-       :C label
-       :R label)
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.2 7-1.1.4.3.1 8-1.1.4.3.2 10-1.2 11-1.3.1.1 12-1.3.1.2 13-1.3.2 14-1.3.3.1 15-1.3.3.2
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label~e.0)
+                  :C (v12 / label~e.1))
+           :P (v6 / label~e.3)
+           :T (v7 / label
+                  :E (v13 / label~e.4)
+                  :C (v14 / label~e.5,6)
+                  :E (v15 / label
+                          :R (v20 / label~e.7)
+                          :C (v21 / label~e.8))))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v16 / label~e.11)
+                  :C (v17 / label~e.12))
+           :D (v9 / label~e.13)
+           :P (v10 / label
+                   :R (v18 / label~e.14)
+                   :C (v19 / label~e.15))))
