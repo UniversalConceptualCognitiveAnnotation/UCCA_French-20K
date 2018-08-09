@@ -5,29 +5,31 @@ fond	Word	--	Terminal	501
 j'	Word	--	Terminal	503
 admettais	Word	--	Terminal	504
 l	Word	--	Terminal	505
-'existence	Word	--	Terminal	506
-du	Word	--	Terminal	507
-«	Punctuation	--	Terminal	508
-monstre	Word	--	Terminal	509
-»	Punctuation	--	Terminal	510
-.	Punctuation	--	Terminal	511
-#500	FN	--	R	512
-#501	FN	--	C	512
-#502	PNCT	--	U	517
-#503	FN	--	A	516
-#504	FN	--	P	516
-#505	FN	--	E	513
-#506	FN	--	C	513
-#507	FN	--	R	514
-#508	PNCT	--	U	514
-#509	FN	--	C	514
-#510	PNCT	--	U	514
-#511	PNCT	--	U	514
-#512	FN	--	L	517	LR	518
-#513	FN	--	S	515
-#514	FN	--	A	515
+'	Punctuation	--	Terminal	506
+existence	Word	--	Terminal	507
+du	Word	--	Terminal	508
+«	Punctuation	--	Terminal	509
+monstre	Word	--	Terminal	510
+»	Punctuation	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	C	513
+#502	PNCT	--	U	518
+#503	FN	--	A	517
+#504	FN	--	P	517
+#505	FN	--	E	514
+#506	PNCT	--	U	514
+#507	FN	--	C	514
+#508	FN	--	R	515
+#509	PNCT	--	U	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	PNCT	--	U	515
+#513	FN	--	L	518	LR	519
+#514	FN	--	S	516
 #515	FN	--	A	516
-#516	FN	--	H	517	LA	518
-#517	FN	--	--	0
-#518	LKG	--	--	0
+#516	FN	--	A	517
+#517	FN	--	H	518	LA	519
+#518	FN	--	--	0
+#519	LKG	--	--	0
 #EOS 439002

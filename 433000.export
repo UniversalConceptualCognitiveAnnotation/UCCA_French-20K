@@ -40,76 +40,78 @@ admettre	Word	--	Terminal	537
 l'	Word	--	Terminal	538
 existence	Word	--	Terminal	539
 d	Word	--	Terminal	540
-'un	Word	--	Terminal	541
-Narwal	Word	--	Terminal	542
-géant	Word	--	Terminal	543
-.	Punctuation	--	Terminal	544
-#500	PNCT	--	U	562
-#501	FN	--	L	562	LR	559
-#502	PNCT	--	U	562
-#503	FN	--	R	545
-#504	FN	--	C	545
-#505	PNCT	--	U	562
-#506	FN	--	A	552
-#507	FN	--	P	552
-#508	FN	--	E	546
-#509	FN	--	E	546
-#510	FN	--	C	546
-#511	FN	--	E	546
-#512	PNCT	--	U	562
-#513	FN	--	F	561
-#514	FN	--	D	561
-#515	FN	--	D	561
-#516	FN	--	P	561
-#517	FN	--	E	554
-#518	FN	--	C	554
-#519	FN	--	R	547
-#520	FN	--	C	547
-#521	FN	--	R	560
-#522	FN	--	E	560
-#523	FN	--	C	560	A*	556
-#524	FN	--	E	560
-#525	FN	--	D	556
-#526	FN	--	P	556
-#527	PNCT	--	U	562
-#528	FN	--	L	562	LR	563
-#529	FN	--	R	548
-#530	FN	--	E	548
-#531	FN	--	C	548
-#532	PNCT	--	U	558
-#533	FN	--	A	558
-#534	FN	--	F	558
-#535	FN	--	C	549
-#536	FN	--	R	549
-#537	FN	--	P	558
-#538	FN	--	E	550
-#539	FN	--	C	550
-#540	FN	--	R	551
-#541	FN	--	E	551
-#542	FN	--	C	551
-#543	FN	--	E	551
-#544	PNCT	--	U	551
-#545	FN	--	L	562	LR	553
-#546	FN	--	A	552
-#547	FN	--	E	554
-#548	FN	--	A	558
-#549	FN	--	D	558
-#550	FN	--	S	557
-#551	FN	--	A	557
-#552	FN	--	H	562	LA	553	LA	559
-#553	LKG	--	--	0
-#554	FN	--	A	561
-#555	FN	--	A	556
-#556	FN	--	E	560
-#557	FN	--	A	558
-#558	FN	--	H	562	LA	563
-#559	LKG	--	--	0
-#560	FN	--	A	561
-#561	FN	--	H	562	LA	563
-#562	FN	--	A	566
-#563	LKG	--	--	0
-#564	FN	--	A	566
-#565	FN	--	P	566
-#566	FN	--	H	567
-#567	FN	--	--	0
+'	Punctuation	--	Terminal	541
+un	Word	--	Terminal	542
+Narwal	Word	--	Terminal	543
+géant	Word	--	Terminal	544
+.	Punctuation	--	Terminal	545
+#500	PNCT	--	U	563
+#501	FN	--	L	563	LR	560
+#502	PNCT	--	U	563
+#503	FN	--	R	546
+#504	FN	--	C	546
+#505	PNCT	--	U	563
+#506	FN	--	A	553
+#507	FN	--	P	553
+#508	FN	--	E	547
+#509	FN	--	E	547
+#510	FN	--	C	547
+#511	FN	--	E	547
+#512	PNCT	--	U	563
+#513	FN	--	F	562
+#514	FN	--	D	562
+#515	FN	--	D	562
+#516	FN	--	P	562
+#517	FN	--	E	555
+#518	FN	--	C	555
+#519	FN	--	R	548
+#520	FN	--	C	548
+#521	FN	--	R	561
+#522	FN	--	E	561
+#523	FN	--	C	561	A*	557
+#524	FN	--	E	561
+#525	FN	--	D	557
+#526	FN	--	P	557
+#527	PNCT	--	U	563
+#528	FN	--	L	563	LR	564
+#529	FN	--	R	549
+#530	FN	--	E	549
+#531	FN	--	C	549
+#532	PNCT	--	U	559
+#533	FN	--	A	559
+#534	FN	--	F	559
+#535	FN	--	C	550
+#536	FN	--	R	550
+#537	FN	--	P	559
+#538	FN	--	E	551
+#539	FN	--	C	551
+#540	FN	--	R	552
+#541	PNCT	--	U	552
+#542	FN	--	E	552
+#543	FN	--	C	552
+#544	FN	--	E	552
+#545	PNCT	--	U	552
+#546	FN	--	L	563	LR	554
+#547	FN	--	A	553
+#548	FN	--	E	555
+#549	FN	--	A	559
+#550	FN	--	D	559
+#551	FN	--	S	558
+#552	FN	--	A	558
+#553	FN	--	H	563	LA	554	LA	560
+#554	LKG	--	--	0
+#555	FN	--	A	562
+#556	FN	--	A	557
+#557	FN	--	E	561
+#558	FN	--	A	559
+#559	FN	--	H	563	LA	564
+#560	LKG	--	--	0
+#561	FN	--	A	562
+#562	FN	--	H	563	LA	564
+#563	FN	--	A	567
+#564	LKG	--	--	0
+#565	FN	--	P	567
+#566	FN	--	A	567
+#567	FN	--	H	568
+#568	FN	--	--	0
 #EOS 433000
