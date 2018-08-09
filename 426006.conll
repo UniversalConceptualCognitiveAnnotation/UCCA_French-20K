@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 426006
+1	Et	_	Word	Word	_	17	L	_	_
+2	même	_	Word	Word	_	17	L	_	_
+3	,	_	Punctuation	Punctuation	_	17	U	_	_
+4	«	_	Punctuation	Punctuation	_	17	U	_	_
+5	l'honorable	_	Word	Word	_	6	E	_	_
+6	Pierre	_	Word	Word	_	17	A	_	_
+7	Aronnax	_	Word	Word	_	6	Terminal	_	_
+8	,	_	Punctuation	Punctuation	_	6	U	_	_
+9	professeur	_	Word	Word	_	6	E	_	_
+10	au	_	Word	Word	_	11	R	_	_
+11	Muséum	_	Word	Word	_	9	E	_	_
+12	de	_	Word	Word	_	13	R	_	_
+13	Paris	_	Word	Word	_	11	E	_	_
+14	»	_	Punctuation	Punctuation	_	17	U	_	_
+15	,	_	Punctuation	Punctuation	_	17	U	_	_
+16	fut	_	Word	Word	_	17	F	_	_
+17	mis	_	Word	Word	_	0	ROOT	_	_
+18	en	_	Word	Word	_	17	Terminal	_	_
+19	demeure	_	Word	Word	_	17	Terminal	_	_
+20	par	_	Word	Word	_	22	R	_	_
+21	le	_	Word	Word	_	22	E	_	_
+22	New	_	Word	Word	_	17	A	_	_
+23	York-Herald	_	Word	Word	_	22	Terminal	_	_
+24	de	_	Word	Word	_	25	R	_	_
+25	formuler	_	Word	Word	_	17	A	_	_
+26	une	_	Word	Word	_	27	E	_	_
+27	opinion	_	Word	Word	_	25	A	_	_
+28	quelconque	_	Word	Word	_	27	E	_	_
+

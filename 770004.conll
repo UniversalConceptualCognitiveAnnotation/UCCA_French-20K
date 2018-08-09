@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 770004
+1	Très	_	Word	Word	_	3	D	_	_
+2	-	_	Punctuation	Punctuation	_	3	U	_	_
+3	versé	_	Word	Word	_	0	ROOT	_	_
+4	dans	_	Word	Word	_	6	R	_	_
+5	la	_	Word	Word	_	6	E	_	_
+6	théorie	_	Word	Word	_	3	A	_	_
+7	de	_	Word	Word	_	9	R	_	_
+8	la	_	Word	Word	_	9	E	_	_
+9	classification	_	Word	Word	_	6	E	_	_
+10	,	_	Punctuation	Punctuation	_	3	U	_	_
+11	peu	_	Word	Word	_	14	D	_	_
+12	dans	_	Word	Word	_	14	R	_	_
+13	la	_	Word	Word	_	14	E	_	_
+14	pratique	_	Word	Word	_	3	H	_	_
+15	,	_	Punctuation	Punctuation	_	14	U	_	_
+16	il	_	Word	Word	_	3	A	_	_
+16	il	_	Word	Word	_	20	A	_	_
+16	il	_	Word	Word	_	14	A	_	_
+17	n’	_	Word	Word	_	20	D	_	_
+18	eût	_	Word	Word	_	20	F	_	_
+19	pas	_	Word	Word	_	17	Terminal	_	_
+20	distingué	_	Word	Word	_	3	H	_	_
+21	,	_	Punctuation	Punctuation	_	20	U	_	_
+22	je	_	Word	Word	_	20	G	_	_
+23	crois	_	Word	Word	_	22	Terminal	_	_
+24	,	_	Punctuation	Punctuation	_	20	U	_	_
+25	un	_	Word	Word	_	26	E	_	_
+26	cachalot	_	Word	Word	_	20	A	_	_
+27	d’	_	Word	Word	_	26	R	_	_
+28	une	_	Word	Word	_	29	E	_	_
+29	baleine	_	Word	Word	_	26	C	_	_
+30	!	_	Punctuation	Punctuation	_	29	U	_	_
+

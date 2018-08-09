@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 935001
+1	Les	_	Word	Word	_	2	E	_	_
+2	terres	_	Word	Word	_	6	A	_	_
+3	du	_	Word	Word	_	4	R	_	_
+4	Japon	_	Word	Word	_	2	E	_	_
+5	nous	_	Word	Word	_	6	A	_	_
+6	restaient	_	Word	Word	_	0	ROOT	_	_
+7	à	_	Word	Word	_	8	R	_	_
+8	moins	_	Word	Word	_	12	E	_	_
+9	de	_	Word	Word	_	8	R	_	_
+10	deux	_	Word	Word	_	11	E	_	_
+11	cents	_	Word	Word	_	12	E	_	_
+12	milles	_	Word	Word	_	6	A	_	_
+13	sous	_	Word	Word	_	15	R	_	_
+14	le	_	Word	Word	_	15	E	_	_
+15	vent	_	Word	Word	_	12	E	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+

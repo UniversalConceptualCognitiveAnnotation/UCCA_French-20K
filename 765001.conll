@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 765001
+1	Je	_	Word	Word	_	3	A	_	_
+1	Je	_	Word	Word	_	7	A	_	_
+2	n’	_	Word	Word	_	3	D	_	_
+3	aspirais	_	Word	Word	_	0	ROOT	_	_
+4	plus	_	Word	Word	_	2	Terminal	_	_
+5	qu’	_	Word	Word	_	2	Terminal	_	_
+6	à	_	Word	Word	_	7	F	_	_
+7	revoir	_	Word	Word	_	3	A	_	_
+8	mon	_	Word	Word	_	9	E	_	_
+9	pays	_	Word	Word	_	7	A	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	mes	_	Word	Word	_	12	E	_	_
+12	amis	_	Word	Word	_	9	C	_	_
+13	,	_	Punctuation	Punctuation	_	9	U	_	_
+14	mon	_	Word	Word	_	16	E	_	_
+15	petit	_	Word	Word	_	16	E	_	_
+16	logement	_	Word	Word	_	9	C	_	_
+17	du	_	Word	Word	_	18	R	_	_
+18	Jardin	_	Word	Word	_	16	E	_	_
+19	des	_	Word	Word	_	20	R	_	_
+20	Plantes	_	Word	Word	_	18	E	_	_
+21	,	_	Punctuation	Punctuation	_	9	U	_	_
+22	mes	_	Word	Word	_	26	E	_	_
+23	chères	_	Word	Word	_	26	E	_	_
+24	et	_	Word	Word	_	23	N	_	_
+25	précieuses	_	Word	Word	_	23	C	_	_
+26	collections	_	Word	Word	_	9	C	_	_
+27	!	_	Punctuation	Punctuation	_	26	U	_	_
+

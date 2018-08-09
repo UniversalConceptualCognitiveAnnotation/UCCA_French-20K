@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 102001
+1	Depuis	_	Word	Word	_	3	R	_	_
+2	ce	_	Word	Word	_	3	E	_	_
+3	moment	_	Word	Word	_	17	T	_	_
+4	,	_	Punctuation	Punctuation	_	17	U	_	_
+5	en	_	Word	Word	_	6	R	_	_
+6	effet	_	Word	Word	_	17	L	_	_
+7	,	_	Punctuation	Punctuation	_	17	U	_	_
+8	les	_	Word	Word	_	9	E	_	_
+9	sinistres	_	Word	Word	_	17	A	_	_
+10	maritimes	_	Word	Word	_	9	E	_	_
+11	qui	_	Word	Word	_	12	R	_	_
+12	n'avaient	_	Word	Word	_	9	E	_	_
+13	pas	_	Word	Word	_	12	D	_	_
+14	de	_	Word	Word	_	15	R	_	_
+15	cause	_	Word	Word	_	12	A	_	_
+16	déterminée	_	Word	Word	_	15	E	_	_
+17	furent	_	Word	Word	_	0	ROOT	_	_
+18	mis	_	Word	Word	_	17	Terminal	_	_
+19	sur	_	Word	Word	_	17	Terminal	_	_
+20	le	_	Word	Word	_	17	Terminal	_	_
+21	compte	_	Word	Word	_	17	Terminal	_	_
+22	du	_	Word	Word	_	23	R	_	_
+23	monstre	_	Word	Word	_	17	A	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+

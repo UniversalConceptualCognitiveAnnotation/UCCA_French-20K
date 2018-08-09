@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 94001
+1	Nulle	_	Word	Word	_	9	D	_	_
+2	entreprise	_	Word	Word	_	9	A	_	_
+3	de	_	Word	Word	_	4	R	_	_
+4	navigation	_	Word	Word	_	2	E	_	_
+5	transocéanienne	_	Word	Word	_	4	E	_	_
+6	n'	_	Word	Word	_	9	D	_	_
+7	a	_	Word	Word	_	9	F	_	_
+8	été	_	Word	Word	_	9	F	_	_
+9	conduite	_	Word	Word	_	0	ROOT	_	_
+10	avec	_	Word	Word	_	13	R	_	_
+11	plus	_	Word	Word	_	13	E	_	_
+12	d'	_	Word	Word	_	13	E	_	_
+13	habileté	_	Word	Word	_	9	A	_	_
+14	;	_	Punctuation	Punctuation	_	9	U	_	_
+15	nulle	_	Word	Word	_	20	D	_	_
+16	affaire	_	Word	Word	_	20	A	_	_
+17	n'	_	Word	Word	_	20	D	_	_
+18	a	_	Word	Word	_	20	F	_	_
+19	été	_	Word	Word	_	20	F	_	_
+20	couronnée	_	Word	Word	_	9	H	_	_
+21	de	_	Word	Word	_	24	R	_	_
+22	plus	_	Word	Word	_	24	E	_	_
+23	de	_	Word	Word	_	24	E	_	_
+24	succès	_	Word	Word	_	20	A	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
+

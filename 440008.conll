@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 440008
+1	Le	_	Word	Word	_	2	E	_	_
+2	Créateur	_	Word	Word	_	5	A	_	_
+3	les	_	Word	Word	_	5	A	_	_
+4	avait	_	Word	Word	_	5	F	_	_
+5	jetés	_	Word	Word	_	0	ROOT	_	_
+6	dans	_	Word	Word	_	8	R	_	_
+7	un	_	Word	Word	_	8	E	_	_
+8	moule	_	Word	Word	_	5	A	_	_
+9	colossal	_	Word	Word	_	8	E	_	_
+10	que	_	Word	Word	_	14	R	_	_
+11	le	_	Word	Word	_	12	E	_	_
+12	temps	_	Word	Word	_	14	A	_	_
+13	a	_	Word	Word	_	14	F	_	_
+14	réduit	_	Word	Word	_	8	E	_	_
+15	peu	_	Word	Word	_	14	D	_	_
+16	à	_	Word	Word	_	15	R	_	_
+17	peu	_	Word	Word	_	15	C	_	_
+18	.	_	Punctuation	Punctuation	_	15	U	_	_
+
