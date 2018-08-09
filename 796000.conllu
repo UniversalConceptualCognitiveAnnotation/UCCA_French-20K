@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 796000
+# text = Trois heures sonnaient alors . Le pilote descendit dans son canot , et rejoignit la petite goélette qui l’ attendait sous le vent .
+# doc_id = 
+1	Trois	_	Word	Word	_	2	E	2:E	_
+2	heures	_	Word	Word	_	0	root	0:root	_
+3	sonnaient	_	Word	Word	_	2	orphan	2:orphan	_
+4	alors	_	Word	Word	_	3	L	3:L	_
+5	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	Le	_	Word	Word	_	7	E	7:E	_
+7	pilote	_	Word	Word	_	2	orphan	2:orphan	_
+8	descendit	_	Word	Word	_	2	orphan	2:orphan	_
+9	dans	_	Word	Word	_	11	R	11:R	_
+10	son	_	Word	Word	_	11	E	11:E	_
+11	canot	_	Word	Word	_	2	orphan	2:orphan	_
+12	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+13	et	_	Word	Word	_	3	L	3:L	_
+14	rejoignit	_	Word	Word	_	2	orphan	2:orphan	_
+15	la	_	Word	Word	_	17	E	17:E	_
+16	petite	_	Word	Word	_	17	E	17:E	_
+17	goélette	_	Word	Word	_	2	orphan	2:orphan	_
+18	qui	_	Word	Word	_	20	R	20:R	_
+19	l’	_	Word	Word	_	20	A	20:A	_
+20	attendait	_	Word	Word	_	2	orphan	2:orphan	_
+21	sous	_	Word	Word	_	23	R	23:R	_
+22	le	_	Word	Word	_	23	E	23:E	_
+23	vent	_	Word	Word	_	2	orphan	2:orphan	_
+24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+

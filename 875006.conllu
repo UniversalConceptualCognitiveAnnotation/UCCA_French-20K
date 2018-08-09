@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 875006
+# text = — C’ est peut-être ... , dit Ned hésitant .
+# doc_id = 
+1	—	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+2	C’	_	Word	Word	_	3	A	3:A	_
+3	est	_	Word	Word	_	0	root	0:root	_
+4	peut-être	_	Word	Word	_	3	D	3:D	_
+5	...	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	dit	_	Word	Word	_	3	orphan	3:orphan	_
+8	Ned	_	Word	Word	_	3	orphan	3:orphan	_
+9	hésitant	_	Word	Word	_	3	orphan	3:orphan	_
+10	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

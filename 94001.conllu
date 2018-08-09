@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 94001
+# text = Nulle entreprise de navigation transocéanienne n' a été conduite avec plus d' habileté ; nulle affaire n' a été couronnée de plus de succès .
+# doc_id = 
+1	Nulle	_	Word	Word	_	9	D	9:D	_
+2	entreprise	_	Word	Word	_	0	root	0:root	_
+3	de	_	Word	Word	_	4	R	4:R	_
+4	navigation	_	Word	Word	_	2	orphan	2:orphan	_
+5	transocéanienne	_	Word	Word	_	4	E	4:E	_
+6	n'	_	Word	Word	_	9	D	9:D	_
+7	a	_	Word	Word	_	9	F	9:F	_
+8	été	_	Word	Word	_	9	F	9:F	_
+9	conduite	_	Word	Word	_	2	orphan	2:orphan	_
+10	avec	_	Word	Word	_	13	R	13:R	_
+11	plus	_	Word	Word	_	13	E	13:E	_
+12	d'	_	Word	Word	_	13	E	13:E	_
+13	habileté	_	Word	Word	_	2	orphan	2:orphan	_
+14	;	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+15	nulle	_	Word	Word	_	20	D	20:D	_
+16	affaire	_	Word	Word	_	20	A	20:A	_
+17	n'	_	Word	Word	_	20	D	20:D	_
+18	a	_	Word	Word	_	20	F	20:F	_
+19	été	_	Word	Word	_	20	F	20:F	_
+20	couronnée	_	Word	Word	_	2	orphan	2:orphan	_
+21	de	_	Word	Word	_	24	R	24:R	_
+22	plus	_	Word	Word	_	24	E	24:E	_
+23	de	_	Word	Word	_	24	E	24:E	_
+24	succès	_	Word	Word	_	2	orphan	2:orphan	_
+25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+

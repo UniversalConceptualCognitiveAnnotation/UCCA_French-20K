@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 775002
+# text = Il y avait là matière à réflexion , même pour l’homme le plus impassible du monde !
+# doc_id = 
+1	Il	_	Word	Word	_	0	root	0:root	_
+2	y	_	Word	Word	_	1	flat	1:flat	_
+3	avait	_	Word	Word	_	1	flat	1:flat	_
+4	là	_	Word	Word	_	1	A	1:A	_
+5	matière	_	Word	Word	_	1	orphan	1:orphan	_
+6	à	_	Word	Word	_	7	R	7:R	_
+7	réflexion	_	Word	Word	_	1	orphan	1:orphan	_
+8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	même	_	Word	Word	_	11	R	11:R	_
+10	pour	_	Word	Word	_	11	R	11:R	_
+11	l’homme	_	Word	Word	_	1	orphan	1:orphan	_
+12	le	_	Word	Word	_	14	E	14:E	_
+13	plus	_	Word	Word	_	14	E	14:E	_
+14	impassible	_	Word	Word	_	1	orphan	1:orphan	_
+15	du	_	Word	Word	_	16	R	16:R	_
+16	monde	_	Word	Word	_	1	orphan	1:orphan	_
+17	!	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+

@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 444000
+# text = Précisément , et ainsi que cela arrive toujours , du moment que l' on se fut décidé à poursuivre le monstre , le monstre ne reparut plus .
+# doc_id = 
+1	Précisément	_	Word	Word	_	11	E	11:E	_
+2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+3	et	_	Word	Word	_	7	L	7:L	_
+4	ainsi	_	Word	Word	_	7	L	7:L	_
+5	que	_	Word	Word	_	4	flat	4:flat	_
+6	cela	_	Word	Word	_	7	A	7:A	_
+7	arrive	_	Word	Word	_	0	root	0:root	_
+8	toujours	_	Word	Word	_	7	T	7:T	_
+9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+10	du	_	Word	Word	_	11	R	11:R	_
+11	moment	_	Word	Word	_	7	orphan	7:orphan	_
+12	que	_	Word	Word	_	11	R	11:R	_
+13	l'	_	Word	Word	_	15	F	15:F	_
+14	on	_	Word	Word	_	15	A	15:A	_
+15	se	_	Word	Word	_	7	orphan	7:orphan	_
+16	fut	_	Word	Word	_	15	F	15:F	_
+17	décidé	_	Word	Word	_	15	flat	15:flat	_
+18	à	_	Word	Word	_	15	F	15:F	_
+19	poursuivre	_	Word	Word	_	7	orphan	7:orphan	_
+20	le	_	Word	Word	_	21	E	21:E	_
+21	monstre	_	Word	Word	_	7	orphan	7:orphan	_
+22	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+23	le	_	Word	Word	_	24	E	24:E	_
+24	monstre	_	Word	Word	_	7	orphan	7:orphan	_
+25	ne	_	Word	Word	_	26	D	26:D	_
+26	reparut	_	Word	Word	_	7	orphan	7:orphan	_
+27	plus	_	Word	Word	_	25	flat	25:flat	_
+28	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

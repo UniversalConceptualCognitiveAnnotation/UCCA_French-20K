@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 426003
+# text = Mon avis me fut demandé .
+# doc_id = 
+1	Mon	_	Word	Word	_	2	E	2:E	_
+2	avis	_	Word	Word	_	0	root	0:root	_
+3	me	_	Word	Word	_	5	A	5:A	_
+4	fut	_	Word	Word	_	5	F	5:F	_
+5	demandé	_	Word	Word	_	2	orphan	2:orphan	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+

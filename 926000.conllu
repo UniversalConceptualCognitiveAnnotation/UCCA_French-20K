@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 926000
+# text = Nous étions enfin sur le théâtre des derniers ébats du monstre !
+# doc_id = 
+1	Nous	_	Word	Word	_	2	A	2:A	_
+2	étions	_	Word	Word	_	0	root	0:root	_
+3	enfin	_	Word	Word	_	2	L	2:L	_
+4	sur	_	Word	Word	_	6	R	6:R	_
+5	le	_	Word	Word	_	6	E	6:E	_
+6	théâtre	_	Word	Word	_	2	orphan	2:orphan	_
+7	des	_	Word	Word	_	9	R	9:R	_
+8	derniers	_	Word	Word	_	9	D	9:D	_
+9	ébats	_	Word	Word	_	2	orphan	2:orphan	_
+10	du	_	Word	Word	_	11	R	11:R	_
+11	monstre	_	Word	Word	_	2	orphan	2:orphan	_
+12	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+

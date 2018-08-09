@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 426006
+# text = Et même , « l'honorable Pierre Aronnax , professeur au Muséum de Paris » , fut mis en demeure par le New York-Herald de formuler une opinion quelconque
+# doc_id = 
+1	Et	_	Word	Word	_	17	L	17:L	_
+2	même	_	Word	Word	_	17	L	17:L	_
+3	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+4	«	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+5	l'honorable	_	Word	Word	_	6	E	6:E	_
+6	Pierre	_	Word	Word	_	0	root	0:root	_
+7	Aronnax	_	Word	Word	_	6	flat	6:flat	_
+8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+9	professeur	_	Word	Word	_	6	orphan	6:orphan	_
+10	au	_	Word	Word	_	11	R	11:R	_
+11	Muséum	_	Word	Word	_	6	orphan	6:orphan	_
+12	de	_	Word	Word	_	13	R	13:R	_
+13	Paris	_	Word	Word	_	6	orphan	6:orphan	_
+14	»	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+15	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+16	fut	_	Word	Word	_	17	F	17:F	_
+17	mis	_	Word	Word	_	6	orphan	6:orphan	_
+18	en	_	Word	Word	_	17	flat	17:flat	_
+19	demeure	_	Word	Word	_	17	flat	17:flat	_
+20	par	_	Word	Word	_	22	R	22:R	_
+21	le	_	Word	Word	_	22	E	22:E	_
+22	New	_	Word	Word	_	6	orphan	6:orphan	_
+23	York-Herald	_	Word	Word	_	22	flat	22:flat	_
+24	de	_	Word	Word	_	25	R	25:R	_
+25	formuler	_	Word	Word	_	6	orphan	6:orphan	_
+26	une	_	Word	Word	_	27	E	27:E	_
+27	opinion	_	Word	Word	_	6	orphan	6:orphan	_
+28	quelconque	_	Word	Word	_	27	E	27:E	_
+

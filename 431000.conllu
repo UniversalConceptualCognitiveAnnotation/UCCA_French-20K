@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 431000
+# text = « Ou nous connaissons toutes les variétés d' êtres qui peuplent notre planète , ou nous ne les connaissons pas .
+# doc_id = 
+1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Ou	_	Word	Word	_	4	L	4:L	_
+3	nous	_	Word	Word	_	4	A	4:A	_
+4	connaissons	_	Word	Word	_	0	root	0:root	_
+5	toutes	_	Word	Word	_	7	E	7:E	_
+6	les	_	Word	Word	_	7	E	7:E	_
+7	variétés	_	Word	Word	_	4	orphan	4:orphan	_
+8	d'	_	Word	Word	_	9	R	9:R	_
+9	êtres	_	Word	Word	_	4	orphan	4:orphan	_
+10	qui	_	Word	Word	_	11	R	11:R	_
+11	peuplent	_	Word	Word	_	4	orphan	4:orphan	_
+12	notre	_	Word	Word	_	13	E	13:E	_
+13	planète	_	Word	Word	_	4	orphan	4:orphan	_
+14	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+15	ou	_	Word	Word	_	4	L	4:L	_
+16	nous	_	Word	Word	_	19	A	19:A	_
+17	ne	_	Word	Word	_	19	D	19:D	_
+18	les	_	Word	Word	_	19	A	19:A	_
+19	connaissons	_	Word	Word	_	4	orphan	4:orphan	_
+20	pas	_	Word	Word	_	17	flat	17:flat	_
+21	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 93004
+# text = Ainsi donc , en 1867 , la Compagnie possédait douze navires , dont huit à roues et quatre à hélices .
+# doc_id = 
+1	Ainsi	_	Word	Word	_	9	L	9:L	_
+2	donc	_	Word	Word	_	1	flat	1:flat	_
+3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+4	en	_	Word	Word	_	5	R	5:R	_
+5	1867	_	Word	Word	_	0	root	0:root	_
+6	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+7	la	_	Word	Word	_	8	E	8:E	_
+8	Compagnie	_	Word	Word	_	5	orphan	5:orphan	_
+9	possédait	_	Word	Word	_	5	orphan	5:orphan	_
+10	douze	_	Word	Word	_	11	E	11:E	_
+11	navires	_	Word	Word	_	5	orphan	5:orphan	_
+12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	dont	_	Word	Word	_	14	R	14:R	_
+14	huit	_	Word	Word	_	5	orphan	5:orphan	_
+15	à	_	Word	Word	_	16	R	16:R	_
+16	roues	_	Word	Word	_	5	orphan	5:orphan	_
+17	et	_	Word	Word	_	14	N	14:N	_
+18	quatre	_	Word	Word	_	5	orphan	5:orphan	_
+19	à	_	Word	Word	_	20	R	20:R	_
+20	hélices	_	Word	Word	_	5	orphan	5:orphan	_
+21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+

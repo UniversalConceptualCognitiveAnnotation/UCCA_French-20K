@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 783001
+# text = – Lui - même , répondis - je . Le commandant Farragut ? – En personne . Soyez le bienvenu , monsieur le professeur . Votre cabine vous attend . »
+# doc_id = 
+1	–	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+2	Lui	_	Word	Word	_	0	root	0:root	_
+3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	même	_	Word	Word	_	2	flat	2:flat	_
+5	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+6	répondis	_	Word	Word	_	2	orphan	2:orphan	_
+7	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	je	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+10	Le	_	Word	Word	_	11	E	11:E	_
+11	commandant	_	Word	Word	_	2	orphan	2:orphan	_
+12	Farragut	_	Word	Word	_	2	orphan	2:orphan	_
+13	?	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+14	–	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+15	En	_	Word	Word	_	16	R	16:R	_
+16	personne	_	Word	Word	_	2	orphan	2:orphan	_
+17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+18	Soyez	_	Word	Word	_	2	orphan	2:orphan	_
+19	le	_	Word	Word	_	18	flat	18:flat	_
+20	bienvenu	_	Word	Word	_	18	flat	18:flat	_
+21	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+22	monsieur	_	Word	Word	_	24	E	24:E	_
+23	le	_	Word	Word	_	24	E	24:E	_
+24	professeur	_	Word	Word	_	2	orphan	2:orphan	_
+25	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+26	Votre	_	Word	Word	_	27	E	27:E	_
+27	cabine	_	Word	Word	_	2	orphan	2:orphan	_
+28	vous	_	Word	Word	_	29	A	29:A	_
+29	attend	_	Word	Word	_	2	orphan	2:orphan	_
+30	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+31	»	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+
