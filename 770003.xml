@@ -12,7 +12,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="c&#8217;" />
+      <attributes paragraph="1" paragraph_position="3" text="c'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.4" type="Word">
@@ -40,7 +40,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="n&#8217;" />
+      <attributes paragraph="1" paragraph_position="10" text="n'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.11" type="Word">

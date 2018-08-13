@@ -4,7 +4,7 @@
     <attributes />
     <extra doc="[[]]" />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="J&#8217;" />
+      <attributes paragraph="1" paragraph_position="1" text="J'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
@@ -52,7 +52,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="13" text="d'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.14" type="Word">

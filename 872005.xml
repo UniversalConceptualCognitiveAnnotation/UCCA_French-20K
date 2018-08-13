@@ -60,7 +60,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="15" text="d'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.16" type="Word">
@@ -140,7 +140,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="35" text="l'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.36" type="Word">
@@ -152,7 +152,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="c&#8217;est-&#224;-dire" />
+      <attributes paragraph="1" paragraph_position="38" text="c'est-&#224;-dire" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.39" type="Word">

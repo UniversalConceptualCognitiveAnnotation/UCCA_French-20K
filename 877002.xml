@@ -96,7 +96,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="24" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.25" type="Word">
@@ -112,7 +112,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="28" text="l'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.29" type="Word">
@@ -136,7 +136,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.34" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="34" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="34" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.35" type="Word">
@@ -176,7 +176,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="44" text="l'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.45" type="Word">
@@ -188,11 +188,11 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="l&#8217;&#233;quipage" />
+      <attributes paragraph="1" paragraph_position="47" text="l'&#233;quipage" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.48" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="48" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="48" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.49" type="Word">
@@ -224,7 +224,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.56" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="56" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="56" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.57" type="Word">
@@ -240,7 +240,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.60" type="Word">
-      <attributes paragraph="1" paragraph_position="60" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="60" text="l'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.61" type="Word">
