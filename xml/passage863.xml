@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="de" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="20" text="l&apos;" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="existence" />

@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="fait" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="10" text="d&apos;" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="engager" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="tout" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="21" text="l&apos;" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="&#233;quipage" />
@@ -87,7 +87,7 @@
       <attributes paragraph="1" paragraph_position="28" text="pour" />
     </node>
     <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="29" text="l&apos;" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="&#339;il" />
@@ -123,7 +123,7 @@
       <attributes paragraph="1" paragraph_position="40" text="comparer" />
     </node>
     <node ID="0.41" type="Word">
-      <attributes paragraph="1" paragraph_position="41" text="qu&#8217;" />
+      <attributes paragraph="1" paragraph_position="41" text="qu&apos;" />
     </node>
     <node ID="0.42" type="Word">
       <attributes paragraph="1" paragraph_position="42" text="&#224;" />

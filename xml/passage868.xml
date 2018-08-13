@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="1" text="-" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Alors" />
@@ -33,7 +33,7 @@
       <attributes paragraph="1" paragraph_position="10" text="Land" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="11" text="d&apos;" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="un" />
@@ -63,13 +63,13 @@
       <attributes paragraph="1" paragraph_position="20" text="admettre" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="21" text="l&apos;" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="existence" />
     </node>
     <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="23" text="d&apos;" />
     </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="un" />
@@ -87,7 +87,7 @@
       <attributes paragraph="1" paragraph_position="28" text="?" />
     </node>
     <node ID="0.29" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="29" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="29" text="-" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="Oui" />
@@ -126,7 +126,7 @@
       <attributes paragraph="1" paragraph_position="41" text="qui" />
     </node>
     <node ID="0.42" type="Word">
-      <attributes paragraph="1" paragraph_position="42" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="42" text="s&apos;" />
     </node>
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="appuie" />
@@ -159,13 +159,13 @@
       <attributes paragraph="1" paragraph_position="52" text="&#224;" />
     </node>
     <node ID="0.53" type="Word">
-      <attributes paragraph="1" paragraph_position="53" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="53" text="l&apos;" />
     </node>
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="existence" />
     </node>
     <node ID="0.55" type="Word">
-      <attributes paragraph="1" paragraph_position="55" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="55" text="d&apos;" />
     </node>
     <node ID="0.56" type="Word">
       <attributes paragraph="1" paragraph_position="56" text="un" />
@@ -192,7 +192,7 @@
       <attributes paragraph="1" paragraph_position="63" text="&#224;" />
     </node>
     <node ID="0.64" type="Word">
-      <attributes paragraph="1" paragraph_position="64" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="64" text="l&apos;" />
     </node>
     <node ID="0.65" type="Word">
       <attributes paragraph="1" paragraph_position="65" text="embranchement" />
@@ -243,7 +243,7 @@
       <attributes paragraph="1" paragraph_position="80" text="muni" />
     </node>
     <node ID="0.81" type="Word">
-      <attributes paragraph="1" paragraph_position="81" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="81" text="d&apos;" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="une" />

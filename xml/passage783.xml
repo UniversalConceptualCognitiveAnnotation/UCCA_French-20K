@@ -33,7 +33,7 @@
       <attributes paragraph="1" paragraph_position="10" text="." />
     </node>
     <node ID="0.11" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="11" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="11" text="-" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="Lui" />
@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="?" />
     </node>
     <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="24" text="-" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="En" />

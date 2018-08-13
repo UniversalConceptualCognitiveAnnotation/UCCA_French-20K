@@ -153,7 +153,7 @@
       <attributes paragraph="1" paragraph_position="50" text="subitement" />
     </node>
     <node ID="0.51" type="Word">
-      <attributes paragraph="1" paragraph_position="51" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="51" text="d&apos;" />
     </node>
     <node ID="0.52" type="Word">
       <attributes paragraph="1" paragraph_position="52" text="un" />
@@ -165,7 +165,7 @@
       <attributes paragraph="1" paragraph_position="54" text="sur" />
     </node>
     <node ID="0.55" type="Word">
-      <attributes paragraph="1" paragraph_position="55" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="55" text="l&apos;" />
     </node>
     <node ID="0.56" type="Word">
       <attributes paragraph="1" paragraph_position="56" text="autre" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="," />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="58" text="s&apos;" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="arr&#234;tant" />
@@ -303,7 +303,7 @@
       <attributes paragraph="1" paragraph_position="100" text="que" />
     </node>
     <node ID="0.101" type="Word">
-      <attributes paragraph="1" paragraph_position="101" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="101" text="l&apos;" />
     </node>
     <node ID="0.102" type="Word">
       <attributes paragraph="1" paragraph_position="102" text="immensit&#233;" />

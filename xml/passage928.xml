@@ -27,13 +27,13 @@
       <attributes paragraph="1" paragraph_position="8" text="d&#233;couragement" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="9" text="s&apos;" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="empara" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="11" text="d&apos;" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="abord" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="&#224;" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="21" text="l&apos;" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="incr&#233;dulit&#233;" />
@@ -159,7 +159,7 @@
       <attributes paragraph="1" paragraph_position="52" text="de" />
     </node>
     <node ID="0.53" type="Word">
-      <attributes paragraph="1" paragraph_position="53" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="53" text="s&apos;" />
     </node>
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="&#234;tre" />
@@ -204,7 +204,7 @@
       <attributes paragraph="1" paragraph_position="67" text="montagnes" />
     </node>
     <node ID="0.68" type="Word">
-      <attributes paragraph="1" paragraph_position="68" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="68" text="d&apos;" />
     </node>
     <node ID="0.69" type="Word">
       <attributes paragraph="1" paragraph_position="69" text="arguments" />
@@ -222,7 +222,7 @@
       <attributes paragraph="1" paragraph_position="73" text="an" />
     </node>
     <node ID="0.74" type="Word">
-      <attributes paragraph="1" paragraph_position="74" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="74" text="s&apos;" />
     </node>
     <node ID="0.75" type="Word">
       <attributes paragraph="1" paragraph_position="75" text="&#233;croul&#232;rent" />
@@ -255,7 +255,7 @@
       <attributes paragraph="1" paragraph_position="84" text="plus" />
     </node>
     <node ID="0.85" type="Word">
-      <attributes paragraph="1" paragraph_position="85" text="qu&#8217;" />
+      <attributes paragraph="1" paragraph_position="85" text="qu&apos;" />
     </node>
     <node ID="0.86" type="Word">
       <attributes paragraph="1" paragraph_position="86" text="&#224;" />
@@ -294,7 +294,7 @@
       <attributes paragraph="1" paragraph_position="97" text="temps" />
     </node>
     <node ID="0.98" type="Word">
-      <attributes paragraph="1" paragraph_position="98" text="qu&#8217;" />
+      <attributes paragraph="1" paragraph_position="98" text="qu&apos;" />
     </node>
     <node ID="0.99" type="Word">
       <attributes paragraph="1" paragraph_position="99" text="il" />

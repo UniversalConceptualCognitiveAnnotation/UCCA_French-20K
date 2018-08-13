@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="1" text="-" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Que" />
@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="je" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="n&#8217;" />
+      <attributes paragraph="1" paragraph_position="15" text="n&apos;" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="ai" />
@@ -81,7 +81,7 @@
       <attributes paragraph="1" paragraph_position="26" text="de" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="27" text="l&apos;" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="Union" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="il" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="n&#8217;" />
+      <attributes paragraph="1" paragraph_position="36" text="n&apos;" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="en" />

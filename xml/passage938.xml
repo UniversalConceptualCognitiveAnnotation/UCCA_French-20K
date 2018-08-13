@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="occasion" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="15" text="d&apos;" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="empocher" />

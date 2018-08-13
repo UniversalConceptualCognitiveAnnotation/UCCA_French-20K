@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="1" text="-" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Tu" />
@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="il" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="9" text="s&apos;" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="agit" />
@@ -78,13 +78,13 @@
       <attributes paragraph="1" paragraph_position="25" text="..." />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="L&#8217;" />
+      <attributes paragraph="1" paragraph_position="26" text="L&apos;" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="auteur" />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="28" text="d&apos;" />
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="un" />
@@ -153,7 +153,7 @@
       <attributes paragraph="1" paragraph_position="50" text="de" />
     </node>
     <node ID="0.51" type="Word">
-      <attributes paragraph="1" paragraph_position="51" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="51" text="s&apos;" />
     </node>
     <node ID="0.52" type="Word">
       <attributes paragraph="1" paragraph_position="52" text="embarquer" />
@@ -213,7 +213,7 @@
       <attributes paragraph="1" paragraph_position="70" text="o&#249;" />
     </node>
     <node ID="0.71" type="Word">
-      <attributes paragraph="1" paragraph_position="71" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="71" text="l&apos;" />
     </node>
     <node ID="0.72" type="Word">
       <attributes paragraph="1" paragraph_position="72" text="on" />
@@ -288,7 +288,7 @@
       <attributes paragraph="1" paragraph_position="95" text="qui" />
     </node>
     <node ID="0.96" type="Word">
-      <attributes paragraph="1" paragraph_position="96" text="n&#8217;" />
+      <attributes paragraph="1" paragraph_position="96" text="n&apos;" />
     </node>
     <node ID="0.97" type="Word">
       <attributes paragraph="1" paragraph_position="97" text="a" />

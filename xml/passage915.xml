@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="L" />
     </node>
     <node ID="0.2" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="2" text="&#8217;" />
+      <attributes paragraph="1" paragraph_position="2" text="&apos;" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="&#233;quipage" />
@@ -24,7 +24,7 @@
       <attributes paragraph="1" paragraph_position="7" text="&#224;" />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="8" text="l&apos;" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="unanimit&#233;" />
@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="que" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="20" text="l&apos;" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="on" />
@@ -117,7 +117,7 @@
       <attributes paragraph="1" paragraph_position="38" text="monstre" />
     </node>
     <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="n&#8217;" />
+      <attributes paragraph="1" paragraph_position="39" text="n&apos;" />
     </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="y" />
@@ -135,7 +135,7 @@
       <attributes paragraph="1" paragraph_position="44" text="&#171;" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="qu&#8217;" />
+      <attributes paragraph="1" paragraph_position="45" text="qu&apos;" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="il" />

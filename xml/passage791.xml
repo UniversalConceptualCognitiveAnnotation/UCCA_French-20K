@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="." />
     </node>
     <node ID="0.15" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="15" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="15" text="-" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="Oui" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="r&#233;pondit" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="21" text="l&apos;" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="ing&#233;nieur" />
@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="." />
     </node>
     <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="24" text="-" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="Go" />

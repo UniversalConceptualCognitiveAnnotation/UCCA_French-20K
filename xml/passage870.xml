@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="1" text="-" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Remarquez" />
@@ -57,7 +57,7 @@
       <attributes paragraph="1" paragraph_position="18" text="," />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="19" text="s&apos;" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="il" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="de" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="25" text="l&apos;" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Oc&#233;an" />
@@ -84,7 +84,7 @@
       <attributes paragraph="1" paragraph_position="27" text="," />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="28" text="s&apos;" />
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="il" />
@@ -177,7 +177,7 @@
       <attributes paragraph="1" paragraph_position="58" text="." />
     </node>
     <node ID="0.59" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="59" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="59" text="-" />
     </node>
     <node ID="0.60" type="Word">
       <attributes paragraph="1" paragraph_position="60" text="Et" />
@@ -210,13 +210,13 @@
       <attributes paragraph="1" paragraph_position="69" text="." />
     </node>
     <node ID="0.70" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="70" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="70" text="-" />
     </node>
     <node ID="0.71" type="Word">
       <attributes paragraph="1" paragraph_position="71" text="Parce" />
     </node>
     <node ID="0.72" type="Word">
-      <attributes paragraph="1" paragraph_position="72" text="qu&#8217;" />
+      <attributes paragraph="1" paragraph_position="72" text="qu&apos;" />
     </node>
     <node ID="0.73" type="Word">
       <attributes paragraph="1" paragraph_position="73" text="il" />

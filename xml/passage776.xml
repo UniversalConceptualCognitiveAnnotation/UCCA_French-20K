@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="Monsieur" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="m&#8217;" />
+      <attributes paragraph="1" paragraph_position="17" text="m&apos;" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="appelle" />
@@ -78,7 +78,7 @@
       <attributes paragraph="1" paragraph_position="25" text="." />
     </node>
     <node ID="0.26" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="26" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="26" text="-" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="Oui" />
@@ -138,7 +138,7 @@
       <attributes paragraph="1" paragraph_position="45" text="." />
     </node>
     <node ID="0.46" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="46" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="46" text="-" />
     </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="Comme" />
@@ -171,7 +171,7 @@
       <attributes paragraph="1" paragraph_position="56" text="." />
     </node>
     <node ID="0.57" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="57" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="57" text="-" />
     </node>
     <node ID="0.58" type="Word">
       <attributes paragraph="1" paragraph_position="58" text="Pas" />
@@ -294,7 +294,7 @@
       <attributes paragraph="1" paragraph_position="97" text="!" />
     </node>
     <node ID="0.98" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="98" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="98" text="-" />
     </node>
     <node ID="0.99" type="Word">
       <attributes paragraph="1" paragraph_position="99" text="Et" />
@@ -327,13 +327,13 @@
       <attributes paragraph="1" paragraph_position="108" text="." />
     </node>
     <node ID="0.109" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="109" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="109" text="-" />
     </node>
     <node ID="0.110" type="Word">
       <attributes paragraph="1" paragraph_position="110" text="On" />
     </node>
     <node ID="0.111" type="Word">
-      <attributes paragraph="1" paragraph_position="111" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="111" text="s&apos;" />
     </node>
     <node ID="0.112" type="Word">
       <attributes paragraph="1" paragraph_position="112" text="en" />
@@ -351,7 +351,7 @@
       <attributes paragraph="1" paragraph_position="116" text="." />
     </node>
     <node ID="0.117" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="117" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="117" text="-" />
     </node>
     <node ID="0.118" type="Word">
       <attributes paragraph="1" paragraph_position="118" text="Quoi" />
@@ -411,7 +411,7 @@
       <attributes paragraph="1" paragraph_position="136" text="?" />
     </node>
     <node ID="0.137" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="137" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="137" text="-" />
     </node>
     <node ID="0.138" type="Word">
       <attributes paragraph="1" paragraph_position="138" text="On" />
@@ -426,7 +426,7 @@
       <attributes paragraph="1" paragraph_position="141" text="&#224;" />
     </node>
     <node ID="0.142" type="Word">
-      <attributes paragraph="1" paragraph_position="142" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="142" text="l&apos;" />
     </node>
     <node ID="0.143" type="Word">
       <attributes paragraph="1" paragraph_position="143" text="h&#244;tel" />
@@ -435,7 +435,7 @@
       <attributes paragraph="1" paragraph_position="144" text="." />
     </node>
     <node ID="0.145" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="145" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="145" text="-" />
     </node>
     <node ID="0.146" type="Word">
       <attributes paragraph="1" paragraph_position="146" text="Et" />
@@ -459,7 +459,7 @@
       <attributes paragraph="1" paragraph_position="152" text="?" />
     </node>
     <node ID="0.153" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="153" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="153" text="-" />
     </node>
     <node ID="0.154" type="Word">
       <attributes paragraph="1" paragraph_position="154" text="On" />
@@ -483,7 +483,7 @@
       <attributes paragraph="1" paragraph_position="160" text="." />
     </node>
     <node ID="0.161" type="Word">
-      <attributes paragraph="1" paragraph_position="161" text="D&#8217;" />
+      <attributes paragraph="1" paragraph_position="161" text="D&apos;" />
     </node>
     <node ID="0.162" type="Word">
       <attributes paragraph="1" paragraph_position="162" text="ailleurs" />
@@ -498,7 +498,7 @@
       <attributes paragraph="1" paragraph_position="165" text="donnerai" />
     </node>
     <node ID="0.166" type="Word">
-      <attributes paragraph="1" paragraph_position="166" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="166" text="l&apos;" />
     </node>
     <node ID="0.167" type="Word">
       <attributes paragraph="1" paragraph_position="167" text="ordre" />
@@ -528,7 +528,7 @@
       <attributes paragraph="1" paragraph_position="175" text="." />
     </node>
     <node ID="0.176" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="176" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="176" text="-" />
     </node>
     <node ID="0.177" type="Word">
       <attributes paragraph="1" paragraph_position="177" text="Nous" />
@@ -564,7 +564,7 @@
       <attributes paragraph="1" paragraph_position="187" text="." />
     </node>
     <node ID="0.188" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="188" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="188" text="-" />
     </node>
     <node ID="0.189" type="Word">
       <attributes paragraph="1" paragraph_position="189" text="Si" />
@@ -612,7 +612,7 @@
       <attributes paragraph="1" paragraph_position="203" text="." />
     </node>
     <node ID="0.204" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="204" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="204" text="-" />
     </node>
     <node ID="0.205" type="Word">
       <attributes paragraph="1" paragraph_position="205" text="Le" />
@@ -636,7 +636,7 @@
       <attributes paragraph="1" paragraph_position="211" text="." />
     </node>
     <node ID="0.212" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="212" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="212" text="-" />
     </node>
     <node ID="0.213" type="Word">
       <attributes paragraph="1" paragraph_position="213" text="Oh" />
@@ -705,7 +705,7 @@
       <attributes paragraph="1" paragraph_position="234" text="sur" />
     </node>
     <node ID="0.235" type="Word">
-      <attributes paragraph="1" paragraph_position="235" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="235" text="l&apos;" />
     </node>
     <node ID="0.236" type="Word">
       <attributes paragraph="1" paragraph_position="236" text="Abraham" />
@@ -720,7 +720,7 @@
       <attributes paragraph="1" paragraph_position="239" text="..." />
     </node>
     <node ID="0.240" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="240" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="240" text="-" />
     </node>
     <node ID="0.241" type="Word">
       <attributes paragraph="1" paragraph_position="241" text="Comme" />

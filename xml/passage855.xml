@@ -24,7 +24,7 @@
       <attributes paragraph="1" paragraph_position="7" text="." />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="C&#8217;" />
+      <attributes paragraph="1" paragraph_position="8" text="C&apos;" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="&#233;tait" />
@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="taille" />
     </node>
     <node ID="0.15" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="15" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="15" text="-" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="plus" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="anglais" />
     </node>
     <node ID="0.21" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="21" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="21" text="-" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="vigoureusement" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="," />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="25" text="l&apos;" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="air" />
@@ -141,7 +141,7 @@
       <attributes paragraph="1" paragraph_position="46" text="provoquait" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="47" text="l&apos;" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="attention" />

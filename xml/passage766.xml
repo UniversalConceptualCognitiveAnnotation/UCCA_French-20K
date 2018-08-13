@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="&#171;" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="D&#8217;" />
+      <attributes paragraph="1" paragraph_position="2" text="D&apos;" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="ailleurs" />
@@ -66,7 +66,7 @@
       <attributes paragraph="1" paragraph_position="21" text="pour" />
     </node>
     <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="m&#8217;" />
+      <attributes paragraph="1" paragraph_position="22" text="m&apos;" />
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="entra&#238;ner" />
@@ -117,7 +117,7 @@
       <attributes paragraph="1" paragraph_position="38" text="mers" />
     </node>
     <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="39" text="d&apos;" />
     </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="Europe" />
@@ -126,7 +126,7 @@
       <attributes paragraph="1" paragraph_position="41" text="," />
     </node>
     <node ID="0.42" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="42" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="42" text="-" />
     </node>
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="pour" />
@@ -144,7 +144,7 @@
       <attributes paragraph="1" paragraph_position="47" text="," />
     </node>
     <node ID="0.48" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="48" text="&#8211;" />
+      <attributes paragraph="1" paragraph_position="48" text="-" />
     </node>
     <node ID="0.49" type="Word">
       <attributes paragraph="1" paragraph_position="49" text="et" />
@@ -168,7 +168,7 @@
       <attributes paragraph="1" paragraph_position="55" text="moins" />
     </node>
     <node ID="0.56" type="Word">
-      <attributes paragraph="1" paragraph_position="56" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="56" text="d&apos;" />
     </node>
     <node ID="0.57" type="Word">
       <attributes paragraph="1" paragraph_position="57" text="un" />
@@ -189,7 +189,7 @@
       <attributes paragraph="1" paragraph_position="62" text="hallebarde" />
     </node>
     <node ID="0.63" type="Word">
-      <attributes paragraph="1" paragraph_position="63" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="63" text="d&apos;" />
     </node>
     <node ID="0.64" type="Word">
       <attributes paragraph="1" paragraph_position="64" text="ivoire" />
@@ -201,7 +201,7 @@
       <attributes paragraph="1" paragraph_position="66" text="Mus&#233;um" />
     </node>
     <node ID="0.67" type="Word">
-      <attributes paragraph="1" paragraph_position="67" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="67" text="d&apos;" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="histoire" />

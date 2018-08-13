@@ -39,7 +39,7 @@
       <attributes paragraph="1" paragraph_position="12" text="Jersey" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="13" text="l&apos;" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="admirable" />
@@ -111,7 +111,7 @@
       <attributes paragraph="1" paragraph_position="36" text="." />
     </node>
     <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="L&#8217;" />
+      <attributes paragraph="1" paragraph_position="37" text="L&apos;" />
     </node>
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="Abraham" />
@@ -183,7 +183,7 @@
       <attributes paragraph="1" paragraph_position="60" text="corne" />
     </node>
     <node ID="0.61" type="Word">
-      <attributes paragraph="1" paragraph_position="61" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="61" text="d&apos;" />
     </node>
     <node ID="0.62" type="Word">
       <attributes paragraph="1" paragraph_position="62" text="artimon" />
@@ -225,7 +225,7 @@
       <attributes paragraph="1" paragraph_position="74" text="qui" />
     </node>
     <node ID="0.75" type="Word">
-      <attributes paragraph="1" paragraph_position="75" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="75" text="s&apos;" />
     </node>
     <node ID="0.76" type="Word">
       <attributes paragraph="1" paragraph_position="76" text="arrondit" />
@@ -294,7 +294,7 @@
       <attributes paragraph="1" paragraph_position="97" text="spectateurs" />
     </node>
     <node ID="0.98" type="Word">
-      <attributes paragraph="1" paragraph_position="98" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="98" text="l&apos;" />
     </node>
     <node ID="0.99" type="Word">
       <attributes paragraph="1" paragraph_position="99" text="acclam&#232;rent" />

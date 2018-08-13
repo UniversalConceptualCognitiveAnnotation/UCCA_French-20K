@@ -39,7 +39,7 @@
       <attributes paragraph="1" paragraph_position="12" text="moyen" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="13" text="d&apos;" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="appareils" />
@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="tiroirs" />
     </node>
     <node ID="0.40" type="Word">
-      <attributes paragraph="1" paragraph_position="40" text="entr&#8217;ouverts" />
+      <attributes paragraph="1" paragraph_position="40" text="entr&apos;ouverts" />
     </node>
     <node ID="0.41" type="Punctuation">
       <attributes paragraph="1" paragraph_position="41" text="." />
@@ -156,7 +156,7 @@
       <attributes paragraph="1" paragraph_position="51" text="de" />
     </node>
     <node ID="0.52" type="Word">
-      <attributes paragraph="1" paragraph_position="52" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="52" text="l&apos;" />
     </node>
     <node ID="0.53" type="Word">
       <attributes paragraph="1" paragraph_position="53" text="arbre" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="de" />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="58" text="l&apos;" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="h&#233;lice" />
@@ -207,7 +207,7 @@
       <attributes paragraph="1" paragraph_position="68" text="et" />
     </node>
     <node ID="0.69" type="Word">
-      <attributes paragraph="1" paragraph_position="69" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="69" text="l&apos;" />
     </node>
     <node ID="0.70" type="Word">
       <attributes paragraph="1" paragraph_position="70" text="Abraham" />
@@ -219,7 +219,7 @@
       <attributes paragraph="1" paragraph_position="72" text="Lincoln" />
     </node>
     <node ID="0.73" type="Word">
-      <attributes paragraph="1" paragraph_position="73" text="s&#8217;" />
+      <attributes paragraph="1" paragraph_position="73" text="s&apos;" />
     </node>
     <node ID="0.74" type="Word">
       <attributes paragraph="1" paragraph_position="74" text="avan&#231;a" />
@@ -234,7 +234,7 @@
       <attributes paragraph="1" paragraph_position="77" text="milieu" />
     </node>
     <node ID="0.78" type="Word">
-      <attributes paragraph="1" paragraph_position="78" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="78" text="d&apos;" />
     </node>
     <node ID="0.79" type="Word">
       <attributes paragraph="1" paragraph_position="79" text="une" />

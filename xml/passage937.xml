@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="peu" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="15" text="l&apos;" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="influence" />
@@ -123,13 +123,13 @@
       <attributes paragraph="1" paragraph_position="40" text="sous" />
     </node>
     <node ID="0.41" type="Word">
-      <attributes paragraph="1" paragraph_position="41" text="l&#8217;" />
+      <attributes paragraph="1" paragraph_position="41" text="l&apos;" />
     </node>
     <node ID="0.42" type="Word">
       <attributes paragraph="1" paragraph_position="42" text="action" />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="d&#8217;" />
+      <attributes paragraph="1" paragraph_position="43" text="d&apos;" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="un" />
