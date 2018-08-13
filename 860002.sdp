@@ -12,7 +12,7 @@
 11	je	_	Word	-	-	_	_	_	_	_	A	_
 12	crus	_	Word	-	-	_	_	_	_	_	D	_
 13	devoir	_	Word	-	-	_	_	_	_	_	D	_
-14	l’	_	Word	-	-	_	_	_	_	_	A	_
+14	l'	_	Word	-	-	_	_	_	_	_	A	_
 15	entreprendre	_	Word	-	+	_	_	_	E	_	_	_
 16	un	_	Word	-	-	_	_	_	_	_	_	E
 17	jour	_	Word	-	+	_	_	_	_	_	T	_

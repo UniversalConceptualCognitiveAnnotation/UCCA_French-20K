@@ -15,7 +15,7 @@
 14	animal	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 15	appartenait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 16	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-17	l’	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+17	l'	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 18	embranchement	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 19	des	_	Word	-	-	_	_	_	_	_	_	R	E	_	_	_	_	_	_
 20	vertébrés	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
@@ -34,7 +34,7 @@
 33	et	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_
 34	finalement	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
 35	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-36	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+36	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 37	ordre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
 38	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	E
 39	cétacés	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_

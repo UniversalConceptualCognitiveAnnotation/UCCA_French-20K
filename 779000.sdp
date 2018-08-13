@@ -1,7 +1,7 @@
 # format = ucca
 1	Un	_	Word	-	+	_	_	_	T
 2	quart	_	Word	-	-	_	Terminal	_	_
-3	d’	_	Word	-	-	_	Terminal	_	_
+3	d'	_	Word	-	-	_	Terminal	_	_
 4	heure	_	Word	-	-	_	Terminal	_	_
 5	après	_	Word	-	-	_	R	_	_
 6	,	_	Punctuation	-	-	_	_	_	U

@@ -19,10 +19,10 @@
 18	mers	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
 19	dans	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
 20	lesquelles	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-21	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+21	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
 22	animal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
 23	venait	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
-24	d’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+24	d'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
 25	être	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
 26	signalé	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
 27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U

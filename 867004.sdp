@@ -1,6 +1,6 @@
 # format = ucca
-1	…	_	Punctuation	-	-	_	U
-2	—	_	Punctuation	-	-	_	U
+1	...	_	Punctuation	-	-	_	U
+2	-	_	Punctuation	-	-	_	U
 3	Encore	_	Word	-	-	_	E
 4	moins	_	Word	-	+	_	_
 5	,	_	Punctuation	-	-	_	U

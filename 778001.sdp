@@ -1,5 +1,5 @@
 # format = ucca
-1	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+1	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 2	Et	_	Word	-	-	_	L	_	_	_	_	_	_
 3	songes	_	Word	-	+	_	_	_	_	_	_	_	_
 4	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 13	te	_	Word	-	-	_	_	A	_	_	_	_	_
 14	cacher	_	Word	-	+	_	H	_	_	_	_	_	_
 15	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-16	C’	_	Word	-	-	_	_	_	F	_	_	_	_
+16	C'	_	Word	-	-	_	_	_	F	_	_	_	_
 17	est	_	Word	-	+	_	H	_	_	_	_	_	_
 18	là	_	Word	-	-	_	_	_	A	_	_	_	_
 19	un	_	Word	-	+	_	_	_	_	_	E	_	_

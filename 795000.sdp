@@ -16,7 +16,7 @@
 15	ne	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
 16	la	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
 17	quitta	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-18	qu’	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+18	qu'	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
 19	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
 20	la	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 21	hauteur	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
@@ -29,7 +29,7 @@
 28	deux	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 29	feux	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
 30	marquent	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-31	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+31	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 32	entrée	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
 33	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
 34	passes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_

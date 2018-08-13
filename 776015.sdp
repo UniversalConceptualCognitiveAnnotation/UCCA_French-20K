@@ -1,5 +1,5 @@
 # format = ucca
-1	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+1	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 2	Oh	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
 3	!	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 4	ce	_	Word	-	-	_	A	_	_	A	_	_	_	_	_	_	_	_	_
@@ -22,12 +22,12 @@
 21	prenons	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 22	passage	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
 23	sur	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-24	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+24	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
 25	Abraham	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
 26	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
 27	Lincoln	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
 28	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-29	–	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+29	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 30	Comme	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
 31	il	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
 32	conviendra	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A

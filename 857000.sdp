@@ -19,11 +19,11 @@
 18	je	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
 19	dois	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
 20	avouer	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-21	qu’	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+21	qu'	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 22	il	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
 23	se	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
 24	prit	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-25	d’	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+25	d'	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
 26	une	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
 27	certaine	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
 28	affection	_	Word	-	+	_	_	_	_	_	_	A	_	_	_

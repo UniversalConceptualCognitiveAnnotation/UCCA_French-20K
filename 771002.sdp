@@ -16,7 +16,7 @@
 15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 16	si	_	Word	-	+	_	_	_	_	_	_	_	F
 17	éloigné	_	Word	-	+	_	_	_	_	E	_	_	_
-18	qu’	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+18	qu'	_	Word	-	-	_	_	_	_	_	_	Terminal	_
 19	il	_	Word	-	-	_	_	_	_	_	_	Terminal	_
 20	fût	_	Word	-	-	_	_	_	_	_	_	Terminal	_
 21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U

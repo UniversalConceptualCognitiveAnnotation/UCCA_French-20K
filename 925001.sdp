@@ -11,11 +11,11 @@
 10	plus	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
 11	décidée	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_
 12	vers	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-13	l’	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+13	l'	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
 14	ouest	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
 16	et	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-17	s’	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+17	s'	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
 18	engagea	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
 19	dans	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
 20	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_

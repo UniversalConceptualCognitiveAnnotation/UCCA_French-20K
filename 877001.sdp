@@ -25,7 +25,7 @@
 24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
 25	quant	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
 26	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-27	l’	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+27	l'	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
 28	espèce	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_
 29	dans	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
 30	laquelle	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
@@ -35,7 +35,7 @@
 34	le	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
 35	ranger	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
 36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-37	c’	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+37	c'	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
 38	était	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 39	une	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
 40	question	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_

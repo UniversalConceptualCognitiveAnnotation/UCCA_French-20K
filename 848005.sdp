@@ -10,7 +10,7 @@
 9	au	_	Word	-	-	_	_	_	_	R	_	_
 10	Léviathan	_	Word	-	+	_	_	_	A	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-12	—	_	Punctuation	-	-	_	U	_	_	_	_	_
+12	-	_	Punctuation	-	-	_	U	_	_	_	_	_
 13	par	_	Word	-	-	_	_	_	_	_	R	_
 14	foi	_	Word	-	+	_	A	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	U	_	_	_	_	_

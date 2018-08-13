@@ -1,9 +1,9 @@
 # format = ucca
 1	Je	_	Word	-	-	_	A	_	_	_	_	_
 2	donnai	_	Word	-	+	_	_	_	_	_	_	_
-3	l’	_	Word	-	-	_	Terminal	_	_	_	_	_
+3	l'	_	Word	-	-	_	Terminal	_	_	_	_	_
 4	ordre	_	Word	-	-	_	Terminal	_	_	_	_	_
-5	d’	_	Word	-	-	_	_	F	_	_	_	_
+5	d'	_	Word	-	-	_	_	F	_	_	_	_
 6	expédier	_	Word	-	+	_	A	_	_	_	_	_
 7	pour	_	Word	-	-	_	_	_	R	_	_	_
 8	Paris	_	Word	-	+	_	_	A	_	_	_	_
@@ -12,7 +12,7 @@
 11	)	_	Punctuation	-	-	_	_	U	_	_	_	_
 12	mes	_	Word	-	-	_	_	_	_	E	_	_
 13	ballots	_	Word	-	+	_	_	A	_	_	_	_
-14	d’	_	Word	-	-	_	_	_	_	_	R	_
+14	d'	_	Word	-	-	_	_	_	_	_	R	_
 15	animaux	_	Word	-	+	_	_	_	_	E	_	_
 16	empaillés	_	Word	-	-	_	_	_	_	_	E	_
 17	et	_	Word	-	-	_	_	_	_	_	N	_

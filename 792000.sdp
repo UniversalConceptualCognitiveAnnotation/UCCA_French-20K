@@ -11,7 +11,7 @@
 10	machine	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
 11	au	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
 12	moyen	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-13	d’	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+13	d'	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
 14	appareils	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
 15	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
 16	air	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_

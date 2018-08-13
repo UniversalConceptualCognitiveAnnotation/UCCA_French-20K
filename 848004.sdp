@@ -8,7 +8,7 @@
 7	aucun	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
 8	doute	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
 9	ne	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
-10	s’	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+10	s'	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 11	élevait	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
 12	dans	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
 13	son	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
@@ -20,10 +20,10 @@
 19	permettait	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
 20	pas	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
 21	que	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-22	l’	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+22	l'	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
 23	existence	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
 24	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-25	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+25	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
 26	animal	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
 27	fût	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
 28	discutée	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_

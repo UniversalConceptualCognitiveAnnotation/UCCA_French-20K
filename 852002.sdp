@@ -16,7 +16,7 @@
 15	la	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
 16	main	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_
 17	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-18	jusqu’	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+18	jusqu'	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
 19	aux	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
 20	flèches	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_
 21	barbelées	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_

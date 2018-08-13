@@ -10,11 +10,11 @@
 9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 10	située	_	Word	-	+	_	_	E	_	_	_	_	_
 11	à	_	Word	-	-	_	_	_	_	R	_	_	_
-12	l’	_	Word	-	-	_	_	_	_	E	_	_	_
+12	l'	_	Word	-	-	_	_	_	_	E	_	_	_
 13	arrière	_	Word	-	+	_	_	_	A	_	_	_	_
 14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 15	qui	_	Word	-	-	_	_	_	_	_	R	_	_
-16	s’	_	Word	-	+	_	_	E	_	_	_	_	_
+16	s'	_	Word	-	+	_	_	E	_	_	_	_	_
 17	ouvrait	_	Word	-	-	_	_	_	_	_	Terminal	_	_
 18	sur	_	Word	-	-	_	_	_	_	_	_	R	_
 19	le	_	Word	-	-	_	_	_	_	_	_	E	_

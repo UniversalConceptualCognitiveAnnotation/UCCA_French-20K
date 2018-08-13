@@ -1,8 +1,8 @@
 # format = ucca
 1	Plus	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	d’	_	Word	-	-	_	F	_	_	_	_	_	_	_
+2	d'	_	Word	-	-	_	F	_	_	_	_	_	_	_
 3	un	_	Word	-	+	_	_	A	_	_	_	_	_	_
-4	s’	_	Word	-	+	_	_	_	_	_	_	_	_	_
+4	s'	_	Word	-	+	_	_	_	_	_	_	_	_	_
 5	imposait	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
 6	un	_	Word	-	-	_	_	_	E	_	_	_	_	_
 7	quart	_	Word	-	-	_	_	_	E	_	_	_	_	_

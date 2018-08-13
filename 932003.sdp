@@ -6,7 +6,7 @@
 5	ce	_	Word	-	-	_	_	E	_	_
 6	dernier	_	Word	-	-	_	_	E	_	_
 7	coup	_	Word	-	+	_	A	_	_	_
-8	d’	_	Word	-	-	_	_	Terminal	_	_
+8	d'	_	Word	-	-	_	_	Terminal	_	_
 9	oeil	_	Word	-	-	_	_	Terminal	_	_
 10	dans	_	Word	-	-	_	_	_	A	_
 11	lequel	_	Word	-	-	_	_	_	R	_

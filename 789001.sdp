@@ -4,7 +4,7 @@
 3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 4	un	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
 5	quart	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-6	d’	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+6	d'	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 7	heure	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_	_	_	_
 8	de	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
 9	retard	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_

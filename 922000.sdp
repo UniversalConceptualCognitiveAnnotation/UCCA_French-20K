@@ -27,13 +27,13 @@
 26	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
 27	bordée	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 28	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	—	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
 30	du	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
 31	moins	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
 32	quand	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
 33	aucune	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 34	baleine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-35	n’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+35	n'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
 36	était	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
 37	en	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
 38	vue	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_

@@ -12,11 +12,11 @@
 11	poulpe	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
 12	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 13	qui	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-14	n’	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+14	n'	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
 15	appartient	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 16	point	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
 17	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-18	l’	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+18	l'	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 19	embranchement	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
 20	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 21	vertébrés	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
@@ -34,7 +34,7 @@
 33	le	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 34	Scotia	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 35	ou	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_
-36	l’	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+36	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
 37	Abraham	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
 38	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 39	Lincoln	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal

@@ -1,9 +1,9 @@
 # format = ucca
-1	—	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+1	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 2	Mais	_	Word	-	-	_	_	L	_	_	_	_	_
-3	s’	_	Word	-	-	_	_	L	_	_	_	_	_
+3	s'	_	Word	-	-	_	_	L	_	_	_	_	_
 4	ils	_	Word	-	-	_	_	A	_	_	_	_	_
-5	n’	_	Word	-	+	_	_	D	_	_	_	_	_
+5	n'	_	Word	-	+	_	_	D	_	_	_	_	_
 6	existent	_	Word	-	+	_	_	_	_	_	_	_	_
 7	pas	_	Word	-	-	_	Terminal	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
@@ -14,7 +14,7 @@
 13	expliquez	_	Word	-	+	_	_	H	_	_	_	_	_
 14	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 15	vous	_	Word	-	-	_	_	_	_	A	_	_	_
-16	l’	_	Word	-	-	_	_	_	_	_	E	_	_
+16	l'	_	Word	-	-	_	_	_	_	_	E	_	_
 17	accident	_	Word	-	+	_	_	_	_	A	_	_	_
 18	arrivé	_	Word	-	+	_	_	_	_	_	E	_	_
 19	au	_	Word	-	-	_	_	_	_	_	_	_	R

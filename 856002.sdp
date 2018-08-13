@@ -5,7 +5,7 @@
 4	le	_	Word	-	-	_	_	E	_	_	_	_	_	_
 5	mieux	_	Word	-	+	_	_	_	D	_	_	_	_	_
 6	comparer	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	qu’	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+7	qu'	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
 8	à	_	Word	-	-	_	_	_	_	R	_	_	_	_
 9	un	_	Word	-	-	_	_	_	_	E	_	_	_	_
 10	télescope	_	Word	-	+	_	_	_	A	_	_	_	_	_
