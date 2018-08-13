@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 933001
-# text = L’ Abraham-Lincoln se tenait sous petite vapeur .
+# text = L' Abraham-Lincoln se tenait sous petite vapeur .
 # doc_id = 
-1	L’	_	Word	Word	_	2	E	2:E	_
+1	L'	_	Word	Word	_	2	E	2:E	_
 2	Abraham-Lincoln	_	Word	Word	_	0	root	0:root	_
 3	se	_	Word	Word	_	2	orphan	2:orphan	_
 4	tenait	_	Word	Word	_	3	flat	3:flat	_

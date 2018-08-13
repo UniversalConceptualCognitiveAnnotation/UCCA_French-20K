@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 793000
-# text = Les quais de Brooklyn et toute la partie de New York qui borde la rivière de l’ Est étaient couverts de curieux .
+# text = Les quais de Brooklyn et toute la partie de New York qui borde la rivière de l' Est étaient couverts de curieux .
 # doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	quais	_	Word	Word	_	0	root	0:root	_
@@ -18,7 +18,7 @@
 14	la	_	Word	Word	_	15	E	15:E	_
 15	rivière	_	Word	Word	_	2	orphan	2:orphan	_
 16	de	_	Word	Word	_	18	R	18:R	_
-17	l’	_	Word	Word	_	18	E	18:E	_
+17	l'	_	Word	Word	_	18	E	18:E	_
 18	Est	_	Word	Word	_	2	orphan	2:orphan	_
 19	étaient	_	Word	Word	_	20	F	20:F	_
 20	couverts	_	Word	Word	_	2	orphan	2:orphan	_

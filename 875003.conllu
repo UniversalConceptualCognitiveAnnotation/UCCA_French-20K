@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 875003
-# text = — Eh bien , vous ai - je convaincu ?
+# text = - Eh bien , vous ai - je convaincu ?
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Eh	_	Word	Word	_	9	F	9:F	_
 3	bien	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

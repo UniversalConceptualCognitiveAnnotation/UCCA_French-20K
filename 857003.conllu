@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 857003
-# text = La famille du harponneur était originaire de Québec , et formait déjà une tribu de hardis pêcheurs à l’ époque où cette ville appartenait à la France .
+# text = La famille du harponneur était originaire de Québec , et formait déjà une tribu de hardis pêcheurs à l' époque où cette ville appartenait à la France .
 # doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	famille	_	Word	Word	_	0	root	0:root	_
@@ -20,7 +20,7 @@
 16	hardis	_	Word	Word	_	2	orphan	2:orphan	_
 17	pêcheurs	_	Word	Word	_	16	A	16:A	_
 18	à	_	Word	Word	_	20	R	20:R	_
-19	l’	_	Word	Word	_	20	E	20:E	_
+19	l'	_	Word	Word	_	20	E	20:E	_
 20	époque	_	Word	Word	_	2	orphan	2:orphan	_
 21	où	_	Word	Word	_	24	R	24:R	_
 22	cette	_	Word	Word	_	23	E	23:E	_

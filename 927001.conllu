@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 927001
-# text = Pendant trois mois , trois mois dont chaque jour durait un siècle ! l' Abraham-Lincoln sillonna toutes les mers septentrionales du Pacifique , courant aux baleines signalées , faisant de brusques écarts de route , virant subitement d’ un bord sur l’ autre , s’ arrêtant soudain , forçant ou renversant sa vapeur , coup sur coup , au risque de déniveler sa machine , et il ne laissa pas un point inexploré des rivages du Japon à la côte américaine .
+# text = Pendant trois mois , trois mois dont chaque jour durait un siècle ! l' Abraham-Lincoln sillonna toutes les mers septentrionales du Pacifique , courant aux baleines signalées , faisant de brusques écarts de route , virant subitement d' un bord sur l' autre , s' arrêtant soudain , forçant ou renversant sa vapeur , coup sur coup , au risque de déniveler sa machine , et il ne laissa pas un point inexploré des rivages du Japon à la côte américaine .
 # doc_id = 
 1	Pendant	_	Word	Word	_	3	R	3:R	_
 2	trois	_	Word	Word	_	3	E	3:E	_
@@ -39,14 +39,14 @@
 35	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 36	virant	_	Word	Word	_	3	orphan	3:orphan	_
 37	subitement	_	Word	Word	_	36	D	36:D	_
-38	d’	_	Word	Word	_	40	R	40:R	_
+38	d'	_	Word	Word	_	40	R	40:R	_
 39	un	_	Word	Word	_	40	E	40:E	_
 40	bord	_	Word	Word	_	3	orphan	3:orphan	_
 41	sur	_	Word	Word	_	40	R	40:R	_
-42	l’	_	Word	Word	_	43	E	43:E	_
+42	l'	_	Word	Word	_	43	E	43:E	_
 43	autre	_	Word	Word	_	3	orphan	3:orphan	_
 44	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-45	s’	_	Word	Word	_	3	orphan	3:orphan	_
+45	s'	_	Word	Word	_	3	orphan	3:orphan	_
 46	arrêtant	_	Word	Word	_	45	flat	45:flat	_
 47	soudain	_	Word	Word	_	45	D	45:D	_
 48	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_

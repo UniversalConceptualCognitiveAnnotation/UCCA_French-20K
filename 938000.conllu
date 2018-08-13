@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 938000
-# text = « Allons , Conseil , lui dis - je , voilà une dernière occasion d’ empocher deux mille dollars .
+# text = « Allons , Conseil , lui dis - je , voilà une dernière occasion d' empocher deux mille dollars .
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Allons	_	Word	Word	_	0	root	0:root	_
@@ -16,7 +16,7 @@
 12	une	_	Word	Word	_	14	E	14:E	_
 13	dernière	_	Word	Word	_	14	E	14:E	_
 14	occasion	_	Word	Word	_	2	orphan	2:orphan	_
-15	d’	_	Word	Word	_	16	F	16:F	_
+15	d'	_	Word	Word	_	16	F	16:F	_
 16	empocher	_	Word	Word	_	2	orphan	2:orphan	_
 17	deux	_	Word	Word	_	18	E	18:E	_
 18	mille	_	Word	Word	_	2	orphan	2:orphan	_

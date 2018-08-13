@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 875002
-# text = — Oui ... en effet ... peut-être , répondit le Canadien , ébranlé par ces chiffres , mais qui ne voulait pas se rendre .
+# text = - Oui ... en effet ... peut-être , répondit le Canadien , ébranlé par ces chiffres , mais qui ne voulait pas se rendre .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Oui	_	Word	Word	_	7	D	7:D	_
 3	...	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 4	en	_	Word	Word	_	7	D	7:D	_

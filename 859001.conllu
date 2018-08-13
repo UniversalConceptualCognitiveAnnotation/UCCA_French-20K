@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 859001
-# text = C’ est que nous sommes devenus de vieux amis , unis de cette inaltérable amitié qui naît et se cimente dans les plus effrayantes conjonctures !
+# text = C' est que nous sommes devenus de vieux amis , unis de cette inaltérable amitié qui naît et se cimente dans les plus effrayantes conjonctures !
 # doc_id = 
-1	C’	_	Word	Word	_	6	F	6:F	_
+1	C'	_	Word	Word	_	6	F	6:F	_
 2	est	_	Word	Word	_	1	flat	1:flat	_
 3	que	_	Word	Word	_	1	flat	1:flat	_
 4	nous	_	Word	Word	_	6	A	6:A	_

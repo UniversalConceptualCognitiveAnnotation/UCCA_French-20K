@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 765000
-# text = Cependant , je revenais d’ un pénible voyage , fatigué , avide de repos .
+# text = Cependant , je revenais d' un pénible voyage , fatigué , avide de repos .
 # doc_id = 
 1	Cependant	_	Word	Word	_	4	L	4:L	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	je	_	Word	Word	_	4	A	4:A	_
 4	revenais	_	Word	Word	_	0	root	0:root	_
-5	d’	_	Word	Word	_	8	R	8:R	_
+5	d'	_	Word	Word	_	8	R	8:R	_
 6	un	_	Word	Word	_	8	E	8:E	_
 7	pénible	_	Word	Word	_	8	E	8:E	_
 8	voyage	_	Word	Word	_	4	orphan	4:orphan	_

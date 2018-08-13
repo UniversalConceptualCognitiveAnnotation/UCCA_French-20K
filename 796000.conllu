@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 796000
-# text = Trois heures sonnaient alors . Le pilote descendit dans son canot , et rejoignit la petite goélette qui l’ attendait sous le vent .
+# text = Trois heures sonnaient alors . Le pilote descendit dans son canot , et rejoignit la petite goélette qui l' attendait sous le vent .
 # doc_id = 
 1	Trois	_	Word	Word	_	2	E	2:E	_
 2	heures	_	Word	Word	_	0	root	0:root	_
@@ -20,7 +20,7 @@
 16	petite	_	Word	Word	_	17	E	17:E	_
 17	goélette	_	Word	Word	_	2	orphan	2:orphan	_
 18	qui	_	Word	Word	_	20	R	20:R	_
-19	l’	_	Word	Word	_	20	A	20:A	_
+19	l'	_	Word	Word	_	20	A	20:A	_
 20	attendait	_	Word	Word	_	2	orphan	2:orphan	_
 21	sous	_	Word	Word	_	23	R	23:R	_
 22	le	_	Word	Word	_	23	E	23:E	_

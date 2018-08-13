@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 790000
-# text = Mais le commandant Farragut ne voulait perdre ni un jour , ni une heure pour rallier les mers dans lesquelles l’ animal venait d’ être signalé .
+# text = Mais le commandant Farragut ne voulait perdre ni un jour , ni une heure pour rallier les mers dans lesquelles l' animal venait d' être signalé .
 # doc_id = 
 1	Mais	_	Word	Word	_	7	L	7:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
@@ -22,10 +22,10 @@
 18	mers	_	Word	Word	_	3	orphan	3:orphan	_
 19	dans	_	Word	Word	_	3	orphan	3:orphan	_
 20	lesquelles	_	Word	Word	_	19	R	19:R	_
-21	l’	_	Word	Word	_	22	E	22:E	_
+21	l'	_	Word	Word	_	22	E	22:E	_
 22	animal	_	Word	Word	_	3	orphan	3:orphan	_
 23	venait	_	Word	Word	_	26	D	26:D	_
-24	d’	_	Word	Word	_	26	F	26:F	_
+24	d'	_	Word	Word	_	26	F	26:F	_
 25	être	_	Word	Word	_	26	F	26:F	_
 26	signalé	_	Word	Word	_	3	orphan	3:orphan	_
 27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 789000
-# text = À ce moment , le commandant Farragut faisait larguer les dernières amarres qui retenaient l’ Abraham - Lincoln à la pier de Brooklyn .
+# text = À ce moment , le commandant Farragut faisait larguer les dernières amarres qui retenaient l' Abraham - Lincoln à la pier de Brooklyn .
 # doc_id = 
 1	À	_	Word	Word	_	3	R	3:R	_
 2	ce	_	Word	Word	_	3	E	3:E	_
@@ -16,7 +16,7 @@
 12	amarres	_	Word	Word	_	3	orphan	3:orphan	_
 13	qui	_	Word	Word	_	14	R	14:R	_
 14	retenaient	_	Word	Word	_	3	orphan	3:orphan	_
-15	l’	_	Word	Word	_	16	E	16:E	_
+15	l'	_	Word	Word	_	16	E	16:E	_
 16	Abraham	_	Word	Word	_	3	orphan	3:orphan	_
 17	-	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 18	Lincoln	_	Word	Word	_	16	flat	16:flat	_

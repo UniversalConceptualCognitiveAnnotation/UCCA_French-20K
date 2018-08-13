@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 867000
-# text = — Cependant , Ned , on cite des bâtiments que la dent du narwal a traversés de part en part . — Des navires en bois , c’ est possible , répondit le Canadien , et encore , je ne les ai jamais vus . Donc , jusqu’ à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet .
+# text = - Cependant , Ned , on cite des bâtiments que la dent du narwal a traversés de part en part . - Des navires en bois , c' est possible , répondit le Canadien , et encore , je ne les ai jamais vus . Donc , jusqu' à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+1	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Cependant	_	Word	Word	_	7	L	7:L	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 4	Ned	_	Word	Word	_	7	G	7:G	_
@@ -23,13 +23,13 @@
 19	en	_	Word	Word	_	18	R	18:R	_
 20	part	_	Word	Word	_	18	C	18:C	_
 21	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-22	—	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+22	-	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 23	Des	_	Word	Word	_	24	E	24:E	_
 24	navires	_	Word	Word	_	7	orphan	7:orphan	_
 25	en	_	Word	Word	_	26	R	26:R	_
 26	bois	_	Word	Word	_	7	orphan	7:orphan	_
 27	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-28	c’	_	Word	Word	_	30	F	30:F	_
+28	c'	_	Word	Word	_	30	F	30:F	_
 29	est	_	Word	Word	_	30	F	30:F	_
 30	possible	_	Word	Word	_	7	orphan	7:orphan	_
 31	,	_	Punctuation	Punctuation	_	32	punct	32:punct	_
@@ -49,7 +49,7 @@
 45	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 46	Donc	_	Word	Word	_	30	L	30:L	_
 47	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-48	jusqu’	_	Word	Word	_	30	L	30:L	_
+48	jusqu'	_	Word	Word	_	30	L	30:L	_
 49	à	_	Word	Word	_	48	flat	48:flat	_
 50	preuve	_	Word	Word	_	7	orphan	7:orphan	_
 51	contraire	_	Word	Word	_	50	D	50:D	_

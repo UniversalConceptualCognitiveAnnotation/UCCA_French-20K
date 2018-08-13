@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 781000
-# text = Le véhicule à vingt francs la course descendit Broadway jusqu’ à Union - square , suivit Fourth - Avenue jusqu’ à sa jonction avec Bowery - street , prit Katrin - street et s’ arrêta à la trente - quatrième pier .
+# text = Le véhicule à vingt francs la course descendit Broadway jusqu' à Union - square , suivit Fourth - Avenue jusqu' à sa jonction avec Bowery - street , prit Katrin - street et s' arrêta à la trente - quatrième pier .
 # doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	véhicule	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +11,7 @@
 7	course	_	Word	Word	_	2	orphan	2:orphan	_
 8	descendit	_	Word	Word	_	2	orphan	2:orphan	_
 9	Broadway	_	Word	Word	_	8	A	8:A	_
-10	jusqu’	_	Word	Word	_	14	R	14:R	_
+10	jusqu'	_	Word	Word	_	14	R	14:R	_
 11	à	_	Word	Word	_	10	flat	10:flat	_
 12	Union	_	Word	Word	_	14	E	14:E	_
 13	-	_	Punctuation	Punctuation	_	14	punct	14:punct	_
@@ -21,7 +21,7 @@
 17	Fourth	_	Word	Word	_	19	E	19:E	_
 18	-	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 19	Avenue	_	Word	Word	_	2	orphan	2:orphan	_
-20	jusqu’	_	Word	Word	_	23	R	23:R	_
+20	jusqu'	_	Word	Word	_	23	R	23:R	_
 21	à	_	Word	Word	_	20	flat	20:flat	_
 22	sa	_	Word	Word	_	23	E	23:E	_
 23	jonction	_	Word	Word	_	2	orphan	2:orphan	_
@@ -35,7 +35,7 @@
 31	-	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 32	street	_	Word	Word	_	2	orphan	2:orphan	_
 33	et	_	Word	Word	_	8	L	8:L	_
-34	s’	_	Word	Word	_	2	orphan	2:orphan	_
+34	s'	_	Word	Word	_	2	orphan	2:orphan	_
 35	arrêta	_	Word	Word	_	34	flat	34:flat	_
 36	à	_	Word	Word	_	41	R	41:R	_
 37	la	_	Word	Word	_	41	E	41:E	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 777000
-# text = – Tu sais , mon ami , il s’ agit du monstre ... du fameux narwal ... Nous allons en purger les mers ! ... L’ auteur d’ un ouvrage in - quarto en deux volumes sur les Mystères des grands fonds sous - marins ne peut se dispenser de s’ embarquer avec le commandant Farragut . Mission glorieuse , mais ... dangereuse aussi ! On ne sait pas où l’ on va ! Ces bêtes - là peuvent être très - capricieuses ! Mais nous irons quand même ! Nous avons un commandant qui n’ a pas froid aux yeux ! ...
+# text = - Tu sais , mon ami , il s' agit du monstre ... du fameux narwal ... Nous allons en purger les mers ! ... L' auteur d' un ouvrage in - quarto en deux volumes sur les Mystères des grands fonds sous - marins ne peut se dispenser de s' embarquer avec le commandant Farragut . Mission glorieuse , mais ... dangereuse aussi ! On ne sait pas où l' on va ! Ces bêtes - là peuvent être très - capricieuses ! Mais nous irons quand même ! Nous avons un commandant qui n' a pas froid aux yeux ! ...
 # doc_id = 
-1	–	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Tu	_	Word	Word	_	0	root	0:root	_
 3	sais	_	Word	Word	_	2	orphan	2:orphan	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -10,7 +10,7 @@
 6	ami	_	Word	Word	_	2	orphan	2:orphan	_
 7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 8	il	_	Word	Word	_	9	F	9:F	_
-9	s’	_	Word	Word	_	2	orphan	2:orphan	_
+9	s'	_	Word	Word	_	2	orphan	2:orphan	_
 10	agit	_	Word	Word	_	9	flat	9:flat	_
 11	du	_	Word	Word	_	12	R	12:R	_
 12	monstre	_	Word	Word	_	2	orphan	2:orphan	_
@@ -27,9 +27,9 @@
 23	mers	_	Word	Word	_	2	orphan	2:orphan	_
 24	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 25	...	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-26	L’	_	Word	Word	_	27	E	27:E	_
+26	L'	_	Word	Word	_	27	E	27:E	_
 27	auteur	_	Word	Word	_	2	orphan	2:orphan	_
-28	d’	_	Word	Word	_	30	R	30:R	_
+28	d'	_	Word	Word	_	30	R	30:R	_
 29	un	_	Word	Word	_	30	E	30:E	_
 30	ouvrage	_	Word	Word	_	2	orphan	2:orphan	_
 31	in	_	Word	Word	_	30	E	30:E	_
@@ -52,7 +52,7 @@
 48	se	_	Word	Word	_	2	orphan	2:orphan	_
 49	dispenser	_	Word	Word	_	48	flat	48:flat	_
 50	de	_	Word	Word	_	51	F	51:F	_
-51	s’	_	Word	Word	_	2	orphan	2:orphan	_
+51	s'	_	Word	Word	_	2	orphan	2:orphan	_
 52	embarquer	_	Word	Word	_	51	flat	51:flat	_
 53	avec	_	Word	Word	_	56	R	56:R	_
 54	le	_	Word	Word	_	55	E	55:E	_
@@ -72,7 +72,7 @@
 68	sait	_	Word	Word	_	2	orphan	2:orphan	_
 69	pas	_	Word	Word	_	67	flat	67:flat	_
 70	où	_	Word	Word	_	73	A	73:A	_
-71	l’	_	Word	Word	_	73	F	73:F	_
+71	l'	_	Word	Word	_	73	F	73:F	_
 72	on	_	Word	Word	_	73	A	73:A	_
 73	va	_	Word	Word	_	2	orphan	2:orphan	_
 74	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -97,7 +97,7 @@
 93	un	_	Word	Word	_	94	E	94:E	_
 94	commandant	_	Word	Word	_	2	orphan	2:orphan	_
 95	qui	_	Word	Word	_	97	R	97:R	_
-96	n’	_	Word	Word	_	97	D	97:D	_
+96	n'	_	Word	Word	_	97	D	97:D	_
 97	a	_	Word	Word	_	2	orphan	2:orphan	_
 98	pas	_	Word	Word	_	96	flat	96:flat	_
 99	froid	_	Word	Word	_	97	flat	97:flat	_

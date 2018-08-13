@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 776008
-# text = – Quoi ! les archiotherium , les hyracotherium , les oréodons , les chéropotamus et autres carcasses de monsieur ?
+# text = - Quoi ! les archiotherium , les hyracotherium , les oréodons , les chéropotamus et autres carcasses de monsieur ?
 # doc_id = 
-1	–	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Quoi	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	les	_	Word	Word	_	5	E	5:E	_

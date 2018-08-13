@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 770003
-# text = Classer , c’ était sa vie , et il n’ en savait pas davantage .
+# text = Classer , c' était sa vie , et il n' en savait pas davantage .
 # doc_id = 
 1	Classer	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-3	c’	_	Word	Word	_	4	F	4:F	_
+3	c'	_	Word	Word	_	4	F	4:F	_
 4	était	_	Word	Word	_	1	orphan	1:orphan	_
 5	sa	_	Word	Word	_	6	E	6:E	_
 6	vie	_	Word	Word	_	1	orphan	1:orphan	_
 7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 8	et	_	Word	Word	_	4	L	4:L	_
 9	il	_	Word	Word	_	12	A	12:A	_
-10	n’	_	Word	Word	_	12	D	12:D	_
+10	n'	_	Word	Word	_	12	D	12:D	_
 11	en	_	Word	Word	_	12	A	12:A	_
 12	savait	_	Word	Word	_	1	orphan	1:orphan	_
 13	pas	_	Word	Word	_	10	flat	10:flat	_

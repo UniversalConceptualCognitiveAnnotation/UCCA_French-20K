@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 860002
-# text = Il évitait même de traiter ce sujet , sur lequel je crus devoir l’ entreprendre un jour .
+# text = Il évitait même de traiter ce sujet , sur lequel je crus devoir l' entreprendre un jour .
 # doc_id = 
 1	Il	_	Word	Word	_	2	A	2:A	_
 2	évitait	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +15,7 @@
 11	je	_	Word	Word	_	15	A	15:A	_
 12	crus	_	Word	Word	_	15	D	15:D	_
 13	devoir	_	Word	Word	_	15	D	15:D	_
-14	l’	_	Word	Word	_	15	A	15:A	_
+14	l'	_	Word	Word	_	15	A	15:A	_
 15	entreprendre	_	Word	Word	_	2	orphan	2:orphan	_
 16	un	_	Word	Word	_	17	E	17:E	_
 17	jour	_	Word	Word	_	2	orphan	2:orphan	_

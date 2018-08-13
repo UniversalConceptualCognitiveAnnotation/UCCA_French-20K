@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 873006
-# text = — Oui , je comprends , répondit Ned , devenu plus attentif , parce que l’ eau m’ entoure et ne me pénètre pas .
+# text = - Oui , je comprends , répondit Ned , devenu plus attentif , parce que l' eau m' entoure et ne me pénètre pas .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+1	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Oui	_	Word	Word	_	5	D	5:D	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 4	je	_	Word	Word	_	5	A	5:A	_
@@ -17,9 +17,9 @@
 13	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 14	parce	_	Word	Word	_	5	L	5:L	_
 15	que	_	Word	Word	_	14	flat	14:flat	_
-16	l’	_	Word	Word	_	17	E	17:E	_
+16	l'	_	Word	Word	_	17	E	17:E	_
 17	eau	_	Word	Word	_	5	orphan	5:orphan	_
-18	m’	_	Word	Word	_	19	A	19:A	_
+18	m'	_	Word	Word	_	19	A	19:A	_
 19	entoure	_	Word	Word	_	5	orphan	5:orphan	_
 20	et	_	Word	Word	_	5	L	5:L	_
 21	ne	_	Word	Word	_	23	D	23:D	_

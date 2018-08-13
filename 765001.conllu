@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 765001
-# text = Je n’ aspirais plus qu’ à revoir mon pays , mes amis , mon petit logement du Jardin des Plantes , mes chères et précieuses collections !
+# text = Je n' aspirais plus qu' à revoir mon pays , mes amis , mon petit logement du Jardin des Plantes , mes chères et précieuses collections !
 # doc_id = 
 1	Je	_	Word	Word	_	3	A	3:A	_
-2	n’	_	Word	Word	_	3	D	3:D	_
+2	n'	_	Word	Word	_	3	D	3:D	_
 3	aspirais	_	Word	Word	_	0	root	0:root	_
 4	plus	_	Word	Word	_	2	flat	2:flat	_
-5	qu’	_	Word	Word	_	2	flat	2:flat	_
+5	qu'	_	Word	Word	_	2	flat	2:flat	_
 6	à	_	Word	Word	_	7	F	7:F	_
 7	revoir	_	Word	Word	_	3	orphan	3:orphan	_
 8	mon	_	Word	Word	_	9	E	9:E	_

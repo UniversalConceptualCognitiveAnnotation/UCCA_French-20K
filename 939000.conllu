@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 939000
-# text = — Que monsieur me permette de le lui dire , répondit Conseil , je n’ ai jamais compté sur cette prime , et le gouvernement de l’ Union pouvait promettre cent mille dollars , il n’ en aurait pas été plus pauvre .
+# text = - Que monsieur me permette de le lui dire , répondit Conseil , je n' ai jamais compté sur cette prime , et le gouvernement de l' Union pouvait promettre cent mille dollars , il n' en aurait pas été plus pauvre .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+1	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Que	_	Word	Word	_	5	R	5:R	_
 3	monsieur	_	Word	Word	_	5	A	5:A	_
 4	me	_	Word	Word	_	5	A	5:A	_
@@ -16,7 +16,7 @@
 12	Conseil	_	Word	Word	_	11	A	11:A	_
 13	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 14	je	_	Word	Word	_	18	A	18:A	_
-15	n’	_	Word	Word	_	18	T	18:T	_
+15	n'	_	Word	Word	_	18	T	18:T	_
 16	ai	_	Word	Word	_	18	F	18:F	_
 17	jamais	_	Word	Word	_	15	flat	15:flat	_
 18	compté	_	Word	Word	_	5	orphan	5:orphan	_
@@ -28,7 +28,7 @@
 24	le	_	Word	Word	_	25	E	25:E	_
 25	gouvernement	_	Word	Word	_	5	orphan	5:orphan	_
 26	de	_	Word	Word	_	28	R	28:R	_
-27	l’	_	Word	Word	_	28	E	28:E	_
+27	l'	_	Word	Word	_	28	E	28:E	_
 28	Union	_	Word	Word	_	5	orphan	5:orphan	_
 29	pouvait	_	Word	Word	_	30	D	30:D	_
 30	promettre	_	Word	Word	_	5	orphan	5:orphan	_
@@ -37,7 +37,7 @@
 33	dollars	_	Word	Word	_	5	orphan	5:orphan	_
 34	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 35	il	_	Word	Word	_	42	A	42:A	_
-36	n’	_	Word	Word	_	42	D	42:D	_
+36	n'	_	Word	Word	_	42	D	42:D	_
 37	en	_	Word	Word	_	42	A	42:A	_
 38	aurait	_	Word	Word	_	42	F	42:F	_
 39	pas	_	Word	Word	_	36	flat	36:flat	_

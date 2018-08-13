@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 929002
-# text = La réaction monta des fonds du navire , du poste des soutiers jusqu’ au carré de l’ état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
+# text = La réaction monta des fonds du navire , du poste des soutiers jusqu' au carré de l' état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
 # doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	réaction	_	Word	Word	_	0	root	0:root	_
@@ -14,11 +14,11 @@
 10	poste	_	Word	Word	_	2	orphan	2:orphan	_
 11	des	_	Word	Word	_	12	R	12:R	_
 12	soutiers	_	Word	Word	_	2	orphan	2:orphan	_
-13	jusqu’	_	Word	Word	_	10	R	10:R	_
+13	jusqu'	_	Word	Word	_	10	R	10:R	_
 14	au	_	Word	Word	_	10	R	10:R	_
 15	carré	_	Word	Word	_	2	orphan	2:orphan	_
 16	de	_	Word	Word	_	18	R	18:R	_
-17	l’	_	Word	Word	_	18	E	18:E	_
+17	l'	_	Word	Word	_	18	E	18:E	_
 18	état	_	Word	Word	_	2	orphan	2:orphan	_
 19	-	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 20	major	_	Word	Word	_	18	flat	18:flat	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 940002
-# text = — Effectivement , répondit tranquillement Conseil , je pense que l’ on se moquera de monsieur . Et , faut - il le dire ... ? — Il faut le dire , Conseil .
+# text = - Effectivement , répondit tranquillement Conseil , je pense que l' on se moquera de monsieur . Et , faut - il le dire ... ? - Il faut le dire , Conseil .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Effectivement	_	Word	Word	_	9	G	9:G	_
 3	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 4	répondit	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +12,7 @@
 8	je	_	Word	Word	_	9	A	9:A	_
 9	pense	_	Word	Word	_	4	orphan	4:orphan	_
 10	que	_	Word	Word	_	13	R	13:R	_
-11	l’	_	Word	Word	_	13	F	13:F	_
+11	l'	_	Word	Word	_	13	F	13:F	_
 12	on	_	Word	Word	_	13	A	13:A	_
 13	se	_	Word	Word	_	4	orphan	4:orphan	_
 14	moquera	_	Word	Word	_	13	flat	13:flat	_
@@ -28,7 +28,7 @@
 24	dire	_	Word	Word	_	4	orphan	4:orphan	_
 25	...	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 26	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-27	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+27	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 28	Il	_	Word	Word	_	31	F	31:F	_
 29	faut	_	Word	Word	_	31	D	31:D	_
 30	le	_	Word	Word	_	31	A	31:A	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 873003
-# text = — Et comme en réalité la pression atmosphérique est un peu supérieure au poids d’ un kilogramme par centimètre carré , vos dix-sept mille centimètres carrés supportent en ce moment une pression de dix-sept mille cinq cent soixante-huit kilogrammes .
+# text = - Et comme en réalité la pression atmosphérique est un peu supérieure au poids d' un kilogramme par centimètre carré , vos dix-sept mille centimètres carrés supportent en ce moment une pression de dix-sept mille cinq cent soixante-huit kilogrammes .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	Et	_	Word	Word	_	12	L	12:L	_
 3	comme	_	Word	Word	_	12	L	12:L	_
 4	en	_	Word	Word	_	5	R	5:R	_
@@ -16,7 +16,7 @@
 12	supérieure	_	Word	Word	_	5	orphan	5:orphan	_
 13	au	_	Word	Word	_	14	R	14:R	_
 14	poids	_	Word	Word	_	5	orphan	5:orphan	_
-15	d’	_	Word	Word	_	14	R	14:R	_
+15	d'	_	Word	Word	_	14	R	14:R	_
 16	un	_	Word	Word	_	17	E	17:E	_
 17	kilogramme	_	Word	Word	_	5	orphan	5:orphan	_
 18	par	_	Word	Word	_	19	R	19:R	_

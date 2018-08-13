@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 788000
-# text = Je laissai Conseil arrimer convenablement nos malles , et je remontai sur le pont afin de suivre les préparatifs de l’ appareillage .
+# text = Je laissai Conseil arrimer convenablement nos malles , et je remontai sur le pont afin de suivre les préparatifs de l' appareillage .
 # doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	laissai	_	Word	Word	_	0	root	0:root	_
@@ -22,7 +22,7 @@
 18	les	_	Word	Word	_	19	E	19:E	_
 19	préparatifs	_	Word	Word	_	2	orphan	2:orphan	_
 20	de	_	Word	Word	_	22	R	22:R	_
-21	l’	_	Word	Word	_	22	E	22:E	_
+21	l'	_	Word	Word	_	22	E	22:E	_
 22	appareillage	_	Word	Word	_	2	orphan	2:orphan	_
 23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 

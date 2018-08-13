@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 877001
-# text = Quant à la famille dans laquelle il prenait rang , baleine , cachalot ou dauphin , quant au genre dont il faisait partie , quant à l’ espèce dans laquelle il convenait de le ranger , c’ était une question à élucider ultérieurement .
+# text = Quant à la famille dans laquelle il prenait rang , baleine , cachalot ou dauphin , quant au genre dont il faisait partie , quant à l' espèce dans laquelle il convenait de le ranger , c' était une question à élucider ultérieurement .
 # doc_id = 
 1	Quant	_	Word	Word	_	4	R	4:R	_
 2	à	_	Word	Word	_	4	R	4:R	_
@@ -28,7 +28,7 @@
 24	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 25	quant	_	Word	Word	_	28	R	28:R	_
 26	à	_	Word	Word	_	28	R	28:R	_
-27	l’	_	Word	Word	_	28	E	28:E	_
+27	l'	_	Word	Word	_	28	E	28:E	_
 28	espèce	_	Word	Word	_	4	orphan	4:orphan	_
 29	dans	_	Word	Word	_	35	R	35:R	_
 30	laquelle	_	Word	Word	_	35	F	35:F	_
@@ -38,7 +38,7 @@
 34	le	_	Word	Word	_	35	A	35:A	_
 35	ranger	_	Word	Word	_	4	orphan	4:orphan	_
 36	,	_	Punctuation	Punctuation	_	38	punct	38:punct	_
-37	c’	_	Word	Word	_	38	F	38:F	_
+37	c'	_	Word	Word	_	38	F	38:F	_
 38	était	_	Word	Word	_	4	orphan	4:orphan	_
 39	une	_	Word	Word	_	40	E	40:E	_
 40	question	_	Word	Word	_	4	orphan	4:orphan	_

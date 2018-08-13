@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 766000
-# text = « D’ ailleurs , pensai - je , tout chemin ramène en Europe , et la Licorne sera assez aimable pour m’ entraîner vers les côtes de France ! Ce digne animal se laissera prendre dans les mers d’ Europe , – pour mon agrément personnel , – et je ne veux pas rapporter moins d’ un demi mètre de sa hallebarde d’ ivoire au Muséum d’ histoire naturelle . »
+# text = « D' ailleurs , pensai - je , tout chemin ramène en Europe , et la Licorne sera assez aimable pour m' entraîner vers les côtes de France ! Ce digne animal se laissera prendre dans les mers d' Europe , - pour mon agrément personnel , - et je ne veux pas rapporter moins d' un demi mètre de sa hallebarde d' ivoire au Muséum d' histoire naturelle . »
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-2	D’	_	Word	Word	_	11	L	11:L	_
+2	D'	_	Word	Word	_	11	L	11:L	_
 3	ailleurs	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 5	pensai	_	Word	Word	_	0	root	0:root	_
@@ -23,7 +23,7 @@
 19	assez	_	Word	Word	_	20	D	20:D	_
 20	aimable	_	Word	Word	_	5	orphan	5:orphan	_
 21	pour	_	Word	Word	_	23	R	23:R	_
-22	m’	_	Word	Word	_	23	A	23:A	_
+22	m'	_	Word	Word	_	23	A	23:A	_
 23	entraîner	_	Word	Word	_	5	orphan	5:orphan	_
 24	vers	_	Word	Word	_	26	R	26:R	_
 25	les	_	Word	Word	_	26	E	26:E	_
@@ -40,16 +40,16 @@
 36	dans	_	Word	Word	_	38	R	38:R	_
 37	les	_	Word	Word	_	38	E	38:E	_
 38	mers	_	Word	Word	_	5	orphan	5:orphan	_
-39	d’	_	Word	Word	_	40	R	40:R	_
+39	d'	_	Word	Word	_	40	R	40:R	_
 40	Europe	_	Word	Word	_	5	orphan	5:orphan	_
 41	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-42	–	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+42	-	_	Punctuation	Punctuation	_	35	punct	35:punct	_
 43	pour	_	Word	Word	_	35	G	35:G	_
 44	mon	_	Word	Word	_	43	flat	43:flat	_
 45	agrément	_	Word	Word	_	43	flat	43:flat	_
 46	personnel	_	Word	Word	_	43	flat	43:flat	_
 47	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-48	–	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+48	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 49	et	_	Word	Word	_	11	L	11:L	_
 50	je	_	Word	Word	_	52	A	52:A	_
 51	ne	_	Word	Word	_	52	D	52:D	_
@@ -57,18 +57,18 @@
 53	pas	_	Word	Word	_	51	flat	51:flat	_
 54	rapporter	_	Word	Word	_	5	orphan	5:orphan	_
 55	moins	_	Word	Word	_	5	orphan	5:orphan	_
-56	d’	_	Word	Word	_	55	R	55:R	_
+56	d'	_	Word	Word	_	55	R	55:R	_
 57	un	_	Word	Word	_	59	E	59:E	_
 58	demi	_	Word	Word	_	59	E	59:E	_
 59	mètre	_	Word	Word	_	5	orphan	5:orphan	_
 60	de	_	Word	Word	_	59	R	59:R	_
 61	sa	_	Word	Word	_	62	E	62:E	_
 62	hallebarde	_	Word	Word	_	5	orphan	5:orphan	_
-63	d’	_	Word	Word	_	64	R	64:R	_
+63	d'	_	Word	Word	_	64	R	64:R	_
 64	ivoire	_	Word	Word	_	5	orphan	5:orphan	_
 65	au	_	Word	Word	_	66	R	66:R	_
 66	Muséum	_	Word	Word	_	5	orphan	5:orphan	_
-67	d’	_	Word	Word	_	68	R	68:R	_
+67	d'	_	Word	Word	_	68	R	68:R	_
 68	histoire	_	Word	Word	_	5	orphan	5:orphan	_
 69	naturelle	_	Word	Word	_	68	E	68:E	_
 70	.	_	Punctuation	Punctuation	_	68	punct	68:punct	_

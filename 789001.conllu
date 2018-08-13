@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 789001
-# text = Ainsi donc , un quart d’ heure de retard , moins même , et la frégate partait sans moi , et je manquais cette expédition extraordinaire , surnaturelle , invraisemblable , dont le récit véridique pourra bien trouver cependant quelques incrédules .
+# text = Ainsi donc , un quart d' heure de retard , moins même , et la frégate partait sans moi , et je manquais cette expédition extraordinaire , surnaturelle , invraisemblable , dont le récit véridique pourra bien trouver cependant quelques incrédules .
 # doc_id = 
 1	Ainsi	_	Word	Word	_	9	L	9:L	_
 2	donc	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 4	un	_	Word	Word	_	5	E	5:E	_
 5	quart	_	Word	Word	_	0	root	0:root	_
-6	d’	_	Word	Word	_	5	R	5:R	_
+6	d'	_	Word	Word	_	5	R	5:R	_
 7	heure	_	Word	Word	_	5	orphan	5:orphan	_
 8	de	_	Word	Word	_	9	R	9:R	_
 9	retard	_	Word	Word	_	5	orphan	5:orphan	_

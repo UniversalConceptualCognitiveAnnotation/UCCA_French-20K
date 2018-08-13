@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 933003
-# text = D’ énormes quartiers de lard furent mis à la traîne pour la plus grande satisfaction des requins , je dois le dire .
+# text = D' énormes quartiers de lard furent mis à la traîne pour la plus grande satisfaction des requins , je dois le dire .
 # doc_id = 
-1	D’	_	Word	Word	_	3	E	3:E	_
+1	D'	_	Word	Word	_	3	E	3:E	_
 2	énormes	_	Word	Word	_	3	E	3:E	_
 3	quartiers	_	Word	Word	_	0	root	0:root	_
 4	de	_	Word	Word	_	3	R	3:R	_

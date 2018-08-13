@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 770001
-# text = J’ avais en lui un spécialiste , très - ferré sur la classification en histoire naturelle , parcourant avec une agilité d’ acrobate toute l’ échelle des embranchements des groupes , des classes , des sous - classes , des ordres , des familles , des genres , des sous - genres , des espèces et des variétés .
+# text = J' avais en lui un spécialiste , très - ferré sur la classification en histoire naturelle , parcourant avec une agilité d' acrobate toute l' échelle des embranchements des groupes , des classes , des sous - classes , des ordres , des familles , des genres , des sous - genres , des espèces et des variétés .
 # doc_id = 
-1	J’	_	Word	Word	_	2	A	2:A	_
+1	J'	_	Word	Word	_	2	A	2:A	_
 2	avais	_	Word	Word	_	0	root	0:root	_
 3	en	_	Word	Word	_	4	R	4:R	_
 4	lui	_	Word	Word	_	2	orphan	2:orphan	_
@@ -23,10 +23,10 @@
 19	avec	_	Word	Word	_	21	R	21:R	_
 20	une	_	Word	Word	_	21	E	21:E	_
 21	agilité	_	Word	Word	_	2	orphan	2:orphan	_
-22	d’	_	Word	Word	_	23	R	23:R	_
+22	d'	_	Word	Word	_	23	R	23:R	_
 23	acrobate	_	Word	Word	_	2	orphan	2:orphan	_
 24	toute	_	Word	Word	_	26	E	26:E	_
-25	l’	_	Word	Word	_	26	E	26:E	_
+25	l'	_	Word	Word	_	26	E	26:E	_
 26	échelle	_	Word	Word	_	2	orphan	2:orphan	_
 27	des	_	Word	Word	_	28	R	28:R	_
 28	embranchements	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 867006
-# text = Eût - il cinq cents pieds de longueur , le poulpe , qui n’ appartient point à l’ embranchement des vertébrés , est tout à fait inoffensif pour des navires tels que le Scotia ou l’ Abraham - Lincoln .
+# text = Eût - il cinq cents pieds de longueur , le poulpe , qui n' appartient point à l' embranchement des vertébrés , est tout à fait inoffensif pour des navires tels que le Scotia ou l' Abraham - Lincoln .
 # doc_id = 
 1	Eût	_	Word	Word	_	0	root	0:root	_
 2	-	_	Punctuation	Punctuation	_	1	punct	1:punct	_
@@ -15,11 +15,11 @@
 11	poulpe	_	Word	Word	_	1	orphan	1:orphan	_
 12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 13	qui	_	Word	Word	_	15	R	15:R	_
-14	n’	_	Word	Word	_	15	D	15:D	_
+14	n'	_	Word	Word	_	15	D	15:D	_
 15	appartient	_	Word	Word	_	1	orphan	1:orphan	_
 16	point	_	Word	Word	_	14	flat	14:flat	_
 17	à	_	Word	Word	_	19	R	19:R	_
-18	l’	_	Word	Word	_	19	E	19:E	_
+18	l'	_	Word	Word	_	19	E	19:E	_
 19	embranchement	_	Word	Word	_	1	orphan	1:orphan	_
 20	des	_	Word	Word	_	21	R	21:R	_
 21	vertébrés	_	Word	Word	_	1	orphan	1:orphan	_
@@ -37,7 +37,7 @@
 33	le	_	Word	Word	_	34	E	34:E	_
 34	Scotia	_	Word	Word	_	1	orphan	1:orphan	_
 35	ou	_	Word	Word	_	34	N	34:N	_
-36	l’	_	Word	Word	_	37	E	37:E	_
+36	l'	_	Word	Word	_	37	E	37:E	_
 37	Abraham	_	Word	Word	_	1	orphan	1:orphan	_
 38	-	_	Punctuation	Punctuation	_	37	punct	37:punct	_
 39	Lincoln	_	Word	Word	_	37	flat	37:flat	_

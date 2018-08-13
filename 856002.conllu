@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 856002
-# text = Je ne saurais le mieux comparer qu’ à un télescope puissant qui serait en même temps un canon toujours prêt à partir .
+# text = Je ne saurais le mieux comparer qu' à un télescope puissant qui serait en même temps un canon toujours prêt à partir .
 # doc_id = 
 1	Je	_	Word	Word	_	6	A	6:A	_
 2	ne	_	Word	Word	_	6	D	6:D	_
@@ -8,7 +8,7 @@
 4	le	_	Word	Word	_	5	E	5:E	_
 5	mieux	_	Word	Word	_	0	root	0:root	_
 6	comparer	_	Word	Word	_	5	orphan	5:orphan	_
-7	qu’	_	Word	Word	_	2	flat	2:flat	_
+7	qu'	_	Word	Word	_	2	flat	2:flat	_
 8	à	_	Word	Word	_	10	R	10:R	_
 9	un	_	Word	Word	_	10	E	10:E	_
 10	télescope	_	Word	Word	_	5	orphan	5:orphan	_

@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 855001
-# text = C’ était un homme de grande taille — plus de six pieds anglais — vigoureusement bâti , l’ air grave , peu communicatif , violent parfois , et très - rageur quand on le contrariait .
+# text = C' était un homme de grande taille - plus de six pieds anglais - vigoureusement bâti , l' air grave , peu communicatif , violent parfois , et très - rageur quand on le contrariait .
 # doc_id = 
-1	C’	_	Word	Word	_	2	A	2:A	_
+1	C'	_	Word	Word	_	2	A	2:A	_
 2	était	_	Word	Word	_	0	root	0:root	_
 3	un	_	Word	Word	_	4	E	4:E	_
 4	homme	_	Word	Word	_	2	orphan	2:orphan	_
 5	de	_	Word	Word	_	7	R	7:R	_
 6	grande	_	Word	Word	_	7	E	7:E	_
 7	taille	_	Word	Word	_	2	orphan	2:orphan	_
-8	—	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+8	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 9	plus	_	Word	Word	_	2	orphan	2:orphan	_
 10	de	_	Word	Word	_	9	F	9:F	_
 11	six	_	Word	Word	_	12	E	12:E	_
 12	pieds	_	Word	Word	_	2	orphan	2:orphan	_
 13	anglais	_	Word	Word	_	12	E	12:E	_
-14	—	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+14	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 15	vigoureusement	_	Word	Word	_	16	E	16:E	_
 16	bâti	_	Word	Word	_	2	orphan	2:orphan	_
 17	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-18	l’	_	Word	Word	_	19	E	19:E	_
+18	l'	_	Word	Word	_	19	E	19:E	_
 19	air	_	Word	Word	_	2	orphan	2:orphan	_
 20	grave	_	Word	Word	_	19	E	19:E	_
 21	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_

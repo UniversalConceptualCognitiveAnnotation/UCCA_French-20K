@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 916001
-# text = La route fut donnée vers le nord-ouest , et le lendemain , l’ hélice de la frégate battit enfin les eaux du Pacifique .
+# text = La route fut donnée vers le nord-ouest , et le lendemain , l' hélice de la frégate battit enfin les eaux du Pacifique .
 # doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	route	_	Word	Word	_	0	root	0:root	_
@@ -14,7 +14,7 @@
 10	le	_	Word	Word	_	11	E	11:E	_
 11	lendemain	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-13	l’	_	Word	Word	_	14	E	14:E	_
+13	l'	_	Word	Word	_	14	E	14:E	_
 14	hélice	_	Word	Word	_	2	orphan	2:orphan	_
 15	de	_	Word	Word	_	17	R	17:R	_
 16	la	_	Word	Word	_	17	E	17:E	_

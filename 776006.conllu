@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 776006
-# text = – Et les collections de monsieur ? fit observer Conseil .
+# text = - Et les collections de monsieur ? fit observer Conseil .
 # doc_id = 
-1	–	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Et	_	Word	Word	_	4	L	4:L	_
 3	les	_	Word	Word	_	4	E	4:E	_
 4	collections	_	Word	Word	_	0	root	0:root	_

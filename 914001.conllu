@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 914001
-# text = Le 3 juillet , nous étions à l’ ouvert du détroit de Magellan , à la hauteur du cap des Vierges .
+# text = Le 3 juillet , nous étions à l' ouvert du détroit de Magellan , à la hauteur du cap des Vierges .
 # doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	3	_	Word	Word	_	0	root	0:root	_
@@ -9,7 +9,7 @@
 5	nous	_	Word	Word	_	6	A	6:A	_
 6	étions	_	Word	Word	_	2	orphan	2:orphan	_
 7	à	_	Word	Word	_	9	R	9:R	_
-8	l’	_	Word	Word	_	9	E	9:E	_
+8	l'	_	Word	Word	_	9	E	9:E	_
 9	ouvert	_	Word	Word	_	2	orphan	2:orphan	_
 10	du	_	Word	Word	_	9	R	9:R	_
 11	détroit	_	Word	Word	_	2	orphan	2:orphan	_

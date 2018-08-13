@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 921002
-# text = C’ était alors la mauvaise saison australe , car le juillet de cette zone correspond à notre janvier d’ Europe ; mais la mer se maintenait belle , et se laissait facilement observer dans un vaste périmètre .
+# text = C' était alors la mauvaise saison australe , car le juillet de cette zone correspond à notre janvier d' Europe ; mais la mer se maintenait belle , et se laissait facilement observer dans un vaste périmètre .
 # doc_id = 
-1	C’	_	Word	Word	_	2	F	2:F	_
+1	C'	_	Word	Word	_	2	F	2:F	_
 2	était	_	Word	Word	_	0	root	0:root	_
 3	alors	_	Word	Word	_	2	T	2:T	_
 4	la	_	Word	Word	_	6	E	6:E	_
@@ -20,7 +20,7 @@
 16	à	_	Word	Word	_	18	R	18:R	_
 17	notre	_	Word	Word	_	18	E	18:E	_
 18	janvier	_	Word	Word	_	2	orphan	2:orphan	_
-19	d’	_	Word	Word	_	20	R	20:R	_
+19	d'	_	Word	Word	_	20	R	20:R	_
 20	Europe	_	Word	Word	_	2	orphan	2:orphan	_
 21	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 22	mais	_	Word	Word	_	2	L	2:L	_

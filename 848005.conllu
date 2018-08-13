@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 848005
-# text = Il y croyait comme certaines bonnes femmes croient au Léviathan , — par foi , non par raison .
+# text = Il y croyait comme certaines bonnes femmes croient au Léviathan , - par foi , non par raison .
 # doc_id = 
 1	Il	_	Word	Word	_	3	A	3:A	_
 2	y	_	Word	Word	_	3	A	3:A	_
@@ -13,7 +13,7 @@
 9	au	_	Word	Word	_	10	R	10:R	_
 10	Léviathan	_	Word	Word	_	3	orphan	3:orphan	_
 11	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-12	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+12	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 13	par	_	Word	Word	_	14	R	14:R	_
 14	foi	_	Word	Word	_	3	orphan	3:orphan	_
 15	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_

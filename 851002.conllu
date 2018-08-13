@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 851002
-# text = Seul entre tous , Conseil protestait par son indifférence touchant la question qui nous passionnait , et détonait sur l’ enthousiasme général du bord .
+# text = Seul entre tous , Conseil protestait par son indifférence touchant la question qui nous passionnait , et détonait sur l' enthousiasme général du bord .
 # doc_id = 
 1	Seul	_	Word	Word	_	0	root	0:root	_
 2	entre	_	Word	Word	_	3	R	3:R	_
@@ -21,7 +21,7 @@
 17	et	_	Word	Word	_	6	L	6:L	_
 18	détonait	_	Word	Word	_	1	orphan	1:orphan	_
 19	sur	_	Word	Word	_	21	R	21:R	_
-20	l’	_	Word	Word	_	21	E	21:E	_
+20	l'	_	Word	Word	_	21	E	21:E	_
 21	enthousiasme	_	Word	Word	_	1	orphan	1:orphan	_
 22	général	_	Word	Word	_	21	E	21:E	_
 23	du	_	Word	Word	_	24	R	24:R	_

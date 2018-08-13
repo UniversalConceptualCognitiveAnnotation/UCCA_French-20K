@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 857000
-# text = Qui dit Canadien , dit Français , et , si peu communicatif que fut Ned Land , je dois avouer qu’ il se prit d’ une certaine affection pour moi .
+# text = Qui dit Canadien , dit Français , et , si peu communicatif que fut Ned Land , je dois avouer qu' il se prit d' une certaine affection pour moi .
 # doc_id = 
 1	Qui	_	Word	Word	_	2	F	2:F	_
 2	dit	_	Word	Word	_	0	root	0:root	_
@@ -22,11 +22,11 @@
 18	je	_	Word	Word	_	20	A	20:A	_
 19	dois	_	Word	Word	_	20	D	20:D	_
 20	avouer	_	Word	Word	_	2	orphan	2:orphan	_
-21	qu’	_	Word	Word	_	28	R	28:R	_
+21	qu'	_	Word	Word	_	28	R	28:R	_
 22	il	_	Word	Word	_	28	A	28:A	_
 23	se	_	Word	Word	_	2	orphan	2:orphan	_
 24	prit	_	Word	Word	_	23	flat	23:flat	_
-25	d’	_	Word	Word	_	23	R	23:R	_
+25	d'	_	Word	Word	_	23	R	23:R	_
 26	une	_	Word	Word	_	28	E	28:E	_
 27	certaine	_	Word	Word	_	28	D	28:D	_
 28	affection	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 872005
-# text = Eh bien , quand vous plongez , Ned , autant de fois trente-deux pieds d’ eau au - dessus de vous , autant de fois votre corps supporte une pression égale à celle de l’ atmosphère , c’est-à-dire de kilogrammes par chaque centimètre carré de sa surface .
+# text = Eh bien , quand vous plongez , Ned , autant de fois trente-deux pieds d' eau au - dessus de vous , autant de fois votre corps supporte une pression égale à celle de l' atmosphère , c'est-à-dire de kilogrammes par chaque centimètre carré de sa surface .
 # doc_id = 
 1	Eh	_	Word	Word	_	0	root	0:root	_
 2	bien	_	Word	Word	_	1	flat	1:flat	_
@@ -16,7 +16,7 @@
 12	fois	_	Word	Word	_	1	orphan	1:orphan	_
 13	trente-deux	_	Word	Word	_	14	E	14:E	_
 14	pieds	_	Word	Word	_	1	orphan	1:orphan	_
-15	d’	_	Word	Word	_	16	R	16:R	_
+15	d'	_	Word	Word	_	16	R	16:R	_
 16	eau	_	Word	Word	_	1	orphan	1:orphan	_
 17	au	_	Word	Word	_	1	orphan	1:orphan	_
 18	-	_	Punctuation	Punctuation	_	17	punct	17:punct	_
@@ -36,10 +36,10 @@
 32	à	_	Word	Word	_	36	R	36:R	_
 33	celle	_	Word	Word	_	36	F	36:F	_
 34	de	_	Word	Word	_	36	R	36:R	_
-35	l’	_	Word	Word	_	36	E	36:E	_
+35	l'	_	Word	Word	_	36	E	36:E	_
 36	atmosphère	_	Word	Word	_	1	orphan	1:orphan	_
 37	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-38	c’est-à-dire	_	Word	Word	_	40	R	40:R	_
+38	c'est-à-dire	_	Word	Word	_	40	R	40:R	_
 39	de	_	Word	Word	_	40	R	40:R	_
 40	kilogrammes	_	Word	Word	_	1	orphan	1:orphan	_
 41	par	_	Word	Word	_	44	R	44:R	_

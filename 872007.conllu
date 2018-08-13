@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 872007
-# text = Ce qui équivaut à dire que si vous pouviez atteindre cette profondeur dans l’ Océan , chaque centimètre carré de la surface de votre corps subirait une pression de mille kilogrammes .
+# text = Ce qui équivaut à dire que si vous pouviez atteindre cette profondeur dans l' Océan , chaque centimètre carré de la surface de votre corps subirait une pression de mille kilogrammes .
 # doc_id = 
 1	Ce	_	Word	Word	_	3	F	3:F	_
 2	qui	_	Word	Word	_	3	F	3:F	_
@@ -15,7 +15,7 @@
 11	cette	_	Word	Word	_	12	E	12:E	_
 12	profondeur	_	Word	Word	_	3	orphan	3:orphan	_
 13	dans	_	Word	Word	_	15	R	15:R	_
-14	l’	_	Word	Word	_	15	E	15:E	_
+14	l'	_	Word	Word	_	15	E	15:E	_
 15	Océan	_	Word	Word	_	3	orphan	3:orphan	_
 16	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 17	chaque	_	Word	Word	_	19	E	19:E	_

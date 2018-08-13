@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 933002
-# text = On employait mille moyens pour éveiller l’ attention ou stimuler l’ apathie de l’ animal , au cas où il se fût rencontré dans ces parages .
+# text = On employait mille moyens pour éveiller l' attention ou stimuler l' apathie de l' animal , au cas où il se fût rencontré dans ces parages .
 # doc_id = 
 1	On	_	Word	Word	_	2	A	2:A	_
 2	employait	_	Word	Word	_	0	root	0:root	_
@@ -8,14 +8,14 @@
 4	moyens	_	Word	Word	_	2	orphan	2:orphan	_
 5	pour	_	Word	Word	_	2	L	2:L	_
 6	éveiller	_	Word	Word	_	2	orphan	2:orphan	_
-7	l’	_	Word	Word	_	8	E	8:E	_
+7	l'	_	Word	Word	_	8	E	8:E	_
 8	attention	_	Word	Word	_	2	orphan	2:orphan	_
 9	ou	_	Word	Word	_	2	L	2:L	_
 10	stimuler	_	Word	Word	_	2	orphan	2:orphan	_
-11	l’	_	Word	Word	_	12	E	12:E	_
+11	l'	_	Word	Word	_	12	E	12:E	_
 12	apathie	_	Word	Word	_	2	orphan	2:orphan	_
 13	de	_	Word	Word	_	15	R	15:R	_
-14	l’	_	Word	Word	_	15	E	15:E	_
+14	l'	_	Word	Word	_	15	E	15:E	_
 15	animal	_	Word	Word	_	2	orphan	2:orphan	_
 16	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 17	au	_	Word	Word	_	18	R	18:R	_

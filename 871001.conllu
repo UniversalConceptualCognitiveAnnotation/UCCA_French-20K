@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 871001
-# text = — Vraiment , et quelques chiffres vous le prouveront sans peine .
+# text = - Vraiment , et quelques chiffres vous le prouveront sans peine .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Vraiment	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	et	_	Word	Word	_	2	L	2:L	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 779001
-# text = Conseil avait fait en un tour de main , et j’ étais sûr que rien ne manquait , car ce garçon classait les chemises et les habits aussi bien que les oiseaux ou les mammifères .
+# text = Conseil avait fait en un tour de main , et j' étais sûr que rien ne manquait , car ce garçon classait les chemises et les habits aussi bien que les oiseaux ou les mammifères .
 # doc_id = 
 1	Conseil	_	Word	Word	_	3	A	3:A	_
 2	avait	_	Word	Word	_	3	F	3:F	_
@@ -12,7 +12,7 @@
 8	main	_	Word	Word	_	3	orphan	3:orphan	_
 9	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 10	et	_	Word	Word	_	3	L	3:L	_
-11	j’	_	Word	Word	_	13	A	13:A	_
+11	j'	_	Word	Word	_	13	A	13:A	_
 12	étais	_	Word	Word	_	13	F	13:F	_
 13	sûr	_	Word	Word	_	3	orphan	3:orphan	_
 14	que	_	Word	Word	_	17	R	17:R	_

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 931003
-# text = Je ne veux pas dire qu’ il y eut révolte à bord , mais après une raisonnable période d’ obstination , le commandant Farragut comme autrefois Colomb , demanda trois jours de patience .
+# text = Je ne veux pas dire qu' il y eut révolte à bord , mais après une raisonnable période d' obstination , le commandant Farragut comme autrefois Colomb , demanda trois jours de patience .
 # doc_id = 
 1	Je	_	Word	Word	_	5	A	5:A	_
 2	ne	_	Word	Word	_	5	D	5:D	_
 3	veux	_	Word	Word	_	5	D	5:D	_
 4	pas	_	Word	Word	_	2	flat	2:flat	_
 5	dire	_	Word	Word	_	0	root	0:root	_
-6	qu’	_	Word	Word	_	10	R	10:R	_
+6	qu'	_	Word	Word	_	10	R	10:R	_
 7	il	_	Word	Word	_	10	F	10:F	_
 8	y	_	Word	Word	_	7	flat	7:flat	_
 9	eut	_	Word	Word	_	7	flat	7:flat	_
@@ -20,7 +20,7 @@
 16	une	_	Word	Word	_	18	E	18:E	_
 17	raisonnable	_	Word	Word	_	18	E	18:E	_
 18	période	_	Word	Word	_	5	orphan	5:orphan	_
-19	d’	_	Word	Word	_	20	F	20:F	_
+19	d'	_	Word	Word	_	20	F	20:F	_
 20	obstination	_	Word	Word	_	5	orphan	5:orphan	_
 21	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 22	le	_	Word	Word	_	23	E	23:E	_

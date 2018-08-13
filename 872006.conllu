@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 872006
-# text = Il suit de là qu’ à trois cent vingt pieds cette pression est de dix atmosphères , de cent atmosphères à trois mille deux cents pieds , et de mille atmosphères à trente-deux mille pieds , soit deux lieues et demie environ .
+# text = Il suit de là qu' à trois cent vingt pieds cette pression est de dix atmosphères , de cent atmosphères à trois mille deux cents pieds , et de mille atmosphères à trente-deux mille pieds , soit deux lieues et demie environ .
 # doc_id = 
 1	Il	_	Word	Word	_	2	F	2:F	_
 2	suit	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	4	R	4:R	_
 4	là	_	Word	Word	_	2	orphan	2:orphan	_
-5	qu’	_	Word	Word	_	13	R	13:R	_
+5	qu'	_	Word	Word	_	13	R	13:R	_
 6	à	_	Word	Word	_	10	R	10:R	_
 7	trois	_	Word	Word	_	10	E	10:E	_
 8	cent	_	Word	Word	_	7	flat	7:flat	_

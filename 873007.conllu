@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 873007
-# text = — Précisément , Ned . Ainsi donc , à trente-deux pieds au-dessous de la surface de la mer , vous subiriez une pression de dix-sept mille cinq cent soixante-huit kilogrammes ; à trois cent vingt pieds , dix fois cette pression , soit cent soixante-quinze mille six cent quatre-vingt kilogrammes ; à trois mille deux cents pieds , cent fois cette pression , soit dix-sept cent cinquante-six mille huit cent kilogrammes ; à trente-deux mille pieds , enfin , mille fois cette pression , soit dix-sept millions cinq cent soixante-huit mille kilogrammes ; c’est-à-dire que vous seriez aplati comme si l’ on vous retirait des plateaux d’ une machine hydraulique !
+# text = - Précisément , Ned . Ainsi donc , à trente-deux pieds au-dessous de la surface de la mer , vous subiriez une pression de dix-sept mille cinq cent soixante-huit kilogrammes ; à trois cent vingt pieds , dix fois cette pression , soit cent soixante-quinze mille six cent quatre-vingt kilogrammes ; à trois mille deux cents pieds , cent fois cette pression , soit dix-sept cent cinquante-six mille huit cent kilogrammes ; à trente-deux mille pieds , enfin , mille fois cette pression , soit dix-sept millions cinq cent soixante-huit mille kilogrammes ; c'est-à-dire que vous seriez aplati comme si l' on vous retirait des plateaux d' une machine hydraulique !
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Précisément	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	Ned	_	Word	Word	_	2	G	2:G	_
@@ -95,20 +95,20 @@
 91	mille	_	Word	Word	_	86	flat	86:flat	_
 92	kilogrammes	_	Word	Word	_	2	orphan	2:orphan	_
 93	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-94	c’est-à-dire	_	Word	Word	_	2	L	2:L	_
+94	c'est-à-dire	_	Word	Word	_	2	L	2:L	_
 95	que	_	Word	Word	_	94	flat	94:flat	_
 96	vous	_	Word	Word	_	98	A	98:A	_
 97	seriez	_	Word	Word	_	98	F	98:F	_
 98	aplati	_	Word	Word	_	2	orphan	2:orphan	_
 99	comme	_	Word	Word	_	2	L	2:L	_
 100	si	_	Word	Word	_	2	L	2:L	_
-101	l’	_	Word	Word	_	104	F	104:F	_
+101	l'	_	Word	Word	_	104	F	104:F	_
 102	on	_	Word	Word	_	104	A	104:A	_
 103	vous	_	Word	Word	_	104	A	104:A	_
 104	retirait	_	Word	Word	_	2	orphan	2:orphan	_
 105	des	_	Word	Word	_	106	R	106:R	_
 106	plateaux	_	Word	Word	_	2	orphan	2:orphan	_
-107	d’	_	Word	Word	_	109	R	109:R	_
+107	d'	_	Word	Word	_	109	R	109:R	_
 108	une	_	Word	Word	_	109	E	109:E	_
 109	machine	_	Word	Word	_	2	orphan	2:orphan	_
 110	hydraulique	_	Word	Word	_	109	E	109:E	_

@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 860001
-# text = Je dois avouer qu’ il ne croyait guère à la licorne , et que , seul à bord , il ne partageait pas la conviction générale .
+# text = Je dois avouer qu' il ne croyait guère à la licorne , et que , seul à bord , il ne partageait pas la conviction générale .
 # doc_id = 
 1	Je	_	Word	Word	_	3	A	3:A	_
 2	dois	_	Word	Word	_	3	E	3:E	_
 3	avouer	_	Word	Word	_	0	root	0:root	_
-4	qu’	_	Word	Word	_	7	R	7:R	_
+4	qu'	_	Word	Word	_	7	R	7:R	_
 5	il	_	Word	Word	_	7	A	7:A	_
 6	ne	_	Word	Word	_	7	D	7:D	_
 7	croyait	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 932005
-# text = C’ était un suprême défi porté au narwal géant , et celui - ci ne pouvait raisonnablement se dispenser de répondre à cette sommation « à comparaître ! »
+# text = C' était un suprême défi porté au narwal géant , et celui - ci ne pouvait raisonnablement se dispenser de répondre à cette sommation « à comparaître ! »
 # doc_id = 
-1	C’	_	Word	Word	_	2	A	2:A	_
+1	C'	_	Word	Word	_	2	A	2:A	_
 2	était	_	Word	Word	_	0	root	0:root	_
 3	un	_	Word	Word	_	5	E	5:E	_
 4	suprême	_	Word	Word	_	5	E	5:E	_

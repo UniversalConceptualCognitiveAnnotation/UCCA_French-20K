@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 912000
-# text = Au large des Malouines , le 30 juin , la frégate communiqua avec des baleiniers américains , et nous apprîmes qu’ ils n’ avaient eu aucune connaissance du narwal .
+# text = Au large des Malouines , le 30 juin , la frégate communiqua avec des baleiniers américains , et nous apprîmes qu' ils n' avaient eu aucune connaissance du narwal .
 # doc_id = 
 1	Au	_	Word	Word	_	2	R	2:R	_
 2	large	_	Word	Word	_	0	root	0:root	_
@@ -22,9 +22,9 @@
 18	et	_	Word	Word	_	12	L	12:L	_
 19	nous	_	Word	Word	_	20	A	20:A	_
 20	apprîmes	_	Word	Word	_	2	orphan	2:orphan	_
-21	qu’	_	Word	Word	_	27	R	27:R	_
+21	qu'	_	Word	Word	_	27	R	27:R	_
 22	ils	_	Word	Word	_	27	A	27:A	_
-23	n’	_	Word	Word	_	27	D	27:D	_
+23	n'	_	Word	Word	_	27	D	27:D	_
 24	avaient	_	Word	Word	_	27	F	27:F	_
 25	eu	_	Word	Word	_	27	F	27:F	_
 26	aucune	_	Word	Word	_	27	D	27:D	_

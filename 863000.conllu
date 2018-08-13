@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 863000
-# text = « Comment , Ned , lui demandai - je , comment pouvez - vous ne pas être convaincu de l’ existence du cétacé que nous poursuivons ? Avez - vous donc des raisons particulières de vous montrer si incrédule ? »
+# text = « Comment , Ned , lui demandai - je , comment pouvez - vous ne pas être convaincu de l' existence du cétacé que nous poursuivons ? Avez - vous donc des raisons particulières de vous montrer si incrédule ? »
 # doc_id = 
 1	«	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 2	Comment	_	Word	Word	_	18	D	18:D	_
@@ -21,7 +21,7 @@
 17	être	_	Word	Word	_	18	F	18:F	_
 18	convaincu	_	Word	Word	_	7	orphan	7:orphan	_
 19	de	_	Word	Word	_	21	R	21:R	_
-20	l’	_	Word	Word	_	21	E	21:E	_
+20	l'	_	Word	Word	_	21	E	21:E	_
 21	existence	_	Word	Word	_	7	orphan	7:orphan	_
 22	du	_	Word	Word	_	23	R	23:R	_
 23	cétacé	_	Word	Word	_	7	orphan	7:orphan	_

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 935005
-# text = La mer ondulait paisiblement sous l’ étrave de la frégate .
+# text = La mer ondulait paisiblement sous l' étrave de la frégate .
 # doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	mer	_	Word	Word	_	0	root	0:root	_
 3	ondulait	_	Word	Word	_	2	orphan	2:orphan	_
 4	paisiblement	_	Word	Word	_	3	D	3:D	_
 5	sous	_	Word	Word	_	7	R	7:R	_
-6	l’	_	Word	Word	_	7	E	7:E	_
+6	l'	_	Word	Word	_	7	E	7:E	_
 7	étrave	_	Word	Word	_	2	orphan	2:orphan	_
 8	de	_	Word	Word	_	10	R	10:R	_
 9	la	_	Word	Word	_	10	E	10:E	_

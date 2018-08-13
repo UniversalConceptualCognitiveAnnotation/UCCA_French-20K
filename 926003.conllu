@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 926003
-# text = L’ équipage entier subissait une surexcitation nerveuse , dont je ne saurais donner l’ idée .
+# text = L' équipage entier subissait une surexcitation nerveuse , dont je ne saurais donner l' idée .
 # doc_id = 
-1	L’	_	Word	Word	_	2	E	2:E	_
+1	L'	_	Word	Word	_	2	E	2:E	_
 2	équipage	_	Word	Word	_	0	root	0:root	_
 3	entier	_	Word	Word	_	2	E	2:E	_
 4	subissait	_	Word	Word	_	2	orphan	2:orphan	_
@@ -15,7 +15,7 @@
 11	ne	_	Word	Word	_	12	D	12:D	_
 12	saurais	_	Word	Word	_	2	orphan	2:orphan	_
 13	donner	_	Word	Word	_	2	orphan	2:orphan	_
-14	l’	_	Word	Word	_	15	E	15:E	_
+14	l'	_	Word	Word	_	15	E	15:E	_
 15	idée	_	Word	Word	_	2	orphan	2:orphan	_
 16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 

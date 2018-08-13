@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 922000
-# text = Ned Land montrait toujours la plus tenace incrédulité ; il affectait même de ne point examiner la surface des flots en dehors de son temps de bordée , — du moins quand aucune baleine n’ était en vue .
+# text = Ned Land montrait toujours la plus tenace incrédulité ; il affectait même de ne point examiner la surface des flots en dehors de son temps de bordée , - du moins quand aucune baleine n' était en vue .
 # doc_id = 
 1	Ned	_	Word	Word	_	3	A	3:A	_
 2	Land	_	Word	Word	_	1	flat	1:flat	_
@@ -30,13 +30,13 @@
 26	de	_	Word	Word	_	25	R	25:R	_
 27	bordée	_	Word	Word	_	3	orphan	3:orphan	_
 28	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-29	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+29	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 30	du	_	Word	Word	_	3	L	3:L	_
 31	moins	_	Word	Word	_	30	flat	30:flat	_
 32	quand	_	Word	Word	_	30	flat	30:flat	_
 33	aucune	_	Word	Word	_	34	E	34:E	_
 34	baleine	_	Word	Word	_	3	orphan	3:orphan	_
-35	n’	_	Word	Word	_	38	D	38:D	_
+35	n'	_	Word	Word	_	38	D	38:D	_
 36	était	_	Word	Word	_	38	F	38:F	_
 37	en	_	Word	Word	_	38	R	38:R	_
 38	vue	_	Word	Word	_	3	orphan	3:orphan	_

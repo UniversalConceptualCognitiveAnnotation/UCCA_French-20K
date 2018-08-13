@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 870001
-# text = — Et pourquoi cet organisme si puissant ? demanda Ned .
+# text = - Et pourquoi cet organisme si puissant ? demanda Ned .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Et	_	Word	Word	_	7	L	7:L	_
 3	pourquoi	_	Word	Word	_	7	D	7:D	_
 4	cet	_	Word	Word	_	5	E	5:E	_

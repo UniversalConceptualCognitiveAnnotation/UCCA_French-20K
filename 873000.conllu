@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 873000
-# text = — Je ne m’ en doute pas , monsieur Aronnax .
+# text = - Je ne m' en doute pas , monsieur Aronnax .
 # doc_id = 
-1	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Je	_	Word	Word	_	4	A	4:A	_
 3	ne	_	Word	Word	_	4	D	4:D	_
-4	m’	_	Word	Word	_	0	root	0:root	_
+4	m'	_	Word	Word	_	0	root	0:root	_
 5	en	_	Word	Word	_	4	A	4:A	_
 6	doute	_	Word	Word	_	4	flat	4:flat	_
 7	pas	_	Word	Word	_	3	flat	3:flat	_
