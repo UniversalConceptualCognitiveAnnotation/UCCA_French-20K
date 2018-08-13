@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 874000
-1	—	_	Punctuation	Punctuation	_	24	U	_	_
+1	-	_	Punctuation	Punctuation	_	24	U	_	_
 2	Eh	_	Word	Word	_	24	L	_	_
 3	bien	_	Word	Word	_	2	Terminal	_	_
 4	,	_	Punctuation	Punctuation	_	24	U	_	_
@@ -43,21 +43,21 @@
 41	centimètres	_	Word	Word	_	36	A	_	_
 42	carrés	_	Word	Word	_	41	E	_	_
 43	,	_	Punctuation	Punctuation	_	24	U	_	_
-44	c’	_	Word	Word	_	53	F	_	_
+44	c'	_	Word	Word	_	53	F	_	_
 45	est	_	Word	Word	_	44	Terminal	_	_
 46	par	_	Word	Word	_	49	R	_	_
 47	milliards	_	Word	Word	_	49	E	_	_
 48	de	_	Word	Word	_	47	R	_	_
 49	kilogrammes	_	Word	Word	_	53	A	_	_
-50	qu’	_	Word	Word	_	53	F	_	_
+50	qu'	_	Word	Word	_	53	F	_	_
 51	il	_	Word	Word	_	53	F	_	_
 52	faut	_	Word	Word	_	53	D	_	_
 53	estimer	_	Word	Word	_	24	H	_	_
 54	la	_	Word	Word	_	55	E	_	_
 55	poussée	_	Word	Word	_	53	A	_	_
-56	qu’	_	Word	Word	_	58	R	_	_
-57	ils	_	Word	Word	_	78	A	_	_
+56	qu'	_	Word	Word	_	58	R	_	_
 57	ils	_	Word	Word	_	58	A	_	_
+57	ils	_	Word	Word	_	78	A	_	_
 58	subissent	_	Word	Word	_	55	E	_	_
 59	.	_	Punctuation	Punctuation	_	24	U	_	_
 60	Calculez	_	Word	Word	_	24	H	_	_

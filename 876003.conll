@@ -5,7 +5,7 @@
 3	existait	_	Word	Word	_	0	ROOT	_	_
 4	si	_	Word	Word	_	3	L	_	_
 5	bien	_	Word	Word	_	4	Terminal	_	_
-6	qu’	_	Word	Word	_	4	Terminal	_	_
+6	qu'	_	Word	Word	_	4	Terminal	_	_
 7	il	_	Word	Word	_	11	F	_	_
 8	avait	_	Word	Word	_	11	F	_	_
 9	fallu	_	Word	Word	_	11	D	_	_
@@ -18,7 +18,7 @@
 16	pense	_	Word	Word	_	3	H	_	_
 17	pas	_	Word	Word	_	15	Terminal	_	_
 18	que	_	Word	Word	_	25	R	_	_
-19	l’	_	Word	Word	_	20	E	_	_
+19	l'	_	Word	Word	_	20	E	_	_
 20	existence	_	Word	Word	_	25	A	_	_
 21	du	_	Word	Word	_	22	R	_	_
 22	trou	_	Word	Word	_	20	A	_	_

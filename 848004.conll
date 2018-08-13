@@ -9,7 +9,7 @@
 7	aucun	_	Word	Word	_	8	E	_	_
 8	doute	_	Word	Word	_	10	A	_	_
 9	ne	_	Word	Word	_	10	D	_	_
-10	s’	_	Word	Word	_	0	ROOT	_	_
+10	s'	_	Word	Word	_	0	ROOT	_	_
 11	élevait	_	Word	Word	_	10	Terminal	_	_
 12	dans	_	Word	Word	_	14	R	_	_
 13	son	_	Word	Word	_	14	E	_	_
@@ -21,10 +21,10 @@
 19	permettait	_	Word	Word	_	10	H	_	_
 20	pas	_	Word	Word	_	18	Terminal	_	_
 21	que	_	Word	Word	_	28	R	_	_
-22	l’	_	Word	Word	_	23	E	_	_
+22	l'	_	Word	Word	_	23	E	_	_
 23	existence	_	Word	Word	_	28	A	_	_
 24	de	_	Word	Word	_	26	R	_	_
-25	l’	_	Word	Word	_	26	E	_	_
+25	l'	_	Word	Word	_	26	E	_	_
 26	animal	_	Word	Word	_	23	A	_	_
 27	fût	_	Word	Word	_	28	F	_	_
 28	discutée	_	Word	Word	_	19	A	_	_

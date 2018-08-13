@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 787001
-1	–	_	Punctuation	Punctuation	_	3	U	_	_
+1	-	_	Punctuation	Punctuation	_	3	U	_	_
 2	Aussi	_	Word	Word	_	3	D	_	_
 3	bien	_	Word	Word	_	11	A	_	_
 4	,	_	Punctuation	Punctuation	_	3	U	_	_
-5	n’	_	Word	Word	_	3	G	_	_
+5	n'	_	Word	Word	_	3	G	_	_
 6	en	_	Word	Word	_	5	Terminal	_	_
 7	déplaise	_	Word	Word	_	5	Terminal	_	_
 8	à	_	Word	Word	_	5	Terminal	_	_
@@ -13,16 +13,16 @@
 11	répondit	_	Word	Word	_	0	ROOT	_	_
 12	Conseil	_	Word	Word	_	11	A	_	_
 13	,	_	Punctuation	Punctuation	_	11	U	_	_
-14	qu’	_	Word	Word	_	16	R	_	_
+14	qu'	_	Word	Word	_	16	R	_	_
 15	un	_	Word	Word	_	16	E	_	_
 16	bernard	_	Word	Word	_	3	A	_	_
 17	-	_	Punctuation	Punctuation	_	16	U	_	_
-18	l’	_	Word	Word	_	16	Terminal	_	_
+18	l'	_	Word	Word	_	16	Terminal	_	_
 19	ermite	_	Word	Word	_	16	Terminal	_	_
 20	dans	_	Word	Word	_	22	R	_	_
 21	la	_	Word	Word	_	22	E	_	_
 22	coquille	_	Word	Word	_	16	E	_	_
-23	d’	_	Word	Word	_	25	R	_	_
+23	d'	_	Word	Word	_	25	R	_	_
 24	un	_	Word	Word	_	25	E	_	_
 25	buccin	_	Word	Word	_	22	E	_	_
 26	.	_	Punctuation	Punctuation	_	25	U	_	_

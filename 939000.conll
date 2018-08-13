@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 939000
-1	—	_	Punctuation	Punctuation	_	5	U	_	_
+1	-	_	Punctuation	Punctuation	_	5	U	_	_
 2	Que	_	Word	Word	_	5	R	_	_
 3	monsieur	_	Word	Word	_	5	A	_	_
-4	me	_	Word	Word	_	9	A	_	_
 4	me	_	Word	Word	_	5	A	_	_
+4	me	_	Word	Word	_	9	A	_	_
 5	permette	_	Word	Word	_	11	A	_	_
 6	de	_	Word	Word	_	9	R	_	_
 7	le	_	Word	Word	_	9	A	_	_
@@ -15,7 +15,7 @@
 12	Conseil	_	Word	Word	_	11	A	_	_
 13	,	_	Punctuation	Punctuation	_	11	U	_	_
 14	je	_	Word	Word	_	18	A	_	_
-15	n’	_	Word	Word	_	18	T	_	_
+15	n'	_	Word	Word	_	18	T	_	_
 16	ai	_	Word	Word	_	18	F	_	_
 17	jamais	_	Word	Word	_	15	Terminal	_	_
 18	compté	_	Word	Word	_	5	H	_	_
@@ -27,7 +27,7 @@
 24	le	_	Word	Word	_	25	E	_	_
 25	gouvernement	_	Word	Word	_	30	A	_	_
 26	de	_	Word	Word	_	28	R	_	_
-27	l’	_	Word	Word	_	28	E	_	_
+27	l'	_	Word	Word	_	28	E	_	_
 28	Union	_	Word	Word	_	25	E	_	_
 29	pouvait	_	Word	Word	_	30	D	_	_
 30	promettre	_	Word	Word	_	5	H	_	_
@@ -36,7 +36,7 @@
 33	dollars	_	Word	Word	_	30	A	_	_
 34	,	_	Punctuation	Punctuation	_	5	U	_	_
 35	il	_	Word	Word	_	42	A	_	_
-36	n’	_	Word	Word	_	42	D	_	_
+36	n'	_	Word	Word	_	42	D	_	_
 37	en	_	Word	Word	_	42	A	_	_
 38	aurait	_	Word	Word	_	42	F	_	_
 39	pas	_	Word	Word	_	36	Terminal	_	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 932005
-1	C’	_	Word	Word	_	2	A	_	_
+1	C'	_	Word	Word	_	2	A	_	_
 2	était	_	Word	Word	_	0	ROOT	_	_
 3	un	_	Word	Word	_	5	E	_	_
 4	suprême	_	Word	Word	_	5	E	_	_
@@ -11,9 +11,9 @@
 9	géant	_	Word	Word	_	8	E	_	_
 10	,	_	Punctuation	Punctuation	_	2	U	_	_
 11	et	_	Word	Word	_	2	L	_	_
-12	celui	_	Word	Word	_	24	A	_	_
 12	celui	_	Word	Word	_	27	A	_	_
 12	celui	_	Word	Word	_	18	A	_	_
+12	celui	_	Word	Word	_	24	A	_	_
 13	-	_	Punctuation	Punctuation	_	18	U	_	_
 14	ci	_	Word	Word	_	12	Terminal	_	_
 15	ne	_	Word	Word	_	18	D	_	_

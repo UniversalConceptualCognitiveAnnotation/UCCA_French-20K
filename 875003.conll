@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 875003
-1	—	_	Punctuation	Punctuation	_	9	U	_	_
+1	-	_	Punctuation	Punctuation	_	9	U	_	_
 2	Eh	_	Word	Word	_	9	F	_	_
 3	bien	_	Word	Word	_	2	Terminal	_	_
 4	,	_	Punctuation	Punctuation	_	9	U	_	_

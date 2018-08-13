@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 866000
-1	—	_	Punctuation	Punctuation	_	7	U	_	_
-2	C’	_	Word	Word	_	7	A	_	_
+1	-	_	Punctuation	Punctuation	_	7	U	_	_
+2	C'	_	Word	Word	_	7	A	_	_
 3	est	_	Word	Word	_	7	F	_	_
 4	ce	_	Word	Word	_	3	Terminal	_	_
 5	qui	_	Word	Word	_	3	Terminal	_	_
@@ -25,19 +25,19 @@
 23	extraordinaires	_	Word	Word	_	22	E	_	_
 24	qui	_	Word	Word	_	25	R	_	_
 25	traversent	_	Word	Word	_	22	E	_	_
-26	l’	_	Word	Word	_	27	E	_	_
+26	l'	_	Word	Word	_	27	E	_	_
 27	espace	_	Word	Word	_	25	A	_	_
 28	,	_	Punctuation	Punctuation	_	22	U	_	_
 29	ou	_	Word	Word	_	22	N	_	_
 30	à	_	Word	Word	_	32	R	_	_
-31	l’	_	Word	Word	_	32	E	_	_
+31	l'	_	Word	Word	_	32	E	_	_
 32	existence	_	Word	Word	_	22	C	_	_
 33	de	_	Word	Word	_	34	R	_	_
 34	monstres	_	Word	Word	_	32	E	_	_
 35	antédiluviens	_	Word	Word	_	34	E	_	_
 36	qui	_	Word	Word	_	37	R	_	_
 37	peuplent	_	Word	Word	_	34	E	_	_
-38	l’	_	Word	Word	_	39	E	_	_
+38	l'	_	Word	Word	_	39	E	_	_
 39	intérieur	_	Word	Word	_	41	E	_	_
 40	du	_	Word	Word	_	41	E	_	_
 40	du	_	Word	Word	_	39	R	_	_
@@ -48,14 +48,14 @@
 45	,	_	Punctuation	Punctuation	_	7	U	_	_
 46	mais	_	Word	Word	_	7	L	_	_
 47	ni	_	Word	Word	_	49	N	_	_
-48	l’	_	Word	Word	_	49	E	_	_
+48	l'	_	Word	Word	_	49	E	_	_
 49	astronome	_	Word	Word	_	55	A	_	_
 50	,	_	Punctuation	Punctuation	_	49	U	_	_
 51	ni	_	Word	Word	_	49	N	_	_
 52	le	_	Word	Word	_	53	E	_	_
 53	géologue	_	Word	Word	_	49	C	_	_
-54	n’	_	Word	Word	_	55	D	_	_
-54	n’	_	Word	Word	_	64	D	_	_
+54	n'	_	Word	Word	_	55	D	_	_
+54	n'	_	Word	Word	_	64	D	_	_
 55	admettent	_	Word	Word	_	7	H	_	_
 56	de	_	Word	Word	_	58	E	_	_
 57	telles	_	Word	Word	_	58	E	_	_
@@ -67,14 +67,14 @@
 63	le	_	Word	Word	_	64	E	_	_
 64	baleinier	_	Word	Word	_	7	H	_	_
 65	.	_	Punctuation	Punctuation	_	7	U	_	_
-66	J’	_	Word	Word	_	68	A	_	_
+66	J'	_	Word	Word	_	68	A	_	_
 67	ai	_	Word	Word	_	68	F	_	_
 68	poursuivi	_	Word	Word	_	7	H	_	_
 69	beaucoup	_	Word	Word	_	71	E	_	_
 70	de	_	Word	Word	_	69	R	_	_
 71	cétacés	_	Word	Word	_	68	A	_	_
 72	,	_	Punctuation	Punctuation	_	7	U	_	_
-73	j’	_	Word	Word	_	76	A	_	_
+73	j'	_	Word	Word	_	76	A	_	_
 74	en	_	Word	Word	_	76	A	_	_
 75	ai	_	Word	Word	_	76	F	_	_
 76	harponné	_	Word	Word	_	7	H	_	_
@@ -82,7 +82,7 @@
 78	grand	_	Word	Word	_	79	E	_	_
 79	nombre	_	Word	Word	_	74	E	_	_
 80	,	_	Punctuation	Punctuation	_	7	U	_	_
-81	j’	_	Word	Word	_	84	A	_	_
+81	j'	_	Word	Word	_	84	A	_	_
 82	en	_	Word	Word	_	84	A	_	_
 83	ai	_	Word	Word	_	84	F	_	_
 84	tué	_	Word	Word	_	7	H	_	_
@@ -95,7 +95,7 @@
 91	si	_	Word	Word	_	93	E	_	_
 92	bien	_	Word	Word	_	93	E	_	_
 93	armés	_	Word	Word	_	89	C	_	_
-94	qu’	_	Word	Word	_	89	F	_	_
+94	qu'	_	Word	Word	_	89	F	_	_
 95	ils	_	Word	Word	_	89	A	_	_
 96	fussent	_	Word	Word	_	89	F	_	_
 97	,	_	Punctuation	Punctuation	_	7	U	_	_
@@ -106,7 +106,7 @@
 102	ni	_	Word	Word	_	100	N	_	_
 103	leurs	_	Word	Word	_	104	E	_	_
 104	défenses	_	Word	Word	_	100	C	_	_
-105	n’	_	Word	Word	_	108	D	_	_
+105	n'	_	Word	Word	_	108	D	_	_
 106	auraient	_	Word	Word	_	108	F	_	_
 107	pu	_	Word	Word	_	108	D	_	_
 108	entamer	_	Word	Word	_	7	H	_	_
@@ -114,7 +114,7 @@
 110	plaques	_	Word	Word	_	108	A	_	_
 111	de	_	Word	Word	_	112	R	_	_
 112	tôle	_	Word	Word	_	110	E	_	_
-113	d’	_	Word	Word	_	115	R	_	_
+113	d'	_	Word	Word	_	115	R	_	_
 114	un	_	Word	Word	_	115	E	_	_
 115	steamer	_	Word	Word	_	110	E	_	_
 116	.	_	Punctuation	Punctuation	_	115	U	_	_

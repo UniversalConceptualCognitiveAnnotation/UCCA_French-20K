@@ -4,7 +4,7 @@
 2	garçon	_	Word	Word	_	0	ROOT	_	_
 3	dévoué	_	Word	Word	_	2	E	_	_
 4	qui	_	Word	Word	_	6	R	_	_
-5	m’	_	Word	Word	_	6	A	_	_
+5	m'	_	Word	Word	_	6	A	_	_
 6	accompagnait	_	Word	Word	_	2	E	_	_
 7	dans	_	Word	Word	_	10	R	_	_
 8	tous	_	Word	Word	_	10	E	_	_
@@ -15,7 +15,7 @@
 13	brave	_	Word	Word	_	14	E	_	_
 14	Flamand	_	Word	Word	_	2	H	_	_
 15	que	_	Word	Word	_	17	R	_	_
-16	j’	_	Word	Word	_	17	A	_	_
+16	j'	_	Word	Word	_	17	A	_	_
 17	aimais	_	Word	Word	_	14	E	_	_
 18	et	_	Word	Word	_	17	L	_	_
 19	qui	_	Word	Word	_	22	R	_	_
@@ -38,7 +38,7 @@
 36	par	_	Word	Word	_	37	R	_	_
 37	habitude	_	Word	Word	_	35	E	_	_
 38	,	_	Punctuation	Punctuation	_	27	U	_	_
-39	s’	_	Word	Word	_	27	C	_	_
+39	s'	_	Word	Word	_	27	C	_	_
 40	étonnant	_	Word	Word	_	39	Terminal	_	_
 41	peu	_	Word	Word	_	39	D	_	_
 42	des	_	Word	Word	_	43	R	_	_

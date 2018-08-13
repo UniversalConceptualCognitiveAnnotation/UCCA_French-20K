@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 870000
-1	—	_	Punctuation	Punctuation	_	2	U	_	_
+1	-	_	Punctuation	Punctuation	_	2	U	_	_
 2	Remarquez	_	Word	Word	_	8	A	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	mon	_	Word	Word	_	2	G	_	_
@@ -18,16 +18,16 @@
 16	animal	_	Word	Word	_	17	A	_	_
 17	existe	_	Word	Word	_	2	A	_	_
 18	,	_	Punctuation	Punctuation	_	2	U	_	_
-19	s’	_	Word	Word	_	2	L	_	_
+19	s'	_	Word	Word	_	2	L	_	_
 20	il	_	Word	Word	_	21	A	_	_
 21	habite	_	Word	Word	_	2	H	_	_
 22	les	_	Word	Word	_	23	E	_	_
 23	profondeurs	_	Word	Word	_	21	A	_	_
 24	de	_	Word	Word	_	26	R	_	_
-25	l’	_	Word	Word	_	26	E	_	_
+25	l'	_	Word	Word	_	26	E	_	_
 26	Océan	_	Word	Word	_	23	E	_	_
 27	,	_	Punctuation	Punctuation	_	2	U	_	_
-28	s’	_	Word	Word	_	2	L	_	_
+28	s'	_	Word	Word	_	2	L	_	_
 29	il	_	Word	Word	_	30	A	_	_
 30	fréquente	_	Word	Word	_	2	H	_	_
 31	les	_	Word	Word	_	32	E	_	_
