@@ -1,5 +1,5 @@
 #BOS 794001
-L’	Word	--	Terminal	500
+L'	Word	--	Terminal	500
 Abraham	Word	--	Terminal	501
 -	Punctuation	--	Terminal	502
 Lincoln	Word	--	Terminal	501
@@ -23,7 +23,7 @@ resplendissaient	Word	--	Terminal	519
 à	Word	--	Terminal	520
 sa	Word	--	Terminal	521
 corne	Word	--	Terminal	522
-d’	Word	--	Terminal	523
+d'	Word	--	Terminal	523
 artimon	Word	--	Terminal	524
 ;	Punctuation	--	Terminal	525
 puis	Word	--	Terminal	526
@@ -37,7 +37,7 @@ le	Word	--	Terminal	533
 chenal	Word	--	Terminal	534
 balisé	Word	--	Terminal	535
 qui	Word	--	Terminal	536
-s’	Word	--	Terminal	537
+s'	Word	--	Terminal	537
 arrondit	Word	--	Terminal	537
 dans	Word	--	Terminal	538
 la	Word	--	Terminal	539
@@ -60,7 +60,7 @@ quelques	Word	--	Terminal	555
 milliers	Word	--	Terminal	556
 de	Word	--	Terminal	557
 spectateurs	Word	--	Terminal	558
-l’	Word	--	Terminal	559
+l'	Word	--	Terminal	559
 acclamèrent	Word	--	Terminal	560
 encore	Word	--	Terminal	561
 une	Word	--	Terminal	562

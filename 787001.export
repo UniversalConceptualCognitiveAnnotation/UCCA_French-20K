@@ -1,9 +1,9 @@
 #BOS 787001
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Aussi	Word	--	Terminal	501
 bien	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
-n’	Word	--	Terminal	504
+n'	Word	--	Terminal	504
 en	Word	--	Terminal	504
 déplaise	Word	--	Terminal	504
 à	Word	--	Terminal	504
@@ -12,16 +12,16 @@ monsieur	Word	--	Terminal	504
 répondit	Word	--	Terminal	506
 Conseil	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
-qu’	Word	--	Terminal	509
+qu'	Word	--	Terminal	509
 un	Word	--	Terminal	510
 bernard	Word	--	Terminal	511
 -	Punctuation	--	Terminal	512
-l’	Word	--	Terminal	511
+l'	Word	--	Terminal	511
 ermite	Word	--	Terminal	511
 dans	Word	--	Terminal	513
 la	Word	--	Terminal	514
 coquille	Word	--	Terminal	515
-d’	Word	--	Terminal	516
+d'	Word	--	Terminal	516
 un	Word	--	Terminal	517
 buccin	Word	--	Terminal	518
 .	Punctuation	--	Terminal	519

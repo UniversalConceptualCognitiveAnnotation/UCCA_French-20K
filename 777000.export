@@ -1,5 +1,5 @@
 #BOS 777000
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Tu	Word	--	Terminal	501
 sais	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -7,7 +7,7 @@ mon	Word	--	Terminal	504
 ami	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
 il	Word	--	Terminal	507
-s’	Word	--	Terminal	508
+s'	Word	--	Terminal	508
 agit	Word	--	Terminal	508
 du	Word	--	Terminal	509
 monstre	Word	--	Terminal	510
@@ -24,9 +24,9 @@ les	Word	--	Terminal	520
 mers	Word	--	Terminal	521
 !	Punctuation	--	Terminal	522
 ...	Punctuation	--	Terminal	523
-L’	Word	--	Terminal	524
+L'	Word	--	Terminal	524
 auteur	Word	--	Terminal	525
-d’	Word	--	Terminal	526
+d'	Word	--	Terminal	526
 un	Word	--	Terminal	527
 ouvrage	Word	--	Terminal	528
 in	Word	--	Terminal	529
@@ -49,7 +49,7 @@ peut	Word	--	Terminal	544
 se	Word	--	Terminal	545
 dispenser	Word	--	Terminal	545
 de	Word	--	Terminal	546
-s’	Word	--	Terminal	547
+s'	Word	--	Terminal	547
 embarquer	Word	--	Terminal	547
 avec	Word	--	Terminal	548
 le	Word	--	Terminal	549
@@ -69,7 +69,7 @@ ne	Word	--	Terminal	562
 sait	Word	--	Terminal	563
 pas	Word	--	Terminal	562
 où	Word	--	Terminal	564
-l’	Word	--	Terminal	565
+l'	Word	--	Terminal	565
 on	Word	--	Terminal	566
 va	Word	--	Terminal	567
 !	Punctuation	--	Terminal	568
@@ -94,7 +94,7 @@ avons	Word	--	Terminal	585
 un	Word	--	Terminal	586
 commandant	Word	--	Terminal	587
 qui	Word	--	Terminal	588
-n’	Word	--	Terminal	589
+n'	Word	--	Terminal	589
 a	Word	--	Terminal	590
 pas	Word	--	Terminal	589
 froid	Word	--	Terminal	590

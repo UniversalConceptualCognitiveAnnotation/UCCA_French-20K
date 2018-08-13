@@ -1,5 +1,5 @@
 #BOS 875000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Il	Word	--	Terminal	501
 faut	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -7,7 +7,7 @@ répondit	Word	--	Terminal	504
 Ned	Word	--	Terminal	505
 Land	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
-qu’	Word	--	Terminal	507
+qu'	Word	--	Terminal	507
 ils	Word	--	Terminal	508
 soient	Word	--	Terminal	509
 fabriqués	Word	--	Terminal	510

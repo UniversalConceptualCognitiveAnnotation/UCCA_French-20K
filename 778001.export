@@ -1,5 +1,5 @@
 #BOS 778001
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Et	Word	--	Terminal	501
 songes	Word	--	Terminal	502
 -	Punctuation	--	Terminal	503
@@ -14,7 +14,7 @@ rien	Word	--	Terminal	511
 te	Word	--	Terminal	512
 cacher	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-C’	Word	--	Terminal	515
+C'	Word	--	Terminal	515
 est	Word	--	Terminal	516
 là	Word	--	Terminal	517
 un	Word	--	Terminal	518

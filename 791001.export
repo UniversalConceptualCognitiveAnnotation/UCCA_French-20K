@@ -1,14 +1,14 @@
 #BOS 791001
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Oui	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 monsieur	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
 répondit	Word	--	Terminal	505
-l’	Word	--	Terminal	506
+l'	Word	--	Terminal	506
 ingénieur	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-–	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	509
 Go	Word	--	Terminal	510
 head	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511

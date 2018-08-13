@@ -1,9 +1,9 @@
 #BOS 780003
 Je	Word	--	Terminal	500
 donnai	Word	--	Terminal	501
-l’	Word	--	Terminal	501
+l'	Word	--	Terminal	501
 ordre	Word	--	Terminal	501
-d’	Word	--	Terminal	502
+d'	Word	--	Terminal	502
 expédier	Word	--	Terminal	503
 pour	Word	--	Terminal	504
 Paris	Word	--	Terminal	505
@@ -12,7 +12,7 @@ France	Word	--	Terminal	507
 )	Punctuation	--	Terminal	508
 mes	Word	--	Terminal	509
 ballots	Word	--	Terminal	510
-d’	Word	--	Terminal	511
+d'	Word	--	Terminal	511
 animaux	Word	--	Terminal	512
 empaillés	Word	--	Terminal	513
 et	Word	--	Terminal	514

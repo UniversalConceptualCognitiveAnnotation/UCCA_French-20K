@@ -1,12 +1,12 @@
 #BOS 940000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Tu	Word	--	Terminal	501
 as	Word	--	Terminal	502
 raison	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
 Conseil	Word	--	Terminal	505
 .	Punctuation	--	Terminal	506
-C’	Word	--	Terminal	507
+C'	Word	--	Terminal	507
 est	Word	--	Terminal	508
 une	Word	--	Terminal	509
 sotte	Word	--	Terminal	510
@@ -31,7 +31,7 @@ temps	Word	--	Terminal	527
 perdu	Word	--	Terminal	528
 ,	Punctuation	--	Terminal	529
 que	Word	--	Terminal	530
-d’	Word	--	Terminal	531
+d'	Word	--	Terminal	531
 émotions	Word	--	Terminal	532
 inutiles	Word	--	Terminal	533
 !	Punctuation	--	Terminal	534
@@ -46,7 +46,7 @@ rentrés	Word	--	Terminal	542
 en	Word	--	Terminal	543
 France	Word	--	Terminal	544
 ...	Punctuation	--	Terminal	545
-—	Punctuation	--	Terminal	546
+-	Punctuation	--	Terminal	546
 Dans	Word	--	Terminal	547
 le	Word	--	Terminal	548
 petit	Word	--	Terminal	549
@@ -64,7 +64,7 @@ de	Word	--	Terminal	560
 monsieur	Word	--	Terminal	561
 !	Punctuation	--	Terminal	562
 Et	Word	--	Terminal	563
-j’	Word	--	Terminal	564
+j'	Word	--	Terminal	564
 aurais	Word	--	Terminal	565
 déjà	Word	--	Terminal	566
 classé	Word	--	Terminal	567

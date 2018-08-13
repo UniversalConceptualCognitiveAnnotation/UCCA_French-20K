@@ -1,5 +1,5 @@
 #BOS 874000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Eh	Word	--	Terminal	501
 bien	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
@@ -42,19 +42,19 @@ de	Word	--	Terminal	535
 centimètres	Word	--	Terminal	536
 carrés	Word	--	Terminal	537
 ,	Punctuation	--	Terminal	538
-c’	Word	--	Terminal	539
+c'	Word	--	Terminal	539
 est	Word	--	Terminal	539
 par	Word	--	Terminal	540
 milliards	Word	--	Terminal	541
 de	Word	--	Terminal	542
 kilogrammes	Word	--	Terminal	543
-qu’	Word	--	Terminal	544
+qu'	Word	--	Terminal	544
 il	Word	--	Terminal	545
 faut	Word	--	Terminal	546
 estimer	Word	--	Terminal	547
 la	Word	--	Terminal	548
 poussée	Word	--	Terminal	549
-qu’	Word	--	Terminal	550
+qu'	Word	--	Terminal	550
 ils	Word	--	Terminal	551
 subissent	Word	--	Terminal	552
 .	Punctuation	--	Terminal	553

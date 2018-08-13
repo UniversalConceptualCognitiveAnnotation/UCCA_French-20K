@@ -15,7 +15,7 @@ la	Word	--	Terminal	512
 pratique	Word	--	Terminal	513
 ,	Punctuation	--	Terminal	514
 il	Word	--	Terminal	515
-n’	Word	--	Terminal	516
+n'	Word	--	Terminal	516
 eût	Word	--	Terminal	517
 pas	Word	--	Terminal	516
 distingué	Word	--	Terminal	518
@@ -25,7 +25,7 @@ crois	Word	--	Terminal	520
 ,	Punctuation	--	Terminal	521
 un	Word	--	Terminal	522
 cachalot	Word	--	Terminal	523
-d’	Word	--	Terminal	524
+d'	Word	--	Terminal	524
 une	Word	--	Terminal	525
 baleine	Word	--	Terminal	526
 !	Punctuation	--	Terminal	527

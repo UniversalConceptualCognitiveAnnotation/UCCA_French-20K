@@ -1,5 +1,5 @@
 #BOS 868000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Alors	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 monsieur	Word	--	Terminal	503
@@ -9,7 +9,7 @@ naturaliste	Word	--	Terminal	505
 reprit	Word	--	Terminal	507
 Ned	Word	--	Terminal	508
 Land	Word	--	Terminal	508
-d’	Word	--	Terminal	509
+d'	Word	--	Terminal	509
 un	Word	--	Terminal	510
 ton	Word	--	Terminal	511
 assez	Word	--	Terminal	512
@@ -19,15 +19,15 @@ vous	Word	--	Terminal	515
 persistez	Word	--	Terminal	516
 à	Word	--	Terminal	517
 admettre	Word	--	Terminal	518
-l’	Word	--	Terminal	519
+l'	Word	--	Terminal	519
 existence	Word	--	Terminal	520
-d’	Word	--	Terminal	521
+d'	Word	--	Terminal	521
 un	Word	--	Terminal	522
 énorme	Word	--	Terminal	523
 cétacé	Word	--	Terminal	524
 ...	Punctuation	--	Terminal	525
 ?	Punctuation	--	Terminal	526
-—	Punctuation	--	Terminal	527
+-	Punctuation	--	Terminal	527
 Oui	Word	--	Terminal	528
 ,	Punctuation	--	Terminal	529
 Ned	Word	--	Terminal	530
@@ -40,7 +40,7 @@ avec	Word	--	Terminal	536
 une	Word	--	Terminal	537
 conviction	Word	--	Terminal	538
 qui	Word	--	Terminal	539
-s’	Word	--	Terminal	540
+s'	Word	--	Terminal	540
 appuie	Word	--	Terminal	540
 sur	Word	--	Terminal	541
 la	Word	--	Terminal	542
@@ -51,9 +51,9 @@ faits	Word	--	Terminal	545
 Je	Word	--	Terminal	547
 crois	Word	--	Terminal	548
 à	Word	--	Terminal	549
-l’	Word	--	Terminal	550
+l'	Word	--	Terminal	550
 existence	Word	--	Terminal	551
-d’	Word	--	Terminal	552
+d'	Word	--	Terminal	552
 un	Word	--	Terminal	553
 mammifère	Word	--	Terminal	554
 ,	Punctuation	--	Terminal	555
@@ -62,7 +62,7 @@ organisé	Word	--	Terminal	557
 ,	Punctuation	--	Terminal	558
 appartenant	Word	--	Terminal	559
 à	Word	--	Terminal	560
-l’	Word	--	Terminal	561
+l'	Word	--	Terminal	561
 embranchement	Word	--	Terminal	562
 des	Word	--	Terminal	563
 vertébrés	Word	--	Terminal	564
@@ -79,7 +79,7 @@ dauphins	Word	--	Terminal	574
 ,	Punctuation	--	Terminal	575
 et	Word	--	Terminal	576
 muni	Word	--	Terminal	577
-d’	Word	--	Terminal	578
+d'	Word	--	Terminal	578
 une	Word	--	Terminal	579
 défense	Word	--	Terminal	580
 cornée	Word	--	Terminal	581

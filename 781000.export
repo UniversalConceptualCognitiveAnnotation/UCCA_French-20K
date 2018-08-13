@@ -8,7 +8,7 @@ la	Word	--	Terminal	505
 course	Word	--	Terminal	506
 descendit	Word	--	Terminal	507
 Broadway	Word	--	Terminal	508
-jusqu’	Word	--	Terminal	509
+jusqu'	Word	--	Terminal	509
 à	Word	--	Terminal	509
 Union	Word	--	Terminal	510
 -	Punctuation	--	Terminal	511
@@ -18,7 +18,7 @@ suivit	Word	--	Terminal	514
 Fourth	Word	--	Terminal	515
 -	Punctuation	--	Terminal	516
 Avenue	Word	--	Terminal	517
-jusqu’	Word	--	Terminal	518
+jusqu'	Word	--	Terminal	518
 à	Word	--	Terminal	518
 sa	Word	--	Terminal	519
 jonction	Word	--	Terminal	520
@@ -32,7 +32,7 @@ Katrin	Word	--	Terminal	527
 -	Punctuation	--	Terminal	528
 street	Word	--	Terminal	529
 et	Word	--	Terminal	530
-s’	Word	--	Terminal	531
+s'	Word	--	Terminal	531
 arrêta	Word	--	Terminal	531
 à	Word	--	Terminal	532
 la	Word	--	Terminal	533

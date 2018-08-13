@@ -1,5 +1,5 @@
 #BOS 870000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Remarquez	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 mon	Word	--	Terminal	503
@@ -17,16 +17,16 @@ tel	Word	--	Terminal	512
 animal	Word	--	Terminal	513
 existe	Word	--	Terminal	514
 ,	Punctuation	--	Terminal	515
-s’	Word	--	Terminal	516
+s'	Word	--	Terminal	516
 il	Word	--	Terminal	517
 habite	Word	--	Terminal	518
 les	Word	--	Terminal	519
 profondeurs	Word	--	Terminal	520
 de	Word	--	Terminal	521
-l’	Word	--	Terminal	522
+l'	Word	--	Terminal	522
 Océan	Word	--	Terminal	523
 ,	Punctuation	--	Terminal	524
-s’	Word	--	Terminal	525
+s'	Word	--	Terminal	525
 il	Word	--	Terminal	526
 fréquente	Word	--	Terminal	527
 les	Word	--	Terminal	528

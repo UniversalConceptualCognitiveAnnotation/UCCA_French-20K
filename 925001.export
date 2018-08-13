@@ -11,11 +11,11 @@ direction	Word	--	Terminal	508
 plus	Word	--	Terminal	509
 décidée	Word	--	Terminal	510
 vers	Word	--	Terminal	511
-l’	Word	--	Terminal	512
+l'	Word	--	Terminal	512
 ouest	Word	--	Terminal	513
 ,	Punctuation	--	Terminal	514
 et	Word	--	Terminal	515
-s’	Word	--	Terminal	516
+s'	Word	--	Terminal	516
 engagea	Word	--	Terminal	516
 dans	Word	--	Terminal	517
 les	Word	--	Terminal	518

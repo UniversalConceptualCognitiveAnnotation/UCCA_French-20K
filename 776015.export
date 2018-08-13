@@ -1,5 +1,5 @@
 #BOS 776015
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Oh	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
 ce	Word	--	Terminal	503
@@ -22,12 +22,12 @@ Nous	Word	--	Terminal	517
 prenons	Word	--	Terminal	518
 passage	Word	--	Terminal	518
 sur	Word	--	Terminal	519
-l’	Word	--	Terminal	520
+l'	Word	--	Terminal	520
 Abraham	Word	--	Terminal	521
 -	Punctuation	--	Terminal	522
 Lincoln	Word	--	Terminal	521
 ...	Punctuation	--	Terminal	523
-–	Punctuation	--	Terminal	524
+-	Punctuation	--	Terminal	524
 Comme	Word	--	Terminal	525
 il	Word	--	Terminal	526
 conviendra	Word	--	Terminal	527

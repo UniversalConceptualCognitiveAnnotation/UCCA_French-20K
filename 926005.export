@@ -6,12 +6,12 @@ jour	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
 une	Word	--	Terminal	505
 erreur	Word	--	Terminal	506
-d’	Word	--	Terminal	507
+d'	Word	--	Terminal	507
 appréciation	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
 une	Word	--	Terminal	510
 illusion	Word	--	Terminal	511
-d’	Word	--	Terminal	512
+d'	Word	--	Terminal	512
 optique	Word	--	Terminal	513
 de	Word	--	Terminal	514
 quelque	Word	--	Terminal	515
@@ -22,7 +22,7 @@ les	Word	--	Terminal	519
 barres	Word	--	Terminal	520
 ,	Punctuation	--	Terminal	521
 causaient	Word	--	Terminal	522
-d’	Word	--	Terminal	523
+d'	Word	--	Terminal	523
 intolérables	Word	--	Terminal	524
 douleurs	Word	--	Terminal	525
 ,	Punctuation	--	Terminal	526
@@ -39,7 +39,7 @@ maintenaient	Word	--	Terminal	536
 dans	Word	--	Terminal	537
 un	Word	--	Terminal	538
 état	Word	--	Terminal	539
-d’	Word	--	Terminal	540
+d'	Word	--	Terminal	540
 éréthisme	Word	--	Terminal	541
 trop	Word	--	Terminal	542
 violent	Word	--	Terminal	543

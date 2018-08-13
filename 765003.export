@@ -1,5 +1,5 @@
 #BOS 765003
-J’	Word	--	Terminal	500
+J'	Word	--	Terminal	500
 oubliai	Word	--	Terminal	501
 tout	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -10,13 +10,13 @@ amis	Word	--	Terminal	506
 collections	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
 et	Word	--	Terminal	510
-j’	Word	--	Terminal	511
+j'	Word	--	Terminal	511
 acceptai	Word	--	Terminal	512
 sans	Word	--	Terminal	513
 plus	Word	--	Terminal	514
 de	Word	--	Terminal	515
 réflexions	Word	--	Terminal	516
-l’	Word	--	Terminal	517
+l'	Word	--	Terminal	517
 offre	Word	--	Terminal	518
 du	Word	--	Terminal	519
 gouvernement	Word	--	Terminal	520

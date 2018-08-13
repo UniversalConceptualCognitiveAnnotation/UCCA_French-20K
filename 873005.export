@@ -1,5 +1,5 @@
 #BOS 873005
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Sans	Word	--	Terminal	501
 que	Word	--	Terminal	502
 vous	Word	--	Terminal	503
@@ -10,7 +10,7 @@ aperceviez	Word	--	Terminal	504
 Et	Word	--	Terminal	507
 si	Word	--	Terminal	508
 vous	Word	--	Terminal	509
-n’	Word	--	Terminal	510
+n'	Word	--	Terminal	510
 êtes	Word	--	Terminal	511
 pas	Word	--	Terminal	510
 écrasé	Word	--	Terminal	512
@@ -19,13 +19,13 @@ une	Word	--	Terminal	514
 telle	Word	--	Terminal	515
 pression	Word	--	Terminal	516
 ,	Punctuation	--	Terminal	517
-c’	Word	--	Terminal	518
+c'	Word	--	Terminal	518
 est	Word	--	Terminal	518
 que	Word	--	Terminal	518
-l’air	Word	--	Terminal	519
+l'air	Word	--	Terminal	519
 pénètre	Word	--	Terminal	520
 à	Word	--	Terminal	521
-l’	Word	--	Terminal	522
+l'	Word	--	Terminal	522
 intérieur	Word	--	Terminal	523
 de	Word	--	Terminal	524
 votre	Word	--	Terminal	525
@@ -65,10 +65,10 @@ peine	Word	--	Terminal	557
 .	Punctuation	--	Terminal	558
 Mais	Word	--	Terminal	559
 dans	Word	--	Terminal	560
-l’	Word	--	Terminal	561
+l'	Word	--	Terminal	561
 eau	Word	--	Terminal	562
 ,	Punctuation	--	Terminal	563
-c’	Word	--	Terminal	564
+c'	Word	--	Terminal	564
 est	Word	--	Terminal	565
 autre	Word	--	Terminal	566
 chose	Word	--	Terminal	567

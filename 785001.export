@@ -1,5 +1,5 @@
 #BOS 785001
-C’	Word	--	Terminal	500
+C'	Word	--	Terminal	500
 était	Word	--	Terminal	501
 une	Word	--	Terminal	502
 frégate	Word	--	Terminal	503
@@ -8,7 +8,7 @@ grande	Word	--	Terminal	505
 marche	Word	--	Terminal	506
 ,	Punctuation	--	Terminal	507
 munie	Word	--	Terminal	508
-d’	Word	--	Terminal	509
+d'	Word	--	Terminal	509
 appareils	Word	--	Terminal	510
 surchauffeurs	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512

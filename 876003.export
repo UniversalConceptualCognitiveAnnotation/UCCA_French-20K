@@ -4,7 +4,7 @@ trou	Word	--	Terminal	501
 existait	Word	--	Terminal	502
 si	Word	--	Terminal	503
 bien	Word	--	Terminal	503
-qu’	Word	--	Terminal	503
+qu'	Word	--	Terminal	503
 il	Word	--	Terminal	504
 avait	Word	--	Terminal	505
 fallu	Word	--	Terminal	506
@@ -17,7 +17,7 @@ ne	Word	--	Terminal	512
 pense	Word	--	Terminal	513
 pas	Word	--	Terminal	512
 que	Word	--	Terminal	514
-l’	Word	--	Terminal	515
+l'	Word	--	Terminal	515
 existence	Word	--	Terminal	516
 du	Word	--	Terminal	517
 trou	Word	--	Terminal	518

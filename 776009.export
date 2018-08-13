@@ -1,10 +1,10 @@
 #BOS 776009
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 On	Word	--	Terminal	501
 les	Word	--	Terminal	502
 gardera	Word	--	Terminal	503
 à	Word	--	Terminal	504
-l’	Word	--	Terminal	505
+l'	Word	--	Terminal	505
 hôtel	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
 #500	PNCT	--	U	509

@@ -1,5 +1,5 @@
 #BOS 939000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Que	Word	--	Terminal	501
 monsieur	Word	--	Terminal	502
 me	Word	--	Terminal	503
@@ -13,7 +13,7 @@ répondit	Word	--	Terminal	510
 Conseil	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512
 je	Word	--	Terminal	513
-n’	Word	--	Terminal	514
+n'	Word	--	Terminal	514
 ai	Word	--	Terminal	515
 jamais	Word	--	Terminal	514
 compté	Word	--	Terminal	516
@@ -25,7 +25,7 @@ et	Word	--	Terminal	521
 le	Word	--	Terminal	522
 gouvernement	Word	--	Terminal	523
 de	Word	--	Terminal	524
-l’	Word	--	Terminal	525
+l'	Word	--	Terminal	525
 Union	Word	--	Terminal	526
 pouvait	Word	--	Terminal	527
 promettre	Word	--	Terminal	528
@@ -34,7 +34,7 @@ mille	Word	--	Terminal	530
 dollars	Word	--	Terminal	531
 ,	Punctuation	--	Terminal	532
 il	Word	--	Terminal	533
-n’	Word	--	Terminal	534
+n'	Word	--	Terminal	534
 en	Word	--	Terminal	535
 aurait	Word	--	Terminal	536
 pas	Word	--	Terminal	534

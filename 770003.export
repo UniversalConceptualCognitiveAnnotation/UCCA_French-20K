@@ -1,14 +1,14 @@
 #BOS 770003
 Classer	Word	--	Terminal	500
 ,	Punctuation	--	Terminal	501
-c’	Word	--	Terminal	502
+c'	Word	--	Terminal	502
 était	Word	--	Terminal	503
 sa	Word	--	Terminal	504
 vie	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
 et	Word	--	Terminal	507
 il	Word	--	Terminal	508
-n’	Word	--	Terminal	509
+n'	Word	--	Terminal	509
 en	Word	--	Terminal	510
 savait	Word	--	Terminal	511
 pas	Word	--	Terminal	509

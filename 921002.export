@@ -1,5 +1,5 @@
 #BOS 921002
-C’	Word	--	Terminal	500
+C'	Word	--	Terminal	500
 était	Word	--	Terminal	501
 alors	Word	--	Terminal	502
 la	Word	--	Terminal	503
@@ -17,7 +17,7 @@ correspond	Word	--	Terminal	514
 à	Word	--	Terminal	515
 notre	Word	--	Terminal	516
 janvier	Word	--	Terminal	517
-d’	Word	--	Terminal	518
+d'	Word	--	Terminal	518
 Europe	Word	--	Terminal	519
 ;	Punctuation	--	Terminal	520
 mais	Word	--	Terminal	521

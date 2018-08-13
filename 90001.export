@@ -19,7 +19,7 @@ la	Word	--	Terminal	515
 vitesse	Word	--	Terminal	516
 de	Word	--	Terminal	517
 treize	Word	--	Terminal	518
-nuds	Word	--	Terminal	519
+nuds	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
 #500	FN	--	R	527
 #501	FN	--	E	521

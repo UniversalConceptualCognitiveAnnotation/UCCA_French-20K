@@ -4,7 +4,7 @@ ne	Word	--	Terminal	501
 veux	Word	--	Terminal	502
 pas	Word	--	Terminal	501
 dire	Word	--	Terminal	503
-qu’	Word	--	Terminal	504
+qu'	Word	--	Terminal	504
 il	Word	--	Terminal	505
 y	Word	--	Terminal	505
 eut	Word	--	Terminal	505
@@ -17,7 +17,7 @@ après	Word	--	Terminal	511
 une	Word	--	Terminal	512
 raisonnable	Word	--	Terminal	513
 période	Word	--	Terminal	514
-d’	Word	--	Terminal	515
+d'	Word	--	Terminal	515
 obstination	Word	--	Terminal	516
 ,	Punctuation	--	Terminal	517
 le	Word	--	Terminal	518

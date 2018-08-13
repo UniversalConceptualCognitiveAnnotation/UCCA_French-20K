@@ -1,7 +1,7 @@
 #BOS 930002
 Jamais	Word	--	Terminal	500
 équipage	Word	--	Terminal	501
-d’	Word	--	Terminal	502
+d'	Word	--	Terminal	502
 un	Word	--	Terminal	503
 bâtiment	Word	--	Terminal	504
 de	Word	--	Terminal	505
@@ -30,7 +30,7 @@ il	Word	--	Terminal	526
 ne	Word	--	Terminal	527
 restait	Word	--	Terminal	528
 plus	Word	--	Terminal	527
-qu’	Word	--	Terminal	529
+qu'	Word	--	Terminal	529
 à	Word	--	Terminal	530
 revenir	Word	--	Terminal	531
 .	Punctuation	--	Terminal	532

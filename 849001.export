@@ -13,7 +13,7 @@ calculer	Word	--	Terminal	510
 les	Word	--	Terminal	511
 diverses	Word	--	Terminal	512
 chances	Word	--	Terminal	513
-d’	Word	--	Terminal	514
+d'	Word	--	Terminal	514
 une	Word	--	Terminal	515
 rencontre	Word	--	Terminal	516
 ,	Punctuation	--	Terminal	517
@@ -23,7 +23,7 @@ la	Word	--	Terminal	520
 vaste	Word	--	Terminal	521
 étendue	Word	--	Terminal	522
 de	Word	--	Terminal	523
-l’	Word	--	Terminal	524
+l'	Word	--	Terminal	524
 Océan	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
 #500	FN	--	F	538

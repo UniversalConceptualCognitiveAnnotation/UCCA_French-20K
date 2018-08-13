@@ -1,5 +1,5 @@
 #BOS 783001
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Lui	Word	--	Terminal	501
 -	Punctuation	--	Terminal	502
 même	Word	--	Terminal	501
@@ -12,7 +12,7 @@ Le	Word	--	Terminal	508
 commandant	Word	--	Terminal	509
 Farragut	Word	--	Terminal	510
 ?	Punctuation	--	Terminal	511
-–	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	512
 En	Word	--	Terminal	513
 personne	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515

@@ -27,13 +27,13 @@ temps	Word	--	Terminal	522
 de	Word	--	Terminal	523
 bordée	Word	--	Terminal	524
 ,	Punctuation	--	Terminal	525
-—	Punctuation	--	Terminal	526
+-	Punctuation	--	Terminal	526
 du	Word	--	Terminal	527
 moins	Word	--	Terminal	527
 quand	Word	--	Terminal	527
 aucune	Word	--	Terminal	528
 baleine	Word	--	Terminal	529
-n’	Word	--	Terminal	530
+n'	Word	--	Terminal	530
 était	Word	--	Terminal	531
 en	Word	--	Terminal	532
 vue	Word	--	Terminal	533

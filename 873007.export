@@ -1,5 +1,5 @@
 #BOS 873007
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Précisément	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 Ned	Word	--	Terminal	503
@@ -92,20 +92,20 @@ soixante-huit	Word	--	Terminal	565
 mille	Word	--	Terminal	565
 kilogrammes	Word	--	Terminal	566
 ;	Punctuation	--	Terminal	567
-c’est-à-dire	Word	--	Terminal	568
+c'est-à-dire	Word	--	Terminal	568
 que	Word	--	Terminal	568
 vous	Word	--	Terminal	569
 seriez	Word	--	Terminal	570
 aplati	Word	--	Terminal	571
 comme	Word	--	Terminal	572
 si	Word	--	Terminal	573
-l’	Word	--	Terminal	574
+l'	Word	--	Terminal	574
 on	Word	--	Terminal	575
 vous	Word	--	Terminal	576
 retirait	Word	--	Terminal	577
 des	Word	--	Terminal	578
 plateaux	Word	--	Terminal	579
-d’	Word	--	Terminal	580
+d'	Word	--	Terminal	580
 une	Word	--	Terminal	581
 machine	Word	--	Terminal	582
 hydraulique	Word	--	Terminal	583

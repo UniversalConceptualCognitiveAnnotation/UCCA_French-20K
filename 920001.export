@@ -1,5 +1,5 @@
 #BOS 920001
-L’	Word	--	Terminal	500
+L'	Word	--	Terminal	500
 Abraham	Word	--	Terminal	501
 -	Punctuation	--	Terminal	502
 Lincoln	Word	--	Terminal	501
@@ -9,7 +9,7 @@ route	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
 courait	Word	--	Terminal	507
 sur	Word	--	Terminal	508
-l’	Word	--	Terminal	509
+l'	Word	--	Terminal	509
 animal	Word	--	Terminal	510
 signalé	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512
@@ -24,10 +24,10 @@ disparaissait	Word	--	Terminal	520
 bientôt	Word	--	Terminal	521
 au	Word	--	Terminal	522
 milieu	Word	--	Terminal	523
-d’	Word	--	Terminal	524
+d'	Word	--	Terminal	524
 un	Word	--	Terminal	525
 concert	Word	--	Terminal	526
-d’	Word	--	Terminal	527
+d'	Word	--	Terminal	527
 imprécations	Word	--	Terminal	528
 !	Punctuation	--	Terminal	529
 #500	FN	--	E	530

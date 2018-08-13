@@ -1,5 +1,5 @@
 #BOS 873003
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Et	Word	--	Terminal	501
 comme	Word	--	Terminal	502
 en	Word	--	Terminal	503
@@ -13,7 +13,7 @@ peu	Word	--	Terminal	509
 supérieure	Word	--	Terminal	510
 au	Word	--	Terminal	511
 poids	Word	--	Terminal	512
-d’	Word	--	Terminal	513
+d'	Word	--	Terminal	513
 un	Word	--	Terminal	514
 kilogramme	Word	--	Terminal	515
 par	Word	--	Terminal	516

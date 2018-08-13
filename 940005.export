@@ -1,11 +1,11 @@
 #BOS 940005
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Quand	Word	--	Terminal	501
 on	Word	--	Terminal	502
 a	Word	--	Terminal	503
-l’	Word	--	Terminal	504
+l'	Word	--	Terminal	504
 honneur	Word	--	Terminal	505
-d’	Word	--	Terminal	506
+d'	Word	--	Terminal	506
 être	Word	--	Terminal	507
 un	Word	--	Terminal	508
 savant	Word	--	Terminal	509
@@ -14,7 +14,7 @@ monsieur	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512
 on	Word	--	Terminal	513
 ne	Word	--	Terminal	514
-s’	Word	--	Terminal	515
+s'	Word	--	Terminal	515
 expose	Word	--	Terminal	516
 pas	Word	--	Terminal	514
 ...	Punctuation	--	Terminal	517

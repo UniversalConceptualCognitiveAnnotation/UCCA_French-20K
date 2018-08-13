@@ -1,5 +1,5 @@
 #BOS 775001
-D’	Word	--	Terminal	500
+D'	Word	--	Terminal	500
 ordinaire	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 je	Word	--	Terminal	503
@@ -7,7 +7,7 @@ ne	Word	--	Terminal	504
 lui	Word	--	Terminal	505
 demandais	Word	--	Terminal	506
 jamais	Word	--	Terminal	504
-s’	Word	--	Terminal	507
+s'	Word	--	Terminal	507
 il	Word	--	Terminal	508
 lui	Word	--	Terminal	509
 convenait	Word	--	Terminal	510
@@ -25,9 +25,9 @@ cette	Word	--	Terminal	521
 fois	Word	--	Terminal	522
 ,	Punctuation	--	Terminal	523
 il	Word	--	Terminal	524
-s’	Word	--	Terminal	525
+s'	Word	--	Terminal	525
 agissait	Word	--	Terminal	525
-d’	Word	--	Terminal	526
+d'	Word	--	Terminal	526
 une	Word	--	Terminal	527
 expédition	Word	--	Terminal	528
 qui	Word	--	Terminal	529
@@ -36,7 +36,7 @@ indéfiniment	Word	--	Terminal	531
 se	Word	--	Terminal	532
 prolonger	Word	--	Terminal	532
 ,	Punctuation	--	Terminal	533
-d’	Word	--	Terminal	534
+d'	Word	--	Terminal	534
 une	Word	--	Terminal	535
 entreprise	Word	--	Terminal	536
 hasardeuse	Word	--	Terminal	537
@@ -44,7 +44,7 @@ hasardeuse	Word	--	Terminal	537
 à	Word	--	Terminal	539
 la	Word	--	Terminal	540
 poursuite	Word	--	Terminal	541
-d’	Word	--	Terminal	542
+d'	Word	--	Terminal	542
 un	Word	--	Terminal	543
 animal	Word	--	Terminal	544
 capable	Word	--	Terminal	545

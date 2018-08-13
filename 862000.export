@@ -14,7 +14,7 @@ causions	Word	--	Terminal	510
 de	Word	--	Terminal	511
 choses	Word	--	Terminal	512
 et	Word	--	Terminal	513
-d’	Word	--	Terminal	514
+d'	Word	--	Terminal	514
 autres	Word	--	Terminal	515
 ,	Punctuation	--	Terminal	516
 regardant	Word	--	Terminal	517
@@ -26,13 +26,13 @@ les	Word	--	Terminal	522
 profondeurs	Word	--	Terminal	523
 sont	Word	--	Terminal	524
 restées	Word	--	Terminal	525
-jusqu’	Word	--	Terminal	526
+jusqu'	Word	--	Terminal	526
 ici	Word	--	Terminal	526
 inaccessibles	Word	--	Terminal	527
 aux	Word	--	Terminal	528
 regards	Word	--	Terminal	529
 de	Word	--	Terminal	530
-l’	Word	--	Terminal	531
+l'	Word	--	Terminal	531
 homme	Word	--	Terminal	532
 .	Punctuation	--	Terminal	533
 #500	FN	--	S	541

@@ -12,11 +12,11 @@ le	Word	--	Terminal	509
 poulpe	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 qui	Word	--	Terminal	512
-n’	Word	--	Terminal	513
+n'	Word	--	Terminal	513
 appartient	Word	--	Terminal	514
 point	Word	--	Terminal	513
 à	Word	--	Terminal	515
-l’	Word	--	Terminal	516
+l'	Word	--	Terminal	516
 embranchement	Word	--	Terminal	517
 des	Word	--	Terminal	518
 vertébrés	Word	--	Terminal	519
@@ -34,7 +34,7 @@ que	Word	--	Terminal	528
 le	Word	--	Terminal	529
 Scotia	Word	--	Terminal	530
 ou	Word	--	Terminal	531
-l’	Word	--	Terminal	532
+l'	Word	--	Terminal	532
 Abraham	Word	--	Terminal	533
 -	Punctuation	--	Terminal	534
 Lincoln	Word	--	Terminal	533

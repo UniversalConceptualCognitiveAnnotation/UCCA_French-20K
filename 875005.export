@@ -1,9 +1,9 @@
 #BOS 875005
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Mais	Word	--	Terminal	501
-s’	Word	--	Terminal	502
+s'	Word	--	Terminal	502
 ils	Word	--	Terminal	503
-n’	Word	--	Terminal	504
+n'	Word	--	Terminal	504
 existent	Word	--	Terminal	505
 pas	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	506
@@ -14,7 +14,7 @@ comment	Word	--	Terminal	509
 expliquez	Word	--	Terminal	510
 -	Punctuation	--	Terminal	511
 vous	Word	--	Terminal	512
-l’	Word	--	Terminal	513
+l'	Word	--	Terminal	513
 accident	Word	--	Terminal	514
 arrivé	Word	--	Terminal	515
 au	Word	--	Terminal	516

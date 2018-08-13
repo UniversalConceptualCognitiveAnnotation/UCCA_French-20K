@@ -4,7 +4,7 @@ Or	Word	--	Terminal	500
 ce	Word	--	Terminal	502
 trou	Word	--	Terminal	503
 ne	Word	--	Terminal	504
-s’	Word	--	Terminal	505
+s'	Word	--	Terminal	505
 était	Word	--	Terminal	506
 pas	Word	--	Terminal	504
 fait	Word	--	Terminal	505
@@ -12,9 +12,9 @@ tout	Word	--	Terminal	507
 seul	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
 et	Word	--	Terminal	510
-puisqu’	Word	--	Terminal	511
+puisqu'	Word	--	Terminal	511
 il	Word	--	Terminal	512
-n’	Word	--	Terminal	513
+n'	Word	--	Terminal	513
 avait	Word	--	Terminal	514
 pas	Word	--	Terminal	513
 été	Word	--	Terminal	515
@@ -37,10 +37,10 @@ il	Word	--	Terminal	530
 nécessairement	Word	--	Terminal	532
 dû	Word	--	Terminal	533
 à	Word	--	Terminal	534
-l’	Word	--	Terminal	535
+l'	Word	--	Terminal	535
 outil	Word	--	Terminal	536
 perforant	Word	--	Terminal	537
-d’	Word	--	Terminal	538
+d'	Word	--	Terminal	538
 un	Word	--	Terminal	539
 animal	Word	--	Terminal	540
 .	Punctuation	--	Terminal	541

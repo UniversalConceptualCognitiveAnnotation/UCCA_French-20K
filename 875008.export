@@ -1,10 +1,10 @@
 #BOS 875008
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Parce	Word	--	Terminal	501
 que	Word	--	Terminal	501
 ...	Punctuation	--	Terminal	502
 ça	Word	--	Terminal	503
-n’	Word	--	Terminal	504
+n'	Word	--	Terminal	504
 est	Word	--	Terminal	505
 pas	Word	--	Terminal	504
 vrai	Word	--	Terminal	506
@@ -22,7 +22,7 @@ savoir	Word	--	Terminal	517
 une	Word	--	Terminal	518
 célèbre	Word	--	Terminal	519
 réponse	Word	--	Terminal	520
-d’	Word	--	Terminal	521
+d'	Word	--	Terminal	521
 Arago	Word	--	Terminal	522
 .	Punctuation	--	Terminal	523
 #500	PNCT	--	U	533

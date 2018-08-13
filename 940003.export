@@ -1,14 +1,14 @@
 #BOS 940003
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Eh	Word	--	Terminal	501
 bien	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 monsieur	Word	--	Terminal	503
-n’	Word	--	Terminal	504
+n'	Word	--	Terminal	504
 aura	Word	--	Terminal	505
 que	Word	--	Terminal	504
 ce	Word	--	Terminal	506
-qu’	Word	--	Terminal	507
+qu'	Word	--	Terminal	507
 il	Word	--	Terminal	508
 mérite	Word	--	Terminal	509
 !	Punctuation	--	Terminal	510

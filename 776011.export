@@ -1,5 +1,5 @@
 #BOS 776011
-–	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 On	Word	--	Terminal	501
 le	Word	--	Terminal	502
 nourrira	Word	--	Terminal	503
@@ -7,12 +7,12 @@ pendant	Word	--	Terminal	504
 notre	Word	--	Terminal	505
 absence	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
-D’	Word	--	Terminal	508
+D'	Word	--	Terminal	508
 ailleurs	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
 je	Word	--	Terminal	511
 donnerai	Word	--	Terminal	512
-l’	Word	--	Terminal	512
+l'	Word	--	Terminal	512
 ordre	Word	--	Terminal	512
 de	Word	--	Terminal	513
 nous	Word	--	Terminal	514

@@ -1,8 +1,8 @@
 #BOS 780000
-L’	Word	--	Terminal	500
+L'	Word	--	Terminal	500
 ascenseur	Word	--	Terminal	501
 de	Word	--	Terminal	502
-l’	Word	--	Terminal	503
+l'	Word	--	Terminal	503
 hôtel	Word	--	Terminal	504
 nous	Word	--	Terminal	505
 déposa	Word	--	Terminal	506
@@ -10,7 +10,7 @@ au	Word	--	Terminal	507
 grand	Word	--	Terminal	508
 vestibule	Word	--	Terminal	509
 de	Word	--	Terminal	510
-l’	Word	--	Terminal	511
+l'	Word	--	Terminal	511
 entresol	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
 #500	FN	--	E	516

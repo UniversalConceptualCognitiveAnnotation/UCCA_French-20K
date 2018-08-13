@@ -1,10 +1,10 @@
 #BOS 875004
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Vous	Word	--	Terminal	501
-m’	Word	--	Terminal	502
+m'	Word	--	Terminal	502
 avez	Word	--	Terminal	503
 convaincu	Word	--	Terminal	504
-d’	Word	--	Terminal	505
+d'	Word	--	Terminal	505
 une	Word	--	Terminal	506
 chose	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
@@ -12,7 +12,7 @@ monsieur	Word	--	Terminal	509
 le	Word	--	Terminal	509
 naturaliste	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
-c’	Word	--	Terminal	511
+c'	Word	--	Terminal	511
 est	Word	--	Terminal	511
 que	Word	--	Terminal	512
 si	Word	--	Terminal	513
@@ -29,7 +29,7 @@ il	Word	--	Terminal	523
 faut	Word	--	Terminal	523
 nécessairement	Word	--	Terminal	524
 qu	Word	--	Terminal	525
-’	Punctuation	--	Terminal	526
+'	Punctuation	--	Terminal	526
 ils	Word	--	Terminal	527
 soient	Word	--	Terminal	528
 aussi	Word	--	Terminal	529

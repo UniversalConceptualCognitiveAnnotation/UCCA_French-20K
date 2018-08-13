@@ -1,5 +1,5 @@
 #BOS 857002
-C’	Word	--	Terminal	500
+C'	Word	--	Terminal	500
 était	Word	--	Terminal	501
 une	Word	--	Terminal	502
 occasion	Word	--	Terminal	503
@@ -11,7 +11,7 @@ parler	Word	--	Terminal	507
 et	Word	--	Terminal	509
 pour	Word	--	Terminal	510
 moi	Word	--	Terminal	511
-d’	Word	--	Terminal	512
+d'	Word	--	Terminal	512
 entendre	Word	--	Terminal	513
 cette	Word	--	Terminal	514
 vieille	Word	--	Terminal	515

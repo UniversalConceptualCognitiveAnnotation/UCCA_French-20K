@@ -25,7 +25,7 @@ partie	Word	--	Terminal	520
 ,	Punctuation	--	Terminal	521
 quant	Word	--	Terminal	522
 à	Word	--	Terminal	523
-l’	Word	--	Terminal	524
+l'	Word	--	Terminal	524
 espèce	Word	--	Terminal	525
 dans	Word	--	Terminal	526
 laquelle	Word	--	Terminal	527
@@ -35,7 +35,7 @@ de	Word	--	Terminal	530
 le	Word	--	Terminal	531
 ranger	Word	--	Terminal	532
 ,	Punctuation	--	Terminal	533
-c’	Word	--	Terminal	534
+c'	Word	--	Terminal	534
 était	Word	--	Terminal	535
 une	Word	--	Terminal	536
 question	Word	--	Terminal	537

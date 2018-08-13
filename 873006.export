@@ -1,5 +1,5 @@
 #BOS 873006
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Oui	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 je	Word	--	Terminal	503
@@ -14,9 +14,9 @@ attentif	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512
 parce	Word	--	Terminal	513
 que	Word	--	Terminal	513
-l’	Word	--	Terminal	514
+l'	Word	--	Terminal	514
 eau	Word	--	Terminal	515
-m’	Word	--	Terminal	516
+m'	Word	--	Terminal	516
 entoure	Word	--	Terminal	517
 et	Word	--	Terminal	518
 ne	Word	--	Terminal	519

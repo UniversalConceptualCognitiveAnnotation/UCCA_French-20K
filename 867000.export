@@ -1,5 +1,5 @@
 #BOS 867000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Cependant	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 Ned	Word	--	Terminal	503
@@ -20,13 +20,13 @@ part	Word	--	Terminal	517
 en	Word	--	Terminal	518
 part	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
-—	Punctuation	--	Terminal	521
+-	Punctuation	--	Terminal	521
 Des	Word	--	Terminal	522
 navires	Word	--	Terminal	523
 en	Word	--	Terminal	524
 bois	Word	--	Terminal	525
 ,	Punctuation	--	Terminal	526
-c’	Word	--	Terminal	527
+c'	Word	--	Terminal	527
 est	Word	--	Terminal	528
 possible	Word	--	Terminal	529
 ,	Punctuation	--	Terminal	530
@@ -46,7 +46,7 @@ vus	Word	--	Terminal	542
 .	Punctuation	--	Terminal	543
 Donc	Word	--	Terminal	544
 ,	Punctuation	--	Terminal	545
-jusqu’	Word	--	Terminal	546
+jusqu'	Word	--	Terminal	546
 à	Word	--	Terminal	546
 preuve	Word	--	Terminal	547
 contraire	Word	--	Terminal	548

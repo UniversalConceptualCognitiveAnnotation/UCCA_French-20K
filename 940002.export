@@ -1,5 +1,5 @@
 #BOS 940002
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Effectivement	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 répondit	Word	--	Terminal	503
@@ -9,7 +9,7 @@ Conseil	Word	--	Terminal	505
 je	Word	--	Terminal	507
 pense	Word	--	Terminal	508
 que	Word	--	Terminal	509
-l’	Word	--	Terminal	510
+l'	Word	--	Terminal	510
 on	Word	--	Terminal	511
 se	Word	--	Terminal	512
 moquera	Word	--	Terminal	512
@@ -25,7 +25,7 @@ le	Word	--	Terminal	521
 dire	Word	--	Terminal	522
 ...	Punctuation	--	Terminal	523
 ?	Punctuation	--	Terminal	524
-—	Punctuation	--	Terminal	525
+-	Punctuation	--	Terminal	525
 Il	Word	--	Terminal	526
 faut	Word	--	Terminal	527
 le	Word	--	Terminal	528

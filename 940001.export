@@ -1,5 +1,5 @@
 #BOS 940001
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Comme	Word	--	Terminal	501
 tu	Word	--	Terminal	502
 dis	Word	--	Terminal	503
@@ -10,11 +10,11 @@ et	Word	--	Terminal	507
 sans	Word	--	Terminal	508
 compter	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
-j’	Word	--	Terminal	511
+j'	Word	--	Terminal	511
 imagine	Word	--	Terminal	512
 ,	Punctuation	--	Terminal	513
 que	Word	--	Terminal	514
-l’	Word	--	Terminal	515
+l'	Word	--	Terminal	515
 on	Word	--	Terminal	516
 se	Word	--	Terminal	517
 moquera	Word	--	Terminal	517

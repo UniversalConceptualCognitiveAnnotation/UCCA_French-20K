@@ -4,7 +4,7 @@ feux	Word	--	Terminal	501
 furent	Word	--	Terminal	502
 poussés	Word	--	Terminal	503
 ;	Punctuation	--	Terminal	504
-l’	Word	--	Terminal	505
+l'	Word	--	Terminal	505
 hélice	Word	--	Terminal	506
 battit	Word	--	Terminal	507
 plus	Word	--	Terminal	508
@@ -58,7 +58,7 @@ les	Word	--	Terminal	552
 sombres	Word	--	Terminal	553
 eaux	Word	--	Terminal	554
 de	Word	--	Terminal	555
-l’	Word	--	Terminal	556
+l'	Word	--	Terminal	556
 Atlantique	Word	--	Terminal	557
 .	Punctuation	--	Terminal	558
 #500	FN	--	E	559

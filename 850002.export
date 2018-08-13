@@ -1,12 +1,12 @@
 #BOS 850002
-D’	Word	--	Terminal	500
+D'	Word	--	Terminal	500
 ailleurs	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 le	Word	--	Terminal	503
 commandant	Word	--	Terminal	504
 Farragut	Word	--	Terminal	505
 parlait	Word	--	Terminal	506
-d’	Word	--	Terminal	507
+d'	Word	--	Terminal	507
 une	Word	--	Terminal	508
 certaine	Word	--	Terminal	509
 somme	Word	--	Terminal	510
@@ -28,7 +28,7 @@ ou	Word	--	Terminal	525
 officier	Word	--	Terminal	526
 ,	Punctuation	--	Terminal	527
 signalerait	Word	--	Terminal	528
-l’	Word	--	Terminal	529
+l'	Word	--	Terminal	529
 animal	Word	--	Terminal	530
 .	Punctuation	--	Terminal	531
 #500	FN	--	R	532

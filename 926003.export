@@ -1,5 +1,5 @@
 #BOS 926003
-L’	Word	--	Terminal	500
+L'	Word	--	Terminal	500
 équipage	Word	--	Terminal	501
 entier	Word	--	Terminal	502
 subissait	Word	--	Terminal	503
@@ -12,7 +12,7 @@ je	Word	--	Terminal	509
 ne	Word	--	Terminal	510
 saurais	Word	--	Terminal	511
 donner	Word	--	Terminal	512
-l’	Word	--	Terminal	513
+l'	Word	--	Terminal	513
 idée	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
 #500	FN	--	E	516

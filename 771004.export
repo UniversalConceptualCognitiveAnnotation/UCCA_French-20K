@@ -1,7 +1,7 @@
 #BOS 771004
-D’	Word	--	Terminal	500
+D'	Word	--	Terminal	500
 ailleurs	Word	--	Terminal	501
-d’	Word	--	Terminal	502
+d'	Word	--	Terminal	502
 une	Word	--	Terminal	503
 belle	Word	--	Terminal	504
 santé	Word	--	Terminal	505
@@ -21,16 +21,16 @@ de	Word	--	Terminal	518
 nerfs	Word	--	Terminal	519
 ,	Punctuation	--	Terminal	520
 pas	Word	--	Terminal	521
-l’	Word	--	Terminal	522
+l'	Word	--	Terminal	522
 apparence	Word	--	Terminal	523
 de	Word	--	Terminal	524
 nerfs	Word	--	Terminal	525
 ,	Punctuation	--	Terminal	526
-–	Punctuation	--	Terminal	527
+-	Punctuation	--	Terminal	527
 au	Word	--	Terminal	528
 moral	Word	--	Terminal	529
 ,	Punctuation	--	Terminal	530
-s’entend	Word	--	Terminal	531
+s'entend	Word	--	Terminal	531
 .	Punctuation	--	Terminal	532
 #500	FN	--	R	533
 #501	FN	--	C	533

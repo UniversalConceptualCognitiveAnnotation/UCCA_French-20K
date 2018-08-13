@@ -1,5 +1,5 @@
 #BOS 872000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Oh	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
 les	Word	--	Terminal	503
@@ -11,7 +11,7 @@ Ned	Word	--	Terminal	507
 On	Word	--	Terminal	509
 fait	Word	--	Terminal	510
 ce	Word	--	Terminal	511
-qu’	Word	--	Terminal	512
+qu'	Word	--	Terminal	512
 on	Word	--	Terminal	513
 veut	Word	--	Terminal	514
 avec	Word	--	Terminal	515

@@ -5,7 +5,7 @@ Land	Word	--	Terminal	500
 un	Word	--	Terminal	502
 Canadien	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
-d’	Word	--	Terminal	505
+d'	Word	--	Terminal	505
 une	Word	--	Terminal	506
 habileté	Word	--	Terminal	507
 de	Word	--	Terminal	508
@@ -18,7 +18,7 @@ qui	Word	--	Terminal	514
 ne	Word	--	Terminal	515
 connaissait	Word	--	Terminal	516
 pas	Word	--	Terminal	515
-d’	Word	--	Terminal	517
+d'	Word	--	Terminal	517
 égal	Word	--	Terminal	518
 dans	Word	--	Terminal	519
 son	Word	--	Terminal	520

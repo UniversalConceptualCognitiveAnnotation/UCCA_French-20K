@@ -7,7 +7,7 @@ lu	Word	--	Terminal	504
 la	Word	--	Terminal	505
 lettre	Word	--	Terminal	506
 de	Word	--	Terminal	507
-l’	Word	--	Terminal	508
+l'	Word	--	Terminal	508
 honorable	Word	--	Terminal	509
 secrétaire	Word	--	Terminal	510
 de	Word	--	Terminal	511
@@ -22,7 +22,7 @@ ma	Word	--	Terminal	519
 véritable	Word	--	Terminal	520
 vocation	Word	--	Terminal	521
 ,	Punctuation	--	Terminal	522
-l’	Word	--	Terminal	523
+l'	Word	--	Terminal	523
 unique	Word	--	Terminal	524
 but	Word	--	Terminal	525
 de	Word	--	Terminal	526
@@ -36,7 +36,7 @@ ce	Word	--	Terminal	533
 monstre	Word	--	Terminal	534
 inquiétant	Word	--	Terminal	535
 et	Word	--	Terminal	536
-d’	Word	--	Terminal	537
+d'	Word	--	Terminal	537
 en	Word	--	Terminal	538
 purger	Word	--	Terminal	539
 le	Word	--	Terminal	540

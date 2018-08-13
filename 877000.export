@@ -15,7 +15,7 @@ cet	Word	--	Terminal	512
 animal	Word	--	Terminal	513
 appartenait	Word	--	Terminal	514
 à	Word	--	Terminal	515
-l’	Word	--	Terminal	516
+l'	Word	--	Terminal	516
 embranchement	Word	--	Terminal	517
 des	Word	--	Terminal	518
 vertébrés	Word	--	Terminal	519
@@ -34,7 +34,7 @@ pisciformes	Word	--	Terminal	530
 et	Word	--	Terminal	532
 finalement	Word	--	Terminal	533
 à	Word	--	Terminal	534
-l’	Word	--	Terminal	535
+l'	Word	--	Terminal	535
 ordre	Word	--	Terminal	536
 des	Word	--	Terminal	537
 cétacés	Word	--	Terminal	538

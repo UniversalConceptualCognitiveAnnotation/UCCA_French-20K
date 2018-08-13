@@ -1,5 +1,5 @@
 #BOS 865000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Cependant	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 Ned	Word	--	Terminal	503
@@ -23,12 +23,12 @@ marins	Word	--	Terminal	520
 ,	Punctuation	--	Terminal	521
 vous	Word	--	Terminal	522
 dont	Word	--	Terminal	523
-l’	Word	--	Terminal	524
+l'	Word	--	Terminal	524
 imagination	Word	--	Terminal	525
 doit	Word	--	Terminal	526
 aisément	Word	--	Terminal	527
 accepter	Word	--	Terminal	528
-l’	Word	--	Terminal	529
+l'	Word	--	Terminal	529
 hypothèse	Word	--	Terminal	530
 de	Word	--	Terminal	531
 cétacés	Word	--	Terminal	532

@@ -1,5 +1,5 @@
 #BOS 941002
-C’	Word	--	Terminal	500
+C'	Word	--	Terminal	500
 était	Word	--	Terminal	501
 la	Word	--	Terminal	502
 voix	Word	--	Terminal	503
@@ -10,7 +10,7 @@ Land	Word	--	Terminal	505
 et	Word	--	Terminal	507
 Ned	Word	--	Terminal	508
 Land	Word	--	Terminal	508
-s’	Word	--	Terminal	509
+s'	Word	--	Terminal	509
 écriait	Word	--	Terminal	509
 :	Punctuation	--	Terminal	510
 «	Punctuation	--	Terminal	511

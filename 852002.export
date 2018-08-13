@@ -16,7 +16,7 @@ lance	Word	--	Terminal	512
 la	Word	--	Terminal	514
 main	Word	--	Terminal	515
 ,	Punctuation	--	Terminal	516
-jusqu’	Word	--	Terminal	517
+jusqu'	Word	--	Terminal	517
 aux	Word	--	Terminal	518
 flèches	Word	--	Terminal	519
 barbelées	Word	--	Terminal	520

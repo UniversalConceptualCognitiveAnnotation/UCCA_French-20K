@@ -1,5 +1,5 @@
 #BOS 869000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Hum	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
 fit	Word	--	Terminal	503
@@ -11,9 +11,9 @@ secouant	Word	--	Terminal	508
 la	Word	--	Terminal	509
 tête	Word	--	Terminal	510
 de	Word	--	Terminal	511
-l’	Word	--	Terminal	512
+l'	Word	--	Terminal	512
 air	Word	--	Terminal	513
-d’	Word	--	Terminal	514
+d'	Word	--	Terminal	514
 un	Word	--	Terminal	515
 homme	Word	--	Terminal	516
 qui	Word	--	Terminal	517

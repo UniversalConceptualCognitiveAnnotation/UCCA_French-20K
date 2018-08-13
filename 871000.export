@@ -1,5 +1,5 @@
 #BOS 871000
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Vraiment	Word	--	Terminal	501
 ?	Punctuation	--	Terminal	502
 dit	Word	--	Terminal	503
@@ -10,7 +10,7 @@ regardait	Word	--	Terminal	507
 en	Word	--	Terminal	508
 clignant	Word	--	Terminal	509
 de	Word	--	Terminal	510
-l’	Word	--	Terminal	511
+l'	Word	--	Terminal	511
 œil	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
 #500	PNCT	--	U	519

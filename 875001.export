@@ -1,5 +1,5 @@
 #BOS 875001
-—	Punctuation	--	Terminal	500
+-	Punctuation	--	Terminal	500
 Comme	Word	--	Terminal	501
 vous	Word	--	Terminal	502
 dites	Word	--	Terminal	503
@@ -21,13 +21,13 @@ lancée	Word	--	Terminal	518
 avec	Word	--	Terminal	519
 la	Word	--	Terminal	520
 vitesse	Word	--	Terminal	521
-d’	Word	--	Terminal	522
+d'	Word	--	Terminal	522
 un	Word	--	Terminal	523
 express	Word	--	Terminal	524
 contre	Word	--	Terminal	525
 la	Word	--	Terminal	526
 coque	Word	--	Terminal	527
-d’	Word	--	Terminal	528
+d'	Word	--	Terminal	528
 un	Word	--	Terminal	529
 navire	Word	--	Terminal	530
 .	Punctuation	--	Terminal	531
