@@ -1,5 +1,5 @@
 # ::id 851001
-# ::tok La frégate aurait eu cent fois raison de s’ appeler l’Argus .
+# ::tok La frégate aurait eu cent fois raison de s' appeler l'Argus .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 4-1.1.4.1 5-1.1.4.2 6-1.1.5 7-1.1.6.1 8-1.1.6.2.1 9-1.1.6.2.2 10-1.1.6.3
 (v1 / label
     :H (v2 / label

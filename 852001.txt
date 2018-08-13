@@ -1,5 +1,5 @@
 # ::id 852001
-# ::tok Un baleinier n’ eût pas été mieux armé .
+# ::tok Un baleinier n' eût pas été mieux armé .
 # ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3 4-1.1.3 6-1.1.6 7-1.1.7
 (v1 / label
     :H (v2 / label

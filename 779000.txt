@@ -1,5 +1,5 @@
 # ::id 779000
-# ::tok Un quart d’ heure après , nos malles étaient prêtes .
+# ::tok Un quart d' heure après , nos malles étaient prêtes .
 # ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.1 3-1.1.1.1 4-1.1.1.2 6-1.1.2.1 7-1.1.2.2 9-1.1.4
 (v1 / label
     :H (v2 / label

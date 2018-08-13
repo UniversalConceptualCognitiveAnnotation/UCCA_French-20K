@@ -1,5 +1,5 @@
 # ::id 921001
-# ::tok Le voyage s’ accomplissait dans les meilleures conditions .
+# ::tok Le voyage s' accomplissait dans les meilleures conditions .
 # ::alignments 0-1.1.1.1 1-1.1.1.2.2 2-1.1.2 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.3 7-1.1.3.4
 (v1 / label
     :H (v2 / label

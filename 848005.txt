@@ -1,5 +1,5 @@
 # ::id 848005
-# ::tok Il y croyait comme certaines bonnes femmes croient au Léviathan , — par foi , non par raison .
+# ::tok Il y croyait comme certaines bonnes femmes croient au Léviathan , - par foi , non par raison .
 # ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.1.1 5-1.3.1.2 6-1.3.1.3 7-1.3.2 8-1.3.3.1 9-1.3.3.2 12-1.1.4.1 13-1.1.4.2 15-1.1.5 16-1.1.6.1 17-1.1.6.2
 (v1 / label
     :H (v2 / label

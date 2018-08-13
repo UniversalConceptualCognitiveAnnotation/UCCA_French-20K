@@ -1,5 +1,5 @@
 # ::id 855002
-# ::tok Sa personne provoquait l’ attention , et surtout la puissance de son regard qui accentuait singulièrement sa physionomie .
+# ::tok Sa personne provoquait l' attention , et surtout la puissance de son regard qui accentuait singulièrement sa physionomie .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.2 4-1.3.4 6-1.2 7-1.3.1 8-1.3.2.1 9-1.3.2.2 10-1.3.2.3.1 11-1.3.2.3.2 12-1.3.2.3.3 13-1.3.2.4.2 14-1.3.2.4.3 15-1.3.2.4.4 16-1.3.2.4.5.1 17-1.3.2.4.5.2
 (v1 / label
     :H (v2 / label

@@ -1,5 +1,5 @@
 # ::id 776009
-# ::tok – On les gardera à l’ hôtel .
+# ::tok - On les gardera à l' hôtel .
 # ::alignments 1-1.1.3.1 2-1.1.3.2 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2 6-1.1.3.4.3
 (v1 / label
     :H (v2 / label

@@ -1,5 +1,5 @@
 # ::id 771000
-# ::tok Conseil , jusqu’ ici et depuis dix ans , m’ avait suivi partout où m’ entraînait la science .
+# ::tok Conseil , jusqu' ici et depuis dix ans , m' avait suivi partout où m' entraînait la science .
 # ::alignments 0-1.1.1 2-1.1.2.1.1 3-1.1.2.1.2 4-1.1.2.2 5-1.1.2.3.1 6-1.1.2.3.2 7-1.1.2.3.3 9-1.1.3 11-1.1.5 12-1.1.6.1 13-1.1.6.2.2 14-1.1.6.2.3 15-1.1.6.2.4 16-1.1.6.2.5.1 17-1.1.6.2.5.2
 (v1 / label
     :H (v2 / label

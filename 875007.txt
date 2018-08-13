@@ -1,5 +1,5 @@
 # ::id 875007
-# ::tok — Allez donc !
+# ::tok - Allez donc !
 # ::alignments 1-1.1.2 2-1.1.2
 (v1 / label
     :H (v2 / label

@@ -1,5 +1,5 @@
 # ::id 936003
-# ::tok Les officiers , armes de leur lorgnette de nuit , fouillaient l’ obscurité croissante .
+# ::tok Les officiers , armes de leur lorgnette de nuit , fouillaient l' obscurité croissante .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.2 4-1.1.1.3.3.1 5-1.1.1.3.3.2 6-1.1.1.3.3.3 7-1.1.1.3.3.4.1 8-1.1.1.3.3.4.2 10-1.1.2 11-1.1.3.1 12-1.1.3.2 13-1.1.3.3.2
 (v1 / label
     :H (v2 / label

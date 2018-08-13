@@ -1,5 +1,5 @@
 # ::id 795000
-# ::tok Le cortège des boats et des tenders suivait toujours la frégate , et il ne la quitta qu’ à la hauteur du light - boat dont les deux feux marquent l’ entrée des passes de New York .
+# ::tok Le cortège des boats et des tenders suivait toujours la frégate , et il ne la quitta qu' à la hauteur du light - boat dont les deux feux marquent l' entrée des passes de New York .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1.1 3-1.1.1.3.1.2 4-1.1.1.3.2 5-1.1.1.3.3.1 6-1.1.1.3.3.2 7-1.1.2 8-1.1.3 9-1.1.4.1 10-1.1.4.2 12-1.2 13-1.3.1 14-1.3.2 15-1.3.3 16-1.3.4 17-1.3.2 18-1.3.5.1.1 19-1.3.5.1.2 20-1.3.5.1.3 21-1.3.5.5 22-1.3.5.2 24-1.3.5.3 25-1.3.5.4.1 26-1.3.5.4.2.2 27-1.3.5.4.2.3 28-1.3.5.4.2.4 29-1.3.5.4.3 30-1.3.5.4.4.1 31-1.3.5.4.4.2 32-1.3.5.4.4.3.1 33-1.3.5.4.4.3.2 34-1.3.5.4.4.4.1 35-1.3.5.4.4.4.2 36-1.3.5.4.4.4.2
 (v1 / label
     :H (v2 / label

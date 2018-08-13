@@ -1,5 +1,5 @@
 # ::id 915000
-# ::tok L ’ équipage lui donna raison à l’ unanimité .
+# ::tok L ' équipage lui donna raison à l' unanimité .
 # ::alignments 0-1.1.1.1 2-1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.3 6-1.1.4.1 7-1.1.4.2 8-1.1.4.3
 (v1 / label
     :H (v2 / label

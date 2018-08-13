@@ -1,5 +1,5 @@
 # ::id 776007
-# ::tok – On s’ en occupera plus tard .
+# ::tok - On s' en occupera plus tard .
 # ::alignments 1-1.1.3.1 2-1.1.3.2 3-1.1.3.3 4-1.1.3.2 5-1.1.3.4.1 6-1.1.3.4.2
 (v1 / label
     :H (v2 / label

@@ -1,5 +1,5 @@
 # ::id 929002
-# ::tok La réaction monta des fonds du navire , du poste des soutiers jusqu’ au carré de l’ état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
+# ::tok La réaction monta des fonds du navire , du poste des soutiers jusqu' au carré de l' état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1.1 4-1.1.3.1.2 5-1.1.3.4 6-1.1.3.2 8-1.1.3.3.1 9-1.1.3.3.2.2 10-1.1.3.3.2.3.1 11-1.1.3.3.2.3.2 12-1.1.3.3.3 13-1.1.3.3.4 14-1.1.3.3.5.1 15-1.1.3.3.5.2.1 16-1.1.3.3.5.2.2 17-1.1.3.3.5.2.3 19-1.1.3.3.5.2.3 21-1.2 22-1.3.1 24-1.4 25-1.3.2.1 26-1.3.2.2 27-1.3.3.1 29-1.3.3.2 30-1.3.4.1 31-1.3.4.2.2 32-1.3.4.3 34-1.5.1.1 35-1.5.1.2 37-1.5.3 38-1.5.4.1 39-1.5.4.2 40-1.5.4.3 41-1.5.5.1 42-1.5.5.2
 (v1 / label
     :H (v2 / label

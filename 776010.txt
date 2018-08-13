@@ -1,5 +1,5 @@
 # ::id 776010
-# ::tok – Et le babiroussa vivant de monsieur ?
+# ::tok - Et le babiroussa vivant de monsieur ?
 # ::alignments 1-1.1.3.1 2-1.1.3.2.3.1 3-1.1.3.2.3.2 4-1.1.3.2.3.3.2 5-1.1.3.2.3.4.1 6-1.1.3.2.3.4.2
 (v1 / label
     :H (v2 / label

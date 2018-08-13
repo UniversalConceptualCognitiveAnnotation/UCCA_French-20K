@@ -1,5 +1,5 @@
 # ::id 931003
-# ::tok Je ne veux pas dire qu’ il y eut révolte à bord , mais après une raisonnable période d’ obstination , le commandant Farragut comme autrefois Colomb , demanda trois jours de patience .
+# ::tok Je ne veux pas dire qu' il y eut révolte à bord , mais après une raisonnable période d' obstination , le commandant Farragut comme autrefois Colomb , demanda trois jours de patience .
 # ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.2 4-1.1.4 5-1.1.5.1 9-1.1.5.3 10-1.1.5.4.1 11-1.1.5.4.2 13-1.2 14-1.3 15-1.4.2.1 16-1.4.2.2 17-1.4.2.3 19-1.4.3.2 21-1.5.1.1.1 22-1.5.1.1.2 23-1.4.1 24-1.6 25-1.7.1 26-1.7.2 28-1.5.3 29-1.5.4.2.1 30-1.5.4.2.2 31-1.5.4.3.1 32-1.5.4.3.2
 (v1 / label
     :H (v2 / label
