@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 869000
 # text = - Hum ! fit le harponneur , en secouant la tête de l' air d' un homme qui ne veut pas se laisser convaincre .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Hum	_	Word	Word	_	4	A	4:A	_
 3	!	_	Punctuation	Punctuation	_	4	punct	4:punct	_

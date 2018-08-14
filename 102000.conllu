@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 102000
 # text = Tel était ce dernier fait , qui eut pour résultat de passionner à nouveau l'opinion publique .
-# doc_id = 
 1	Tel	_	Word	Word	_	2	A	2:A	_
 2	était	_	Word	Word	_	0	root	0:root	_
 3	ce	_	Word	Word	_	5	E	5:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 861002
 # text = Avant huit jours , l' Abraham - Lincoln sillonnerait les flots du Pacifique .
-# doc_id = 
 1	Avant	_	Word	Word	_	3	R	3:R	_
 2	huit	_	Word	Word	_	3	E	3:E	_
 3	jours	_	Word	Word	_	0	root	0:root	_

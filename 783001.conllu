@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 783001
 # text = - Lui - même , répondis - je . Le commandant Farragut ? - En personne . Soyez le bienvenu , monsieur le professeur . Votre cabine vous attend . »
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Lui	_	Word	Word	_	0	root	0:root	_
 3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_

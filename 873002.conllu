@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 873002
 # text = - Tant que cela ?
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Tant	_	Word	Word	_	0	root	0:root	_
 3	que	_	Word	Word	_	4	R	4:R	_

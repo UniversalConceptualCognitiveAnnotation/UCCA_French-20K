@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 773001
 # text = Formaliste enragé il ne me parlait jamais qu' à la troisième personne , - au point d' en être agaçant .
-# doc_id = 
 1	Formaliste	_	Word	Word	_	0	root	0:root	_
 2	enragé	_	Word	Word	_	1	E	1:E	_
-3	il	_	Word	Word	_	6	A	6:A	_
+3	il	_	Word	Word	_	6	A	6:A|18:A|1:A	_
 4	ne	_	Word	Word	_	6	T	6:T	_
 5	me	_	Word	Word	_	6	A	6:A	_
 6	parlait	_	Word	Word	_	1	orphan	1:orphan	_

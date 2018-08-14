@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 919002
 # text = Tantôt penché sur les bastingages du gaillard d' avant , tantôt appuyé à la lisse de l' arrière , je dévorais d' un oeil avide le cotonneux sillage qui blanchissait la mer jusqu' à perte de vue !
-# doc_id = 
 1	Tantôt	_	Word	Word	_	2	D	2:D	_
 2	penché	_	Word	Word	_	0	root	0:root	_
 3	sur	_	Word	Word	_	5	R	5:R	_
@@ -21,7 +20,7 @@
 17	l'	_	Word	Word	_	18	E	18:E	_
 18	arrière	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-20	je	_	Word	Word	_	21	A	21:A	_
+20	je	_	Word	Word	_	21	A	21:A|2:A|12:A	_
 21	dévorais	_	Word	Word	_	2	orphan	2:orphan	_
 22	d'	_	Word	Word	_	24	R	24:R	_
 23	un	_	Word	Word	_	24	E	24:E	_

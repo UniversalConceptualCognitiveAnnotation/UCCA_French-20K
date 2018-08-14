@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 856000
 # text = Je crois que le commandant Farragut avait sagement fait d' engager cet homme à son bord .
-# doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	crois	_	Word	Word	_	0	root	0:root	_
 3	que	_	Word	Word	_	2	F	2:F	_

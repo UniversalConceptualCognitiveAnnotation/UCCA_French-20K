@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 926000
 # text = Nous étions enfin sur le théâtre des derniers ébats du monstre !
-# doc_id = 
 1	Nous	_	Word	Word	_	2	A	2:A	_
 2	étions	_	Word	Word	_	0	root	0:root	_
 3	enfin	_	Word	Word	_	2	L	2:L	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 423001
 # text = Comme il s' agissait là d' un intérêt public , puisque les communications transocéaniennes en souffraient , la franchise des gouvernements ne pouvait être mise en doute .
-# doc_id = 
 1	Comme	_	Word	Word	_	3	L	3:L	_
 2	il	_	Word	Word	_	3	F	3:F	_
 3	s'	_	Word	Word	_	0	root	0:root	_

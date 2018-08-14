@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 86000
 # text = Partout dans les grands centres , le monstre devint à la mode ; on le chanta dans les cafés , on le bafoua dans les journaux , on le joua sur les théâtres .
-# doc_id = 
 1	Partout	_	Word	Word	_	0	root	0:root	_
 2	dans	_	Word	Word	_	5	R	5:R	_
 3	les	_	Word	Word	_	5	E	5:E	_

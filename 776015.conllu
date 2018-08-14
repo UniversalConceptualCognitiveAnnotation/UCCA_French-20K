@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 776015
 # text = - Oh ! ce sera peu de chose ! Un chemin un peu moins direct , voilà tout . Nous prenons passage sur l' Abraham - Lincoln ... - Comme il conviendra à monsieur , répondit paisiblement Conseil .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Oh	_	Word	Word	_	5	F	5:F	_
 3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	ce	_	Word	Word	_	5	A	5:A	_
+4	ce	_	Word	Word	_	5	A	5:A|11:A	_
 5	sera	_	Word	Word	_	0	root	0:root	_
 6	peu	_	Word	Word	_	5	orphan	5:orphan	_
 7	de	_	Word	Word	_	6	R	6:R	_

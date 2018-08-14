@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 94004
 # text = Ceci dit , personne ne s' étonnera du retentissement que provoqua l' accident arrivé à l' un de ses plus beaux steamers .
-# doc_id = 
 1	Ceci	_	Word	Word	_	6	L	6:L	_
 2	dit	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

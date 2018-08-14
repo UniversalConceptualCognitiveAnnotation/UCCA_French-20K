@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 939000
 # text = - Que monsieur me permette de le lui dire , répondit Conseil , je n' ai jamais compté sur cette prime , et le gouvernement de l' Union pouvait promettre cent mille dollars , il n' en aurait pas été plus pauvre .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Que	_	Word	Word	_	5	R	5:R	_
 3	monsieur	_	Word	Word	_	5	A	5:A	_
-4	me	_	Word	Word	_	5	A	5:A	_
+4	me	_	Word	Word	_	5	A	5:A|9:A	_
 5	permette	_	Word	Word	_	0	root	0:root	_
 6	de	_	Word	Word	_	9	R	9:R	_
 7	le	_	Word	Word	_	9	A	9:A	_

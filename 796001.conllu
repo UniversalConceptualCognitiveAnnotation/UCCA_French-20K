@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 796001
 # text = Les feux furent poussés ; l' hélice battit plus rapidement les flots ; la frégate longea la côte jaune et basse de Long - Island , et , à huit heures du soir , après avoir perdu dans le nord - ouest les feux de Fire - Island , elle courut à toute vapeur sur les sombres eaux de l' Atlantique .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	feux	_	Word	Word	_	0	root	0:root	_
 3	furent	_	Word	Word	_	4	F	4:F	_
@@ -51,7 +50,7 @@
 47	-	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 48	Island	_	Word	Word	_	46	flat	46:flat	_
 49	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
-50	elle	_	Word	Word	_	51	A	51:A	_
+50	elle	_	Word	Word	_	51	A	51:A|37:A	_
 51	courut	_	Word	Word	_	2	orphan	2:orphan	_
 52	à	_	Word	Word	_	54	R	54:R	_
 53	toute	_	Word	Word	_	54	E	54:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 936005
 # text = Puis , toute trace lumineuse s' évanouissait dans les ténèbres .
-# doc_id = 
 1	Puis	_	Word	Word	_	6	L	6:L	_
 2	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	toute	_	Word	Word	_	4	E	4:E	_

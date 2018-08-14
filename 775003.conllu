@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 775003
 # text = Qu' allait dire Conseil ?
-# doc_id = 
 1	Qu'	_	Word	Word	_	3	A	3:A	_
 2	allait	_	Word	Word	_	3	D	3:D	_
 3	dire	_	Word	Word	_	0	root	0:root	_

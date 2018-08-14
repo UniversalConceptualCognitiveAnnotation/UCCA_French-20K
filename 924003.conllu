@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 924003
 # text = Aussi , nos chances étaient - elles fort limitées .
-# doc_id = 
 1	Aussi	_	Word	Word	_	9	L	9:L	_
 2	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 3	nos	_	Word	Word	_	4	E	4:E	_

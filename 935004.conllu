@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 935004
 # text = De gros nuages voilaient le disque de la lune , alors dans son premier quartier .
-# doc_id = 
 1	De	_	Word	Word	_	3	E	3:E	_
 2	gros	_	Word	Word	_	3	E	3:E	_
 3	nuages	_	Word	Word	_	0	root	0:root	_

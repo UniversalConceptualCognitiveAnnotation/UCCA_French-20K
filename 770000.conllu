@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 770000
 # text = À se frotter aux savants de notre petit monde du Jardin des Plantes , Conseil en était venu à savoir quelque chose .
-# doc_id = 
 1	À	_	Word	Word	_	2	L	2:L	_
 2	se	_	Word	Word	_	0	root	0:root	_
 3	frotter	_	Word	Word	_	2	flat	2:flat	_
@@ -16,7 +15,7 @@
 12	des	_	Word	Word	_	11	flat	11:flat	_
 13	Plantes	_	Word	Word	_	11	flat	11:flat	_
 14	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-15	Conseil	_	Word	Word	_	20	A	20:A	_
+15	Conseil	_	Word	Word	_	20	A	20:A|2:A	_
 16	en	_	Word	Word	_	20	D	20:D	_
 17	était	_	Word	Word	_	16	flat	16:flat	_
 18	venu	_	Word	Word	_	16	flat	16:flat	_

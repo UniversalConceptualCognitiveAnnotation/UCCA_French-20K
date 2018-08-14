@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 875001
 # text = - Comme vous dites , Ned , et songez alors aux ravages que peut produire une pareille masse lancée avec la vitesse d' un express contre la coque d' un navire .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Comme	_	Word	Word	_	4	D	4:D	_
 3	vous	_	Word	Word	_	4	A	4:A	_

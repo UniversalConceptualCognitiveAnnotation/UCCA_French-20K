@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 771001
 # text = Jamais une réflexion de lui sur la longueur ou la fatigue d' un voyage .
-# doc_id = 
 1	Jamais	_	Word	Word	_	3	T	3:T	_
 2	une	_	Word	Word	_	3	E	3:E	_
 3	réflexion	_	Word	Word	_	0	root	0:root	_

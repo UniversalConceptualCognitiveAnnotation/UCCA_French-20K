@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 852000
 # text = J' ai dit que le commandant Farragut avait soigneusement pourvu son navire d' appareils propres à pêcher le gigantesque cétacé .
-# doc_id = 
 1	J'	_	Word	Word	_	10	G	10:G	_
 2	ai	_	Word	Word	_	1	flat	1:flat	_
 3	dit	_	Word	Word	_	1	flat	1:flat	_

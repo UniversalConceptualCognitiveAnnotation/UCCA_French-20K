@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 940000
 # text = - Tu as raison , Conseil . C' est une sotte affaire , après tout , et dans laquelle nous nous sommes lancés trop légèrement . Que de temps perdu , que d' émotions inutiles ! Depuis six mois déjà , nous serions rentrés en France ... - Dans le petit appartement de monsieur , répliqua Conseil , dans le Muséum de monsieur ! Et j' aurais déjà classé les fossiles de monsieur ! Et le babiroussa de monsieur serait installé dans sa cage du Jardin des Plantes , et il attirerait tous les curieux de la capitale !
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Tu	_	Word	Word	_	4	A	4:A	_
 3	as	_	Word	Word	_	4	F	4:F	_
@@ -43,7 +42,7 @@
 39	mois	_	Word	Word	_	4	orphan	4:orphan	_
 40	déjà	_	Word	Word	_	39	E	39:E	_
 41	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
-42	nous	_	Word	Word	_	44	A	44:A	_
+42	nous	_	Word	Word	_	44	A	44:A|61:A|52:A	_
 43	serions	_	Word	Word	_	44	F	44:F	_
 44	rentrés	_	Word	Word	_	4	orphan	4:orphan	_
 45	en	_	Word	Word	_	46	R	46:R	_

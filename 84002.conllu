@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 84002
 # text = Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l' Umgullick , n' ont jamais dépassé la longueur de cinquante-six mètres , - si même elles l' atteignent .
-# doc_id = 
 1	Or	_	Word	Word	_	26	L	26:L	_
 2	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 3	les	_	Word	Word	_	6	E	6:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 77000
 # text = L'année 1866 fut marquée par un événement bizarre , un phénomène inexpliqué et inexplicable que personne n' a sans doute oublié .
-# doc_id = 
 1	L'année	_	Word	Word	_	2	E	2:E	_
 2	1866	_	Word	Word	_	0	root	0:root	_
 3	fut	_	Word	Word	_	4	F	4:F	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 89000
 # text = Pendant les premiers mois de l' année 1867 , la question parut être enterrée , et elle ne semblait pas devoir renaître , quand de nouveaux faits furent portés à la connaissance du public .
-# doc_id = 
 1	Pendant	_	Word	Word	_	8	R	8:R	_
 2	les	_	Word	Word	_	4	E	4:E	_
 3	premiers	_	Word	Word	_	4	E	4:E	_

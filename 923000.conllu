@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 923000
 # text = « Bah ! répondait - il , il n' y a rien , monsieur Aronnax , et y eût - il quelque animal , quelle chance avons - nous de l' apercevoir ? Est - ce que nous ne courons pas à l' aventure ? On a revu , dit - on , cette bête introuvable dans les hautes mers du Pacifique , je veux bien l' admettre ; mais deux mois déjà se sont écoulés depuis cette rencontre , et à s' en rapporter au tempérament de votre narwal , il n' aime point à moisir longtemps dans les mêmes parages ! Il est doué d' une prodigieuse facilité de déplacement . Or , vous le savez mieux que moi , monsieur le professeur , la nature ne fait rien à contre sens , et elle ne donnerait pas à un animal lent de sa nature la faculté de se mouvoir rapidement , s' il n' avait pas besoin de s' en servir . Donc , si la bête existe , elle est déjà loin ! »
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Bah	_	Word	Word	_	11	H	11:H	_
 3	!	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -39,7 +38,7 @@
 35	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 36	ce	_	Word	Word	_	40	flat	40:flat	_
 37	que	_	Word	Word	_	40	flat	40:flat	_
-38	nous	_	Word	Word	_	40	A	40:A	_
+38	nous	_	Word	Word	_	40	A	40:A|56:A	_
 39	ne	_	Word	Word	_	40	D	40:D	_
 40	courons	_	Word	Word	_	4	orphan	4:orphan	_
 41	pas	_	Word	Word	_	39	flat	39:flat	_
@@ -47,7 +46,7 @@
 43	l'	_	Word	Word	_	40	flat	40:flat	_
 44	aventure	_	Word	Word	_	40	flat	40:flat	_
 45	?	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-46	On	_	Word	Word	_	48	A	48:A	_
+46	On	_	Word	Word	_	48	A	48:A|79:A	_
 47	a	_	Word	Word	_	48	F	48:F	_
 48	revu	_	Word	Word	_	4	orphan	4:orphan	_
 49	,	_	Punctuation	Punctuation	_	50	punct	50:punct	_
@@ -105,7 +104,7 @@
 101	mêmes	_	Word	Word	_	102	E	102:E	_
 102	parages	_	Word	Word	_	4	orphan	4:orphan	_
 103	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-104	Il	_	Word	Word	_	106	A	106:A	_
+104	Il	_	Word	Word	_	106	A	106:A|112:A	_
 105	est	_	Word	Word	_	106	F	106:F	_
 106	doué	_	Word	Word	_	4	orphan	4:orphan	_
 107	d'	_	Word	Word	_	110	R	110:R	_

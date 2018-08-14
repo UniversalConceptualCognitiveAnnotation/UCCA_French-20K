@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 861001
 # text = Nous avions dépassé le tropique du Capricorne , et le détroit de Magellan s' ouvrait à moins de sept cent milles dans le sud .
-# doc_id = 
 1	Nous	_	Word	Word	_	3	A	3:A	_
 2	avions	_	Word	Word	_	3	F	3:F	_
 3	dépassé	_	Word	Word	_	0	root	0:root	_

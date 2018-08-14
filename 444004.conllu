@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 444004
 # text = On en avait tant causé , et même par le câble transatlantique !
-# doc_id = 
 1	On	_	Word	Word	_	5	A	5:A	_
 2	en	_	Word	Word	_	5	A	5:A	_
 3	avait	_	Word	Word	_	5	F	5:F	_

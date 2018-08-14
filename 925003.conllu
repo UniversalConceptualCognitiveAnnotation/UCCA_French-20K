@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 925003
 # text = La frégate passa donc au large des Pomotou , des Marquises , des Sandwich , coupa le tropique du Cancer par 132 ° de longitude , et se dirigea vers les mers de Chine .
-# doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	0	root	0:root	_
 3	passa	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 792000
 # text = À cet ordre , qui fut transmis à la machine au moyen d' appareils à air comprimé , les mécaniciens firent agir la roue de la mise en train .
-# doc_id = 
 1	À	_	Word	Word	_	3	R	3:R	_
 2	cet	_	Word	Word	_	3	E	3:E	_
 3	ordre	_	Word	Word	_	0	root	0:root	_

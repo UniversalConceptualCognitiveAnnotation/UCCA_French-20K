@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 858002
 # text = Son récit prenait une forme épique , et je croyais écouter quelque Homère canadien , chantant l' Iliade des régions hyperboréennes .
-# doc_id = 
 1	Son	_	Word	Word	_	2	E	2:E	_
 2	récit	_	Word	Word	_	0	root	0:root	_
 3	prenait	_	Word	Word	_	6	D	6:D	_

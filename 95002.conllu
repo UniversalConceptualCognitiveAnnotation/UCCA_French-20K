@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 95002
 # text = Ses roues battaient la mer avec une régularité parfaite .
-# doc_id = 
 1	Ses	_	Word	Word	_	2	E	2:E	_
 2	roues	_	Word	Word	_	0	root	0:root	_
 3	battaient	_	Word	Word	_	2	orphan	2:orphan	_

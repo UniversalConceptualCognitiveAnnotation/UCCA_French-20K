@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 857001
 # text = Ma nationalité l' attirait sans doute .
-# doc_id = 
 1	Ma	_	Word	Word	_	2	E	2:E	_
 2	nationalité	_	Word	Word	_	0	root	0:root	_
 3	l'	_	Word	Word	_	4	A	4:A	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 781000
 # text = Le véhicule à vingt francs la course descendit Broadway jusqu' à Union - square , suivit Fourth - Avenue jusqu' à sa jonction avec Bowery - street , prit Katrin - street et s' arrêta à la trente - quatrième pier .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	véhicule	_	Word	Word	_	0	root	0:root	_
 3	à	_	Word	Word	_	5	R	5:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 862000
 # text = Assis sur la dunette , Ned Land et moi , nous causions de choses et d' autres , regardant cette mystérieuse mer dont les profondeurs sont restées jusqu' ici inaccessibles aux regards de l' homme .
-# doc_id = 
 1	Assis	_	Word	Word	_	0	root	0:root	_
 2	sur	_	Word	Word	_	4	R	4:R	_
 3	la	_	Word	Word	_	4	E	4:E	_

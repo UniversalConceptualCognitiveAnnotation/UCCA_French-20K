@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 870000
 # text = - Remarquez , mon digne Canadien , repris - je , que si un tel animal existe , s' il habite les profondeurs de l' Océan , s' il fréquente les couches liquides situées à quelques milles au - dessous de la surface des eaux , il possède nécessairement un organisme dont la solidité défie toute comparaison .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Remarquez	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

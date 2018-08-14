@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 849002
 # text = Plus d' un s' imposait un quart volontaire dans les barres de perroquet , qui eût maudit une telle corvée en toute autre circonstance .
-# doc_id = 
 1	Plus	_	Word	Word	_	3	E	3:E	_
 2	d'	_	Word	Word	_	3	F	3:F	_
 3	un	_	Word	Word	_	0	root	0:root	_

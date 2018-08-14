@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 87002
 # text = Les journalistes , qui font profession de science en lutte avec ceux qui font profession d' esprit , versèrent des flots d' encre pendant cette mémorable campagne ; quelques - uns même , deux ou trois gouttes de sang , car du serpent de mer , ils en vinrent aux personnalités les plus offensantes .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	journalistes	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

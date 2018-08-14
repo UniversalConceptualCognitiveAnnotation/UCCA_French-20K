@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 101004
 # text = Il fallait donc que l' outil perforant qui l' avait produite fût d' une trempe peu commune , - et après avoir été lancé avec une force prodigieuse , ayant ainsi perce une tôle de quatre centimètres , il avait dû se retirer de lui - même par un mouvement rétrograde et vraiment inexplicable .
-# doc_id = 
 1	Il	_	Word	Word	_	15	F	15:F	_
 2	fallait	_	Word	Word	_	0	root	0:root	_
 3	donc	_	Word	Word	_	15	L	15:L	_

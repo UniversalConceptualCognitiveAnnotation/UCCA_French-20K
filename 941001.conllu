@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 941001
 # text = Au milieu du silence général , une voix venait de se faire entendre .
-# doc_id = 
 1	Au	_	Word	Word	_	2	R	2:R	_
 2	milieu	_	Word	Word	_	0	root	0:root	_
 3	du	_	Word	Word	_	2	R	2:R	_

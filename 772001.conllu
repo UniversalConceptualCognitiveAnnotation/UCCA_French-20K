@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 772001
 # text = Qu' on m' excuse de dire ainsi que j' avais quarante ans .
-# doc_id = 
 1	Qu'	_	Word	Word	_	4	L	4:L	_
 2	on	_	Word	Word	_	4	A	4:A	_
-3	m'	_	Word	Word	_	4	A	4:A	_
+3	m'	_	Word	Word	_	4	A	4:A|6:A	_
 4	excuse	_	Word	Word	_	0	root	0:root	_
 5	de	_	Word	Word	_	6	F	6:F	_
 6	dire	_	Word	Word	_	4	orphan	4:orphan	_

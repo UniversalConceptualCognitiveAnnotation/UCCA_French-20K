@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 441001
 # text = Trêve à ces chimères que le temps a changées pour moi en réalités terribles .
-# doc_id = 
 1	Trêve	_	Word	Word	_	0	root	0:root	_
 2	à	_	Word	Word	_	4	R	4:R	_
 3	ces	_	Word	Word	_	4	E	4:E	_

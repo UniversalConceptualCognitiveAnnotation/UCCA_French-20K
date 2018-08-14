@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 431000
 # text = « Ou nous connaissons toutes les variétés d' êtres qui peuplent notre planète , ou nous ne les connaissons pas .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Ou	_	Word	Word	_	4	L	4:L	_
 3	nous	_	Word	Word	_	4	A	4:A	_

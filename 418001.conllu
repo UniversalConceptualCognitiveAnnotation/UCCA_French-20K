@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 418001
 # text = L' hypothèse de l' îlot flottant , de l' écueil insaisissable , soutenue par quelques esprits peu compétents , était absolument abandonnée .
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	hypothèse	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	5	R	5:R	_

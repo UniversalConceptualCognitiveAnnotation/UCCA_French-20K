@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 860002
 # text = Il évitait même de traiter ce sujet , sur lequel je crus devoir l' entreprendre un jour .
-# doc_id = 
 1	Il	_	Word	Word	_	2	A	2:A	_
 2	évitait	_	Word	Word	_	0	root	0:root	_
 3	même	_	Word	Word	_	2	D	2:D	_

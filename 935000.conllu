@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 935000
 # text = La frégate se trouvait alors par 31°15' de latitude nord et par 136°42' de longitude est .
-# doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	0	root	0:root	_
 3	se	_	Word	Word	_	2	orphan	2:orphan	_

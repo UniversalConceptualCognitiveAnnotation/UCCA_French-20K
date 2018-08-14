@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 849004
 # text = Et cependant , l' Abraham - Lincoln ne tranchait pas encore de son étrave les eaux suspectes du Pacifique .
-# doc_id = 
 1	Et	_	Word	Word	_	9	L	9:L	_
 2	cependant	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

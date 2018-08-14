@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 876003
 # text = Le trou existait si bien qu' il avait fallu le boucher , et je ne pense pas que l' existence du trou puisse se démontrer plus catégoriquement .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	trou	_	Word	Word	_	0	root	0:root	_
 3	existait	_	Word	Word	_	2	orphan	2:orphan	_

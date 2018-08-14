@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 940003
 # text = - Eh bien , monsieur n' aura que ce qu' il mérite !
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Eh	_	Word	Word	_	7	L	7:L	_
 3	bien	_	Word	Word	_	2	flat	2:flat	_

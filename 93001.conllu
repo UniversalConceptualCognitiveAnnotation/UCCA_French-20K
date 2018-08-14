@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 93001
 # text = Cet intelligent industriel fonda , en 1840 , un service postal entre Liverpool et Halifax , avec trois navires en bois et à roues d' une force de quatre cents chevaux , et d' une jauge de onze cent soixante-deux tonneaux .
-# doc_id = 
 1	Cet	_	Word	Word	_	3	E	3:E	_
 2	intelligent	_	Word	Word	_	3	E	3:E	_
 3	industriel	_	Word	Word	_	0	root	0:root	_

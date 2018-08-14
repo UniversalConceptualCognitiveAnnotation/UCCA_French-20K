@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 441002
 # text = Je le répète , l' opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l' existence d' un être prodigieux qui n' avait rien de commun avec les fabuleux serpents de mer .
-# doc_id = 
 1	Je	_	Word	Word	_	3	A	3:A	_
 2	le	_	Word	Word	_	3	A	3:A	_
 3	répète	_	Word	Word	_	0	root	0:root	_
@@ -21,7 +20,7 @@
 17	le	_	Word	Word	_	18	E	18:E	_
 18	public	_	Word	Word	_	3	orphan	3:orphan	_
 19	admit	_	Word	Word	_	3	orphan	3:orphan	_
-20	sans	_	Word	Word	_	3	L	3:L	_
+20	sans	_	Word	Word	_	3	L	3:L|21:D	_
 21	conteste	_	Word	Word	_	3	orphan	3:orphan	_
 22	l'	_	Word	Word	_	23	E	23:E	_
 23	existence	_	Word	Word	_	3	orphan	3:orphan	_

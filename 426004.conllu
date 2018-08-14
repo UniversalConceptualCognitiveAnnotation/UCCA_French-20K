@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 426004
 # text = Tant que je pus nier la réalité du fait , je me renfermai dans une absolue négation .
-# doc_id = 
 1	Tant	_	Word	Word	_	5	L	5:L	_
 2	que	_	Word	Word	_	1	flat	1:flat	_
 3	je	_	Word	Word	_	5	A	5:A	_

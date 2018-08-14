@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 922002
 # text = Mais , huit heures sur douze , cet entêté Canadien lisait ou dormait dans sa cabine .
-# doc_id = 
 1	Mais	_	Word	Word	_	11	L	11:L	_
 2	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 3	huit	_	Word	Word	_	4	E	4:E	_

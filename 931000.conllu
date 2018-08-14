@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 931000
 # text = Une représentation dans ce sens fut faite au commandant .
-# doc_id = 
 1	Une	_	Word	Word	_	2	E	2:E	_
 2	représentation	_	Word	Word	_	0	root	0:root	_
 3	dans	_	Word	Word	_	5	R	5:R	_

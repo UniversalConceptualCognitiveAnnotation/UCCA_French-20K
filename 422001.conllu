@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 422001
 # text = Après les chassepots , les torpilles , après les torpilles , les béliers sous-marins , puis . - la réaction .
-# doc_id = 
 1	Après	_	Word	Word	_	3	R	3:R	_
 2	les	_	Word	Word	_	3	E	3:E	_
 3	chassepots	_	Word	Word	_	0	root	0:root	_

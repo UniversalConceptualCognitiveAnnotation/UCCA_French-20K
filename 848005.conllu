@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 848005
 # text = Il y croyait comme certaines bonnes femmes croient au Léviathan , - par foi , non par raison .
-# doc_id = 
 1	Il	_	Word	Word	_	3	A	3:A	_
 2	y	_	Word	Word	_	3	A	3:A	_
 3	croyait	_	Word	Word	_	0	root	0:root	_

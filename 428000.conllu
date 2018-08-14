@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 428000
 # text = « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l' existence d' un animal marin d' une puissance excessive .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Ainsi	_	Word	Word	_	11	L	11:L	_
 3	donc	_	Word	Word	_	2	flat	2:flat	_

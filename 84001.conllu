@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 84001
 # text = Dans cette observation simultanée , on crut pouvoir évaluer la longueur minimum du mammifère à plus de trois cent cinquante pieds anglais , puisque le Shannon et l' Helvetia étaient de dimension inférieure à lui , bien qu' ils mesurassent cent mètres de l' étrave à l' étambot .
-# doc_id = 
 1	Dans	_	Word	Word	_	3	R	3:R	_
 2	cette	_	Word	Word	_	3	E	3:E	_
 3	observation	_	Word	Word	_	0	root	0:root	_
 4	simultanée	_	Word	Word	_	3	E	3:E	_
 5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	on	_	Word	Word	_	7	A	7:A	_
+6	on	_	Word	Word	_	7	A	7:A|9:A	_
 7	crut	_	Word	Word	_	3	orphan	3:orphan	_
 8	pouvoir	_	Word	Word	_	9	D	9:D	_
 9	évaluer	_	Word	Word	_	3	orphan	3:orphan	_

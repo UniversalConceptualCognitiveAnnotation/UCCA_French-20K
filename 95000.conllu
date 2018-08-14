@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 95000
 # text = Le 13 avril 1867 , la mer étant belle , la brise maniable , le Scotia se trouvait par 15°12' de longitude et 45°37' de latitude .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	13	_	Word	Word	_	0	root	0:root	_
 3	avril	_	Word	Word	_	2	flat	2:flat	_
@@ -20,7 +19,7 @@
 16	Scotia	_	Word	Word	_	2	orphan	2:orphan	_
 17	se	_	Word	Word	_	2	orphan	2:orphan	_
 18	trouvait	_	Word	Word	_	17	flat	17:flat	_
-19	par	_	Word	Word	_	20	R	20:R	_
+19	par	_	Word	Word	_	20	R	20:R|24:R	_
 20	15°12'	_	Word	Word	_	2	orphan	2:orphan	_
 21	de	_	Word	Word	_	22	R	22:R	_
 22	longitude	_	Word	Word	_	2	orphan	2:orphan	_

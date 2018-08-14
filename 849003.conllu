@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 849003
 # text = Tant que le soleil décrivait son arc diurne , la mâture était peuplée de matelots auxquels les planches du pont brûlaient les pieds , et qui n' y pouvaient tenir en place !
-# doc_id = 
 1	Tant	_	Word	Word	_	5	L	5:L	_
 2	que	_	Word	Word	_	1	flat	1:flat	_
 3	le	_	Word	Word	_	4	E	4:E	_

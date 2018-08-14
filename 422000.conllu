@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 422000
 # text = Seul , un gouvernement pouvait posséder une pareille machine destructive , et , en ces temps désastreux où l' homme s' ingénie à multiplier la puissance des armes de guerre , il était possible qu' un État essayât à l' insu des autres ce formidable engin .
-# doc_id = 
 1	Seul	_	Word	Word	_	4	E	4:E	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	un	_	Word	Word	_	4	E	4:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 925000
 # text = Le 20 juillet , le tropique du Capricorne fut coupé par 105 ° de longitude , et le 27 du même mois , nous franchissions l' équateur sur le cent dixième méridien .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	20	_	Word	Word	_	0	root	0:root	_
 3	juillet	_	Word	Word	_	2	flat	2:flat	_
@@ -25,7 +24,7 @@
 21	même	_	Word	Word	_	22	E	22:E	_
 22	mois	_	Word	Word	_	2	orphan	2:orphan	_
 23	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-24	nous	_	Word	Word	_	25	A	25:A	_
+24	nous	_	Word	Word	_	25	A	25:A|10:A	_
 25	franchissions	_	Word	Word	_	2	orphan	2:orphan	_
 26	l'	_	Word	Word	_	27	E	27:E	_
 27	équateur	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 782003
 # text = Un des matelots me conduisit sur la dunette , où je me trouvai en présence d' un officier de bonne mine qui me tendit la main .
-# doc_id = 
 1	Un	_	Word	Word	_	0	root	0:root	_
-2	des	_	Word	Word	_	1	R	1:R	_
+2	des	_	Word	Word	_	1	R	1:R|3:E	_
 3	matelots	_	Word	Word	_	1	orphan	1:orphan	_
 4	me	_	Word	Word	_	5	A	5:A	_
 5	conduisit	_	Word	Word	_	1	orphan	1:orphan	_

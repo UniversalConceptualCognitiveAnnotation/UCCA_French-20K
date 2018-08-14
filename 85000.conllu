@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 85000
 # text = Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l' Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l'état-major du commodore Fitz-James à bord du Lord-Clyde , émurent profondément l' opinion publique .
-# doc_id = 
 1	Ces	_	Word	Word	_	2	E	2:E	_
 2	rapports	_	Word	Word	_	0	root	0:root	_
 3	arrivés	_	Word	Word	_	2	orphan	2:orphan	_

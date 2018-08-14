@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 794000
 # text = Alors , la frégate , suivant du côté de New - Jersey l' admirable rive droite du fleuve toute chargée de villas , passa entre les forts qui la saluèrent de leurs plus gros canons .
-# doc_id = 
 1	Alors	_	Word	Word	_	24	L	24:L	_
 2	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 3	la	_	Word	Word	_	4	E	4:E	_

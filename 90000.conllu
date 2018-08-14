@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 90000
 # text = Le 5 mars 1867 , le Moravian , de Montréal Océan Company , se trouvant pendant la nuit par 27°30' de latitude et 72°15' de longitude , heurta de sa hanche de tribord un roc qu'aucune carte ne marquait dans ces parages .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	5	_	Word	Word	_	0	root	0:root	_
 3	mars	_	Word	Word	_	2	flat	2:flat	_

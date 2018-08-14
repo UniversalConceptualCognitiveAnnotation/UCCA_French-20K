@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 867005
 # text = Le poulpe n' est qu' un mollusque , et ce nom même indique le peu de consistance de ses chairs .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	poulpe	_	Word	Word	_	0	root	0:root	_
 3	n'	_	Word	Word	_	4	D	4:D	_

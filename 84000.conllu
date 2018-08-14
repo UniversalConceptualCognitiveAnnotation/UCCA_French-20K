@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 84000
 # text = Quinze jours plus tard , à deux mille lieues de là , l' Helvetia , de la Compagnie Nationale , et le Shannon , du Royal-Mail , marchant à contrebord dans cette portion de l' Atlantique comprise entre les États-Unis et l' Europe , se signalèrent respectivement le monstre par 42°15' de latitude nord , et 60°35' de longitude à l' ouest du méridien de Greenwich .
-# doc_id = 
 1	Quinze	_	Word	Word	_	2	E	2:E	_
 2	jours	_	Word	Word	_	0	root	0:root	_
 3	plus	_	Word	Word	_	4	E	4:E	_
@@ -51,7 +50,7 @@
 47	respectivement	_	Word	Word	_	45	D	45:D	_
 48	le	_	Word	Word	_	49	E	49:E	_
 49	monstre	_	Word	Word	_	2	orphan	2:orphan	_
-50	par	_	Word	Word	_	51	R	51:R	_
+50	par	_	Word	Word	_	51	R	51:R|57:R	_
 51	42°15'	_	Word	Word	_	2	orphan	2:orphan	_
 52	de	_	Word	Word	_	53	R	53:R	_
 53	latitude	_	Word	Word	_	2	orphan	2:orphan	_

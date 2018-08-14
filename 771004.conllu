@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 771004
 # text = D' ailleurs d' une belle santé qui défiait toutes les maladies ; des muscles solides , mais pas de nerfs , pas l' apparence de nerfs , - au moral , s'entend .
-# doc_id = 
 1	D'	_	Word	Word	_	2	R	2:R	_
 2	ailleurs	_	Word	Word	_	0	root	0:root	_
 3	d'	_	Word	Word	_	6	R	6:R	_

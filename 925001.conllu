@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 925001
 # text = Ce relèvement fait , la frégate prit une direction plus décidée vers l' ouest , et s' engagea dans les mers centrales du Pacifique .
-# doc_id = 
 1	Ce	_	Word	Word	_	2	E	2:E	_
 2	relèvement	_	Word	Word	_	0	root	0:root	_
 3	fait	_	Word	Word	_	2	orphan	2:orphan	_

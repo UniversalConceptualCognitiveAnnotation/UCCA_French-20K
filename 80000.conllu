@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 80000
 # text = À prendre la moyenne des observations faites à diverses reprises - en rejetant les évaluations timides qui assignaient à cet objet une longueur de deux cents pieds et en repoussant les opinions exagérées qui le disaient large d' un mille et long de trois , - on pouvait affirmer , cependant , que cet être phénoménal dépassait de beaucoup toutes les dimensions admises jusqu' à ce jour par les ichtyologistes , - s' il existait toutefois .
-# doc_id = 
 1	À	_	Word	Word	_	2	L	2:L	_
 2	prendre	_	Word	Word	_	0	root	0:root	_
 3	la	_	Word	Word	_	4	E	4:E	_

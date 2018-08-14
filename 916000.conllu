@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 916000
 # text = Le 6 juillet , vers trois heures du soir , I ' Abraham Lincoln , à quinze milles dans le sud , doubla cet îlot solitaire , ce roc perdu à l' extrémité du continent américain , auquel des marins hollandais imposèrent le nom de leur villa natale , le cap Horn .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	6	_	Word	Word	_	0	root	0:root	_
 3	juillet	_	Word	Word	_	2	flat	2:flat	_
@@ -35,7 +34,7 @@
 31	à	_	Word	Word	_	33	R	33:R	_
 32	l'	_	Word	Word	_	33	E	33:E	_
 33	extrémité	_	Word	Word	_	2	orphan	2:orphan	_
-34	du	_	Word	Word	_	33	R	33:R	_
+34	du	_	Word	Word	_	33	R	33:R|35:E	_
 35	continent	_	Word	Word	_	2	orphan	2:orphan	_
 36	américain	_	Word	Word	_	35	E	35:E	_
 37	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_

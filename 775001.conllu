@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 775001
 # text = D' ordinaire , je ne lui demandais jamais s' il lui convenait ou non de me suivre dans mes voyages , mais cette fois , il s' agissait d' une expédition qui pouvait indéfiniment se prolonger , d' une entreprise hasardeuse , à la poursuite d' un animal capable de couler une frégate comme une coque de noix !
-# doc_id = 
 1	D'	_	Word	Word	_	2	R	2:R	_
 2	ordinaire	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
@@ -12,7 +11,7 @@
 8	jamais	_	Word	Word	_	5	flat	5:flat	_
 9	s'	_	Word	Word	_	12	R	12:R	_
 10	il	_	Word	Word	_	12	F	12:F	_
-11	lui	_	Word	Word	_	12	A	12:A	_
+11	lui	_	Word	Word	_	12	A	12:A|17:A	_
 12	convenait	_	Word	Word	_	2	orphan	2:orphan	_
 13	ou	_	Word	Word	_	14	E	14:E	_
 14	non	_	Word	Word	_	2	orphan	2:orphan	_

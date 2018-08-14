@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 785002
 # text = Sous cette pression , l' Abraham - Lincoln atteignait une vitesse moyenne de dix-huit milles et trois dixièmes à l' heure , vitesse considérable , mais cependant insuffisante pour lutter avec le gigantesque cétacé .
-# doc_id = 
 1	Sous	_	Word	Word	_	3	R	3:R	_
 2	cette	_	Word	Word	_	3	E	3:E	_
 3	pression	_	Word	Word	_	0	root	0:root	_

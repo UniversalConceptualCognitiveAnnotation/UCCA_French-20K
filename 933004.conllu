@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 933004
 # text = Les embarcations rayonnèrent dans toutes les directions autour de l ' Abraham-Lincoln , pendant qu' il mettait en panne , et ne laissèrent pas un point de mer inexploré .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	embarcations	_	Word	Word	_	0	root	0:root	_
 3	rayonnèrent	_	Word	Word	_	2	orphan	2:orphan	_

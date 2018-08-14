@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 915000
 # text = L ' équipage lui donna raison à l' unanimité .
-# doc_id = 
 1	L	_	Word	Word	_	3	E	3:E	_
 2	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	équipage	_	Word	Word	_	0	root	0:root	_

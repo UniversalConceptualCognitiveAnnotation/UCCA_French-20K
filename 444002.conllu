@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 444002
 # text = Aucun navire ne le rencontra .
-# doc_id = 
 1	Aucun	_	Word	Word	_	5	D	5:D	_
 2	navire	_	Word	Word	_	5	A	5:A	_
 3	ne	_	Word	Word	_	5	D	5:D	_

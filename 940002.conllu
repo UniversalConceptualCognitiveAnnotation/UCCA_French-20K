@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 940002
 # text = - Effectivement , répondit tranquillement Conseil , je pense que l' on se moquera de monsieur . Et , faut - il le dire ... ? - Il faut le dire , Conseil .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Effectivement	_	Word	Word	_	9	G	9:G	_
 3	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_

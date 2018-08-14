@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 442001
 # text = Les journaux industriels et commerciaux traitèrent la question principalement à ce point de vue .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	journaux	_	Word	Word	_	0	root	0:root	_
 3	industriels	_	Word	Word	_	2	orphan	2:orphan	_

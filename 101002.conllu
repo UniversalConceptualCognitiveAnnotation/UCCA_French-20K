@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 101002
 # text = À deux mètres et demi au - dessous de la flottaison s' ouvrait une déchirure régulière , en forme de triangle isocèle .
-# doc_id = 
 1	À	_	Word	Word	_	11	R	11:R	_
 2	deux	_	Word	Word	_	3	E	3:E	_
 3	mètres	_	Word	Word	_	0	root	0:root	_

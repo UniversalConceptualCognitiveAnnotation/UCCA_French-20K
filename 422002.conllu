@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 422002
 # text = Du moins , je l' espère .
-# doc_id = 
 1	Du	_	Word	Word	_	6	L	6:L	_
 2	moins	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

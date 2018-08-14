@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 787000
 # text = « Nous serons bien ici , dis - je à Conseil .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Nous	_	Word	Word	_	4	A	4:A	_
 3	serons	_	Word	Word	_	4	F	4:F	_

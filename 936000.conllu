@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 936000
 # text = En ce moment , j' étais appuyé à l' avant , sur le bastingage de tribord .
-# doc_id = 
 1	En	_	Word	Word	_	3	R	3:R	_
 2	ce	_	Word	Word	_	3	E	3:E	_
 3	moment	_	Word	Word	_	0	root	0:root	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 446000
 # text = L' émotion causée par cette nouvelle fut extrême .
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	émotion	_	Word	Word	_	0	root	0:root	_
 3	causée	_	Word	Word	_	2	orphan	2:orphan	_

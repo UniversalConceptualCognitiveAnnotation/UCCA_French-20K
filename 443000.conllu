@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 443000
 # text = L' opinion publique s' étant prononcée , les États de l' Union se déclarèrent les premiers .
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	opinion	_	Word	Word	_	0	root	0:root	_
 3	publique	_	Word	Word	_	2	E	2:E	_

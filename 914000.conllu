@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 914000
 # text = La frégate prolongea la côte sud - est de l' Amérique avec une rapidité prodigieuse .
-# doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	0	root	0:root	_
 3	prolongea	_	Word	Word	_	2	orphan	2:orphan	_

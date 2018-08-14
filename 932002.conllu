@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 932002
 # text = L' Océan fut observé avec une nouvelle attention .
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	Océan	_	Word	Word	_	0	root	0:root	_
 3	fut	_	Word	Word	_	4	F	4:F	_

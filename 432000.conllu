@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 432000
 # text = « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d' admettre l' existence de poissons ou de cétacés , d' espèces ou même de genres nouveaux , d' une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu' un événement quelconque , une fantaisie , un caprice , si l' on veut , ramène à de longs intervalles vers le niveau supérieur de l'Océan .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Si	_	Word	Word	_	6	L	6:L	_
 3	nous	_	Word	Word	_	6	A	6:A	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 874000
 # text = - Eh bien , mon digne harponneur , si des vertébrés , longs de plusieurs centaines de mètres et gros à proportion , se maintiennent à de pareilles profondeurs , eux dont la surface est représentée par des millions de centimètres carrés , c' est par milliards de kilogrammes qu' il faut estimer la poussée qu' ils subissent . Calculez alors quelle doit être la résistance de leur charpente osseuse et la puissance de leur organisme pour résister à de telles pressions !
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 2	Eh	_	Word	Word	_	24	L	24:L	_
 3	bien	_	Word	Word	_	2	flat	2:flat	_
@@ -58,7 +57,7 @@
 54	la	_	Word	Word	_	55	E	55:E	_
 55	poussée	_	Word	Word	_	11	orphan	11:orphan	_
 56	qu'	_	Word	Word	_	58	R	58:R	_
-57	ils	_	Word	Word	_	58	A	58:A	_
+57	ils	_	Word	Word	_	58	A	58:A|78:A	_
 58	subissent	_	Word	Word	_	11	orphan	11:orphan	_
 59	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 60	Calculez	_	Word	Word	_	11	orphan	11:orphan	_

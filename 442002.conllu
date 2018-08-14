@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 442002
 # text = La Shipping and Mercantile Gazette , le Lloyd , le Paquebot , la Revue maritime et coloniale , toutes les feuilles dévouées aux Compagnies d' assurances qui menaçaient d' élever le taux de leurs primes , furent unanimes sur ce point .
-# doc_id = 
 1	La	_	Word	Word	_	0	root	0:root	_
 2	Shipping	_	Word	Word	_	1	flat	1:flat	_
 3	and	_	Word	Word	_	1	flat	1:flat	_

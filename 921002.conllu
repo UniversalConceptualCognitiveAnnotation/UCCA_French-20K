@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 921002
 # text = C' était alors la mauvaise saison australe , car le juillet de cette zone correspond à notre janvier d' Europe ; mais la mer se maintenait belle , et se laissait facilement observer dans un vaste périmètre .
-# doc_id = 
 1	C'	_	Word	Word	_	2	F	2:F	_
 2	était	_	Word	Word	_	0	root	0:root	_
 3	alors	_	Word	Word	_	2	T	2:T	_

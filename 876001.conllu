@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 876001
 # text = Ce jour - là , je ne le poussai pas davantage .
-# doc_id = 
 1	Ce	_	Word	Word	_	2	E	2:E	_
 2	jour	_	Word	Word	_	0	root	0:root	_
 3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_

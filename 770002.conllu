@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 770002
 # text = Mais sa science s' arrêtait là .
-# doc_id = 
 1	Mais	_	Word	Word	_	4	L	4:L	_
 2	sa	_	Word	Word	_	3	E	3:E	_
 3	science	_	Word	Word	_	0	root	0:root	_

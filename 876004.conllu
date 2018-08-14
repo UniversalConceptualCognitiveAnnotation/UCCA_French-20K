@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 876004
 # text = Or , ce trou ne s' était pas fait tout seul , et puisqu' il n' avait pas été produit par des roches sous - marines ou des engins sous - marins , il était nécessairement dû à l' outil perforant d' un animal .
-# doc_id = 
 1	Or	_	Word	Word	_	6	L	6:L	_
 2	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	ce	_	Word	Word	_	4	E	4:E	_

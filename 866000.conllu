@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 866000
 # text = - C' est ce qui vous trompe , monsieur le professeur , répondit Ned . Que le vulgaire croie à des comètes extraordinaires qui traversent l' espace , ou à l' existence de monstres antédiluviens qui peuplent l' intérieur du globe , passe encore , mais ni l' astronome , ni le géologue n' admettent de telles chimères . De même , le baleinier . J' ai poursuivi beaucoup de cétacés , j' en ai harponné un grand nombre , j' en ai tué plusieurs , mais si puissants et si bien armés qu' ils fussent , ni leurs queues , ni leurs défenses n' auraient pu entamer les plaques de tôle d' un steamer .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	C'	_	Word	Word	_	7	A	7:A	_
 3	est	_	Word	Word	_	7	F	7:F	_
@@ -41,7 +40,7 @@
 37	peuplent	_	Word	Word	_	7	orphan	7:orphan	_
 38	l'	_	Word	Word	_	39	E	39:E	_
 39	intérieur	_	Word	Word	_	7	orphan	7:orphan	_
-40	du	_	Word	Word	_	39	R	39:R	_
+40	du	_	Word	Word	_	39	R	39:R|41:E	_
 41	globe	_	Word	Word	_	7	orphan	7:orphan	_
 42	,	_	Punctuation	Punctuation	_	43	punct	43:punct	_
 43	passe	_	Word	Word	_	7	orphan	7:orphan	_
@@ -55,7 +54,7 @@
 51	ni	_	Word	Word	_	49	N	49:N	_
 52	le	_	Word	Word	_	53	E	53:E	_
 53	géologue	_	Word	Word	_	7	orphan	7:orphan	_
-54	n'	_	Word	Word	_	55	D	55:D	_
+54	n'	_	Word	Word	_	55	D	55:D|64:D	_
 55	admettent	_	Word	Word	_	7	orphan	7:orphan	_
 56	de	_	Word	Word	_	58	E	58:E	_
 57	telles	_	Word	Word	_	58	E	58:E	_

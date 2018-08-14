@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 859000
 # text = Je dépeins maintenant ce hardi compagnon , tel que je le connais actuellement .
-# doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	dépeins	_	Word	Word	_	0	root	0:root	_
 3	maintenant	_	Word	Word	_	2	T	2:T	_

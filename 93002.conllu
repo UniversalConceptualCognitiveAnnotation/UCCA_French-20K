@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 93002
 # text = Huit ans après , le matériel de la Compagnie s' accroissait de quatre navires de six cent cinquante chevaux et de dix-huit cent vingt tonnes , et , deux ans plus tard , de deux autres bâtiments supérieurs en puissance et en tonnage .
-# doc_id = 
 1	Huit	_	Word	Word	_	2	E	2:E	_
 2	ans	_	Word	Word	_	0	root	0:root	_
 3	après	_	Word	Word	_	2	R	2:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 936004
 # text = Parfois le sombre Océan étincelait sous un rayon que la lune dardait entre la frange de deux nuages .
-# doc_id = 
 1	Parfois	_	Word	Word	_	5	T	5:T	_
 2	le	_	Word	Word	_	4	E	4:E	_
 3	sombre	_	Word	Word	_	4	E	4:E	_

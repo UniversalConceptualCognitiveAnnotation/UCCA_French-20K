@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 98001
 # text = En effet , le danger ne pouvait être imminent .
-# doc_id = 
 1	En	_	Word	Word	_	2	R	2:R	_
 2	effet	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

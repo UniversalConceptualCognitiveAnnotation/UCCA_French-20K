@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 94002
 # text = Depuis vingt-six ans , les navires Cunard ont traversé deux mille fois l' Atlantique , et jamais un voyage n' a été manqué , jamais un retard n' a eu lieu , jamais ni une lettre , ni un homme , ni un bâtiment n' ont été perdus .
-# doc_id = 
 1	Depuis	_	Word	Word	_	3	R	3:R	_
 2	vingt-six	_	Word	Word	_	3	E	3:E	_
 3	ans	_	Word	Word	_	0	root	0:root	_

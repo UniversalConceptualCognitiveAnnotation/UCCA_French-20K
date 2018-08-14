@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 95003
 # text = Son tirant d' eau était alors de six mètres soixante-dix centimètres , et son déplacement de six mille six cent vingt-quatre mètres cubes .
-# doc_id = 
 1	Son	_	Word	Word	_	2	E	2:E	_
 2	tirant	_	Word	Word	_	0	root	0:root	_
 3	d'	_	Word	Word	_	2	flat	2:flat	_

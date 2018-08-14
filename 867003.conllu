@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 867003
 # text = Un poulpe gigantesque , peut-être ?
-# doc_id = 
 1	Un	_	Word	Word	_	2	E	2:E	_
 2	poulpe	_	Word	Word	_	0	root	0:root	_
 3	gigantesque	_	Word	Word	_	2	E	2:E	_

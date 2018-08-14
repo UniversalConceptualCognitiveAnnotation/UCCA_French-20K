@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 853000
 # text = Donc , l' Abraham - Lincoln ne manquait d' aucun moyen de destruction .
-# doc_id = 
 1	Donc	_	Word	Word	_	8	L	8:L	_
 2	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 3	l'	_	Word	Word	_	4	E	4:E	_

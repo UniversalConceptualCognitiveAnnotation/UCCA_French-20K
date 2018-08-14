@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 772000
 # text = Ce garçon avait trente ans , et son âge était à celui de son maître comme quinze est à vingt .
-# doc_id = 
 1	Ce	_	Word	Word	_	2	E	2:E	_
 2	garçon	_	Word	Word	_	0	root	0:root	_
 3	avait	_	Word	Word	_	5	F	5:F	_

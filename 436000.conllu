@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 436000
 # text = « Eh bien ! supposez l' arme dix fois plus forte , et l' animal dix fois plus puissant , lancez - le avec une rapidité de vingt milles à l' heure , multipliez sa masse par sa vitesse , et vous obtenez un choc capable de produire la catastrophe demandée .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Eh	_	Word	Word	_	5	L	5:L	_
 3	bien	_	Word	Word	_	2	flat	2:flat	_

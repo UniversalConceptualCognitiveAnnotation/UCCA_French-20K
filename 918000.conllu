@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 918000
 # text = Et ils l' ouvraient démesurément .
-# doc_id = 
 1	Et	_	Word	Word	_	4	L	4:L	_
 2	ils	_	Word	Word	_	4	A	4:A	_
 3	l'	_	Word	Word	_	4	A	4:A	_

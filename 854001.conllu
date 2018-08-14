@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 854001
 # text = Adresse et sang-froid , audace et ruse , il possédait ces qualités à un degré supérieur , et il fallait être une baleine bien maligne , ou un cachalot singulièrement astucieux pour échapper à son coup de harpon .
-# doc_id = 
 1	Adresse	_	Word	Word	_	0	root	0:root	_
 2	et	_	Word	Word	_	1	N	1:N	_
 3	sang-froid	_	Word	Word	_	1	C	1:C	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 781001
 # text = Là , le Katrin - ferry - boat nous transporta , hommes , chevaux et voiture , à Brooklyn , la grande annexe de New York , située sur la rive gauche de la rivière de l' Est , et en quelques minutes , nous arrivions au quai près duquel l' Abraham - Lincoln vomissait par ses deux cheminées des torrents de fumée noire .
-# doc_id = 
 1	Là	_	Word	Word	_	10	A	10:A	_
 2	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 3	le	_	Word	Word	_	8	E	8:E	_

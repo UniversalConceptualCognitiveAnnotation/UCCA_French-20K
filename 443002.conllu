@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 443002
 # text = Une frégate de grande marche l' Abraham - Lincoln , se mit en mesure de prendre la mer au plus tôt .
-# doc_id = 
 1	Une	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	5	R	5:R	_

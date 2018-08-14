@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 920001
 # text = L' Abraham - Lincoln modifiait sa route , courait sur l' animal signalé , simple baleine ou cachalot vulgaire , qui disparaissait bientôt au milieu d' un concert d' imprécations !
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	Abraham	_	Word	Word	_	0	root	0:root	_
 3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_

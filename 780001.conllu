@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 780001
 # text = Je descendis les quelques marches qui conduisaient au rez - de - chaussée .
-# doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	descendis	_	Word	Word	_	0	root	0:root	_
 3	les	_	Word	Word	_	5	E	5:E	_

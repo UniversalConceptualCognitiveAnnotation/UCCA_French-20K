@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 872008
 # text = Or , mon brave Ned , savez - vous ce que vous avez de centimètres carrés en surface ?
-# doc_id = 
 1	Or	_	Word	Word	_	7	L	7:L	_
 2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 3	mon	_	Word	Word	_	5	E	5:E	_

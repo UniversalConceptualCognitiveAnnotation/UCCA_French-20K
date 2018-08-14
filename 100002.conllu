@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 100002
 # text = Une telle voie d' eau ne pouvait être aveuglée , et le Scotia , ses roues à demi noyées , dut continuer ainsi son voyage .
-# doc_id = 
 1	Une	_	Word	Word	_	3	E	3:E	_
 2	telle	_	Word	Word	_	3	E	3:E	_
 3	voie	_	Word	Word	_	0	root	0:root	_

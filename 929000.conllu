@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 929000
 # text = Avec la mobilité naturelle à l' esprit humain , d' un excès on se jeta dans un autre .
-# doc_id = 
 1	Avec	_	Word	Word	_	3	R	3:R	_
 2	la	_	Word	Word	_	3	E	3:E	_
 3	mobilité	_	Word	Word	_	0	root	0:root	_

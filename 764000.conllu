@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 764000
 # text = ﻿ Trois secondes avant l' arrivée de la lettre de J . -B . Hobson , je ne songeais pas plus à poursuivre la Licorne qu' à tenter le passage du Nord - Ouest .
-# doc_id = 
 1	﻿	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Trois	_	Word	Word	_	3	E	3:E	_
 3	secondes	_	Word	Word	_	0	root	0:root	_
@@ -18,7 +17,7 @@
 14	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 15	Hobson	_	Word	Word	_	11	flat	11:flat	_
 16	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-17	je	_	Word	Word	_	19	A	19:A	_
+17	je	_	Word	Word	_	19	A	19:A|28:A|23:A	_
 18	ne	_	Word	Word	_	19	D	19:D	_
 19	songeais	_	Word	Word	_	3	orphan	3:orphan	_
 20	pas	_	Word	Word	_	18	flat	18:flat	_

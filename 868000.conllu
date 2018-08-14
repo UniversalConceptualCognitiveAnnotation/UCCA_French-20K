@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 868000
 # text = - Alors , monsieur le naturaliste , reprit Ned Land d' un ton assez narquois , vous persistez à admettre l' existence d' un énorme cétacé ... ? - Oui , Ned , je vous le répète avec une conviction qui s' appuie sur la logique des faits . Je crois à l' existence d' un mammifère , puissamment organisé , appartenant à l' embranchement des vertébrés , comme les baleines , les cachalots ou les dauphins , et muni d' une défense cornée dont la force de pénétration est extrême .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Alors	_	Word	Word	_	20	L	20:L	_
 3	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
@@ -67,7 +66,7 @@
 63	à	_	Word	Word	_	65	R	65:R	_
 64	l'	_	Word	Word	_	65	E	65:E	_
 65	embranchement	_	Word	Word	_	6	orphan	6:orphan	_
-66	des	_	Word	Word	_	65	R	65:R	_
+66	des	_	Word	Word	_	65	R	65:R|67:E	_
 67	vertébrés	_	Word	Word	_	6	orphan	6:orphan	_
 68	,	_	Punctuation	Punctuation	_	62	punct	62:punct	_
 69	comme	_	Word	Word	_	71	R	71:R	_

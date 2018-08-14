@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 852001
 # text = Un baleinier n' eût pas été mieux armé .
-# doc_id = 
 1	Un	_	Word	Word	_	2	E	2:E	_
 2	baleinier	_	Word	Word	_	0	root	0:root	_
 3	n'	_	Word	Word	_	8	D	8:D	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 435000
 # text = « En effet , le narwal est armé d' une sorte d' épée d' ivoire , d' une hallebarde , suivant l' expression de certains naturalistes . C' est une dent principale qui a la dureté de l' acier . On a trouvé quelques - unes de ces dents implantées dans le corps des baleines que le narwal attaque toujours avec succès . D' autres ont été arrachées , non sans peine , de carènes de vaisseaux qu' elles avaient percées d' outre en outre , comme un foret perce un tonneau . Le musée de la Faculté de médecine de Paris possède une de ces défenses longue de deux mètres vingt-cinq centimètres , et large de quarante-huit centimètres à sa base !
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	En	_	Word	Word	_	3	R	3:R	_
 3	effet	_	Word	Word	_	0	root	0:root	_

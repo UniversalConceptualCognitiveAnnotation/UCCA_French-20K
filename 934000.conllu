@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 934000
 # text = Le lendemain , 5 novembre , à midi , expirait le délai de rigueur .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	lendemain	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

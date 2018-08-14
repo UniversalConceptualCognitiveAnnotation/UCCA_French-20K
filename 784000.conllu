@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 784000
 # text = Je saluai , et laissant le commandant aux soins de son appareillage , je me fis conduire à la cabine qui m' était destinée .
-# doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	saluai	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

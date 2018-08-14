@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 924001
 # text = Évidemment , nous marchions en aveugles .
-# doc_id = 
 1	Évidemment	_	Word	Word	_	4	G	4:G	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	nous	_	Word	Word	_	4	A	4:A	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 438000
 # text = « Ainsi s' expliquerait ce phénomène inexplicable , - à moins qu' il n' y ait rien , en dépit de ce qu' on a entrevu , vu , senti et ressenti , - ce qui est encore possible ! »
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Ainsi	_	Word	Word	_	3	L	3:L	_
 3	s'	_	Word	Word	_	0	root	0:root	_

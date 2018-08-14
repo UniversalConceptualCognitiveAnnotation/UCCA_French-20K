@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 86001
 # text = Les canards eurent là une belle occasion de pondre des œufs de toute couleur .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	canards	_	Word	Word	_	0	root	0:root	_
 3	eurent	_	Word	Word	_	2	orphan	2:orphan	_

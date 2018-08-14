@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 915002
 # text = Bon nombre de matelots affirmaient que le monstre n' y pouvait passer , « qu' il était trop gros pour cela ! »
-# doc_id = 
 1	Bon	_	Word	Word	_	2	E	2:E	_
 2	nombre	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	2	R	2:R	_

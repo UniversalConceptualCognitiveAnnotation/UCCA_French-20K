@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 100000
 # text = Le capitaine Anderson fit stopper immédiatement , et l' un des matelots plongea pour reconnaître l' avarie .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	capitaine	_	Word	Word	_	0	root	0:root	_
 3	Anderson	_	Word	Word	_	2	orphan	2:orphan	_

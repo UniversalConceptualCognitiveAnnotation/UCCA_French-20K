@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 875006
 # text = - C' est peut-être ... , dit Ned hésitant .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	C'	_	Word	Word	_	3	A	3:A	_
 3	est	_	Word	Word	_	0	root	0:root	_

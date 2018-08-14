@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 427001
 # text = Je parlai faute de pouvoir me taire .
-# doc_id = 
-1	Je	_	Word	Word	_	2	A	2:A	_
+1	Je	_	Word	Word	_	2	A	2:A|6:A	_
 2	parlai	_	Word	Word	_	0	root	0:root	_
 3	faute	_	Word	Word	_	2	L	2:L	_
 4	de	_	Word	Word	_	3	flat	3:flat	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 865000
 # text = - Cependant , Ned , vous , un baleinier de profession , vous qui êtes familiarisé avec les grands mammifères marins , vous dont l' imagination doit aisément accepter l' hypothèse de cétacés énormes , vous devriez être le dernier à douter en de pareilles circonstances !
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	38	punct	38:punct	_
 2	Cependant	_	Word	Word	_	38	L	38:L	_
 3	,	_	Punctuation	Punctuation	_	38	punct	38:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 98000
 # text = Tout d' abord , les passagers furent très - effrayés ; mais le capitaine Anderson se hâta de les rassurer .
-# doc_id = 
 1	Tout	_	Word	Word	_	10	L	10:L	_
 2	d'	_	Word	Word	_	1	flat	1:flat	_
 3	abord	_	Word	Word	_	1	flat	1:flat	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 779000
 # text = Un quart d' heure après , nos malles étaient prêtes .
-# doc_id = 
 1	Un	_	Word	Word	_	0	root	0:root	_
 2	quart	_	Word	Word	_	1	flat	1:flat	_
 3	d'	_	Word	Word	_	1	flat	1:flat	_

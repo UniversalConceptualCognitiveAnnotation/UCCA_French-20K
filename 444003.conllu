@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 444003
 # text = Il semblait que cette Licorne eût connaissance des complots qui se tramaient contre elle .
-# doc_id = 
 1	Il	_	Word	Word	_	7	G	7:G	_
 2	semblait	_	Word	Word	_	1	flat	1:flat	_
 3	que	_	Word	Word	_	7	L	7:L	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 850003
 # text = Je laisse à penser si les yeux s' exerçaient à bord de l' Abraham-Lincoln .
-# doc_id = 
 1	Je	_	Word	Word	_	8	G	8:G	_
 2	laisse	_	Word	Word	_	1	flat	1:flat	_
 3	à	_	Word	Word	_	1	flat	1:flat	_

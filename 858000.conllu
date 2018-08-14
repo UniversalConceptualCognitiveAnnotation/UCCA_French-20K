@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 858000
 # text = Peu à peu , Ned prit goût à causer , et j' aimais à entendre le récit de ses aventures dans les mers polaires .
-# doc_id = 
 1	Peu	_	Word	Word	_	0	root	0:root	_
 2	à	_	Word	Word	_	1	R	1:R	_
 3	peu	_	Word	Word	_	1	C	1:C	_

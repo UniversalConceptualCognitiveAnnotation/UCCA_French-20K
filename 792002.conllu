@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 792002
 # text = Les longs pistons horizontaux gémirent et poussèrent les bielles de l' arbre .
-# doc_id = 
 1	Les	_	Word	Word	_	3	E	3:E	_
 2	longs	_	Word	Word	_	3	E	3:E	_
 3	pistons	_	Word	Word	_	0	root	0:root	_

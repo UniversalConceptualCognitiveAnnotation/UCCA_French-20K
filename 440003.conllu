@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 440003
 # text = L'esprit humain se plaît à ces conceptions grandioses d' êtres surnaturels .
-# doc_id = 
 1	L'esprit	_	Word	Word	_	0	root	0:root	_
 2	humain	_	Word	Word	_	1	E	1:E	_
 3	se	_	Word	Word	_	1	orphan	1:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 853001
 # text = Mais il avait mieux encore .
-# doc_id = 
 1	Mais	_	Word	Word	_	3	L	3:L	_
 2	il	_	Word	Word	_	3	A	3:A	_
 3	avait	_	Word	Word	_	0	root	0:root	_

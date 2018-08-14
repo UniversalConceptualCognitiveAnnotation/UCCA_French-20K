@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 773000
 # text = Seulement , Conseil avait un défaut .
-# doc_id = 
 1	Seulement	_	Word	Word	_	4	L	4:L	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	Conseil	_	Word	Word	_	4	A	4:A	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 90002
 # text = Nul doute que sans la qualité supérieure de sa coque , le Moravian , ouvert au choc , ne se fût englouti avec les deux cent trente-sept passagers qu' il ramenait du Canada .
-# doc_id = 
 1	Nul	_	Word	Word	_	20	G	20:G	_
 2	doute	_	Word	Word	_	1	flat	1:flat	_
 3	que	_	Word	Word	_	1	flat	1:flat	_

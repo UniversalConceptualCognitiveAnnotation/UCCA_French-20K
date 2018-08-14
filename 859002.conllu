@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 859002
 # text = Ah ! brave Ned ! je ne demande qu' à vivre cent ans encore , pour me souvenir plus longtemps de toi !
-# doc_id = 
 1	Ah	_	Word	Word	_	3	F	3:F	_
 2	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	brave	_	Word	Word	_	0	root	0:root	_
 4	Ned	_	Word	Word	_	3	A	3:A	_
 5	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-6	je	_	Word	Word	_	8	A	8:A	_
+6	je	_	Word	Word	_	8	A	8:A|11:A	_
 7	ne	_	Word	Word	_	8	D	8:D	_
 8	demande	_	Word	Word	_	3	orphan	3:orphan	_
 9	qu'	_	Word	Word	_	7	flat	7:flat	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 938000
 # text = « Allons , Conseil , lui dis - je , voilà une dernière occasion d' empocher deux mille dollars .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Allons	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

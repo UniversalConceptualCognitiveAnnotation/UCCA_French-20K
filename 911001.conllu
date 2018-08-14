@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 911001
 # text = Le voyage de l' Abraham-Lincoln , pendant quelque temps , ne fut marqué par aucun incident .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	voyage	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	5	R	5:R	_

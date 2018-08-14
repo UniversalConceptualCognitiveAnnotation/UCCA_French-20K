@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 848002
 # text = Son navire et lui ne faisaient qu' un .
-# doc_id = 
 1	Son	_	Word	Word	_	2	E	2:E	_
 2	navire	_	Word	Word	_	0	root	0:root	_
 3	et	_	Word	Word	_	2	N	2:N	_

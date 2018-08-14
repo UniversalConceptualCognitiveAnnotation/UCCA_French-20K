@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 857002
 # text = C' était une occasion pour lui de parler , et pour moi d' entendre cette vieille langue de Rabelais qui est encore en usage dans quelques provinces canadiennes .
-# doc_id = 
-1	C'	_	Word	Word	_	4	A	4:A	_
+1	C'	_	Word	Word	_	4	A	4:A|12:A	_
 2	était	_	Word	Word	_	4	F	4:F	_
 3	une	_	Word	Word	_	4	E	4:E	_
 4	occasion	_	Word	Word	_	0	root	0:root	_

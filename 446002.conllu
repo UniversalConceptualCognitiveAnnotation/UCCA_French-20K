@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 446002
 # text = Ses vivres étaient embarqués .
-# doc_id = 
 1	Ses	_	Word	Word	_	2	E	2:E	_
 2	vivres	_	Word	Word	_	0	root	0:root	_
 3	étaient	_	Word	Word	_	4	F	4:F	_

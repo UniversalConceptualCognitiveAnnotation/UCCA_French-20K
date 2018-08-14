@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 912003
 # text = Et le hasard servit si bien notre Canadien , qu' au lieu d' une baleine , il en harponna deux d' un coup double , frappant l' une droit au cœur , et s' emparant de l' autre après une poursuite de quelques minutes !
-# doc_id = 
 1	Et	_	Word	Word	_	4	L	4:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	hasard	_	Word	Word	_	0	root	0:root	_
@@ -18,7 +17,7 @@
 14	une	_	Word	Word	_	15	E	15:E	_
 15	baleine	_	Word	Word	_	3	orphan	3:orphan	_
 16	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-17	il	_	Word	Word	_	19	A	19:A	_
+17	il	_	Word	Word	_	19	A	19:A|34:A|26:A|41:A	_
 18	en	_	Word	Word	_	3	orphan	3:orphan	_
 19	harponna	_	Word	Word	_	3	orphan	3:orphan	_
 20	deux	_	Word	Word	_	18	E	18:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 875005
 # text = - Mais s' ils n' existent pas , entêté harponneur , comment expliquez - vous l' accident arrivé au Scotia ?
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Mais	_	Word	Word	_	6	L	6:L	_
 3	s'	_	Word	Word	_	6	L	6:L	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 82000
 # text = En effet , le 20 juillet 1866 , le steamer Governor- Higginson , de Calcutta and Burnach steam navigation Company , avait rencontré cette masse mouvante à cinq milles dans l' est des côtes de l' Australie .
-# doc_id = 
 1	En	_	Word	Word	_	2	E	2:E	_
 2	effet	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_

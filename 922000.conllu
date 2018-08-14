@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 922000
 # text = Ned Land montrait toujours la plus tenace incrédulité ; il affectait même de ne point examiner la surface des flots en dehors de son temps de bordée , - du moins quand aucune baleine n' était en vue .
-# doc_id = 
 1	Ned	_	Word	Word	_	3	A	3:A	_
 2	Land	_	Word	Word	_	1	flat	1:flat	_
 3	montrait	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	tenace	_	Word	Word	_	3	orphan	3:orphan	_
 8	incrédulité	_	Word	Word	_	3	orphan	3:orphan	_
 9	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-10	il	_	Word	Word	_	11	A	11:A	_
+10	il	_	Word	Word	_	11	A	11:A|16:A	_
 11	affectait	_	Word	Word	_	3	orphan	3:orphan	_
 12	même	_	Word	Word	_	11	D	11:D	_
 13	de	_	Word	Word	_	16	F	16:F	_

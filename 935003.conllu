@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 935003
 # text = On venait de piquer huit heures .
-# doc_id = 
 1	On	_	Word	Word	_	4	A	4:A	_
 2	venait	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	2	R	2:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 423003
 # text = Garder le secret dans ces circonstances est très - difficile pour un particulier , et certainement impossible pour un État dont tous les actes sont obstinément surveillés par les puissances rivales .
-# doc_id = 
 1	Garder	_	Word	Word	_	0	root	0:root	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	secret	_	Word	Word	_	1	orphan	1:orphan	_

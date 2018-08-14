@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 928001
 # text = Un nouveau sentiment se produisit à bord , qui se composait de trois dixièmes de honte contre sept dixièmes de fureur .
-# doc_id = 
 1	Un	_	Word	Word	_	3	E	3:E	_
 2	nouveau	_	Word	Word	_	3	E	3:E	_
 3	sentiment	_	Word	Word	_	0	root	0:root	_

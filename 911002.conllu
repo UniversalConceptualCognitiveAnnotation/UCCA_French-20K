@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 911002
 # text = Cependant une circonstance se présenta , qui mit en relief la merveilleuse habileté de Ned Land , et montra quelle confiance on devait avoir en lui .
-# doc_id = 
 1	Cependant	_	Word	Word	_	4	L	4:L	_
 2	une	_	Word	Word	_	3	E	3:E	_
 3	circonstance	_	Word	Word	_	0	root	0:root	_

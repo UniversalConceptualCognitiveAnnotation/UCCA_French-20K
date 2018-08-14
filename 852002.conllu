@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 852002
 # text = Nous possédions tous les engins connus , depuis le harpon qui se lance à la main , jusqu' aux flèches barbelées des espingoles et aux balles explosibles des canardières .
-# doc_id = 
 1	Nous	_	Word	Word	_	0	root	0:root	_
 2	possédions	_	Word	Word	_	1	orphan	1:orphan	_
 3	tous	_	Word	Word	_	1	E	1:E	_

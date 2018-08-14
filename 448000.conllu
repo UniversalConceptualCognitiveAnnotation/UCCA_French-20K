@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 448000
 # text = « Monsieur Aronnax , professeur au Muséum de Paris , « Fifth Avenue hotel . « New York . « Monsieur , « Si vous voulez vous joindre à l' expédition de l' Abraham - Lincoln , le gouvernement de l' Union verra avec plaisir que la France soit représentée par vous dans cette entreprise . Le commandant Farragut tient une cabine à votre disposition . « Très - cordialement , votre « J . -B . HOBSON , Secrétaire de la marine . »
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Monsieur	_	Word	Word	_	0	root	0:root	_
 3	Aronnax	_	Word	Word	_	2	flat	2:flat	_
@@ -26,7 +25,7 @@
 22	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 23	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 24	Si	_	Word	Word	_	2	L	2:L	_
-25	vous	_	Word	Word	_	26	A	26:A	_
+25	vous	_	Word	Word	_	26	A	26:A|27:A	_
 26	voulez	_	Word	Word	_	2	orphan	2:orphan	_
 27	vous	_	Word	Word	_	2	orphan	2:orphan	_
 28	joindre	_	Word	Word	_	27	flat	27:flat	_

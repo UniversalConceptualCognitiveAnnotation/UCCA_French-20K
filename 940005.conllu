@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 940005
 # text = - Quand on a l' honneur d' être un savant comme monsieur , on ne s' expose pas ... »
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Quand	_	Word	Word	_	6	L	6:L	_
 3	on	_	Word	Word	_	6	A	6:A	_

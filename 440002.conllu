@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 440002
 # text = La solution qu' il proposait , d' ailleurs , laissait libre carrière à l' imagination .
-# doc_id = 
 1	La	_	Word	Word	_	2	E	2:E	_
 2	solution	_	Word	Word	_	0	root	0:root	_
 3	qu'	_	Word	Word	_	5	R	5:R	_

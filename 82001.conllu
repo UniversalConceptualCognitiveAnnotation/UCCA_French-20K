@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 82001
 # text = Le capitaine Baker se crut , tout d' abord , en présence d' un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d'eau , projetées par l' inexplicable objet , s' élancèrent en sifflant à cent cinquante pieds dans l'air .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	capitaine	_	Word	Word	_	0	root	0:root	_
 3	Baker	_	Word	Word	_	2	orphan	2:orphan	_

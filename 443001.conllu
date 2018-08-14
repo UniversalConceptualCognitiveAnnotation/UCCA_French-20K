@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 443001
 # text = On fit à New York les préparatifs d' une expédition destinée à poursuivre le narwal .
-# doc_id = 
 1	On	_	Word	Word	_	2	A	2:A	_
 2	fit	_	Word	Word	_	0	root	0:root	_
 3	à	_	Word	Word	_	4	R	4:R	_

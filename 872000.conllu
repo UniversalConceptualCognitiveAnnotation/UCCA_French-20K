@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 872000
 # text = - Oh ! les chiffres ! répliqua Ned . On fait ce qu' on veut avec les chiffres !
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Oh	_	Word	Word	_	5	F	5:F	_
 3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_

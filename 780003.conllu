@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 780003
 # text = Je donnai l' ordre d' expédier pour Paris ( France ) mes ballots d' animaux empaillés et de plantes desséchées .
-# doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	donnai	_	Word	Word	_	0	root	0:root	_
 3	l'	_	Word	Word	_	2	flat	2:flat	_

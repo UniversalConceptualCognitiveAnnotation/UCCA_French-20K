@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 922003
 # text = Cent fois , je lui reprochai son indifférence .
-# doc_id = 
 1	Cent	_	Word	Word	_	2	E	2:E	_
 2	fois	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

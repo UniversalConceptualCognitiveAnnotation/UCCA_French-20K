@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 918002
 # text = Jour et nuit , on observait la surface de l' Océan , et les nyctalopes , dont la faculté de voir dans l' obscurité accroissait les chances de cinquante pour cent , avaient beau jeu pour gagner la prime .
-# doc_id = 
 1	Jour	_	Word	Word	_	0	root	0:root	_
 2	et	_	Word	Word	_	1	N	1:N	_
 3	nuit	_	Word	Word	_	1	C	1:C	_

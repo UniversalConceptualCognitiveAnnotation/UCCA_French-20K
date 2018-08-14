@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 918001
 # text = Les yeux et les lunettes , un peu éblouis , il est vrai , par la perspective de deux mille dollars , ne restèrent pas un instant au repos .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	yeux	_	Word	Word	_	0	root	0:root	_
 3	et	_	Word	Word	_	2	N	2:N	_

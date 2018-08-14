@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 92001
 # text = Seulement , grâce à la nationalité du navire victime de ce nouvel abordage , grâce à la réputation de la Compagnie à laquelle ce navire appartenait , l'événement eut un retentissement immense
-# doc_id = 
 1	Seulement	_	Word	Word	_	31	L	31:L	_
 2	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
 3	grâce	_	Word	Word	_	0	root	0:root	_

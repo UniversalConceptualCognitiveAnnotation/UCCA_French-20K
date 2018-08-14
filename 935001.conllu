@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 935001
 # text = Les terres du Japon nous restaient à moins de deux cents milles sous le vent .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	terres	_	Word	Word	_	0	root	0:root	_
 3	du	_	Word	Word	_	4	R	4:R	_

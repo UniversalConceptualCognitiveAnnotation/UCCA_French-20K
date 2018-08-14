@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 928003
 # text = Les montagnes d' arguments entassés depuis un an s' écroulèrent à la fois , et chacun ne songea plus qu' à se rattraper aux heures de repas ou de sommeil du temps qu' il avait si sottement sacrifié .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	montagnes	_	Word	Word	_	0	root	0:root	_
 3	d'	_	Word	Word	_	2	R	2:R	_
@@ -17,7 +16,7 @@
 13	fois	_	Word	Word	_	2	orphan	2:orphan	_
 14	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 15	et	_	Word	Word	_	9	L	9:L	_
-16	chacun	_	Word	Word	_	18	A	18:A	_
+16	chacun	_	Word	Word	_	18	A	18:A|22:A	_
 17	ne	_	Word	Word	_	18	D	18:D	_
 18	songea	_	Word	Word	_	2	orphan	2:orphan	_
 19	plus	_	Word	Word	_	17	flat	17:flat	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 921000
 # text = Cependant , le temps restait favorable .
-# doc_id = 
 1	Cependant	_	Word	Word	_	6	L	6:L	_
 2	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	le	_	Word	Word	_	4	E	4:E	_

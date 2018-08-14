@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 429000
 # text = « Les grandes profondeurs de l' Océan nous sont totalement inconnues . La sonde n' a su les atteindre . Que se passe - t - il dans ces abîmes reculés ? Quels êtres habitent et peuvent habiter à douze ou quinze milles au - dessous de la surface des eaux ? Quel est l' organisme de ces animaux ? On saurait à peine le conjecturer .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Les	_	Word	Word	_	4	E	4:E	_
 3	grandes	_	Word	Word	_	4	E	4:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 858001
 # text = Il racontait ses pêches et ses combats avec une grande poésie naturelle .
-# doc_id = 
 1	Il	_	Word	Word	_	2	A	2:A	_
 2	racontait	_	Word	Word	_	0	root	0:root	_
 3	ses	_	Word	Word	_	4	E	4:E	_

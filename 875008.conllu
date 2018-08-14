@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 875008
 # text = - Parce que ... ça n' est pas vrai ! » répondit le Canadien , en reproduisant sans le savoir une célèbre réponse d' Arago .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	Parce	_	Word	Word	_	9	L	9:L	_
 3	que	_	Word	Word	_	2	flat	2:flat	_

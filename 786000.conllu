@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 786000
 # text = Les aménagements intérieurs de la frégate répondaient à ses qualités nautiques .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	aménagements	_	Word	Word	_	0	root	0:root	_
 3	intérieurs	_	Word	Word	_	2	E	2:E	_

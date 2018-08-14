@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 416000
 # text = À l' époque où ces événements se produisirent , je revenais d' une exploration scientifique entreprise dans les mauvaises terres du Nebraska , aux États-Unis .
-# doc_id = 
 1	À	_	Word	Word	_	3	R	3:R	_
 2	l'	_	Word	Word	_	3	E	3:E	_
 3	époque	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	se	_	Word	Word	_	8	E	8:E	_
 8	produisirent	_	Word	Word	_	3	orphan	3:orphan	_
 9	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-10	je	_	Word	Word	_	11	A	11:A	_
+10	je	_	Word	Word	_	11	A	11:A|16:A	_
 11	revenais	_	Word	Word	_	3	orphan	3:orphan	_
 12	d'	_	Word	Word	_	14	R	14:R	_
 13	une	_	Word	Word	_	14	E	14:E	_

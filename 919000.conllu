@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 919000
 # text = Moi , que l' appât de l' argent n' attirait guère , je n' étais pourtant pas le moins attentif du bord .
-# doc_id = 
 1	Moi	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	que	_	Word	Word	_	10	R	10:R	_

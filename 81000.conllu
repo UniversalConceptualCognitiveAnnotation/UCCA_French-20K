@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 81000
 # text = Or , il existait , le fait en lui - même n' était plus niable , et , avec ce penchant qui pousse au merveilleux la cervelle humaine , on comprendra l' émotion produite dans le monde entier par cette surnaturelle apparition .
-# doc_id = 
 1	Or	_	Word	Word	_	4	L	4:L	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	il	_	Word	Word	_	4	A	4:A	_

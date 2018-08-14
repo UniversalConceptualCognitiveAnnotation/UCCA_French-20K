@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 924002
 # text = Mais le moyen de procéder autrement ?
-# doc_id = 
 1	Mais	_	Word	Word	_	3	L	3:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	moyen	_	Word	Word	_	0	root	0:root	_

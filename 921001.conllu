@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 921001
 # text = Le voyage s' accomplissait dans les meilleures conditions .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	voyage	_	Word	Word	_	0	root	0:root	_
 3	s'	_	Word	Word	_	2	orphan	2:orphan	_

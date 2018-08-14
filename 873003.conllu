@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 873003
 # text = - Et comme en réalité la pression atmosphérique est un peu supérieure au poids d' un kilogramme par centimètre carré , vos dix-sept mille centimètres carrés supportent en ce moment une pression de dix-sept mille cinq cent soixante-huit kilogrammes .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	Et	_	Word	Word	_	12	L	12:L	_
 3	comme	_	Word	Word	_	12	L	12:L	_

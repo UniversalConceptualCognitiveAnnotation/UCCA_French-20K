@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 917000
 # text = « Ouvre l' œ il ! ouvre l' œ il ! » répétaient les matelots de l' Abraham Lincoln .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Ouvre	_	Word	Word	_	0	root	0:root	_
 3	l'	_	Word	Word	_	5	E	5:E	_

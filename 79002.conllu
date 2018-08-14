@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 79002
 # text = Ni Cuvier , ni Lacépède , ni M . Dumeril , ni M . de Quatrefages n' eussent admis l' existence d' un tel monstre , - à moins de l' avoir vu , ce qui s' appelle vu de leurs propres yeux de savants .
-# doc_id = 
 1	Ni	_	Word	Word	_	2	N	2:N	_
 2	Cuvier	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 933000
 # text = Deux jours se passèrent .
-# doc_id = 
 1	Deux	_	Word	Word	_	2	E	2:E	_
 2	jours	_	Word	Word	_	0	root	0:root	_
 3	se	_	Word	Word	_	2	orphan	2:orphan	_

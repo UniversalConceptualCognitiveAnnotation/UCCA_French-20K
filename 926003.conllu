@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 926003
 # text = L' équipage entier subissait une surexcitation nerveuse , dont je ne saurais donner l' idée .
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	équipage	_	Word	Word	_	0	root	0:root	_
 3	entier	_	Word	Word	_	2	E	2:E	_

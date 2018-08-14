@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 857000
 # text = Qui dit Canadien , dit Français , et , si peu communicatif que fut Ned Land , je dois avouer qu' il se prit d' une certaine affection pour moi .
-# doc_id = 
 1	Qui	_	Word	Word	_	2	F	2:F	_
 2	dit	_	Word	Word	_	0	root	0:root	_
 3	Canadien	_	Word	Word	_	2	A	2:A	_

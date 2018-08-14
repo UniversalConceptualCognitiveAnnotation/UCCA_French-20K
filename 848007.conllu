@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 848007
 # text = C' était une sorte de chevalier de Rhodes , un Dieudonné de Gozon , marchant à la rencontre du serpent qui désolait son île .
-# doc_id = 
 1	C'	_	Word	Word	_	2	A	2:A	_
 2	était	_	Word	Word	_	0	root	0:root	_
 3	une	_	Word	Word	_	4	E	4:E	_
@@ -20,7 +19,7 @@
 16	à	_	Word	Word	_	18	R	18:R	_
 17	la	_	Word	Word	_	18	E	18:E	_
 18	rencontre	_	Word	Word	_	2	orphan	2:orphan	_
-19	du	_	Word	Word	_	20	R	20:R	_
+19	du	_	Word	Word	_	20	R	20:R|20:E	_
 20	serpent	_	Word	Word	_	2	orphan	2:orphan	_
 21	qui	_	Word	Word	_	22	R	22:R	_
 22	désolait	_	Word	Word	_	2	orphan	2:orphan	_

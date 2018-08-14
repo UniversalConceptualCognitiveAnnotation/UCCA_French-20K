@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 417004
 # text = Qu' il y eut quelque chose , cela ne pouvait être douteux , et les incrédules étaient invités à mettre le doigt sur la plaie du Scotia .
-# doc_id = 
 1	Qu'	_	Word	Word	_	2	L	2:L	_
 2	il	_	Word	Word	_	0	root	0:root	_
 3	y	_	Word	Word	_	2	flat	2:flat	_

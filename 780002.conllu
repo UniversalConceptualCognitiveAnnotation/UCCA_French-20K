@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 780002
 # text = Je réglai ma note à ce vaste comptoir toujours assiégé par une foule considérable .
-# doc_id = 
 1	Je	_	Word	Word	_	2	A	2:A	_
 2	réglai	_	Word	Word	_	0	root	0:root	_
 3	ma	_	Word	Word	_	4	E	4:E	_

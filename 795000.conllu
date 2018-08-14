@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 795000
 # text = Le cortège des boats et des tenders suivait toujours la frégate , et il ne la quitta qu' à la hauteur du light - boat dont les deux feux marquent l' entrée des passes de New York .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	cortège	_	Word	Word	_	0	root	0:root	_
 3	des	_	Word	Word	_	4	R	4:R	_
@@ -23,7 +22,7 @@
 19	à	_	Word	Word	_	21	R	21:R	_
 20	la	_	Word	Word	_	21	E	21:E	_
 21	hauteur	_	Word	Word	_	2	orphan	2:orphan	_
-22	du	_	Word	Word	_	21	R	21:R	_
+22	du	_	Word	Word	_	21	R	21:R|25:E	_
 23	light	_	Word	Word	_	25	E	25:E	_
 24	-	_	Punctuation	Punctuation	_	25	punct	25:punct	_
 25	boat	_	Word	Word	_	2	orphan	2:orphan	_

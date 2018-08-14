@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 776010
 # text = - Et le babiroussa vivant de monsieur ?
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Et	_	Word	Word	_	4	L	4:L	_
 3	le	_	Word	Word	_	4	E	4:E	_

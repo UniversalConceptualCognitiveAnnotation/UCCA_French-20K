@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 849000
 # text = Les officiers du bord partageaient l' opinion de leur chef .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	officiers	_	Word	Word	_	0	root	0:root	_
 3	du	_	Word	Word	_	4	R	4:R	_

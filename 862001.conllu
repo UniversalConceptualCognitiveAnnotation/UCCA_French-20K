@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 862001
 # text = J' amenai tout naturellement la conversation sur la licorne géante , et j' examinai les diverses chances de succès ou d' insuccès de notre expédition .
-# doc_id = 
 1	J'	_	Word	Word	_	2	A	2:A	_
 2	amenai	_	Word	Word	_	0	root	0:root	_
 3	tout	_	Word	Word	_	4	E	4:E	_

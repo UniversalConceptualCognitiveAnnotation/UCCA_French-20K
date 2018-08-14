@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 790000
 # text = Mais le commandant Farragut ne voulait perdre ni un jour , ni une heure pour rallier les mers dans lesquelles l' animal venait d' être signalé .
-# doc_id = 
 1	Mais	_	Word	Word	_	7	L	7:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	commandant	_	Word	Word	_	0	root	0:root	_

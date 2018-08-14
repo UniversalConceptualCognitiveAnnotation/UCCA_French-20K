@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 794001
 # text = L' Abraham - Lincoln répondit en amenant et en hissant trois fois le pavillon américain , dont les trente-neuf étoiles resplendissaient à sa corne d' artimon ; puis , modifiant sa marche pour prendre le chenal balisé qui s' arrondit dans la baie intérieure formée par la pointe de Sandy-Hook , il rasa cette langue sablonneuse où quelques milliers de spectateurs l' acclamèrent encore une fois .
-# doc_id = 
 1	L'	_	Word	Word	_	2	E	2:E	_
 2	Abraham	_	Word	Word	_	0	root	0:root	_
 3	-	_	Punctuation	Punctuation	_	34	punct	34:punct	_

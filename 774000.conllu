@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 774000
 # text = « Conseil ! » répétai - je , tout en commençant d' une main fébrile mes préparatifs de départ .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Conseil	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 4	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 5	répétai	_	Word	Word	_	2	orphan	2:orphan	_
 6	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-7	je	_	Word	Word	_	5	A	5:A	_
+7	je	_	Word	Word	_	5	A	5:A|11:A	_
 8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 9	tout	_	Word	Word	_	5	L	5:L	_
 10	en	_	Word	Word	_	11	F	11:F	_

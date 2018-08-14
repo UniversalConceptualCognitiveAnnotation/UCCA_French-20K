@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 86002
 # text = On vit réapparaître dans les journaux \u2013 à court de copie \u2013 tous les êtres imaginaires et gigantesques , depuis la baleine blanche , le terrible « Moby Dick » des régions hyperboréennes , jusqu' au Kraken démesuré , dont les tentacules peuvent enlacer un bâtiment de cinq cents tonneaux et l' entraîner dans les abîmes de l'Océan .
-# doc_id = 
 1	On	_	Word	Word	_	2	A	2:A	_
 2	vit	_	Word	Word	_	0	root	0:root	_
 3	réapparaître	_	Word	Word	_	2	orphan	2:orphan	_

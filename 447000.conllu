@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 447000
 # text = Trois heures avant que l' Abraham - Lincoln ne quittât la pier de Brooklyn , je reçus une lettre libellée en ces termes :
-# doc_id = 
 1	Trois	_	Word	Word	_	2	E	2:E	_
 2	heures	_	Word	Word	_	0	root	0:root	_
 3	avant	_	Word	Word	_	2	R	2:R	_

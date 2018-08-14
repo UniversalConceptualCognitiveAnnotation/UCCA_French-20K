@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 423002
 # text = D' ailleurs , comment admettre que la construction de ce bateau sous - marin eût échappé aux yeux du public ?
-# doc_id = 
 1	D'	_	Word	Word	_	5	L	5:L	_
 2	ailleurs	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_

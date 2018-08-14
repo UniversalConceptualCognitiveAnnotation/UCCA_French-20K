@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 848008
 # text = Ou le commandant Farragut tuerait le narwal , ou le narwal tuerait le commandant Farragut .
-# doc_id = 
 1	Ou	_	Word	Word	_	5	L	5:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	commandant	_	Word	Word	_	0	root	0:root	_

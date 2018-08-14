@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 926004
 # text = On ne mangeait pas , on ne dormait plus .
-# doc_id = 
 1	On	_	Word	Word	_	3	A	3:A	_
 2	ne	_	Word	Word	_	3	D	3:D	_
 3	mangeait	_	Word	Word	_	0	root	0:root	_

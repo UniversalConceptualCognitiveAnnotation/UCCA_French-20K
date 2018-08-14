@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 83000
 # text = Pareil fait fut également observé le 23 juillet de la même année , dans les mers du Pacifique , par le Cristobal-Colon , de West India and Pacific steam navigation Company .
-# doc_id = 
 1	Pareil	_	Word	Word	_	2	E	2:E	_
 2	fait	_	Word	Word	_	0	root	0:root	_
 3	fut	_	Word	Word	_	5	F	5:F	_

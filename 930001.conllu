@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 930001
 # text = L ' Abraham-Lincoln n' avait rien à se reprocher , ayant tout fait pour réussir .
-# doc_id = 
 1	L	_	Word	Word	_	3	E	3:E	_
 2	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Abraham-Lincoln	_	Word	Word	_	0	root	0:root	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 912002
 # text = Le commandant Farragut , désireux de voir Ned Land à l'œuvre , l' autorisa à se rendre à bord du Monroe .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	commandant	_	Word	Word	_	0	root	0:root	_
 3	Farragut	_	Word	Word	_	2	orphan	2:orphan	_
@@ -14,14 +13,14 @@
 10	à	_	Word	Word	_	11	R	11:R	_
 11	l'œuvre	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-13	l'	_	Word	Word	_	14	A	14:A	_
+13	l'	_	Word	Word	_	14	A	14:A|16:A	_
 14	autorisa	_	Word	Word	_	2	orphan	2:orphan	_
 15	à	_	Word	Word	_	16	R	16:R	_
 16	se	_	Word	Word	_	2	orphan	2:orphan	_
 17	rendre	_	Word	Word	_	16	flat	16:flat	_
 18	à	_	Word	Word	_	19	R	19:R	_
 19	bord	_	Word	Word	_	2	orphan	2:orphan	_
-20	du	_	Word	Word	_	19	R	19:R	_
+20	du	_	Word	Word	_	19	R	19:R|21:E	_
 21	Monroe	_	Word	Word	_	2	orphan	2:orphan	_
 22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

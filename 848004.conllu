@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 848004
 # text = Sur la question du cétacé , aucun doute ne s' élevait dans son esprit , et il ne permettait pas que l' existence de l' animal fût discutée à son bord .
-# doc_id = 
 1	Sur	_	Word	Word	_	3	R	3:R	_
 2	la	_	Word	Word	_	3	E	3:E	_
 3	question	_	Word	Word	_	0	root	0:root	_

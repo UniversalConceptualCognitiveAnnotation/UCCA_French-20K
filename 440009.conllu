@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 440009
 # text = Pourquoi la mer , dans ses profondeurs ignorées , n' aurait - elle pas gardé ces vastes échantillons de la vie d' un autre âge , elle qui ne se modifie jamais , alors que le noyau terrestre change presque incessamment ?
-# doc_id = 
 1	Pourquoi	_	Word	Word	_	15	A	15:A	_
 2	la	_	Word	Word	_	3	E	3:E	_
 3	mer	_	Word	Word	_	0	root	0:root	_

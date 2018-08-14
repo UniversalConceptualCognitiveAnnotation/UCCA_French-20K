@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 433000
 # text = « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l' animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l' existence d ' un Narwal géant .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Si	_	Word	Word	_	8	L	8:L	_
 3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_

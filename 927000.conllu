@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 927000
 # text = Et en effet , la réaction ne tarda pas à se produire .
-# doc_id = 
 1	Et	_	Word	Word	_	11	L	11:L	_
 2	en	_	Word	Word	_	3	R	3:R	_
 3	effet	_	Word	Word	_	0	root	0:root	_

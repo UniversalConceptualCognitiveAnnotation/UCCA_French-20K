@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 440010
 # text = Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
-# doc_id = 
 1	Pourquoi	_	Word	Word	_	3	A	3:A	_
 2	ne	_	Word	Word	_	3	D	3:D	_
 3	cacherait-elle	_	Word	Word	_	0	root	0:root	_

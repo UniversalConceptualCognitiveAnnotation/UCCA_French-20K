@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 425000
 # text = Le monstre revint donc à flots , en dépit des incessantes plaisanteries dont le lardait la petite presse , et dans cette voie , les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d' une ichthyologie fantastique .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	monstre	_	Word	Word	_	0	root	0:root	_
 3	revint	_	Word	Word	_	2	orphan	2:orphan	_

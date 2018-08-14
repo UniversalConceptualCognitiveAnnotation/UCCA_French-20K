@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 867006
 # text = Eût - il cinq cents pieds de longueur , le poulpe , qui n' appartient point à l' embranchement des vertébrés , est tout à fait inoffensif pour des navires tels que le Scotia ou l' Abraham - Lincoln .
-# doc_id = 
 1	Eût	_	Word	Word	_	0	root	0:root	_
 2	-	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	il	_	Word	Word	_	1	A	1:A	_

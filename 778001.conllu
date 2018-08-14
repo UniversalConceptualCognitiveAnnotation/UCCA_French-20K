@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 778001
 # text = - Et songes - y bien ! car je ne veux rien te cacher . C' est là un de ces voyages dont on ne revient pas toujours !
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Et	_	Word	Word	_	3	L	3:L	_
 3	songes	_	Word	Word	_	0	root	0:root	_

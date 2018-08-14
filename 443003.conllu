@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 443003
 # text = Les arsenaux furent ouverts au commandant Farragut , qui pressa activement l' armement de sa frégate .
-# doc_id = 
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	arsenaux	_	Word	Word	_	0	root	0:root	_
 3	furent	_	Word	Word	_	4	F	4:F	_

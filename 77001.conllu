@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 77001
 # text = Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l' esprit public à l' intérieur des continents , les gens de mer furent particulièrement émus .
-# doc_id = 
-1	Sans	_	Word	Word	_	2	L	2:L	_
+1	Sans	_	Word	Word	_	2	L	2:L|2:D	_
 2	parler	_	Word	Word	_	0	root	0:root	_
 3	des	_	Word	Word	_	4	R	4:R	_
 4	rumeurs	_	Word	Word	_	2	orphan	2:orphan	_

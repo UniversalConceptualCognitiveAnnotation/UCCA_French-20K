@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 926005
 # text = Vingt fois par jour , une erreur d' appréciation , une illusion d' optique de quelque matelot perché sur les barres , causaient d' intolérables douleurs , et ces émotions , vingt fois répétées , nous maintenaient dans un état d' éréthisme trop violent pour ne pas amener une réaction prochaine .
-# doc_id = 
 1	Vingt	_	Word	Word	_	2	E	2:E	_
 2	fois	_	Word	Word	_	0	root	0:root	_
 3	par	_	Word	Word	_	4	R	4:R	_

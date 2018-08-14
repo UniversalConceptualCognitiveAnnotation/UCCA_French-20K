@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 915001
 # text = Et en effet , était - il probable que l' on pût rencontrer le narwal dans ce détroit resserré ?
-# doc_id = 
 1	Et	_	Word	Word	_	8	L	8:L	_
 2	en	_	Word	Word	_	8	G	8:G	_
 3	effet	_	Word	Word	_	2	flat	2:flat	_

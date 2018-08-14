@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 437000
 # text = « Donc , jusqu' à plus amples informations , j' opinerais pour une licorne de mer , de dimensions colossales , armée , non plus d' une hallebarde , mais d' un véritable éperon comme les frégates cuirassées ou les « rams » de guerre , dont elle aurait à la fois la masse et la puissance motrice .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Donc	_	Word	Word	_	7	L	7:L	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_

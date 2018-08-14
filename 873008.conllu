@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 873008
 # text = - Diable ! fit Ned .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Diable	_	Word	Word	_	4	A	4:A	_
 3	!	_	Punctuation	Punctuation	_	4	punct	4:punct	_

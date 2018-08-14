@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 853002
 # text = Il avait Ned Land , le roi des harponneurs .
-# doc_id = 
 1	Il	_	Word	Word	_	2	A	2:A	_
 2	avait	_	Word	Word	_	0	root	0:root	_
 3	Ned	_	Word	Word	_	2	orphan	2:orphan	_

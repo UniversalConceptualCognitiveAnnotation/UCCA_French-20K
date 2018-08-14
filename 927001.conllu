@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 927001
 # text = Pendant trois mois , trois mois dont chaque jour durait un siècle ! l' Abraham-Lincoln sillonna toutes les mers septentrionales du Pacifique , courant aux baleines signalées , faisant de brusques écarts de route , virant subitement d' un bord sur l' autre , s' arrêtant soudain , forçant ou renversant sa vapeur , coup sur coup , au risque de déniveler sa machine , et il ne laissa pas un point inexploré des rivages du Japon à la côte américaine .
-# doc_id = 
 1	Pendant	_	Word	Word	_	3	R	3:R	_
 2	trois	_	Word	Word	_	3	E	3:E	_
 3	mois	_	Word	Word	_	0	root	0:root	_
@@ -75,7 +74,7 @@
 71	un	_	Word	Word	_	72	E	72:E	_
 72	point	_	Word	Word	_	3	orphan	3:orphan	_
 73	inexploré	_	Word	Word	_	3	orphan	3:orphan	_
-74	des	_	Word	Word	_	75	R	75:R	_
+74	des	_	Word	Word	_	75	R	75:R|75:E	_
 75	rivages	_	Word	Word	_	3	orphan	3:orphan	_
 76	du	_	Word	Word	_	77	R	77:R	_
 77	Japon	_	Word	Word	_	3	orphan	3:orphan	_

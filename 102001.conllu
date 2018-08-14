@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 102001
 # text = Depuis ce moment , en effet , les sinistres maritimes qui n'avaient pas de cause déterminée furent mis sur le compte du monstre .
-# doc_id = 
 1	Depuis	_	Word	Word	_	3	R	3:R	_
 2	ce	_	Word	Word	_	3	E	3:E	_
 3	moment	_	Word	Word	_	0	root	0:root	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 767000
 # text = Mais , en attendant , il me fallait chercher ce narwal dans le nord de l' océan Pacifique ; ce qui , pour revenir en France , était prendre le chemin des antipodes .
-# doc_id = 
 1	Mais	_	Word	Word	_	9	L	9:L	_
 2	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 3	en	_	Word	Word	_	4	R	4:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 421000
 # text = Or , cette dernière hypothèse , admissible après tout , ne put résister aux enquêtes qui furent poursuivies dans les deux mondes .
-# doc_id = 
 1	Or	_	Word	Word	_	13	L	13:L	_
 2	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 3	cette	_	Word	Word	_	5	E	5:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 864000
 # text = Le harponneur me regarda pendant quelques instants avant de répondre , frappa de sa main son large front par un geste qui lui était habituel , ferma les yeux comme pour se recueillir , et dit enfin : « Peut-être bien , monsieur Aronnax .
-# doc_id = 
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	harponneur	_	Word	Word	_	0	root	0:root	_
 3	me	_	Word	Word	_	4	A	4:A	_

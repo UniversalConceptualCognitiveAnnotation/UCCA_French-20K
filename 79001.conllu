@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 79001
 # text = Si c' était un cétacé , il surpassait en volume tous ceux que la science avait classés jusqu' alors .
-# doc_id = 
 1	Si	_	Word	Word	_	3	L	3:L	_
 2	c'	_	Word	Word	_	3	A	3:A	_
 3	était	_	Word	Word	_	0	root	0:root	_

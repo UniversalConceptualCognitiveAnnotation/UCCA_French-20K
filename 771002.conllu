@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 771002
 # text = Nulle objection à boucler sa valise pour un pays quelconque , Chine ou Congo , si éloigné qu' il fût .
-# doc_id = 
 1	Nulle	_	Word	Word	_	2	D	2:D	_
 2	objection	_	Word	Word	_	0	root	0:root	_
 3	à	_	Word	Word	_	4	F	4:F	_

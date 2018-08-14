@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 872006
 # text = Il suit de là qu' à trois cent vingt pieds cette pression est de dix atmosphères , de cent atmosphères à trois mille deux cents pieds , et de mille atmosphères à trente-deux mille pieds , soit deux lieues et demie environ .
-# doc_id = 
 1	Il	_	Word	Word	_	2	F	2:F	_
 2	suit	_	Word	Word	_	0	root	0:root	_
 3	de	_	Word	Word	_	4	R	4:R	_

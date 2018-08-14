@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 780004
 # text = Je fis ouvrir un crédit suffisant au babiroussa , et , Conseil me suivant , je sautai dans une voiture .
-# doc_id = 
 1	Je	_	Word	Word	_	3	A	3:A	_
 2	fis	_	Word	Word	_	3	F	3:F	_
 3	ouvrir	_	Word	Word	_	0	root	0:root	_

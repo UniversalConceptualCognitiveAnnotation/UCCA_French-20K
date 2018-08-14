@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 423000
 # text = Mais l' hypothèse d' une machine de guerre tomba encore devant la déclaration des gouvernements .
-# doc_id = 
 1	Mais	_	Word	Word	_	9	L	9:L	_
 2	l'	_	Word	Word	_	3	E	3:E	_
 3	hypothèse	_	Word	Word	_	0	root	0:root	_

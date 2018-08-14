@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 928002
 # text = On était « tout bête » de s' être laissé prendre à une chimère , mais encore plus furieux !
-# doc_id = 
-1	On	_	Word	Word	_	4	A	4:A	_
+1	On	_	Word	Word	_	4	A	4:A|19:A	_
 2	était	_	Word	Word	_	4	F	4:F	_
 3	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 4	tout	_	Word	Word	_	0	root	0:root	_

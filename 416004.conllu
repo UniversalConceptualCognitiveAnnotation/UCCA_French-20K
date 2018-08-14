@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 416004
 # text = Je m' occupais donc , en attendant , de classer mes richesses minéralogiques , botaniques et zoologiques , quand arriva l' incident du Scotia .
-# doc_id = 
 1	Je	_	Word	Word	_	3	A	3:A	_
 2	m'	_	Word	Word	_	3	E	3:E	_
 3	occupais	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 9	de	_	Word	Word	_	10	R	10:R	_
 10	classer	_	Word	Word	_	3	orphan	3:orphan	_
-11	mes	_	Word	Word	_	12	E	12:E	_
+11	mes	_	Word	Word	_	12	E	12:E|15:E|17:E	_
 12	richesses	_	Word	Word	_	3	orphan	3:orphan	_
 13	minéralogiques	_	Word	Word	_	3	orphan	3:orphan	_
 14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_

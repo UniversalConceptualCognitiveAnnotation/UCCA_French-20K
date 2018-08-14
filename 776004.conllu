@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 776004
 # text = - Comme il plaira à monsieur , répondit tranquillement Conseil .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Comme	_	Word	Word	_	4	D	4:D	_
 3	il	_	Word	Word	_	4	F	4:F	_

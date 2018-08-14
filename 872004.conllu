@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 872004
 # text = En réalité , la colonne d' eau serait d' une moindre hauteur , puisqu' il s' agit de l' eau de mer dont la densité est supérieure à celle de l' eau douce .
-# doc_id = 
 1	En	_	Word	Word	_	2	R	2:R	_
 2	réalité	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_

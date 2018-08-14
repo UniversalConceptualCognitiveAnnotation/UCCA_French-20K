@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 789000
 # text = À ce moment , le commandant Farragut faisait larguer les dernières amarres qui retenaient l' Abraham - Lincoln à la pier de Brooklyn .
-# doc_id = 
 1	À	_	Word	Word	_	3	R	3:R	_
 2	ce	_	Word	Word	_	3	E	3:E	_
 3	moment	_	Word	Word	_	0	root	0:root	_

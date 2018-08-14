@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 424000
 # text = Donc , après enquêtes faites en Angleterre , en France , en Russie , en Prusse , en Espagne , en Italie , en Amérique , voire même en Turquie , l' hypothèse d' un Monitor sous - marin fut définitivement rejetée .
-# doc_id = 
 1	Donc	_	Word	Word	_	4	L	4:L	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	après	_	Word	Word	_	4	L	4:L	_
