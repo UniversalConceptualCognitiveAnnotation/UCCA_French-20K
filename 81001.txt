@@ -1,6 +1,7 @@
 # ::id 81001
 # ::tok Quant à la rejeter au rang des fables , il fallait y renoncer .
 # ::alignments 0-1.1 1-1.1 2-1.2.2 3-1.2.3 4-1.2.4.1.1 5-1.2.4.1.2 6-1.2.4.1.3 7-1.2.4.2 10-1.3.3 11-1.3.4 12-1.3.5
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1)
     :H (v3 / label

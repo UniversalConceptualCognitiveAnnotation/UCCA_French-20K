@@ -1,6 +1,7 @@
 # ::id 872008
 # ::tok Or , mon brave Ned , savez - vous ce que vous avez de centimètres carrés en surface ?
 # ::alignments 0-1.1.1 2-1.1.2.1.1 3-1.1.2.1.2 4-1.1.2.1.3 6-1.1.2.2 8-1.1.2.3 11-1.1.2.4.2 12-1.1.2.4.3 13-1.1.2.4.1.4.1 14-1.1.2.4.1.4.2 15-1.1.2.4.1.4.3 16-1.1.2.4.1.5.1 17-1.1.2.4.1.5.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :L (v3 / label~e.0)

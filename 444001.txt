@@ -1,6 +1,7 @@
 # ::id 444001
 # ::tok Pendant deux mois , personne n' en entendit parler .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2 5-1.1.3 6-1.1.4 7-1.1.5 8-1.1.6.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :T (v3 / label

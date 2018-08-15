@@ -1,6 +1,7 @@
 # ::id 922001
 # ::tok Et pourtant sa merveilleuse puissance de vision aurait rendu de grands services .
 # ::alignments 0-1.1 1-1.2 2-1.3.2.1 3-1.3.2.2 4-1.3.2.3 5-1.3.2.4.1 6-1.3.2.4.2 8-1.3.4 9-1.3.4 10-1.3.5 11-1.3.4
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :L (v3 / label~e.1)

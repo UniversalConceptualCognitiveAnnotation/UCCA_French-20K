@@ -1,6 +1,7 @@
 # ::id 102002
 # ::tok Ce fantastique animal endossa la responsabilité de tous ces naufrages , dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas , le chiffre des navires à vapeur ou à voiles , supposés perdus corps et biens par suite d'absence de nouvelles , ne s'élève pas à moins de deux cents !
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3.1 5-1.1.3.2 6-1.1.4.1 7-1.1.4.2 8-1.1.4.3 9-1.1.4.4 11-1.1.4.5.1 12-1.1.4.5.2.3 13-1.1.4.5.2.4 15-1.1.4.5.4 16-1.1.4.5.3.2 18-1.2 19-1.3.1.1 20-1.3.1.2 21-1.3.1.2 22-1.3.1.3 23-1.3.1.4.3 24-1.3.1.4.4.1 25-1.3.1.4.4.2 27-1.3.1.4.6 28-1.3.1.4.7 29-1.3.1.4.8.1 30-1.3.1.4.8.2 32-1.3.2.1 33-1.3.2.2 34-1.3.2.3.1 35-1.3.2.3.2 36-1.3.2.3.3.1.1 37-1.3.2.3.3.1.2 38-1.3.2.3.3.2 39-1.3.2.3.3.3.1 40-1.3.2.3.4.5 42-1.3.2.3.4.2 43-1.3.2.3.4.2 44-1.3.2.3.4.3.1 45-1.3.2.3.4.3.2 46-1.3.2.3.4.3.3 47-1.3.2.3.4.4.1.1 48-1.3.2.3.4.4.1.2 49-1.3.2.3.4.4.2 50-1.3.2.3.4.4.3.1 51-1.3.2.3.4.4.3.2 53-1.3.3 54-1.3.4 55-1.3.3 56-1.3.5.1 57-1.3.5.2.1 58-1.3.5.2.2 59-1.3.5.3 60-1.3.5.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label

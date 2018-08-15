@@ -1,6 +1,7 @@
 # ::id 778000
 # ::tok - Comme fera monsieur , je ferai , répondit Conseil .
 # ::alignments 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.4 5-1.1.1.2 6-1.1.1.3 8-1.1.2 9-1.1.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label

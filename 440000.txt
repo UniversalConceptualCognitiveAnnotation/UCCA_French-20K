@@ -1,6 +1,7 @@
 # ::id 440000
 # ::tok Mon article fut chaudement discuté , ce qui lui valut un grand retentissement .
 # ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.5 6-1.2.2 7-1.2.2 8-1.2.3 9-1.2.4 10-1.2.5.1 11-1.2.5.2 12-1.2.5.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label)

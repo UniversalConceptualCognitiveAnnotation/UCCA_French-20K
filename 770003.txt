@@ -1,6 +1,7 @@
 # ::id 770003
 # ::tok Classer , c' était sa vie , et il n' en savait pas davantage .
 # ::alignments 0-1.1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3 11-1.3.4 12-1.3.2 13-1.3.5
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label

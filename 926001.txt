@@ -1,6 +1,7 @@
 # ::id 926001
 # ::tok Et , pour tout dire , on ne vivait plus à bord .
 # ::alignments 0-1.1 2-1.2.1 3-1.2.1 4-1.2.1 6-1.2.2 7-1.2.3 8-1.2.4 9-1.2.3 10-1.2.5.1 11-1.2.5.2
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

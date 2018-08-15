@@ -1,6 +1,7 @@
 # ::id 91006
 # ::tok On ne put le savoir ; mais , examen fait de sa carène dans les bassins de radoub , il fut reconnu qu' une partie de la quille avait été brisée .
 # ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5 6-1.2 8-1.3.2.1 9-1.3.3 10-1.3.2.2.1 11-1.3.2.2.2 12-1.3.2.2.3 13-1.3.2.3.1 14-1.3.2.3.2 15-1.3.2.3.3 16-1.3.2.3.4.1 17-1.3.2.3.4.2 19-1.4.2 21-1.4.4 22-1.4.5.2 23-1.4.5.3.1 24-1.4.5.3.2 25-1.4.5.3.3.1 26-1.4.5.3.3.2 27-1.4.5.3.3.3 30-1.4.5.6
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label~e.0)

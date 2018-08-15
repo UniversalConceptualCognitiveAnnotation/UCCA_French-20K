@@ -1,6 +1,7 @@
 # ::id 937001
 # ::tok Du moins , je le crus ainsi .
 # ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 5-1.2.3 6-1.2.4
+# ::format ucca
 (v1 / label
     :L (v2 / label
            :R (v4 / label~e.0)

@@ -1,6 +1,7 @@
 # ::id 867004
 # ::tok ... - Encore moins , Ned .
 # ::alignments 2-1.1.1.3.1 3-1.1.1.3.2 5-1.1.1.4
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :H (v3 / label

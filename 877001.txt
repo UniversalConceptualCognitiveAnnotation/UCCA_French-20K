@@ -1,6 +1,7 @@
 # ::id 877001
 # ::tok Quant à la famille dans laquelle il prenait rang , baleine , cachalot ou dauphin , quant au genre dont il faisait partie , quant à l' espèce dans laquelle il convenait de le ranger , c' était une question à élucider ultérieurement .
 # ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.4 4-1.1.1.1.5.2 6-1.1.1.1.5.4 7-1.1.1.1.5.5 8-1.1.1.1.5.5 10-1.1.1.1.6.1 12-1.1.1.1.6.2 13-1.1.1.1.6.3 14-1.1.1.1.6.4 16-1.1.1.2.1 17-1.1.1.2.2 18-1.1.1.2.3 19-1.1.1.2.4.2 20-1.1.1.2.4.3 21-1.1.1.2.4.4 22-1.1.1.2.4.4 24-1.1.1.3.1 25-1.1.1.3.2 26-1.1.1.3.3 27-1.1.1.3.4 28-1.1.1.3.5.2 30-1.1.1.3.5.4 31-1.1.1.3.5.5 33-1.1.1.3.5.7 34-1.1.1.3.5.8 37-1.1.3 38-1.1.4.1 39-1.1.4.2 41-1.1.4.3.3 42-1.1.4.3.4
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
