@@ -14,12 +14,12 @@
 12	siècle	_	Word	Word	_	10	A	_	_
 13	!	_	Punctuation	Punctuation	_	16	U	_	_
 14	l'	_	Word	Word	_	15	E	_	_
-15	Abraham-Lincoln	_	Word	Word	_	49	A	_	_
-15	Abraham-Lincoln	_	Word	Word	_	36	A	_	_
+15	Abraham-Lincoln	_	Word	Word	_	62	A	_	_
+15	Abraham-Lincoln	_	Word	Word	_	32	A	_	_
 15	Abraham-Lincoln	_	Word	Word	_	45	A	_	_
 15	Abraham-Lincoln	_	Word	Word	_	24	A	_	_
-15	Abraham-Lincoln	_	Word	Word	_	32	A	_	_
-15	Abraham-Lincoln	_	Word	Word	_	62	A	_	_
+15	Abraham-Lincoln	_	Word	Word	_	36	A	_	_
+15	Abraham-Lincoln	_	Word	Word	_	49	A	_	_
 16	sillonna	_	Word	Word	_	0	ROOT	_	_
 17	toutes	_	Word	Word	_	19	E	_	_
 18	les	_	Word	Word	_	19	E	_	_
@@ -78,8 +78,8 @@
 71	un	_	Word	Word	_	72	E	_	_
 72	point	_	Word	Word	_	73	A	_	_
 73	inexploré	_	Word	Word	_	16	H	_	_
-74	des	_	Word	Word	_	75	E	_	_
 74	des	_	Word	Word	_	75	R	_	_
+74	des	_	Word	Word	_	75	E	_	_
 75	rivages	_	Word	Word	_	72	E	_	_
 76	du	_	Word	Word	_	77	R	_	_
 77	Japon	_	Word	Word	_	75	E	_	_

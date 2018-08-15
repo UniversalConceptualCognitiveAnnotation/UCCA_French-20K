@@ -37,8 +37,8 @@
 35	-	_	Punctuation	Punctuation	_	11	U	_	_
 36	ce	_	Word	Word	_	40	Terminal	_	_
 37	que	_	Word	Word	_	40	Terminal	_	_
-38	nous	_	Word	Word	_	56	A	_	_
 38	nous	_	Word	Word	_	40	A	_	_
+38	nous	_	Word	Word	_	56	A	_	_
 39	ne	_	Word	Word	_	40	D	_	_
 40	courons	_	Word	Word	_	11	H	_	_
 41	pas	_	Word	Word	_	39	Terminal	_	_
@@ -56,8 +56,8 @@
 52	on	_	Word	Word	_	50	A	_	_
 53	,	_	Punctuation	Punctuation	_	50	U	_	_
 54	cette	_	Word	Word	_	55	E	_	_
-55	bête	_	Word	Word	_	56	A	_	_
 55	bête	_	Word	Word	_	79	A	_	_
+55	bête	_	Word	Word	_	56	A	_	_
 56	introuvable	_	Word	Word	_	55	E	_	_
 57	dans	_	Word	Word	_	60	R	_	_
 58	les	_	Word	Word	_	60	E	_	_

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 857002
-1	C'	_	Word	Word	_	12	A	_	_
 1	C'	_	Word	Word	_	4	A	_	_
+1	C'	_	Word	Word	_	12	A	_	_
 2	était	_	Word	Word	_	4	F	_	_
 3	une	_	Word	Word	_	4	E	_	_
 4	occasion	_	Word	Word	_	12	S	_	_
@@ -17,8 +17,8 @@
 14	entendre	_	Word	Word	_	12	A	_	_
 15	cette	_	Word	Word	_	17	E	_	_
 16	vieille	_	Word	Word	_	17	E	_	_
-17	langue	_	Word	Word	_	4	A	_	_
 17	langue	_	Word	Word	_	24	A	_	_
+17	langue	_	Word	Word	_	4	A	_	_
 18	de	_	Word	Word	_	19	R	_	_
 19	Rabelais	_	Word	Word	_	17	E	_	_
 20	qui	_	Word	Word	_	24	R	_	_

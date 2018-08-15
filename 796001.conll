@@ -49,8 +49,8 @@
 47	-	_	Punctuation	Punctuation	_	46	U	_	_
 48	Island	_	Word	Word	_	46	Terminal	_	_
 49	,	_	Punctuation	Punctuation	_	37	U	_	_
-50	elle	_	Word	Word	_	37	A	_	_
 50	elle	_	Word	Word	_	51	A	_	_
+50	elle	_	Word	Word	_	37	A	_	_
 51	courut	_	Word	Word	_	4	H	_	_
 52	à	_	Word	Word	_	54	R	_	_
 53	toute	_	Word	Word	_	54	E	_	_
