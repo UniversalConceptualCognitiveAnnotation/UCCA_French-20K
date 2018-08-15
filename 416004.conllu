@@ -11,7 +11,7 @@
 8	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 9	de	_	Word	Word	_	10	R	10:R	_
 10	classer	_	Word	Word	_	3	orphan	3:orphan	_
-11	mes	_	Word	Word	_	12	E	12:E|15:E|17:E	_
+11	mes	_	Word	Word	_	12	E	12:E|17:E|15:E	_
 12	richesses	_	Word	Word	_	3	orphan	3:orphan	_
 13	minéralogiques	_	Word	Word	_	3	orphan	3:orphan	_
 14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_

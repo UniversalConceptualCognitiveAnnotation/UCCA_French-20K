@@ -20,7 +20,7 @@
 17	la	_	Word	Word	_	18	E	18:E	_
 18	mer	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-20	vous	_	Word	Word	_	21	A	21:A|76:A|36:A|57:A	_
+20	vous	_	Word	Word	_	21	A	21:A|36:A|57:A|76:A	_
 21	subiriez	_	Word	Word	_	2	orphan	2:orphan	_
 22	une	_	Word	Word	_	23	E	23:E	_
 23	pression	_	Word	Word	_	2	orphan	2:orphan	_
