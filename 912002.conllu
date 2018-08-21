@@ -2,25 +2,25 @@
 # sent_id = 912002
 # text = Le commandant Farragut , désireux de voir Ned Land à l'œuvre , l' autorisa à se rendre à bord du Monroe .
 1	Le	_	Word	Word	_	2	E	2:E	_
-2	commandant	_	Word	Word	_	0	root	0:root	_
-3	Farragut	_	Word	Word	_	2	orphan	2:orphan	_
-4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	commandant	_	Word	Word	_	3	E	3:E	_
+3	Farragut	_	Word	Word	_	14	A	14:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	désireux	_	Word	Word	_	7	D	7:D	_
 6	de	_	Word	Word	_	7	F	7:F	_
-7	voir	_	Word	Word	_	2	orphan	2:orphan	_
+7	voir	_	Word	Word	_	3	E	3:E	_
 8	Ned	_	Word	Word	_	11	A	11:A	_
-9	Land	_	Word	Word	_	8	flat	8:flat	_
+9	Land	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	à	_	Word	Word	_	11	R	11:R	_
-11	l'œuvre	_	Word	Word	_	2	orphan	2:orphan	_
-12	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+11	l'œuvre	_	Word	Word	_	7	A	7:A	_
+12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 13	l'	_	Word	Word	_	14	A	14:A|16:A	_
-14	autorisa	_	Word	Word	_	2	orphan	2:orphan	_
+14	autorisa	_	Word	Word	_	0	root	0:root	_
 15	à	_	Word	Word	_	16	R	16:R	_
-16	se	_	Word	Word	_	2	orphan	2:orphan	_
-17	rendre	_	Word	Word	_	16	flat	16:flat	_
+16	se	_	Word	Word	_	14	A	14:A	_
+17	rendre	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	à	_	Word	Word	_	19	R	19:R	_
-19	bord	_	Word	Word	_	2	orphan	2:orphan	_
+19	bord	_	Word	Word	_	21	E	21:E	_
 20	du	_	Word	Word	_	19	R	19:R|21:E	_
-21	Monroe	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	Monroe	_	Word	Word	_	16	A	16:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

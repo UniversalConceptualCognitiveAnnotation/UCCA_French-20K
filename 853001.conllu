@@ -4,7 +4,7 @@
 1	Mais	_	Word	Word	_	3	L	3:L	_
 2	il	_	Word	Word	_	3	A	3:A	_
 3	avait	_	Word	Word	_	0	root	0:root	_
-4	mieux	_	Word	Word	_	3	orphan	3:orphan	_
+4	mieux	_	Word	Word	_	3	A	3:A	_
 5	encore	_	Word	Word	_	4	E	4:E	_
-6	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

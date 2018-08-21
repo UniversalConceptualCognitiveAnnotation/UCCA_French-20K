@@ -2,25 +2,25 @@
 # sent_id = 443002
 # text = Une frégate de grande marche l' Abraham - Lincoln , se mit en mesure de prendre la mer au plus tôt .
 1	Une	_	Word	Word	_	2	E	2:E	_
-2	frégate	_	Word	Word	_	0	root	0:root	_
+2	frégate	_	Word	Word	_	7	E	7:E	_
 3	de	_	Word	Word	_	5	R	5:R	_
 4	grande	_	Word	Word	_	5	E	5:E	_
-5	marche	_	Word	Word	_	2	orphan	2:orphan	_
+5	marche	_	Word	Word	_	2	E	2:E	_
 6	l'	_	Word	Word	_	7	E	7:E	_
-7	Abraham	_	Word	Word	_	2	orphan	2:orphan	_
-8	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-9	Lincoln	_	Word	Word	_	7	flat	7:flat	_
-10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-11	se	_	Word	Word	_	2	orphan	2:orphan	_
-12	mit	_	Word	Word	_	11	flat	11:flat	_
-13	en	_	Word	Word	_	11	flat	11:flat	_
-14	mesure	_	Word	Word	_	11	flat	11:flat	_
+7	Abraham	_	Word	Word	_	11	A	11:A	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Lincoln	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	se	_	Word	Word	_	0	root	0:root	_
+12	mit	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	en	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	mesure	_	Word	Word	_	11	Terminal	11:Terminal	_
 15	de	_	Word	Word	_	16	R	16:R	_
-16	prendre	_	Word	Word	_	2	orphan	2:orphan	_
+16	prendre	_	Word	Word	_	11	A	11:A	_
 17	la	_	Word	Word	_	18	E	18:E	_
-18	mer	_	Word	Word	_	2	orphan	2:orphan	_
+18	mer	_	Word	Word	_	16	A	16:A	_
 19	au	_	Word	Word	_	21	R	21:R	_
 20	plus	_	Word	Word	_	21	E	21:E	_
-21	tôt	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	tôt	_	Word	Word	_	16	T	16:T	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

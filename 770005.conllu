@@ -2,12 +2,12 @@
 # sent_id = 770005
 # text = Et cependant , quel brave et digne garçon !
 1	Et	_	Word	Word	_	8	L	8:L	_
-2	cependant	_	Word	Word	_	1	flat	1:flat	_
-3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	cependant	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 4	quel	_	Word	Word	_	8	D	8:D	_
-5	brave	_	Word	Word	_	0	root	0:root	_
+5	brave	_	Word	Word	_	8	E	8:E	_
 6	et	_	Word	Word	_	5	N	5:N	_
 7	digne	_	Word	Word	_	5	C	5:C	_
-8	garçon	_	Word	Word	_	5	orphan	5:orphan	_
-9	!	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	garçon	_	Word	Word	_	0	root	0:root	_
+9	!	_	Punctuation	Punctuation	_	8	U	8:U	_
 

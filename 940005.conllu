@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 940005
 # text = - Quand on a l' honneur d' être un savant comme monsieur , on ne s' expose pas ... »
-1	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	-	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Quand	_	Word	Word	_	6	L	6:L	_
 3	on	_	Word	Word	_	6	A	6:A	_
 4	a	_	Word	Word	_	6	F	6:F	_
@@ -12,13 +12,13 @@
 9	un	_	Word	Word	_	10	E	10:E	_
 10	savant	_	Word	Word	_	6	orphan	6:orphan	_
 11	comme	_	Word	Word	_	6	L	6:L	_
-12	monsieur	_	Word	Word	_	6	orphan	6:orphan	_
-13	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+12	monsieur	_	Word	Word	_	6	H	6:H	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 14	on	_	Word	Word	_	17	A	17:A	_
 15	ne	_	Word	Word	_	17	D	17:D	_
 16	s'	_	Word	Word	_	17	A	17:A	_
-17	expose	_	Word	Word	_	6	orphan	6:orphan	_
-18	pas	_	Word	Word	_	15	flat	15:flat	_
-19	...	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-20	»	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	expose	_	Word	Word	_	6	H	6:H	_
+18	pas	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	...	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	»	_	Punctuation	Punctuation	_	17	U	17:U	_
 

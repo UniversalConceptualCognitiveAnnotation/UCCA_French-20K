@@ -3,20 +3,20 @@
 # text = Mais le soir du 4 novembre arriva sans que se fût dévoilé ce mystère sous - marin .
 1	Mais	_	Word	Word	_	7	L	7:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
-3	soir	_	Word	Word	_	0	root	0:root	_
+3	soir	_	Word	Word	_	6	E	6:E	_
 4	du	_	Word	Word	_	3	R	3:R	_
 5	4	_	Word	Word	_	6	E	6:E	_
-6	novembre	_	Word	Word	_	3	orphan	3:orphan	_
-7	arriva	_	Word	Word	_	3	orphan	3:orphan	_
+6	novembre	_	Word	Word	_	7	T	7:T	_
+7	arriva	_	Word	Word	_	0	root	0:root	_
 8	sans	_	Word	Word	_	7	L	7:L	_
-9	que	_	Word	Word	_	8	flat	8:flat	_
-10	se	_	Word	Word	_	3	orphan	3:orphan	_
+9	que	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	se	_	Word	Word	_	7	H	7:H	_
 11	fût	_	Word	Word	_	10	F	10:F	_
-12	dévoilé	_	Word	Word	_	10	flat	10:flat	_
+12	dévoilé	_	Word	Word	_	10	Terminal	10:Terminal	_
 13	ce	_	Word	Word	_	14	E	14:E	_
-14	mystère	_	Word	Word	_	3	orphan	3:orphan	_
+14	mystère	_	Word	Word	_	10	A	10:A	_
 15	sous	_	Word	Word	_	14	E	14:E	_
-16	-	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-17	marin	_	Word	Word	_	15	flat	15:flat	_
-18	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	marin	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

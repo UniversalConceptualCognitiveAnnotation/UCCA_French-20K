@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 875005
 # text = - Mais s' ils n' existent pas , entêté harponneur , comment expliquez - vous l' accident arrivé au Scotia ?
-1	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	-	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Mais	_	Word	Word	_	6	L	6:L	_
 3	s'	_	Word	Word	_	6	L	6:L	_
 4	ils	_	Word	Word	_	6	A	6:A	_
 5	n'	_	Word	Word	_	6	D	6:D	_
 6	existent	_	Word	Word	_	0	root	0:root	_
-7	pas	_	Word	Word	_	5	flat	5:flat	_
-8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+7	pas	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 9	entêté	_	Word	Word	_	6	G	6:G	_
-10	harponneur	_	Word	Word	_	9	flat	9:flat	_
-11	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+10	harponneur	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 12	comment	_	Word	Word	_	13	D	13:D	_
-13	expliquez	_	Word	Word	_	6	orphan	6:orphan	_
-14	-	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	expliquez	_	Word	Word	_	6	H	6:H	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 15	vous	_	Word	Word	_	13	A	13:A	_
 16	l'	_	Word	Word	_	17	E	17:E	_
-17	accident	_	Word	Word	_	6	orphan	6:orphan	_
-18	arrivé	_	Word	Word	_	6	orphan	6:orphan	_
+17	accident	_	Word	Word	_	13	A	13:A	_
+18	arrivé	_	Word	Word	_	17	E	17:E	_
 19	au	_	Word	Word	_	20	R	20:R	_
-20	Scotia	_	Word	Word	_	6	orphan	6:orphan	_
-21	?	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+20	Scotia	_	Word	Word	_	18	A	18:A	_
+21	?	_	Punctuation	Punctuation	_	20	U	20:U	_
 

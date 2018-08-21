@@ -4,18 +4,18 @@
 1	Mais	_	Word	Word	_	5	L	5:L	_
 2	je	_	Word	Word	_	5	A	5:A	_
 3	me	_	Word	Word	_	4	E	4:E	_
-4	laisse	_	Word	Word	_	0	root	0:root	_
-5	entraîner	_	Word	Word	_	4	orphan	4:orphan	_
+4	laisse	_	Word	Word	_	5	D	5:D	_
+5	entraîner	_	Word	Word	_	0	root	0:root	_
 6	à	_	Word	Word	_	8	R	8:R	_
 7	des	_	Word	Word	_	8	E	8:E	_
-8	rêveries	_	Word	Word	_	4	orphan	4:orphan	_
+8	rêveries	_	Word	Word	_	5	A	5:A	_
 9	qu'	_	Word	Word	_	16	R	16:R	_
 10	il	_	Word	Word	_	16	F	16:F	_
 11	ne	_	Word	Word	_	16	D	16:D	_
 12	m'	_	Word	Word	_	16	D	16:D	_
-13	appartient	_	Word	Word	_	12	flat	12:flat	_
-14	plus	_	Word	Word	_	11	flat	11:flat	_
+13	appartient	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	plus	_	Word	Word	_	11	Terminal	11:Terminal	_
 15	d'	_	Word	Word	_	16	R	16:R	_
-16	entretenir	_	Word	Word	_	4	orphan	4:orphan	_
-17	!	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	entretenir	_	Word	Word	_	8	E	8:E	_
+17	!	_	Punctuation	Punctuation	_	16	U	16:U	_
 

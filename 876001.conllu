@@ -2,15 +2,15 @@
 # sent_id = 876001
 # text = Ce jour - là , je ne le poussai pas davantage .
 1	Ce	_	Word	Word	_	2	E	2:E	_
-2	jour	_	Word	Word	_	0	root	0:root	_
-3	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	jour	_	Word	Word	_	9	T	9:T	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	là	_	Word	Word	_	2	E	2:E	_
-5	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+5	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 6	je	_	Word	Word	_	9	A	9:A	_
 7	ne	_	Word	Word	_	9	D	9:D	_
 8	le	_	Word	Word	_	9	A	9:A	_
-9	poussai	_	Word	Word	_	2	orphan	2:orphan	_
-10	pas	_	Word	Word	_	7	flat	7:flat	_
+9	poussai	_	Word	Word	_	0	root	0:root	_
+10	pas	_	Word	Word	_	7	Terminal	7:Terminal	_
 11	davantage	_	Word	Word	_	9	D	9:D	_
-12	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

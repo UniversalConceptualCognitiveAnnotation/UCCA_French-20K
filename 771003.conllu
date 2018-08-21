@@ -3,13 +3,13 @@
 # text = Il allait là comme ici , sans en demander davantage .
 1	Il	_	Word	Word	_	2	A	2:A|9:A	_
 2	allait	_	Word	Word	_	0	root	0:root	_
-3	là	_	Word	Word	_	2	orphan	2:orphan	_
+3	là	_	Word	Word	_	2	A	2:A	_
 4	comme	_	Word	Word	_	3	R	3:R	_
 5	ici	_	Word	Word	_	3	C	3:C	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 7	sans	_	Word	Word	_	2	L	2:L	_
 8	en	_	Word	Word	_	9	A	9:A	_
-9	demander	_	Word	Word	_	2	orphan	2:orphan	_
+9	demander	_	Word	Word	_	2	H	2:H	_
 10	davantage	_	Word	Word	_	9	D	9:D	_
-11	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

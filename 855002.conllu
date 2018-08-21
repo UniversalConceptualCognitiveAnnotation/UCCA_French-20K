@@ -2,22 +2,22 @@
 # sent_id = 855002
 # text = Sa personne provoquait l' attention , et surtout la puissance de son regard qui accentuait singulièrement sa physionomie .
 1	Sa	_	Word	Word	_	2	E	2:E	_
-2	personne	_	Word	Word	_	0	root	0:root	_
-3	provoquait	_	Word	Word	_	2	orphan	2:orphan	_
+2	personne	_	Word	Word	_	3	A	3:A	_
+3	provoquait	_	Word	Word	_	0	root	0:root	_
 4	l'	_	Word	Word	_	5	E	5:E	_
-5	attention	_	Word	Word	_	2	orphan	2:orphan	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	attention	_	Word	Word	_	3	orphan	3:orphan	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	et	_	Word	Word	_	3	L	3:L	_
 8	surtout	_	Word	Word	_	10	D	10:D	_
 9	la	_	Word	Word	_	10	E	10:E	_
-10	puissance	_	Word	Word	_	2	orphan	2:orphan	_
+10	puissance	_	Word	Word	_	3	H	3:H	_
 11	de	_	Word	Word	_	13	R	13:R	_
 12	son	_	Word	Word	_	13	E	13:E	_
-13	regard	_	Word	Word	_	2	orphan	2:orphan	_
+13	regard	_	Word	Word	_	10	E	10:E	_
 14	qui	_	Word	Word	_	15	R	15:R	_
-15	accentuait	_	Word	Word	_	2	orphan	2:orphan	_
+15	accentuait	_	Word	Word	_	10	E	10:E	_
 16	singulièrement	_	Word	Word	_	15	D	15:D	_
 17	sa	_	Word	Word	_	18	E	18:E	_
-18	physionomie	_	Word	Word	_	2	orphan	2:orphan	_
-19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+18	physionomie	_	Word	Word	_	15	A	15:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

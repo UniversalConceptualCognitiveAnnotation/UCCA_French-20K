@@ -5,13 +5,13 @@
 2	ne	_	Word	Word	_	6	D	6:D	_
 3	lui	_	Word	Word	_	6	A	6:A	_
 4	eût	_	Word	Word	_	6	F	6:F	_
-5	pas	_	Word	Word	_	2	flat	2:flat	_
+5	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
 6	pardonné	_	Word	Word	_	0	root	0:root	_
 7	une	_	Word	Word	_	10	E	10:E	_
 8	demi	_	Word	Word	_	10	E	10:E	_
-9	-	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-10	journée	_	Word	Word	_	6	orphan	6:orphan	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	journée	_	Word	Word	_	12	E	12:E	_
 11	de	_	Word	Word	_	10	R	10:R	_
-12	retard	_	Word	Word	_	6	orphan	6:orphan	_
-13	!	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+12	retard	_	Word	Word	_	6	A	6:A	_
+13	!	_	Punctuation	Punctuation	_	12	U	12:U	_
 

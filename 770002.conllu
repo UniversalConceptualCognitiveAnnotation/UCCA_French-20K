@@ -3,9 +3,9 @@
 # text = Mais sa science s' arrêtait là .
 1	Mais	_	Word	Word	_	4	L	4:L	_
 2	sa	_	Word	Word	_	3	E	3:E	_
-3	science	_	Word	Word	_	0	root	0:root	_
-4	s'	_	Word	Word	_	3	orphan	3:orphan	_
-5	arrêtait	_	Word	Word	_	4	flat	4:flat	_
+3	science	_	Word	Word	_	4	A	4:A	_
+4	s'	_	Word	Word	_	0	root	0:root	_
+5	arrêtait	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	là	_	Word	Word	_	4	A	4:A	_
-7	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

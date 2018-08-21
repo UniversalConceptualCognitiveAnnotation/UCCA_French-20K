@@ -8,13 +8,13 @@
 5	relu	_	Word	Word	_	3	C	3:C	_
 6	tous	_	Word	Word	_	8	E	8:E|11:E	_
 7	les	_	Word	Word	_	8	E	8:E|11:E	_
-8	journaux	_	Word	Word	_	3	orphan	3:orphan	_
-9	américains	_	Word	Word	_	3	orphan	3:orphan	_
+8	journaux	_	Word	Word	_	3	A	3:A	_
+9	américains	_	Word	Word	_	8	E	8:E	_
 10	et	_	Word	Word	_	9	N	9:N	_
-11	européens	_	Word	Word	_	3	orphan	3:orphan	_
+11	européens	_	Word	Word	_	9	C	9:C	_
 12	sans	_	Word	Word	_	3	L	3:L	_
 13	être	_	Word	Word	_	15	F	15:F	_
 14	plus	_	Word	Word	_	15	E	15:E	_
-15	avancé	_	Word	Word	_	3	orphan	3:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+15	avancé	_	Word	Word	_	3	H	3:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 
