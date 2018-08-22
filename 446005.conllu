@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 446005
 # text = Il n' avait qu' à allumer ses fourneaux , à chauffer , à démarrer !
-1	Il	_	Word	Word	_	3	A	3:A|6:A|14:A|11:A	_
+1	Il	_	Word	Word	_	3	A	3:A|6:A|11:A|14:A	_
 2	n'	_	Word	Word	_	3	D	3:D	_
 3	avait	_	Word	Word	_	0	root	0:root	_
 4	qu'	_	Word	Word	_	2	Terminal	2:Terminal	_
