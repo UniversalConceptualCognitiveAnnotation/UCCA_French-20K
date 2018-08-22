@@ -14,7 +14,7 @@
 13	fois	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
 14	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
 15	et	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-16	chacun	_	Word	-	-	_	_	_	_	_	_	_	_	A	A	_	_	_	_	_	_
+16	chacun	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*	_	_	_	_	_	_
 17	ne	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
 18	songea	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
 19	plus	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_

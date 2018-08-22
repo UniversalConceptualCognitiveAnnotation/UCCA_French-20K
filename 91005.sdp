@@ -1,7 +1,7 @@
 # format = ucca
 1	Avait	_	Word	-	-	_	F	_	_	_
 2	-	_	Punctuation	-	-	_	U	_	_	_
-3	il	_	Word	-	-	_	A	_	A	_
+3	il	_	Word	-	-	_	A	_	A*	_
 4	heurté	_	Word	-	+	_	_	_	_	_
 5	une	_	Word	-	-	_	_	E	_	_
 6	roche	_	Word	-	+	_	A	_	_	_

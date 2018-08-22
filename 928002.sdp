@@ -1,5 +1,5 @@
 # format = ucca
-1	On	_	Word	-	-	_	A	_	_	_	_	A
+1	On	_	Word	-	-	_	A	_	_	_	_	A*
 2	était	_	Word	-	-	_	F	_	_	_	_	_
 3	«	_	Punctuation	-	-	_	U	_	_	_	_	_
 4	tout	_	Word	-	+	_	_	_	_	_	_	_

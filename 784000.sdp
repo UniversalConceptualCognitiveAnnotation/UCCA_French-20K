@@ -5,7 +5,7 @@
 4	et	_	Word	-	-	_	L	_	_	_	_	_	_	_
 5	laissant	_	Word	-	+	_	H	_	_	_	_	_	_	_
 6	le	_	Word	-	-	_	_	_	E	_	_	_	_	_
-7	commandant	_	Word	-	+	_	A	_	_	_	_	_	_	_
+7	commandant	_	Word	-	+	_	A*	_	_	_	_	_	_	_
 8	aux	_	Word	-	-	_	_	_	_	R	_	_	_	_
 9	soins	_	Word	-	+	_	_	A	_	_	_	_	_	_
 10	de	_	Word	-	-	_	_	_	_	_	R	_	_	_

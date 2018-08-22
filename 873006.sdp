@@ -15,7 +15,7 @@
 14	parce	_	Word	-	+	_	L	_	_	_	_	_	_	_	_
 15	que	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
 16	l'	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-17	eau	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+17	eau	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*
 18	m'	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
 19	entoure	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 20	et	_	Word	-	-	_	L	_	_	_	_	_	_	_	_

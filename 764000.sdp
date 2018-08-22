@@ -15,7 +15,7 @@
 14	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
 15	Hobson	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
 16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-17	je	_	Word	-	-	_	_	_	_	_	_	A	A	_	A	_	_
+17	je	_	Word	-	-	_	_	_	_	_	_	A	A*	_	A*	_	_
 18	ne	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_
 19	songeais	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
 20	pas	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_

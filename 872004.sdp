@@ -18,7 +18,7 @@
 17	agit	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
 18	de	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
 19	l'	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-20	eau	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+20	eau	_	Word	-	+	_	_	_	_	_	_	_	_	E*	_	_
 21	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
 22	mer	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
 23	dont	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_

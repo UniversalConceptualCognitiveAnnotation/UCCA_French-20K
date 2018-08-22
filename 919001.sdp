@@ -20,7 +20,7 @@
 19	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 20	pluie	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_
 21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-22	je	_	Word	-	-	_	_	A	_	_	_	A	A	_	_	_	A	_	_
+22	je	_	Word	-	-	_	_	A*	_	_	_	A*	A*	_	_	_	A	_	_
 23	ne	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_	_
 24	quittais	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
 25	plus	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_

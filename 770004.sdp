@@ -14,7 +14,7 @@
 13	la	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
 14	pratique	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-16	il	_	Word	-	-	_	A	_	_	A	_	A	_	_	_
+16	il	_	Word	-	-	_	A*	_	_	A*	_	A	_	_	_
 17	n'	_	Word	-	+	_	_	_	_	_	_	D	_	_	_
 18	eût	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
 19	pas	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_

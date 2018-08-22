@@ -6,7 +6,7 @@
 5	eux	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
 6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 7	le	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-8	capitaine	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	A	A	_	_
+8	capitaine	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_	A*	A*	_	_
 9	du	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
 10	Monroe	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_

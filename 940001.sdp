@@ -16,7 +16,7 @@
 15	que	_	Word	-	-	_	_	_	_	F	_
 16	l'	_	Word	-	-	_	_	_	_	F	_
 17	on	_	Word	-	-	_	_	_	_	A	_
-18	se	_	Word	-	+	_	H	_	A	_	_
+18	se	_	Word	-	+	_	H	_	A*	_	_
 19	moquera	_	Word	-	-	_	_	_	_	Terminal	_
 20	de	_	Word	-	-	_	_	_	_	_	R
 21	nous	_	Word	-	+	_	_	_	_	A	_

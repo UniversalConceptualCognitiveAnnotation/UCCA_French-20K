@@ -5,11 +5,11 @@
 4	rejeter	_	Word	-	+	_	_	_	_	_	_	_	_
 5	au	_	Word	-	-	_	_	R	_	_	_	_	_
 6	rang	_	Word	-	+	_	_	_	E	_	_	_	_
-7	des	_	Word	-	-	_	_	R	E	_	_	_	_
+7	des	_	Word	-	-	_	_	R	E*	_	_	_	_
 8	fables	_	Word	-	+	_	A	_	_	_	_	_	_
 9	les	_	Word	-	-	_	_	_	_	E	_	_	_
 10	prouesses	_	Word	-	+	_	A	_	_	_	_	_	_
-11	des	_	Word	-	-	_	_	_	_	_	R	R	_
+11	des	_	Word	-	-	_	_	_	_	_	R	R*	_
 12	Krakens	_	Word	-	+	_	_	_	_	E	_	_	_
 13	ou	_	Word	-	-	_	_	_	_	_	N	_	_
 14	autres	_	Word	-	-	_	_	_	_	_	_	E	_

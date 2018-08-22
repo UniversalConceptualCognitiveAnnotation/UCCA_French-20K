@@ -1,7 +1,7 @@
 # format = ucca
 1	Formaliste	_	Word	-	+	_	_	_	_	_	_	_
 2	enragé	_	Word	-	-	_	E	_	_	_	_	_
-3	il	_	Word	-	-	_	A	_	A	_	_	A
+3	il	_	Word	-	-	_	A*	_	A	_	_	A*
 4	ne	_	Word	-	+	_	_	_	T	_	_	_
 5	me	_	Word	-	-	_	_	_	A	_	_	_
 6	parlait	_	Word	-	+	_	H	_	_	_	_	_

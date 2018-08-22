@@ -17,7 +17,7 @@
 16	Scotia	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
 17	se	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 18	trouvait	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-19	par	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	R	_
+19	par	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	R*	_
 20	15°12'	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
 21	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
 22	longitude	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_

@@ -6,7 +6,7 @@
 5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 6	répondit	_	Word	-	+	_	_	_	_	_	_	_	_
 7	l'	_	Word	-	-	_	_	_	E	_	_	_	_
-8	ingénieur	_	Word	-	+	_	_	_	_	A	_	_	_
+8	ingénieur	_	Word	-	+	_	_	_	_	A*	_	_	_
 9	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 10	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 11	Go	_	Word	-	+	_	_	_	_	_	A	_	_

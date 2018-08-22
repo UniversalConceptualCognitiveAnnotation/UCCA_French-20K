@@ -9,10 +9,10 @@
 8	Serre	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
 9	dans	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
 10	ma	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	malle	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	A	_	_
+11	malle	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	A*	_	_
 12	tous	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
 13	mes	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-14	ustensiles	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	A	C	A	_
+14	ustensiles	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	A*	C*	A*	_
 15	de	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
 16	voyage	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
 17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
@@ -25,7 +25,7 @@
 24	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 25	chaussettes	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_
 26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-27	sans	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	D	_	_	_
+27	sans	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	D*	_	_	_
 28	compter	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
 29	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 30	mais	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_

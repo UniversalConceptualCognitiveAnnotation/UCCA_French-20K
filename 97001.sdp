@@ -19,7 +19,7 @@
 18	le	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
 19	cri	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
 20	des	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-21	caliers	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+21	caliers	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_
 22	qui	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
 23	remontèrent	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
 24	sur	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_

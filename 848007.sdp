@@ -9,7 +9,7 @@
 8	Rhodes	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
 10	un	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-11	Dieudonné	_	Word	-	+	_	_	_	C	_	_	A	_	_	_	_
+11	Dieudonné	_	Word	-	+	_	_	_	C	_	_	A*	_	_	_	_
 12	de	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
 13	Gozon	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
 14	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
@@ -17,7 +17,7 @@
 16	à	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
 17	la	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
 18	rencontre	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-19	du	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+19	du	_	Word	-	-	_	_	_	_	_	_	_	_	E*	_	_
 20	serpent	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
 21	qui	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
 22	désolait	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_

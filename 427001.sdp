@@ -1,5 +1,5 @@
 # format = ucca
-1	Je	_	Word	-	-	_	A	_	A
+1	Je	_	Word	-	-	_	A	_	A*
 2	parlai	_	Word	-	+	_	_	_	_
 3	faute	_	Word	-	+	_	L	_	_
 4	de	_	Word	-	-	_	_	Terminal	_

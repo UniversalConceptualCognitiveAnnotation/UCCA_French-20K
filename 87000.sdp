@@ -9,7 +9,7 @@
 8	et	_	Word	-	-	_	_	_	N	_	_	_
 9	des	_	Word	-	-	_	_	_	_	R	_	_
 10	incrédules	_	Word	-	+	_	_	_	C	_	_	_
-11	dans	_	Word	-	-	_	_	_	_	_	R	R
+11	dans	_	Word	-	-	_	_	_	_	_	R	R*
 12	les	_	Word	-	-	_	_	_	_	_	E	_
 13	sociétés	_	Word	-	+	_	A	_	_	_	_	_
 14	savantes	_	Word	-	-	_	_	_	_	_	E	_

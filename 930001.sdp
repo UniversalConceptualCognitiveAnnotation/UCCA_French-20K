@@ -1,7 +1,7 @@
 # format = ucca
 1	L	_	Word	-	-	_	E	_	_	_
 2	'	_	Punctuation	-	-	_	U	_	_	_
-3	Abraham-Lincoln	_	Word	-	+	_	_	_	A	A
+3	Abraham-Lincoln	_	Word	-	+	_	_	_	A*	A*
 4	n'	_	Word	-	-	_	_	D	_	_
 5	avait	_	Word	-	-	_	_	F	_	_
 6	rien	_	Word	-	-	_	_	A	_	_

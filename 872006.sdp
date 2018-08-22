@@ -10,7 +10,7 @@
 9	vingt	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
 10	pieds	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 11	cette	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	pression	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	A	_	_	_
+12	pression	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_	_	A*	_	_	_
 13	est	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
 14	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
 15	dix	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_

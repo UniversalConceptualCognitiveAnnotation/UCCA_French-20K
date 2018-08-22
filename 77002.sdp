@@ -1,5 +1,5 @@
 # format = ucca
-1	Les	_	Word	-	-	_	E	E	E	_	_	_	_	_	_	_	_	_	_	_	_
+1	Les	_	Word	-	-	_	E	E*	E*	_	_	_	_	_	_	_	_	_	_	_	_
 2	négociants	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
 3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	armateurs	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_

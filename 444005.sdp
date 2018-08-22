@@ -14,7 +14,7 @@
 13	au	_	Word	-	-	_	_	_	_	_	R	_	_
 14	passage	_	Word	-	+	_	_	_	_	_	_	E	_
 15	quelque	_	Word	-	-	_	_	_	_	_	_	E	_
-16	télégramme	_	Word	-	+	_	_	_	_	_	A	_	A
+16	télégramme	_	Word	-	+	_	_	_	_	_	_	_	A*
 17	dont	_	Word	-	-	_	_	_	_	L	_	_	_
 18	elle	_	Word	-	-	_	_	_	_	_	_	_	A
 19	faisait	_	Word	-	-	_	_	_	_	_	_	_	F

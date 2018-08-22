@@ -1,6 +1,6 @@
 # format = ucca
 1	Les	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	embarcations	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+2	embarcations	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*
 3	rayonnèrent	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 4	dans	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
 5	toutes	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_

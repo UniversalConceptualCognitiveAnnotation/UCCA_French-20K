@@ -16,9 +16,9 @@
 15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 16	et	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
 17	le	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	public	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+18	public	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_	_	_	_	_
 19	admit	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-20	sans	_	Word	-	-	_	L	_	_	_	_	_	_	D	_	_	_	_	_
+20	sans	_	Word	-	-	_	L	_	_	_	_	_	_	D*	_	_	_	_	_
 21	conteste	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 22	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 23	existence	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_

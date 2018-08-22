@@ -29,7 +29,7 @@
 28	au	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
 29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
 30	dessus	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-31	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	E
+31	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	E*
 32	flots	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
 33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -25,9 +25,9 @@
 24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 25	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 26	crustacés	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
-27	effrayants	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	E	_	_	_	_	_	_
+27	effrayants	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	E*	_	_	_	_	_	_
 28	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-29	contempler	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+29	contempler	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C*	_	_	_	_	_	_
 30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 31	tels	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
 32	que	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_

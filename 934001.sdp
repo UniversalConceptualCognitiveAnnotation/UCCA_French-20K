@@ -5,7 +5,7 @@
 4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
 5	le	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
 6	commandant	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
-7	Farragut	_	Word	-	+	_	_	_	_	A	_	_	_	A	_	_
+7	Farragut	_	Word	-	+	_	_	_	_	A*	_	_	_	A*	_	_
 8	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
 9	fidèle	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
 10	à	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_

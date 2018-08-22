@@ -22,7 +22,7 @@
 21	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
 22	mais	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
 23	la	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-24	mer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+24	mer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	_
 25	se	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
 26	maintenait	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
 27	belle	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_

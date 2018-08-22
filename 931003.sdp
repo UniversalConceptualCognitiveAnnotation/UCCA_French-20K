@@ -22,7 +22,7 @@
 21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 22	le	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 23	commandant	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-24	Farragut	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+24	Farragut	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	_	_
 25	comme	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
 26	autrefois	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
 27	Colomb	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
@@ -31,6 +31,6 @@
 30	trois	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 31	jours	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	T
 32	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-33	patience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	A	_	_
+33	patience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	A	_	_
 34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

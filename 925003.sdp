@@ -1,6 +1,6 @@
 # format = ucca
 1	La	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-2	frégate	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	A	_	_
+2	frégate	_	Word	-	+	_	_	_	_	_	_	A*	_	_	_	_	A*	_	_
 3	passa	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	donc	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
 5	au	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_

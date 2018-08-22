@@ -17,18 +17,18 @@
 16	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
 17	l'	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 18	embranchement	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-19	des	_	Word	-	-	_	_	_	_	_	_	R	E	_	_	_	_	_	_
+19	des	_	Word	-	-	_	_	_	_	_	_	R	E*	_	_	_	_	_	_
 20	vertébrés	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 22	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 23	la	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 24	classe	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-25	des	_	Word	-	-	_	_	_	_	_	_	_	_	R	E	_	_	_	_
+25	des	_	Word	-	-	_	_	_	_	_	_	_	_	R	E*	_	_	_	_
 26	mammifères	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_
 27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 28	au	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
 29	groupe	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	E	_	_
+30	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	E*	_	_
 31	pisciformes	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_
 32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 33	et	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_
@@ -36,7 +36,7 @@
 35	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
 36	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 37	ordre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	E
+38	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	E*
 39	cétacés	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_
 40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

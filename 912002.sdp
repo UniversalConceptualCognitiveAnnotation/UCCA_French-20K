@@ -11,14 +11,14 @@
 10	à	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
 11	l'œuvre	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
 12	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-13	l'	_	Word	-	-	_	_	_	_	_	_	A	A	_	_
+13	l'	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_
 14	autorisa	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 15	à	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
 16	se	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 17	rendre	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
 18	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 19	bord	_	Word	-	+	_	_	_	_	_	_	_	_	_	E
-20	du	_	Word	-	-	_	_	_	_	_	_	_	_	R	E
+20	du	_	Word	-	-	_	_	_	_	_	_	_	_	R	E*
 21	Monroe	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

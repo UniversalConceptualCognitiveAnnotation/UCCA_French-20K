@@ -22,7 +22,7 @@
 21	insuccès	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
 22	ne	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
 23	saurait	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
-24	lui	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	A
+24	lui	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	A*
 25	être	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
 26	imputé	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
 27	;	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_

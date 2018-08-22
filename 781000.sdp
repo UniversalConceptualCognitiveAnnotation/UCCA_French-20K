@@ -1,6 +1,6 @@
 # format = ucca
 1	Le	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	véhicule	_	Word	-	+	_	_	_	E	_	_	_	A	_	_	_	_	A	_	A	_	_
+2	véhicule	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	A*	_	A*	_	_
 3	à	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	vingt	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	francs	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_

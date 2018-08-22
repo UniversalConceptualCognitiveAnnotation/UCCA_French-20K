@@ -14,7 +14,7 @@
 13	il	_	Word	-	-	_	_	_	_	F	_	_	_
 14	n'	_	Word	-	-	_	_	_	_	D	_	_	_
 15	y	_	Word	-	-	_	_	_	_	A	_	_	_
-16	ait	_	Word	-	+	_	H	_	_	_	_	_	A
+16	ait	_	Word	-	+	_	H	_	_	_	_	_	A*
 17	rien	_	Word	-	-	_	_	_	_	A	_	_	_
 18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 19	en	_	Word	-	-	_	_	_	_	_	R	_	_

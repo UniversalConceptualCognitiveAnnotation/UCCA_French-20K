@@ -1,7 +1,7 @@
 # format = ucca
 1	Un	_	Word	-	-	_	E	_	_	_	_	_	_	_
 2	nouveau	_	Word	-	-	_	E	_	_	_	_	_	_	_
-3	sentiment	_	Word	-	+	_	_	_	_	A	_	_	_	_
+3	sentiment	_	Word	-	+	_	_	_	_	A*	_	_	_	_
 4	se	_	Word	-	+	_	_	_	_	_	_	_	_	_
 5	produisit	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
 6	à	_	Word	-	-	_	_	_	R	_	_	_	_	_
