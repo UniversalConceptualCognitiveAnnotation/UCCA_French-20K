@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 91003
 1	Ils	_	Word	Word	_	3	A	_	_
-1	Ils	_	Word	Word	_	12	A	_	_
+1	Ils	_	Word	Word	_	12	A*	_	_
 2	ne	_	Word	Word	_	3	D	_	_
 3	virent	_	Word	Word	_	0	ROOT	_	_
 4	rien	_	Word	Word	_	3	A	_	_

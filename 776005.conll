@@ -11,13 +11,13 @@
 9	dans	_	Word	Word	_	11	R	_	_
 10	ma	_	Word	Word	_	11	E	_	_
 11	malle	_	Word	Word	_	8	A	_	_
-11	malle	_	Word	Word	_	31	A	_	_
+11	malle	_	Word	Word	_	31	A*	_	_
 12	tous	_	Word	Word	_	14	E	_	_
 13	mes	_	Word	Word	_	14	E	_	_
 14	ustensiles	_	Word	Word	_	8	A	_	_
-14	ustensiles	_	Word	Word	_	31	C	_	_
-14	ustensiles	_	Word	Word	_	35	A	_	_
-14	ustensiles	_	Word	Word	_	28	A	_	_
+14	ustensiles	_	Word	Word	_	31	C*	_	_
+14	ustensiles	_	Word	Word	_	28	A*	_	_
+14	ustensiles	_	Word	Word	_	35	A*	_	_
 15	de	_	Word	Word	_	16	R	_	_
 16	voyage	_	Word	Word	_	14	E	_	_
 17	,	_	Punctuation	Punctuation	_	14	U	_	_
@@ -31,7 +31,7 @@
 25	chaussettes	_	Word	Word	_	14	C	_	_
 26	,	_	Punctuation	Punctuation	_	28	U	_	_
 27	sans	_	Word	Word	_	6	L	_	_
-27	sans	_	Word	Word	_	28	D	_	_
+27	sans	_	Word	Word	_	28	D*	_	_
 28	compter	_	Word	Word	_	6	H	_	_
 29	,	_	Punctuation	Punctuation	_	6	U	_	_
 30	mais	_	Word	Word	_	6	L	_	_

@@ -31,7 +31,7 @@
 29	-	_	Punctuation	Punctuation	_	30	U	_	_
 30	dessus	_	Word	Word	_	32	E	_	_
 31	des	_	Word	Word	_	30	R	_	_
-31	des	_	Word	Word	_	32	E	_	_
+31	des	_	Word	Word	_	32	E*	_	_
 32	flots	_	Word	Word	_	24	A	_	_
 33	.	_	Punctuation	Punctuation	_	32	U	_	_
 

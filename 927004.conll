@@ -8,8 +8,7 @@
 6	narwal	_	Word	Word	_	3	A	_	_
 7	gigantesque	_	Word	Word	_	6	E	_	_
 8	,	_	Punctuation	Punctuation	_	6	U	_	_
-9	ni	_	Word	Word	_	6	N	_	_
-9	ni	_	Word	Word	_	6	E	_	_
+9	ni	_	Word	Word	_	6	E*	_	_
 10	à	_	Word	Word	_	12	R	_	_
 11	un	_	Word	Word	_	12	E	_	_
 12	îlot	_	Word	Word	_	6	C	_	_

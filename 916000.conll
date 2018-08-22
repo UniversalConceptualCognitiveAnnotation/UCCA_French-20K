@@ -28,13 +28,13 @@
 26	solitaire	_	Word	Word	_	25	E	_	_
 27	,	_	Punctuation	Punctuation	_	25	U	_	_
 28	ce	_	Word	Word	_	29	E	_	_
-29	roc	_	Word	Word	_	42	A	_	_
+29	roc	_	Word	Word	_	42	A*	_	_
 30	perdu	_	Word	Word	_	25	C	_	_
 31	à	_	Word	Word	_	33	R	_	_
 32	l'	_	Word	Word	_	33	E	_	_
 33	extrémité	_	Word	Word	_	35	E	_	_
 34	du	_	Word	Word	_	33	R	_	_
-34	du	_	Word	Word	_	35	E	_	_
+34	du	_	Word	Word	_	35	E*	_	_
 35	continent	_	Word	Word	_	30	A	_	_
 36	américain	_	Word	Word	_	35	E	_	_
 37	,	_	Punctuation	Punctuation	_	30	U	_	_

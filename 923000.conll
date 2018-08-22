@@ -38,7 +38,6 @@
 36	ce	_	Word	Word	_	40	Terminal	_	_
 37	que	_	Word	Word	_	40	Terminal	_	_
 38	nous	_	Word	Word	_	40	A	_	_
-38	nous	_	Word	Word	_	56	A	_	_
 39	ne	_	Word	Word	_	40	D	_	_
 40	courons	_	Word	Word	_	11	H	_	_
 41	pas	_	Word	Word	_	39	Terminal	_	_
@@ -47,7 +46,7 @@
 44	aventure	_	Word	Word	_	40	Terminal	_	_
 45	?	_	Punctuation	Punctuation	_	11	U	_	_
 46	On	_	Word	Word	_	48	A	_	_
-46	On	_	Word	Word	_	79	A	_	_
+46	On	_	Word	Word	_	79	A*	_	_
 47	a	_	Word	Word	_	48	F	_	_
 48	revu	_	Word	Word	_	50	A	_	_
 49	,	_	Punctuation	Punctuation	_	50	U	_	_
@@ -56,8 +55,7 @@
 52	on	_	Word	Word	_	50	A	_	_
 53	,	_	Punctuation	Punctuation	_	50	U	_	_
 54	cette	_	Word	Word	_	55	E	_	_
-55	bête	_	Word	Word	_	79	A	_	_
-55	bête	_	Word	Word	_	56	A	_	_
+55	bête	_	Word	Word	_	79	A*	_	_
 56	introuvable	_	Word	Word	_	55	E	_	_
 57	dans	_	Word	Word	_	60	R	_	_
 58	les	_	Word	Word	_	60	E	_	_
@@ -107,7 +105,7 @@
 102	parages	_	Word	Word	_	97	A	_	_
 103	!	_	Punctuation	Punctuation	_	11	U	_	_
 104	Il	_	Word	Word	_	106	A	_	_
-104	Il	_	Word	Word	_	112	A	_	_
+104	Il	_	Word	Word	_	112	A*	_	_
 105	est	_	Word	Word	_	106	F	_	_
 106	doué	_	Word	Word	_	11	H	_	_
 107	d'	_	Word	Word	_	110	R	_	_

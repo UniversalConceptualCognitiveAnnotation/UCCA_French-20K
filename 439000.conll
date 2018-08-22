@@ -12,9 +12,9 @@
 10	;	_	Punctuation	Punctuation	_	6	U	_	_
 11	mais	_	Word	Word	_	6	L	_	_
 12	je	_	Word	Word	_	19	A	_	_
-12	je	_	Word	Word	_	29	A	_	_
+12	je	_	Word	Word	_	29	A*	_	_
 13	voulais	_	Word	Word	_	19	D	_	_
-13	voulais	_	Word	Word	_	29	P	_	_
+13	voulais	_	Word	Word	_	29	P*	_	_
 14	jusqu'	_	Word	Word	_	18	R	_	_
 15	à	_	Word	Word	_	14	Terminal	_	_
 16	un	_	Word	Word	_	18	E	_	_

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 423003
 1	Garder	_	Word	Word	_	10	A	_	_
-1	Garder	_	Word	Word	_	17	A	_	_
+1	Garder	_	Word	Word	_	17	A*	_	_
 2	le	_	Word	Word	_	3	E	_	_
 3	secret	_	Word	Word	_	1	A	_	_
 4	dans	_	Word	Word	_	6	R	_	_

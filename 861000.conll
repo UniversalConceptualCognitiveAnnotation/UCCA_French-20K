@@ -29,7 +29,7 @@
 27	la	_	Word	Word	_	28	E	_	_
 28	hauteur	_	Word	Word	_	31	E	_	_
 29	du	_	Word	Word	_	28	R	_	_
-29	du	_	Word	Word	_	30	E	_	_
+29	du	_	Word	Word	_	30	E*	_	_
 30	cap	_	Word	Word	_	31	E	_	_
 31	Blanc	_	Word	Word	_	24	A	_	_
 32	,	_	Punctuation	Punctuation	_	31	U	_	_

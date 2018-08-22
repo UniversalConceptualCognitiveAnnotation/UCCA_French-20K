@@ -22,7 +22,7 @@
 20	la	_	Word	Word	_	21	E	_	_
 21	hauteur	_	Word	Word	_	25	E	_	_
 22	du	_	Word	Word	_	21	R	_	_
-22	du	_	Word	Word	_	25	E	_	_
+22	du	_	Word	Word	_	25	E*	_	_
 23	light	_	Word	Word	_	25	E	_	_
 24	-	_	Punctuation	Punctuation	_	25	U	_	_
 25	boat	_	Word	Word	_	17	A	_	_

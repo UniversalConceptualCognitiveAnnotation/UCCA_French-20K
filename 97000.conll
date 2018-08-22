@@ -8,7 +8,7 @@
 6	heurté	_	Word	Word	_	0	ROOT	_	_
 7	,	_	Punctuation	Punctuation	_	6	U	_	_
 8	il	_	Word	Word	_	11	A	_	_
-8	il	_	Word	Word	_	18	A	_	_
+8	il	_	Word	Word	_	18	A*	_	_
 9	avait	_	Word	Word	_	11	F	_	_
 10	été	_	Word	Word	_	11	F	_	_
 11	heurté	_	Word	Word	_	6	H	_	_
@@ -17,7 +17,7 @@
 14	plutôt	_	Word	Word	_	18	R	_	_
 15	par	_	Word	Word	_	18	R	_	_
 16	un	_	Word	Word	_	17	E	_	_
-17	instrument	_	Word	Word	_	22	A	_	_
+17	instrument	_	Word	Word	_	22	A*	_	_
 18	tranchant	_	Word	Word	_	6	H	_	_
 19	ou	_	Word	Word	_	18	N	_	_
 20	perforant	_	Word	Word	_	18	C	_	_

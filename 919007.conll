@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 919007
 1	Je	_	Word	Word	_	2	A	_	_
-1	Je	_	Word	Word	_	8	A	_	_
+1	Je	_	Word	Word	_	8	A*	_	_
 2	regardais	_	Word	Word	_	0	ROOT	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	je	_	Word	Word	_	5	A	_	_
-4	je	_	Word	Word	_	15	A	_	_
+4	je	_	Word	Word	_	15	A*	_	_
 5	regardais	_	Word	Word	_	2	H	_	_
 6	à	_	Word	Word	_	2	L	_	_
 7	en	_	Word	Word	_	8	A	_	_
@@ -35,7 +35,7 @@
 31	«	_	Punctuation	Punctuation	_	25	U	_	_
 32	Si	_	Word	Word	_	35	L	_	_
 33	monsieur	_	Word	Word	_	35	A	_	_
-33	monsieur	_	Word	Word	_	40	A	_	_
+33	monsieur	_	Word	Word	_	40	A*	_	_
 34	voulait	_	Word	Word	_	35	D	_	_
 35	avoir	_	Word	Word	_	25	A	_	_
 36	la	_	Word	Word	_	35	Terminal	_	_

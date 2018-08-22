@@ -19,7 +19,7 @@
 17	vous	_	Word	Word	_	20	F	_	_
 18	persistez	_	Word	Word	_	20	D	_	_
 19	à	_	Word	Word	_	20	F	_	_
-20	admettre	_	Word	Word	_	30	P	_	_
+20	admettre	_	Word	Word	_	30	P*	_	_
 21	l'	_	Word	Word	_	22	E	_	_
 22	existence	_	Word	Word	_	20	A	_	_
 23	d'	_	Word	Word	_	26	R	_	_
@@ -66,7 +66,7 @@
 64	l'	_	Word	Word	_	65	E	_	_
 65	embranchement	_	Word	Word	_	67	E	_	_
 66	des	_	Word	Word	_	65	R	_	_
-66	des	_	Word	Word	_	67	E	_	_
+66	des	_	Word	Word	_	67	E*	_	_
 67	vertébrés	_	Word	Word	_	62	A	_	_
 68	,	_	Punctuation	Punctuation	_	62	U	_	_
 69	comme	_	Word	Word	_	71	R	_	_

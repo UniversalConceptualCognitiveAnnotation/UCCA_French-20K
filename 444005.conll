@@ -15,8 +15,7 @@
 13	au	_	Word	Word	_	14	R	_	_
 14	passage	_	Word	Word	_	16	E	_	_
 15	quelque	_	Word	Word	_	16	E	_	_
-16	télégramme	_	Word	Word	_	22	A	_	_
-16	télégramme	_	Word	Word	_	14	A	_	_
+16	télégramme	_	Word	Word	_	0	ROOT	_	_
 17	dont	_	Word	Word	_	12	L	_	_
 18	elle	_	Word	Word	_	22	A	_	_
 19	faisait	_	Word	Word	_	22	F	_	_

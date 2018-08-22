@@ -15,7 +15,7 @@
 13	Plantes	_	Word	Word	_	11	Terminal	_	_
 14	,	_	Punctuation	Punctuation	_	2	U	_	_
 15	Conseil	_	Word	Word	_	20	A	_	_
-15	Conseil	_	Word	Word	_	2	A	_	_
+15	Conseil	_	Word	Word	_	2	A*	_	_
 16	en	_	Word	Word	_	20	D	_	_
 17	était	_	Word	Word	_	16	Terminal	_	_
 18	venu	_	Word	Word	_	16	Terminal	_	_
