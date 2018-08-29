@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 775002
-1	Il	_	Word	Word	_	0	ROOT	_	_
+1	Il	_	Word	Word	_	0	H	_	_
 2	y	_	Word	Word	_	1	Terminal	_	_
 3	avait	_	Word	Word	_	1	Terminal	_	_
 4	là	_	Word	Word	_	1	A	_	_

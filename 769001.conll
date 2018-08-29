@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 769001
 1	Un	_	Word	Word	_	2	E	_	_
-2	garçon	_	Word	Word	_	0	ROOT	_	_
+2	garçon	_	Word	Word	_	0	H	_	_
 3	dévoué	_	Word	Word	_	2	E	_	_
 4	qui	_	Word	Word	_	6	R	_	_
 5	m'	_	Word	Word	_	6	A	_	_

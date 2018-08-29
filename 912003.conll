@@ -3,7 +3,7 @@
 1	Et	_	Word	Word	_	4	L	_	_
 2	le	_	Word	Word	_	3	E	_	_
 3	hasard	_	Word	Word	_	4	A	_	_
-4	servit	_	Word	Word	_	0	ROOT	_	_
+4	servit	_	Word	Word	_	0	H	_	_
 5	si	_	Word	Word	_	6	E	_	_
 6	bien	_	Word	Word	_	4	D	_	_
 7	notre	_	Word	Word	_	8	E	_	_
@@ -40,6 +40,7 @@
 35	emparant	_	Word	Word	_	34	Terminal	_	_
 36	de	_	Word	Word	_	38	R	_	_
 37	l'	_	Word	Word	_	38	E	_	_
+38	autre	_	Word	Word	_	0	C	_	_
 38	autre	_	Word	Word	_	41	A*	_	_
 39	après	_	Word	Word	_	4	L	_	_
 40	une	_	Word	Word	_	41	E	_	_

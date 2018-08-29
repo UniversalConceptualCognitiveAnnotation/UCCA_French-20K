@@ -6,10 +6,11 @@
 4	lieu	_	Word	Word	_	2	E	_	_
 5	fut	_	Word	Word	_	7	F	_	_
 6	exactement	_	Word	Word	_	7	D	_	_
-7	pris	_	Word	Word	_	0	ROOT	_	_
+7	pris	_	Word	Word	_	0	H	_	_
 8	,	_	Punctuation	Punctuation	_	7	U	_	_
 9	et	_	Word	Word	_	7	L	_	_
 10	le	_	Word	Word	_	11	E	_	_
+11	Moravian	_	Word	Word	_	0	C	_	_
 11	Moravian	_	Word	Word	_	16	A*	_	_
 12	continua	_	Word	Word	_	7	H	_	_
 13	sa	_	Word	Word	_	14	E	_	_

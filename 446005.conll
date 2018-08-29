@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 446005
 1	Il	_	Word	Word	_	3	A	_	_
-1	Il	_	Word	Word	_	6	A*	_	_
-1	Il	_	Word	Word	_	14	A*	_	_
 1	Il	_	Word	Word	_	11	A*	_	_
+1	Il	_	Word	Word	_	14	A*	_	_
+1	Il	_	Word	Word	_	6	A*	_	_
 2	n'	_	Word	Word	_	3	D	_	_
-3	avait	_	Word	Word	_	0	ROOT	_	_
+3	avait	_	Word	Word	_	0	H	_	_
 4	qu'	_	Word	Word	_	2	Terminal	_	_
 5	à	_	Word	Word	_	3	F	_	_
 6	allumer	_	Word	Word	_	3	A	_	_

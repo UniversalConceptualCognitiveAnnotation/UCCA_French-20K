@@ -27,7 +27,7 @@
 25	de	_	Word	Word	_	26	R	_	_
 26	longitude	_	Word	Word	_	24	E	_	_
 27	,	_	Punctuation	Punctuation	_	28	U	_	_
-28	heurta	_	Word	Word	_	0	ROOT	_	_
+28	heurta	_	Word	Word	_	0	H	_	_
 29	de	_	Word	Word	_	31	R	_	_
 30	sa	_	Word	Word	_	31	E	_	_
 31	hanche	_	Word	Word	_	28	A	_	_

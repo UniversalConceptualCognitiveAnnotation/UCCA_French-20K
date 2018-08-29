@@ -5,7 +5,7 @@
 3	secondes	_	Word	Word	_	6	T	_	_
 4	avant	_	Word	Word	_	3	R	_	_
 5	l'	_	Word	Word	_	6	E	_	_
-6	arrivée	_	Word	Word	_	0	ROOT	_	_
+6	arrivée	_	Word	Word	_	0	H	_	_
 7	de	_	Word	Word	_	9	R	_	_
 8	la	_	Word	Word	_	9	E	_	_
 9	lettre	_	Word	Word	_	6	A	_	_
@@ -17,8 +17,8 @@
 15	Hobson	_	Word	Word	_	11	Terminal	_	_
 16	,	_	Punctuation	Punctuation	_	6	U	_	_
 17	je	_	Word	Word	_	19	A	_	_
-17	je	_	Word	Word	_	23	A*	_	_
 17	je	_	Word	Word	_	28	A*	_	_
+17	je	_	Word	Word	_	23	A*	_	_
 18	ne	_	Word	Word	_	19	D	_	_
 19	songeais	_	Word	Word	_	6	H	_	_
 20	pas	_	Word	Word	_	18	Terminal	_	_

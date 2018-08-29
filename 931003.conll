@@ -4,7 +4,7 @@
 2	ne	_	Word	Word	_	5	D	_	_
 3	veux	_	Word	Word	_	5	D	_	_
 4	pas	_	Word	Word	_	2	Terminal	_	_
-5	dire	_	Word	Word	_	0	ROOT	_	_
+5	dire	_	Word	Word	_	0	H	_	_
 6	qu'	_	Word	Word	_	10	R	_	_
 7	il	_	Word	Word	_	10	F	_	_
 8	y	_	Word	Word	_	7	Terminal	_	_
@@ -23,6 +23,7 @@
 21	,	_	Punctuation	Punctuation	_	5	U	_	_
 22	le	_	Word	Word	_	23	E	_	_
 23	commandant	_	Word	Word	_	24	E	_	_
+24	Farragut	_	Word	Word	_	0	C	_	_
 24	Farragut	_	Word	Word	_	20	A*	_	_
 25	comme	_	Word	Word	_	5	L	_	_
 26	autrefois	_	Word	Word	_	27	D	_	_

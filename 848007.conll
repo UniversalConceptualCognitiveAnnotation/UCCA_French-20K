@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 848007
 1	C'	_	Word	Word	_	2	A	_	_
-2	était	_	Word	Word	_	0	ROOT	_	_
+2	était	_	Word	Word	_	0	H	_	_
 3	une	_	Word	Word	_	4	E	_	_
 4	sorte	_	Word	Word	_	6	E	_	_
 5	de	_	Word	Word	_	4	R	_	_

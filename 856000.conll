@@ -1,10 +1,11 @@
 # format = ucca
 # sent_id = 856000
 1	Je	_	Word	Word	_	2	A	_	_
-2	crois	_	Word	Word	_	0	ROOT	_	_
+2	crois	_	Word	Word	_	0	H	_	_
 3	que	_	Word	Word	_	2	F	_	_
 4	le	_	Word	Word	_	5	E	_	_
 5	commandant	_	Word	Word	_	6	E	_	_
+6	Farragut	_	Word	Word	_	0	C	_	_
 6	Farragut	_	Word	Word	_	11	A*	_	_
 7	avait	_	Word	Word	_	9	F	_	_
 8	sagement	_	Word	Word	_	9	D	_	_

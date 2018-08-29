@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 921002
 1	C'	_	Word	Word	_	2	F	_	_
-2	était	_	Word	Word	_	0	ROOT	_	_
+2	était	_	Word	Word	_	0	H	_	_
 3	alors	_	Word	Word	_	2	T	_	_
 4	la	_	Word	Word	_	6	E	_	_
 5	mauvaise	_	Word	Word	_	6	E	_	_
@@ -23,6 +23,7 @@
 21	;	_	Punctuation	Punctuation	_	2	U	_	_
 22	mais	_	Word	Word	_	2	L	_	_
 23	la	_	Word	Word	_	24	E	_	_
+24	mer	_	Word	Word	_	0	C	_	_
 24	mer	_	Word	Word	_	30	A*	_	_
 25	se	_	Word	Word	_	2	H	_	_
 26	maintenait	_	Word	Word	_	25	Terminal	_	_

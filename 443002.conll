@@ -10,7 +10,7 @@
 8	-	_	Punctuation	Punctuation	_	7	U	_	_
 9	Lincoln	_	Word	Word	_	7	Terminal	_	_
 10	,	_	Punctuation	Punctuation	_	11	U	_	_
-11	se	_	Word	Word	_	0	ROOT	_	_
+11	se	_	Word	Word	_	0	H	_	_
 12	mit	_	Word	Word	_	11	Terminal	_	_
 13	en	_	Word	Word	_	11	Terminal	_	_
 14	mesure	_	Word	Word	_	11	Terminal	_	_

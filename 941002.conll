@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 941002
 1	C'	_	Word	Word	_	2	A	_	_
-2	était	_	Word	Word	_	0	ROOT	_	_
+2	était	_	Word	Word	_	0	H	_	_
 3	la	_	Word	Word	_	4	E	_	_
 4	voix	_	Word	Word	_	2	A	_	_
 5	de	_	Word	Word	_	6	R	_	_
@@ -16,12 +16,12 @@
 14	:	_	Punctuation	Punctuation	_	12	U	_	_
 15	«	_	Punctuation	Punctuation	_	12	U	_	_
 16	Ohé	_	Word	Word	_	19	Terminal	_	_
-17	!	_	Punctuation	Punctuation	_	12	U	_	_
+17	!	_	Punctuation	Punctuation	_	19	U	_	_
 18	la	_	Word	Word	_	19	E	_	_
 19	chose	_	Word	Word	_	12	A	_	_
 20	en	_	Word	Word	_	21	R	_	_
 21	question	_	Word	Word	_	19	E	_	_
-22	,	_	Punctuation	Punctuation	_	12	U	_	_
+22	,	_	Punctuation	Punctuation	_	19	U	_	_
 23	sous	_	Word	Word	_	25	R	_	_
 24	le	_	Word	Word	_	25	E	_	_
 25	vent	_	Word	Word	_	31	E	_	_

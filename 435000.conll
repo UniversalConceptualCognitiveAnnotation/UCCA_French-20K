@@ -7,7 +7,7 @@
 5	le	_	Word	Word	_	6	E	_	_
 6	narwal	_	Word	Word	_	8	A	_	_
 7	est	_	Word	Word	_	8	F	_	_
-8	armé	_	Word	Word	_	0	ROOT	_	_
+8	armé	_	Word	Word	_	0	H	_	_
 9	d'	_	Word	Word	_	13	R	_	_
 10	une	_	Word	Word	_	11	E	_	_
 11	sorte	_	Word	Word	_	13	E	_	_
@@ -48,7 +48,9 @@
 46	unes	_	Word	Word	_	44	Terminal	_	_
 47	de	_	Word	Word	_	44	R	_	_
 48	ces	_	Word	Word	_	49	E	_	_
-49	dents	_	Word	Word	_	0	ROOT	_	_
+49	dents	_	Word	Word	_	0	C	_	_
+49	dents	_	Word	Word	_	64	C*	_	_
+49	dents	_	Word	Word	_	50	A*	_	_
 50	implantées	_	Word	Word	_	49	E	_	_
 51	dans	_	Word	Word	_	53	R	_	_
 52	le	_	Word	Word	_	53	E	_	_

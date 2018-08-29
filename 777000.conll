@@ -2,7 +2,7 @@
 # sent_id = 777000
 1	-	_	Punctuation	Punctuation	_	3	U	_	_
 2	Tu	_	Word	Word	_	3	A	_	_
-3	sais	_	Word	Word	_	0	ROOT	_	_
+3	sais	_	Word	Word	_	0	H	_	_
 4	,	_	Punctuation	Punctuation	_	3	U	_	_
 5	mon	_	Word	Word	_	6	E	_	_
 6	ami	_	Word	Word	_	2	E	_	_
@@ -31,7 +31,7 @@
 29	un	_	Word	Word	_	30	E	_	_
 30	ouvrage	_	Word	Word	_	27	E	_	_
 31	in	_	Word	Word	_	30	E	_	_
-32	-	_	Punctuation	Punctuation	_	30	U	_	_
+32	-	_	Punctuation	Punctuation	_	31	U	_	_
 33	quarto	_	Word	Word	_	31	Terminal	_	_
 34	en	_	Word	Word	_	36	R	_	_
 35	deux	_	Word	Word	_	36	E	_	_
@@ -57,8 +57,9 @@
 55	commandant	_	Word	Word	_	56	E	_	_
 56	Farragut	_	Word	Word	_	51	A	_	_
 57	.	_	Punctuation	Punctuation	_	3	U	_	_
-58	Mission	_	Word	Word	_	63	C*	_	_
+58	Mission	_	Word	Word	_	0	C	_	_
 58	Mission	_	Word	Word	_	87	A*	_	_
+58	Mission	_	Word	Word	_	63	C*	_	_
 58	Mission	_	Word	Word	_	63	A*	_	_
 59	glorieuse	_	Word	Word	_	58	E	_	_
 60	,	_	Punctuation	Punctuation	_	3	U	_	_

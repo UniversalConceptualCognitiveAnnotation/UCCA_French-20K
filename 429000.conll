@@ -10,7 +10,7 @@
 8	nous	_	Word	Word	_	11	A	_	_
 9	sont	_	Word	Word	_	11	F	_	_
 10	totalement	_	Word	Word	_	11	D	_	_
-11	inconnues	_	Word	Word	_	0	ROOT	_	_
+11	inconnues	_	Word	Word	_	0	H	_	_
 12	.	_	Punctuation	Punctuation	_	11	U	_	_
 13	La	_	Word	Word	_	14	E	_	_
 14	sonde	_	Word	Word	_	19	A	_	_
@@ -44,7 +44,7 @@
 42	quinze	_	Word	Word	_	40	C	_	_
 43	milles	_	Word	Word	_	35	A	_	_
 44	au	_	Word	Word	_	51	R	_	_
-45	-	_	Punctuation	Punctuation	_	51	U	_	_
+45	-	_	Punctuation	Punctuation	_	44	U	_	_
 46	dessous	_	Word	Word	_	44	Terminal	_	_
 47	de	_	Word	Word	_	51	R	_	_
 48	la	_	Word	Word	_	49	E	_	_

@@ -1,10 +1,11 @@
 # format = ucca
 # sent_id = 794001
 1	L'	_	Word	Word	_	2	E	_	_
+2	Abraham	_	Word	Word	_	0	C	_	_
 2	Abraham	_	Word	Word	_	34	A*	_	_
-3	-	_	Punctuation	Punctuation	_	34	U	_	_
+3	-	_	Punctuation	Punctuation	_	2	U	_	_
 4	Lincoln	_	Word	Word	_	2	Terminal	_	_
-5	répondit	_	Word	Word	_	0	ROOT	_	_
+5	répondit	_	Word	Word	_	0	H	_	_
 6	en	_	Word	Word	_	7	F	_	_
 7	amenant	_	Word	Word	_	5	H	_	_
 8	et	_	Word	Word	_	7	N	_	_

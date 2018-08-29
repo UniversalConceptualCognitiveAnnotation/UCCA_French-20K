@@ -9,11 +9,11 @@
 7	juillet	_	Word	Word	_	4	E	_	_
 8	,	_	Punctuation	Punctuation	_	4	U	_	_
 9	c	_	Word	Word	_	17	E	_	_
-10	'	_	Punctuation	Punctuation	_	17	U	_	_
+10	'	_	Punctuation	Punctuation	_	9	U	_	_
 11	est	_	Word	Word	_	9	Terminal	_	_
-12	-	_	Punctuation	Punctuation	_	17	U	_	_
+12	-	_	Punctuation	Punctuation	_	9	U	_	_
 13	à	_	Word	Word	_	9	Terminal	_	_
-14	-	_	Punctuation	Punctuation	_	17	U	_	_
+14	-	_	Punctuation	Punctuation	_	9	U	_	_
 15	dire	_	Word	Word	_	9	Terminal	_	_
 16	trois	_	Word	Word	_	17	E	_	_
 17	semaines	_	Word	Word	_	4	E	_	_
@@ -23,7 +23,7 @@
 21	,	_	Punctuation	Punctuation	_	24	U	_	_
 22	la	_	Word	Word	_	23	E	_	_
 23	frégate	_	Word	Word	_	24	A	_	_
-24	se	_	Word	Word	_	0	ROOT	_	_
+24	se	_	Word	Word	_	0	H	_	_
 25	trouvait	_	Word	Word	_	24	Terminal	_	_
 26	à	_	Word	Word	_	28	R	_	_
 27	la	_	Word	Word	_	28	E	_	_

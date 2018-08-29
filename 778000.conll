@@ -8,7 +8,7 @@
 6	je	_	Word	Word	_	7	A	_	_
 7	ferai	_	Word	Word	_	9	A	_	_
 8	,	_	Punctuation	Punctuation	_	9	U	_	_
-9	répondit	_	Word	Word	_	0	ROOT	_	_
+9	répondit	_	Word	Word	_	0	H	_	_
 10	Conseil	_	Word	Word	_	9	A	_	_
 11	.	_	Punctuation	Punctuation	_	9	U	_	_
 

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 86002
 1	On	_	Word	Word	_	2	A	_	_
-2	vit	_	Word	Word	_	0	ROOT	_	_
+2	vit	_	Word	Word	_	0	H	_	_
 3	réapparaître	_	Word	Word	_	2	A	_	_
 4	dans	_	Word	Word	_	6	R	_	_
 5	les	_	Word	Word	_	6	E	_	_
@@ -41,6 +41,7 @@
 39	,	_	Punctuation	Punctuation	_	37	U	_	_
 40	dont	_	Word	Word	_	44	R	_	_
 41	les	_	Word	Word	_	42	E	_	_
+42	tentacules	_	Word	Word	_	0	C	_	_
 42	tentacules	_	Word	Word	_	53	A*	_	_
 43	peuvent	_	Word	Word	_	44	D	_	_
 44	enlacer	_	Word	Word	_	37	E	_	_
