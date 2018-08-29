@@ -7,12 +7,12 @@
 6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
 7	ni	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_
 8	M	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_
-9	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
 10	Dumeril	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
 12	ni	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_
 13	M	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_
-14	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
 15	de	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
 16	Quatrefages	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
 17	n'	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_

@@ -11,7 +11,7 @@
 10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 11	et	_	Word	-	-	_	L	_	_	_	_	_	_	_
 12	celui	_	Word	-	+	_	_	_	_	_	_	A	A*	A*
-13	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+13	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
 14	ci	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
 15	ne	_	Word	-	-	_	_	_	_	_	_	D	_	_
 16	pouvait	_	Word	-	-	_	_	_	_	_	_	D	_	_

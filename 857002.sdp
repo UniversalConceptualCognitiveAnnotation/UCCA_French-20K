@@ -1,8 +1,8 @@
 # format = ucca
-1	C'	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+1	C'	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_
 2	était	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
 3	une	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-4	occasion	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	occasion	_	Word	-	+	_	_	_	_	S*	_	_	_	_	_
 5	pour	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
 6	lui	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
 7	de	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
@@ -15,7 +15,7 @@
 14	entendre	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
 15	cette	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
 16	vieille	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-17	langue	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+17	langue	_	Word	-	+	_	A*	_	_	_	_	_	_	A*	_
 18	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
 19	Rabelais	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
 20	qui	_	Word	-	-	_	_	_	_	_	_	_	_	R	_

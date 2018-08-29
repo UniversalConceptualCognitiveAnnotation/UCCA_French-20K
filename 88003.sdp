@@ -9,7 +9,7 @@
 8	journal	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 9	satirique	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
 10	très	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 12	redouté	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
 13	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 14	le	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
@@ -17,7 +17,7 @@
 16	aimé	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
 17	de	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 18	ses	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-19	rédacteurs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A*	_	A*	_	_
+19	rédacteurs	_	Word	-	+	_	_	_	_	A*	_	_	_	A*	_	_	A*	_	A*	_	_
 20	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 21	brochant	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 22	sur	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
