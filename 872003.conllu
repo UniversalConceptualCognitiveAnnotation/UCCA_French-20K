@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 872003
 # text = Admettons que la pression d' une atmosphère soit représentée par la pression d' une colonne d' eau haute de trente-deux pieds .
-1	Admettons	_	Word	Word	_	0	root	0:root	_
+1	Admettons	_	Word	Word	_	0	H	0:H	_
 2	que	_	Word	Word	_	9	R	9:R	_
 3	la	_	Word	Word	_	4	E	4:E	_
 4	pression	_	Word	Word	_	9	A	9:A	_

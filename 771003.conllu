@@ -2,7 +2,7 @@
 # sent_id = 771003
 # text = Il allait là comme ici , sans en demander davantage .
 1	Il	_	Word	Word	_	2	A	2:A|9:A	_
-2	allait	_	Word	Word	_	0	root	0:root	_
+2	allait	_	Word	Word	_	0	H	0:H	_
 3	là	_	Word	Word	_	2	A	2:A	_
 4	comme	_	Word	Word	_	3	R	3:R	_
 5	ici	_	Word	Word	_	3	C	3:C	_

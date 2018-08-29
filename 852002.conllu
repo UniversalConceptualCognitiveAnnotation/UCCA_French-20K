@@ -2,7 +2,7 @@
 # sent_id = 852002
 # text = Nous possédions tous les engins connus , depuis le harpon qui se lance à la main , jusqu' aux flèches barbelées des espingoles et aux balles explosibles des canardières .
 1	Nous	_	Word	Word	_	2	A	2:A	_
-2	possédions	_	Word	Word	_	0	root	0:root	_
+2	possédions	_	Word	Word	_	0	H	0:H	_
 3	tous	_	Word	Word	_	1	E	1:E	_
 4	les	_	Word	Word	_	5	E	5:E	_
 5	engins	_	Word	Word	_	2	A	2:A	_

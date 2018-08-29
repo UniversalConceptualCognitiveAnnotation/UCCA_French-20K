@@ -8,7 +8,7 @@
 5	eux	_	Word	Word	_	24	A	24:A	_
 6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	le	_	Word	Word	_	8	E	8:E	_
-8	capitaine	_	Word	Word	_	0	root	0:root	_
+8	capitaine	_	Word	Word	_	0	C	0:C|26:A|12:A|28:A	_
 9	du	_	Word	Word	_	10	R	10:R	_
 10	Monroe	_	Word	Word	_	8	E	8:E	_
 11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
@@ -24,7 +24,7 @@
 21	l'	_	Word	Word	_	22	E	22:E	_
 22	Abraham-Lincoln	_	Word	Word	_	17	A	17:A	_
 23	,	_	Punctuation	Punctuation	_	24	U	24:U	_
-24	demanda	_	Word	Word	_	8	orphan	8:orphan	_
+24	demanda	_	Word	Word	_	0	H	0:H	_
 25	son	_	Word	Word	_	26	E	26:E	_
 26	aide	_	Word	Word	_	24	A	24:A	_
 27	pour	_	Word	Word	_	28	R	28:R	_

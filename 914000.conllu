@@ -3,11 +3,11 @@
 # text = La frégate prolongea la côte sud - est de l' Amérique avec une rapidité prodigieuse .
 1	La	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	3	A	3:A	_
-3	prolongea	_	Word	Word	_	0	root	0:root	_
+3	prolongea	_	Word	Word	_	0	H	0:H	_
 4	la	_	Word	Word	_	5	E	5:E	_
 5	côte	_	Word	Word	_	3	A	3:A	_
 6	sud	_	Word	Word	_	5	E	5:E	_
-7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	est	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	de	_	Word	Word	_	11	R	11:R	_
 10	l'	_	Word	Word	_	11	E	11:E	_

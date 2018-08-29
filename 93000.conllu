@@ -3,7 +3,7 @@
 # text = Personne n' ignore le nom du célèbre armateur anglais Cunard .
 1	Personne	_	Word	Word	_	3	A	3:A	_
 2	n'	_	Word	Word	_	3	D	3:D	_
-3	ignore	_	Word	Word	_	0	root	0:root	_
+3	ignore	_	Word	Word	_	0	H	0:H	_
 4	le	_	Word	Word	_	5	E	5:E	_
 5	nom	_	Word	Word	_	3	A	3:A	_
 6	du	_	Word	Word	_	10	R	10:R	_

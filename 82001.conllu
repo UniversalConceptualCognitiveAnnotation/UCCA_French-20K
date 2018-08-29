@@ -12,7 +12,7 @@
 9	abord	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 11	en	_	Word	Word	_	12	R	12:R	_
-12	présence	_	Word	Word	_	0	root	0:root	_
+12	présence	_	Word	Word	_	0	H	0:H	_
 13	d'	_	Word	Word	_	15	R	15:R	_
 14	un	_	Word	Word	_	15	E	15:E	_
 15	écueil	_	Word	Word	_	12	A	12:A	_

@@ -3,7 +3,7 @@
 # text = À mon arrivée à New York , la question brûlait .
 1	À	_	Word	Word	_	3	L	3:L	_
 2	mon	_	Word	Word	_	3	E	3:E	_
-3	arrivée	_	Word	Word	_	0	root	0:root	_
+3	arrivée	_	Word	Word	_	0	H	0:H	_
 4	à	_	Word	Word	_	5	R	5:R	_
 5	New	_	Word	Word	_	3	A	3:A	_
 6	York	_	Word	Word	_	5	Terminal	5:Terminal	_

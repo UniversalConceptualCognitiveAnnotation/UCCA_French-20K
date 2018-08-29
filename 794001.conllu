@@ -2,10 +2,10 @@
 # sent_id = 794001
 # text = L' Abraham - Lincoln répondit en amenant et en hissant trois fois le pavillon américain , dont les trente-neuf étoiles resplendissaient à sa corne d' artimon ; puis , modifiant sa marche pour prendre le chenal balisé qui s' arrondit dans la baie intérieure formée par la pointe de Sandy-Hook , il rasa cette langue sablonneuse où quelques milliers de spectateurs l' acclamèrent encore une fois .
 1	L'	_	Word	Word	_	2	E	2:E	_
-2	Abraham	_	Word	Word	_	0	root	0:root	_
-3	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+2	Abraham	_	Word	Word	_	0	C	0:C|34:A	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Lincoln	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	répondit	_	Word	Word	_	2	orphan	2:orphan	_
+5	répondit	_	Word	Word	_	0	H	0:H	_
 6	en	_	Word	Word	_	7	F	7:F	_
 7	amenant	_	Word	Word	_	5	H	5:H	_
 8	et	_	Word	Word	_	7	N	7:N	_

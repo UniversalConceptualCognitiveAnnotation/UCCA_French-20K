@@ -3,7 +3,7 @@
 # text = L'esprit humain se plaît à ces conceptions grandioses d' êtres surnaturels .
 1	L'esprit	_	Word	Word	_	3	A	3:A	_
 2	humain	_	Word	Word	_	1	E	1:E	_
-3	se	_	Word	Word	_	0	root	0:root	_
+3	se	_	Word	Word	_	0	H	0:H	_
 4	plaît	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	à	_	Word	Word	_	7	R	7:R	_
 6	ces	_	Word	Word	_	7	E	7:E	_

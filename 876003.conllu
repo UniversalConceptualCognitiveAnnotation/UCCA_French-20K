@@ -3,7 +3,7 @@
 # text = Le trou existait si bien qu' il avait fallu le boucher , et je ne pense pas que l' existence du trou puisse se démontrer plus catégoriquement .
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	trou	_	Word	Word	_	3	A	3:A	_
-3	existait	_	Word	Word	_	0	root	0:root	_
+3	existait	_	Word	Word	_	0	H	0:H	_
 4	si	_	Word	Word	_	3	L	3:L	_
 5	bien	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	qu'	_	Word	Word	_	4	Terminal	4:Terminal	_

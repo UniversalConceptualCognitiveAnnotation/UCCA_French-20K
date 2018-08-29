@@ -23,7 +23,7 @@
 20	les	_	Word	Word	_	21	E	21:E	_
 21	barres	_	Word	Word	_	18	A	18:A	_
 22	,	_	Punctuation	Punctuation	_	23	U	23:U	_
-23	causaient	_	Word	Word	_	0	root	0:root	_
+23	causaient	_	Word	Word	_	0	H	0:H	_
 24	d'	_	Word	Word	_	26	R	26:R	_
 25	intolérables	_	Word	Word	_	26	E	26:E	_
 26	douleurs	_	Word	Word	_	23	A	23:A	_
@@ -42,7 +42,7 @@
 39	un	_	Word	Word	_	40	E	40:E	_
 40	état	_	Word	Word	_	42	E	42:E	_
 41	d'	_	Word	Word	_	40	R	40:R	_
-42	éréthisme	_	Word	Word	_	23	orphan	23:orphan	_
+42	éréthisme	_	Word	Word	_	0	C	0:C|48:A	_
 43	trop	_	Word	Word	_	44	E	44:E	_
 44	violent	_	Word	Word	_	42	E	42:E	_
 45	pour	_	Word	Word	_	23	L	23:L	_

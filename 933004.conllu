@@ -2,8 +2,8 @@
 # sent_id = 933004
 # text = Les embarcations rayonnèrent dans toutes les directions autour de l ' Abraham-Lincoln , pendant qu' il mettait en panne , et ne laissèrent pas un point de mer inexploré .
 1	Les	_	Word	Word	_	2	E	2:E	_
-2	embarcations	_	Word	Word	_	0	root	0:root	_
-3	rayonnèrent	_	Word	Word	_	2	orphan	2:orphan	_
+2	embarcations	_	Word	Word	_	0	C	0:C|29:A	_
+3	rayonnèrent	_	Word	Word	_	0	H	0:H	_
 4	dans	_	Word	Word	_	7	R	7:R	_
 5	toutes	_	Word	Word	_	7	E	7:E	_
 6	les	_	Word	Word	_	7	E	7:E	_

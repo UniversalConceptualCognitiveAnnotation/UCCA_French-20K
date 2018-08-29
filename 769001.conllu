@@ -2,7 +2,7 @@
 # sent_id = 769001
 # text = Un garçon dévoué qui m' accompagnait dans tous mes voyages ; un brave Flamand que j' aimais et qui me le rendait bien , un être phlegmatique par nature , régulier par principe , zélé par habitude , s' étonnant peu des surprises de la vie , très - adroit de ses mains , apte à tout service , et , en dépit de son nom , ne donnant jamais de conseils , même quand on ne lui en demandait pas .
 1	Un	_	Word	Word	_	2	E	2:E	_
-2	garçon	_	Word	Word	_	0	root	0:root	_
+2	garçon	_	Word	Word	_	0	H	0:H	_
 3	dévoué	_	Word	Word	_	2	E	2:E	_
 4	qui	_	Word	Word	_	6	R	6:R	_
 5	m'	_	Word	Word	_	6	A	6:A	_

@@ -6,7 +6,7 @@
 3	m'	_	Word	Word	_	4	A	4:A	_
 4	appelle	_	Word	Word	_	6	A	6:A	_
 5	?	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	dit	_	Word	Word	_	0	root	0:root	_
+6	dit	_	Word	Word	_	0	H	0:H	_
 7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	il	_	Word	Word	_	6	A	6:A|10:A	_
 9	en	_	Word	Word	_	6	L	6:L	_

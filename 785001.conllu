@@ -2,7 +2,7 @@
 # sent_id = 785001
 # text = C' était une frégate de grande marche , munie d' appareils surchauffeurs , qui permettaient de porter à sept atmosphères la tension de sa vapeur .
 1	C'	_	Word	Word	_	2	A	2:A	_
-2	était	_	Word	Word	_	0	root	0:root	_
+2	était	_	Word	Word	_	0	H	0:H	_
 3	une	_	Word	Word	_	4	E	4:E	_
 4	frégate	_	Word	Word	_	2	A	2:A	_
 5	de	_	Word	Word	_	7	R	7:R	_

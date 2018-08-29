@@ -2,7 +2,7 @@
 # sent_id = 100003
 # text = Il se trouvait alors à trois cent mille du cap Clear , et après trois jours d' un retard qui inquiéta vivement Liverpool , il entra dans les bassins de la Compagnie .
 1	Il	_	Word	Word	_	2	A	2:A	_
-2	se	_	Word	Word	_	0	root	0:root	_
+2	se	_	Word	Word	_	0	H	0:H	_
 3	trouvait	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	alors	_	Word	Word	_	2	T	2:T	_
 5	à	_	Word	Word	_	9	R	9:R	_

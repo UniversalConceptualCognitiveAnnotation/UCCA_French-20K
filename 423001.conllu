@@ -3,7 +3,7 @@
 # text = Comme il s' agissait là d' un intérêt public , puisque les communications transocéaniennes en souffraient , la franchise des gouvernements ne pouvait être mise en doute .
 1	Comme	_	Word	Word	_	3	L	3:L	_
 2	il	_	Word	Word	_	3	F	3:F	_
-3	s'	_	Word	Word	_	0	root	0:root	_
+3	s'	_	Word	Word	_	0	H	0:H	_
 4	agissait	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	là	_	Word	Word	_	3	A	3:A	_
 6	d'	_	Word	Word	_	8	R	8:R	_

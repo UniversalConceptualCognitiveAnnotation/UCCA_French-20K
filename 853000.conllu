@@ -8,7 +8,7 @@
 5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Lincoln	_	Word	Word	_	4	Terminal	4:Terminal	_
 7	ne	_	Word	Word	_	8	D	8:D	_
-8	manquait	_	Word	Word	_	0	root	0:root	_
+8	manquait	_	Word	Word	_	0	H	0:H	_
 9	d'	_	Word	Word	_	11	R	11:R	_
 10	aucun	_	Word	Word	_	7	Terminal	7:Terminal	_
 11	moyen	_	Word	Word	_	8	A	8:A	_

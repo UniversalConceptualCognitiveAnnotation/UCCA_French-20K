@@ -2,7 +2,7 @@
 # sent_id = 873007
 # text = - Précisément , Ned . Ainsi donc , à trente-deux pieds au-dessous de la surface de la mer , vous subiriez une pression de dix-sept mille cinq cent soixante-huit kilogrammes ; à trois cent vingt pieds , dix fois cette pression , soit cent soixante-quinze mille six cent quatre-vingt kilogrammes ; à trois mille deux cents pieds , cent fois cette pression , soit dix-sept cent cinquante-six mille huit cent kilogrammes ; à trente-deux mille pieds , enfin , mille fois cette pression , soit dix-sept millions cinq cent soixante-huit mille kilogrammes ; c'est-à-dire que vous seriez aplati comme si l' on vous retirait des plateaux d' une machine hydraulique !
 1	-	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Précisément	_	Word	Word	_	0	root	0:root	_
+2	Précisément	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Ned	_	Word	Word	_	2	G	2:G	_
 5	.	_	Punctuation	Punctuation	_	2	U	2:U	_

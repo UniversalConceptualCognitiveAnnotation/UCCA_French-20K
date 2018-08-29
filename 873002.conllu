@@ -2,7 +2,7 @@
 # sent_id = 873002
 # text = - Tant que cela ?
 1	-	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Tant	_	Word	Word	_	0	root	0:root	_
+2	Tant	_	Word	Word	_	0	H	0:H	_
 3	que	_	Word	Word	_	4	R	4:R	_
 4	cela	_	Word	Word	_	2	A	2:A	_
 5	?	_	Punctuation	Punctuation	_	4	U	4:U	_

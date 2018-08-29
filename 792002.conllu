@@ -3,9 +3,9 @@
 # text = Les longs pistons horizontaux gémirent et poussèrent les bielles de l' arbre .
 1	Les	_	Word	Word	_	3	E	3:E	_
 2	longs	_	Word	Word	_	3	E	3:E	_
-3	pistons	_	Word	Word	_	0	root	0:root	_
+3	pistons	_	Word	Word	_	0	C	0:C|7:A	_
 4	horizontaux	_	Word	Word	_	3	E	3:E	_
-5	gémirent	_	Word	Word	_	3	orphan	3:orphan	_
+5	gémirent	_	Word	Word	_	0	H	0:H	_
 6	et	_	Word	Word	_	5	L	5:L	_
 7	poussèrent	_	Word	Word	_	5	H	5:H	_
 8	les	_	Word	Word	_	9	E	9:E	_

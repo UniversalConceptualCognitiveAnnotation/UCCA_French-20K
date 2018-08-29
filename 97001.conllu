@@ -6,7 +6,7 @@
 3	avait	_	Word	Word	_	6	F	6:F	_
 4	semblé	_	Word	Word	_	6	G	6:G	_
 5	si	_	Word	Word	_	6	E	6:E	_
-6	léger	_	Word	Word	_	0	root	0:root	_
+6	léger	_	Word	Word	_	0	H	0:H	_
 7	que	_	Word	Word	_	6	L	6:L	_
 8	personne	_	Word	Word	_	10	A	10:A	_
 9	ne	_	Word	Word	_	10	D	10:D	_
@@ -21,7 +21,7 @@
 18	le	_	Word	Word	_	19	E	19:E	_
 19	cri	_	Word	Word	_	23	A	23:A	_
 20	des	_	Word	Word	_	21	R	21:R	_
-21	caliers	_	Word	Word	_	6	orphan	6:orphan	_
+21	caliers	_	Word	Word	_	0	C	0:C|28:A	_
 22	qui	_	Word	Word	_	19	R	19:R	_
 23	remontèrent	_	Word	Word	_	6	H	6:H	_
 24	sur	_	Word	Word	_	26	R	26:R	_

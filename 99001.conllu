@@ -2,7 +2,7 @@
 # sent_id = 99001
 # text = Il reconnut que le cinquième compartiment avait été envahi par la mer , et la rapidité de l' envahissement prouvait que la voie d' eau était considérable .
 1	Il	_	Word	Word	_	2	A	2:A	_
-2	reconnut	_	Word	Word	_	0	root	0:root	_
+2	reconnut	_	Word	Word	_	0	H	0:H	_
 3	que	_	Word	Word	_	9	R	9:R	_
 4	le	_	Word	Word	_	6	E	6:E	_
 5	cinquième	_	Word	Word	_	6	E	6:E	_

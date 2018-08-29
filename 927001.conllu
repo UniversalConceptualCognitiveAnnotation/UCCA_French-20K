@@ -15,8 +15,8 @@
 12	siècle	_	Word	Word	_	10	A	10:A	_
 13	!	_	Punctuation	Punctuation	_	16	U	16:U	_
 14	l'	_	Word	Word	_	15	E	15:E	_
-15	Abraham-Lincoln	_	Word	Word	_	0	root	0:root	_
-16	sillonna	_	Word	Word	_	15	orphan	15:orphan	_
+15	Abraham-Lincoln	_	Word	Word	_	0	C	0:C|24:A|49:A|36:A|62:A|32:A|45:A	_
+16	sillonna	_	Word	Word	_	0	H	0:H	_
 17	toutes	_	Word	Word	_	19	E	19:E	_
 18	les	_	Word	Word	_	19	E	19:E	_
 19	mers	_	Word	Word	_	16	A	16:A	_
@@ -74,7 +74,7 @@
 71	un	_	Word	Word	_	72	E	72:E	_
 72	point	_	Word	Word	_	73	A	73:A	_
 73	inexploré	_	Word	Word	_	16	H	16:H	_
-74	des	_	Word	Word	_	15	orphan	15:orphan	_
+74	des	_	Word	Word	_	0	root	0:root	_
 75	rivages	_	Word	Word	_	72	E	72:E	_
 76	du	_	Word	Word	_	77	R	77:R	_
 77	Japon	_	Word	Word	_	75	E	75:E	_

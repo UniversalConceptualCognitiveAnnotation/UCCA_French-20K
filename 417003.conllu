@@ -3,14 +3,14 @@
 # text = Dans l' impossibilité de me former une opinion , je flottais d' un extrême à l' autre .
 1	Dans	_	Word	Word	_	3	R	3:R	_
 2	l'	_	Word	Word	_	3	E	3:E	_
-3	impossibilité	_	Word	Word	_	0	root	0:root	_
+3	impossibilité	_	Word	Word	_	0	H	0:H	_
 4	de	_	Word	Word	_	5	R	5:R	_
 5	me	_	Word	Word	_	3	A	3:A	_
 6	former	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	une	_	Word	Word	_	8	E	8:E	_
 8	opinion	_	Word	Word	_	5	A	5:A	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-10	je	_	Word	Word	_	11	A	11:A|3:A|5:A	_
+10	je	_	Word	Word	_	11	A	11:A|5:A|3:A	_
 11	flottais	_	Word	Word	_	3	H	3:H	_
 12	d'	_	Word	Word	_	14	R	14:R	_
 13	un	_	Word	Word	_	14	E	14:E	_

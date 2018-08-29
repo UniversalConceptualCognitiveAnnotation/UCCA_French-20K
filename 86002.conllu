@@ -2,7 +2,7 @@
 # sent_id = 86002
 # text = On vit réapparaître dans les journaux \u2013 à court de copie \u2013 tous les êtres imaginaires et gigantesques , depuis la baleine blanche , le terrible « Moby Dick » des régions hyperboréennes , jusqu' au Kraken démesuré , dont les tentacules peuvent enlacer un bâtiment de cinq cents tonneaux et l' entraîner dans les abîmes de l'Océan .
 1	On	_	Word	Word	_	2	A	2:A	_
-2	vit	_	Word	Word	_	0	root	0:root	_
+2	vit	_	Word	Word	_	0	H	0:H	_
 3	réapparaître	_	Word	Word	_	2	A	2:A	_
 4	dans	_	Word	Word	_	6	R	6:R	_
 5	les	_	Word	Word	_	6	E	6:E	_
@@ -42,7 +42,7 @@
 39	,	_	Punctuation	Punctuation	_	37	U	37:U	_
 40	dont	_	Word	Word	_	44	R	44:R	_
 41	les	_	Word	Word	_	42	E	42:E	_
-42	tentacules	_	Word	Word	_	2	orphan	2:orphan	_
+42	tentacules	_	Word	Word	_	0	C	0:C|53:A	_
 43	peuvent	_	Word	Word	_	44	D	44:D	_
 44	enlacer	_	Word	Word	_	37	E	37:E	_
 45	un	_	Word	Word	_	46	E	46:E	_

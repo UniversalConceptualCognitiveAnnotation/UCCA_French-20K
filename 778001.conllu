@@ -3,7 +3,7 @@
 # text = - Et songes - y bien ! car je ne veux rien te cacher . C' est là un de ces voyages dont on ne revient pas toujours !
 1	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Et	_	Word	Word	_	3	L	3:L	_
-3	songes	_	Word	Word	_	0	root	0:root	_
+3	songes	_	Word	Word	_	0	H	0:H	_
 4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	y	_	Word	Word	_	3	A	3:A	_
 6	bien	_	Word	Word	_	3	D	3:D	_

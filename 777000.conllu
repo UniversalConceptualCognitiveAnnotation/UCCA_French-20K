@@ -3,7 +3,7 @@
 # text = - Tu sais , mon ami , il s' agit du monstre ... du fameux narwal ... Nous allons en purger les mers ! ... L' auteur d' un ouvrage in - quarto en deux volumes sur les Mystères des grands fonds sous - marins ne peut se dispenser de s' embarquer avec le commandant Farragut . Mission glorieuse , mais ... dangereuse aussi ! On ne sait pas où l' on va ! Ces bêtes - là peuvent être très - capricieuses ! Mais nous irons quand même ! Nous avons un commandant qui n' a pas froid aux yeux ! ...
 1	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Tu	_	Word	Word	_	3	A	3:A	_
-3	sais	_	Word	Word	_	0	root	0:root	_
+3	sais	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	mon	_	Word	Word	_	6	E	6:E	_
 6	ami	_	Word	Word	_	2	E	2:E	_
@@ -32,7 +32,7 @@
 29	un	_	Word	Word	_	30	E	30:E	_
 30	ouvrage	_	Word	Word	_	27	E	27:E	_
 31	in	_	Word	Word	_	30	E	30:E	_
-32	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	-	_	Punctuation	Punctuation	_	31	U	31:U	_
 33	quarto	_	Word	Word	_	31	Terminal	31:Terminal	_
 34	en	_	Word	Word	_	36	R	36:R	_
 35	deux	_	Word	Word	_	36	E	36:E	_
@@ -58,7 +58,7 @@
 55	commandant	_	Word	Word	_	56	E	56:E	_
 56	Farragut	_	Word	Word	_	51	A	51:A	_
 57	.	_	Punctuation	Punctuation	_	3	U	3:U	_
-58	Mission	_	Word	Word	_	3	orphan	3:orphan	_
+58	Mission	_	Word	Word	_	0	C	0:C|63:A|63:C|87:A	_
 59	glorieuse	_	Word	Word	_	58	E	58:E	_
 60	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 61	mais	_	Word	Word	_	3	L	3:L	_

@@ -3,7 +3,7 @@
 # text = Ned Land était un Canadien , d' une habileté de main peu commune , et qui ne connaissait pas d' égal dans son périlleux métier .
 1	Ned	_	Word	Word	_	3	A	3:A	_
 2	Land	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	était	_	Word	Word	_	0	root	0:root	_
+3	était	_	Word	Word	_	0	H	0:H	_
 4	un	_	Word	Word	_	5	E	5:E	_
 5	Canadien	_	Word	Word	_	3	A	3:A	_
 6	,	_	Punctuation	Punctuation	_	5	U	5:U	_

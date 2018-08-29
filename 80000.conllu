@@ -2,7 +2,7 @@
 # sent_id = 80000
 # text = À prendre la moyenne des observations faites à diverses reprises - en rejetant les évaluations timides qui assignaient à cet objet une longueur de deux cents pieds et en repoussant les opinions exagérées qui le disaient large d' un mille et long de trois , - on pouvait affirmer , cependant , que cet être phénoménal dépassait de beaucoup toutes les dimensions admises jusqu' à ce jour par les ichtyologistes , - s' il existait toutefois .
 1	À	_	Word	Word	_	2	L	2:L	_
-2	prendre	_	Word	Word	_	0	root	0:root	_
+2	prendre	_	Word	Word	_	0	H	0:H	_
 3	la	_	Word	Word	_	4	E	4:E	_
 4	moyenne	_	Word	Word	_	2	A	2:A	_
 5	des	_	Word	Word	_	6	R	6:R	_

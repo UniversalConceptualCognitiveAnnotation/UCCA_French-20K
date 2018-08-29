@@ -2,7 +2,7 @@
 # sent_id = 932001
 # text = Elle eut tout d' abord pour résultat de ranimer les défaillances de l' équipage .
 1	Elle	_	Word	Word	_	2	A	2:A|9:A	_
-2	eut	_	Word	Word	_	0	root	0:root	_
+2	eut	_	Word	Word	_	0	H	0:H	_
 3	tout	_	Word	Word	_	2	L	2:L	_
 4	d'	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	abord	_	Word	Word	_	3	Terminal	3:Terminal	_

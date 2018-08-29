@@ -3,8 +3,8 @@
 # text = Mais cette réponse prouvait l' obstination du harponneur et pas autre chose .
 1	Mais	_	Word	Word	_	4	L	4:L	_
 2	cette	_	Word	Word	_	3	E	3:E	_
-3	réponse	_	Word	Word	_	0	root	0:root	_
-4	prouvait	_	Word	Word	_	3	orphan	3:orphan	_
+3	réponse	_	Word	Word	_	0	C	0:C|12:A	_
+4	prouvait	_	Word	Word	_	0	H	0:H	_
 5	l'	_	Word	Word	_	6	E	6:E	_
 6	obstination	_	Word	Word	_	4	A	4:A	_
 7	du	_	Word	Word	_	8	R	8:R	_

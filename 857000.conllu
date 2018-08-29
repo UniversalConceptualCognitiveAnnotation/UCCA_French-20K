@@ -2,7 +2,7 @@
 # sent_id = 857000
 # text = Qui dit Canadien , dit Français , et , si peu communicatif que fut Ned Land , je dois avouer qu' il se prit d' une certaine affection pour moi .
 1	Qui	_	Word	Word	_	2	F	2:F	_
-2	dit	_	Word	Word	_	0	root	0:root	_
+2	dit	_	Word	Word	_	0	H	0:H	_
 3	Canadien	_	Word	Word	_	2	A	2:A	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	dit	_	Word	Word	_	2	H	2:H	_

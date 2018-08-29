@@ -2,7 +2,7 @@
 # sent_id = 850001
 # text = Il surveillait la mer avec une scrupuleuse attention .
 1	Il	_	Word	Word	_	2	A	2:A	_
-2	surveillait	_	Word	Word	_	0	root	0:root	_
+2	surveillait	_	Word	Word	_	0	H	0:H	_
 3	la	_	Word	Word	_	4	E	4:E	_
 4	mer	_	Word	Word	_	2	A	2:A	_
 5	avec	_	Word	Word	_	8	R	8:R	_

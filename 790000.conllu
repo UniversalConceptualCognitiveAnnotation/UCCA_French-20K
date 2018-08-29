@@ -4,10 +4,10 @@
 1	Mais	_	Word	Word	_	7	L	7:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	commandant	_	Word	Word	_	4	E	4:E	_
-4	Farragut	_	Word	Word	_	0	root	0:root	_
+4	Farragut	_	Word	Word	_	0	C	0:C|16:A	_
 5	ne	_	Word	Word	_	7	D	7:D	_
 6	voulait	_	Word	Word	_	7	D	7:D	_
-7	perdre	_	Word	Word	_	4	orphan	4:orphan	_
+7	perdre	_	Word	Word	_	0	H	0:H	_
 8	ni	_	Word	Word	_	10	N	10:N	_
 9	un	_	Word	Word	_	10	E	10:E	_
 10	jour	_	Word	Word	_	7	A	7:A	_

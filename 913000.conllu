@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 913000
 # text = Décidément , si le monstre a jamais affaire au harpon de Ned Land , je ne parierai pas pour le monstre .
-1	Décidément	_	Word	Word	_	0	root	0:root	_
+1	Décidément	_	Word	Word	_	0	H	0:H	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 3	si	_	Word	Word	_	1	L	1:L	_
 4	le	_	Word	Word	_	5	E	5:E	_

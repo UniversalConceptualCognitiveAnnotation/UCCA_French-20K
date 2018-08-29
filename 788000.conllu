@@ -2,7 +2,7 @@
 # sent_id = 788000
 # text = Je laissai Conseil arrimer convenablement nos malles , et je remontai sur le pont afin de suivre les préparatifs de l' appareillage .
 1	Je	_	Word	Word	_	2	A	2:A	_
-2	laissai	_	Word	Word	_	0	root	0:root	_
+2	laissai	_	Word	Word	_	0	H	0:H	_
 3	Conseil	_	Word	Word	_	2	A	2:A|4:A	_
 4	arrimer	_	Word	Word	_	2	A	2:A	_
 5	convenablement	_	Word	Word	_	4	D	4:D	_

@@ -2,8 +2,8 @@
 # sent_id = 926002
 # text = Les cœurs palpitaient effroyablement , et se préparaient pour l' avenir d' incurables anévrismes .
 1	Les	_	Word	Word	_	2	E	2:E	_
-2	cœurs	_	Word	Word	_	0	root	0:root	_
-3	palpitaient	_	Word	Word	_	2	orphan	2:orphan	_
+2	cœurs	_	Word	Word	_	0	C	0:C|7:A	_
+3	palpitaient	_	Word	Word	_	0	H	0:H	_
 4	effroyablement	_	Word	Word	_	3	D	3:D	_
 5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	et	_	Word	Word	_	3	L	3:L	_

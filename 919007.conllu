@@ -2,7 +2,7 @@
 # sent_id = 919007
 # text = Je regardais , je regardais à en user ma rétine , à en devenir aveugle , tandis que Conseil , toujours phlegmatique , me répétait d' un ton calme : « Si monsieur voulait avoir la bonté de moins écarquiller ses yeux , monsieur verrait bien davantage ! »
 1	Je	_	Word	Word	_	2	A	2:A|8:A	_
-2	regardais	_	Word	Word	_	0	root	0:root	_
+2	regardais	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	je	_	Word	Word	_	5	A	5:A|15:A	_
 5	regardais	_	Word	Word	_	2	H	2:H	_

@@ -4,8 +4,8 @@
 1	Des	_	Word	Word	_	2	E	2:E	_
 2	milliers	_	Word	Word	_	4	E	4:E	_
 3	de	_	Word	Word	_	2	R	2:R	_
-4	mouchoirs	_	Word	Word	_	0	root	0:root	_
-5	s'	_	Word	Word	_	4	orphan	4:orphan	_
+4	mouchoirs	_	Word	Word	_	0	C	0:C|15:A	_
+5	s'	_	Word	Word	_	0	H	0:H	_
 6	agitèrent	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	au	_	Word	Word	_	9	R	9:R	_
 8	-	_	Punctuation	Punctuation	_	9	U	9:U	_

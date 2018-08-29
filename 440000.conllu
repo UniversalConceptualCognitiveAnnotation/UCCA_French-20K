@@ -5,7 +5,7 @@
 2	article	_	Word	Word	_	5	A	5:A	_
 3	fut	_	Word	Word	_	5	F	5:F	_
 4	chaudement	_	Word	Word	_	5	D	5:D	_
-5	discuté	_	Word	Word	_	0	root	0:root	_
+5	discuté	_	Word	Word	_	0	H	0:H|10:A	_
 6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	ce	_	Word	Word	_	10	R	10:R	_
 8	qui	_	Word	Word	_	7	Terminal	7:Terminal	_

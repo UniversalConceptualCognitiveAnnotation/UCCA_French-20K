@@ -15,7 +15,7 @@
 12	de	_	Word	Word	_	13	R	13:R	_
 13	bord	_	Word	Word	_	11	E	11:E	_
 14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-15	s'	_	Word	Word	_	0	root	0:root	_
+15	s'	_	Word	Word	_	0	H	0:H	_
 16	accordaient	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	assez	_	Word	Word	_	18	E	18:E	_
 18	exactement	_	Word	Word	_	15	D	15:D	_

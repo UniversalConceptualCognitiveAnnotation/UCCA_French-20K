@@ -7,7 +7,7 @@
 4	je	_	Word	Word	_	7	A	7:A	_
 5	ne	_	Word	Word	_	7	T	7:T	_
 6	lui	_	Word	Word	_	7	A	7:A	_
-7	demandais	_	Word	Word	_	0	root	0:root	_
+7	demandais	_	Word	Word	_	0	H	0:H	_
 8	jamais	_	Word	Word	_	5	Terminal	5:Terminal	_
 9	s'	_	Word	Word	_	12	R	12:R	_
 10	il	_	Word	Word	_	12	F	12:F	_

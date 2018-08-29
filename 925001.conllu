@@ -3,10 +3,10 @@
 # text = Ce relèvement fait , la frégate prit une direction plus décidée vers l' ouest , et s' engagea dans les mers centrales du Pacifique .
 1	Ce	_	Word	Word	_	2	E	2:E	_
 2	relèvement	_	Word	Word	_	3	A	3:A	_
-3	fait	_	Word	Word	_	0	root	0:root	_
+3	fait	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	la	_	Word	Word	_	6	E	6:E	_
-6	frégate	_	Word	Word	_	3	orphan	3:orphan	_
+6	frégate	_	Word	Word	_	0	C	0:C|17:A	_
 7	prit	_	Word	Word	_	3	H	3:H	_
 8	une	_	Word	Word	_	9	E	9:E	_
 9	direction	_	Word	Word	_	7	A	7:A	_

@@ -2,7 +2,7 @@
 # sent_id = 770000
 # text = À se frotter aux savants de notre petit monde du Jardin des Plantes , Conseil en était venu à savoir quelque chose .
 1	À	_	Word	Word	_	2	L	2:L	_
-2	se	_	Word	Word	_	0	root	0:root	_
+2	se	_	Word	Word	_	0	H	0:H	_
 3	frotter	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	aux	_	Word	Word	_	5	R	5:R	_
 5	savants	_	Word	Word	_	2	A	2:A	_

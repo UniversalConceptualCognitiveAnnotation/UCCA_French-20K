@@ -4,7 +4,7 @@
 1	Il	_	Word	Word	_	4	F	4:F	_
 2	ne	_	Word	Word	_	4	D	4:D	_
 3	s'	_	Word	Word	_	4	F	4:F	_
-4	agit	_	Word	Word	_	0	root	0:root	_
+4	agit	_	Word	Word	_	0	H	0:H	_
 5	plus	_	Word	Word	_	2	Terminal	2:Terminal	_
 6	alors	_	Word	Word	_	4	D	4:D	_
 7	d'	_	Word	Word	_	9	R	9:R	_

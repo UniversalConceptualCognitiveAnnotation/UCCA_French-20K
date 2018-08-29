@@ -3,7 +3,7 @@
 # text = La frégate se trouvait alors par 31°15' de latitude nord et par 136°42' de longitude est .
 1	La	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	3	A	3:A	_
-3	se	_	Word	Word	_	0	root	0:root	_
+3	se	_	Word	Word	_	0	H	0:H	_
 4	trouvait	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	alors	_	Word	Word	_	3	D	3:D	_
 6	par	_	Word	Word	_	7	R	7:R	_

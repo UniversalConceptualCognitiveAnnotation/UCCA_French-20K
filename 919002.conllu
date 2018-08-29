@@ -2,7 +2,7 @@
 # sent_id = 919002
 # text = Tantôt penché sur les bastingages du gaillard d' avant , tantôt appuyé à la lisse de l' arrière , je dévorais d' un oeil avide le cotonneux sillage qui blanchissait la mer jusqu' à perte de vue !
 1	Tantôt	_	Word	Word	_	2	D	2:D	_
-2	penché	_	Word	Word	_	0	root	0:root	_
+2	penché	_	Word	Word	_	0	H	0:H	_
 3	sur	_	Word	Word	_	5	R	5:R	_
 4	les	_	Word	Word	_	5	E	5:E	_
 5	bastingages	_	Word	Word	_	2	A	2:A	_

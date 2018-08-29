@@ -2,7 +2,7 @@
 # sent_id = 765003
 # text = J' oubliai tout , fatigues , amis , collections , et j' acceptai sans plus de réflexions l' offre du gouvernement américain .
 1	J'	_	Word	Word	_	2	A	2:A	_
-2	oubliai	_	Word	Word	_	0	root	0:root	_
+2	oubliai	_	Word	Word	_	0	H	0:H	_
 3	tout	_	Word	Word	_	2	A	2:A	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	fatigues	_	Word	Word	_	3	E	3:E	_

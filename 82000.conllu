@@ -23,7 +23,7 @@
 20	Company	_	Word	Word	_	15	Terminal	15:Terminal	_
 21	,	_	Punctuation	Punctuation	_	23	U	23:U	_
 22	avait	_	Word	Word	_	23	F	23:F	_
-23	rencontré	_	Word	Word	_	0	root	0:root	_
+23	rencontré	_	Word	Word	_	0	H	0:H	_
 24	cette	_	Word	Word	_	25	E	25:E	_
 25	masse	_	Word	Word	_	23	A	23:A	_
 26	mouvante	_	Word	Word	_	25	E	25:E	_

@@ -3,12 +3,12 @@
 # text = La réaction se fit donc . Le découragement s' empara d' abord des esprits , et ouvrit une brèche à l' incrédulité .
 1	La	_	Word	Word	_	2	E	2:E	_
 2	réaction	_	Word	Word	_	3	A	3:A	_
-3	se	_	Word	Word	_	0	root	0:root	_
+3	se	_	Word	Word	_	0	H	0:H	_
 4	fit	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	donc	_	Word	Word	_	3	L	3:L	_
 6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	Le	_	Word	Word	_	8	E	8:E	_
-8	découragement	_	Word	Word	_	3	orphan	3:orphan	_
+8	découragement	_	Word	Word	_	0	C	0:C|17:A	_
 9	s'	_	Word	Word	_	3	H	3:H	_
 10	empara	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	d'	_	Word	Word	_	12	R	12:R	_

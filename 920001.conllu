@@ -5,7 +5,7 @@
 2	Abraham	_	Word	Word	_	5	A	5:A	_
 3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Lincoln	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	modifiait	_	Word	Word	_	0	root	0:root	_
+5	modifiait	_	Word	Word	_	0	H	0:H	_
 6	sa	_	Word	Word	_	7	E	7:E	_
 7	route	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_

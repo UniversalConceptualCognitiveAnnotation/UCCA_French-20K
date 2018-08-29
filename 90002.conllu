@@ -20,7 +20,7 @@
 17	choc	_	Word	Word	_	15	A	15:A	_
 18	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 19	ne	_	Word	Word	_	20	D	20:D	_
-20	se	_	Word	Word	_	0	root	0:root	_
+20	se	_	Word	Word	_	0	H	0:H	_
 21	fût	_	Word	Word	_	20	F	20:F	_
 22	englouti	_	Word	Word	_	20	Terminal	20:Terminal	_
 23	avec	_	Word	Word	_	28	R	28:R	_

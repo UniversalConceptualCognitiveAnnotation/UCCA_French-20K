@@ -5,7 +5,7 @@
 2	ne	_	Word	Word	_	5	D	5:D	_
 3	veux	_	Word	Word	_	5	D	5:D	_
 4	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	dire	_	Word	Word	_	0	root	0:root	_
+5	dire	_	Word	Word	_	0	H	0:H	_
 6	qu'	_	Word	Word	_	10	R	10:R	_
 7	il	_	Word	Word	_	10	F	10:F	_
 8	y	_	Word	Word	_	7	Terminal	7:Terminal	_
@@ -24,7 +24,7 @@
 21	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 22	le	_	Word	Word	_	23	E	23:E	_
 23	commandant	_	Word	Word	_	24	E	24:E	_
-24	Farragut	_	Word	Word	_	5	orphan	5:orphan	_
+24	Farragut	_	Word	Word	_	0	C	0:C|20:A	_
 25	comme	_	Word	Word	_	5	L	5:L	_
 26	autrefois	_	Word	Word	_	27	D	27:D	_
 27	Colomb	_	Word	Word	_	5	H	5:H	_

@@ -2,8 +2,8 @@
 # sent_id = 792001
 # text = La vapeur siffla en se précipitant dans les tiroirs entr'ouverts .
 1	La	_	Word	Word	_	2	E	2:E	_
-2	vapeur	_	Word	Word	_	0	root	0:root	_
-3	siffla	_	Word	Word	_	2	orphan	2:orphan	_
+2	vapeur	_	Word	Word	_	0	C	0:C|5:A	_
+3	siffla	_	Word	Word	_	0	H	0:H	_
 4	en	_	Word	Word	_	3	L	3:L	_
 5	se	_	Word	Word	_	3	H	3:H	_
 6	précipitant	_	Word	Word	_	5	Terminal	5:Terminal	_

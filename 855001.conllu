@@ -2,7 +2,7 @@
 # sent_id = 855001
 # text = C' était un homme de grande taille - plus de six pieds anglais - vigoureusement bâti , l' air grave , peu communicatif , violent parfois , et très - rageur quand on le contrariait .
 1	C'	_	Word	Word	_	2	A	2:A	_
-2	était	_	Word	Word	_	0	root	0:root	_
+2	était	_	Word	Word	_	0	H	0:H	_
 3	un	_	Word	Word	_	4	E	4:E	_
 4	homme	_	Word	Word	_	2	A	2:A	_
 5	de	_	Word	Word	_	7	R	7:R	_

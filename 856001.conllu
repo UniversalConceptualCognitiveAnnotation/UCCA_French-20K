@@ -2,7 +2,7 @@
 # sent_id = 856001
 # text = Il valait tout l' équipage , à lui seul , pour l' œil et le bras .
 1	Il	_	Word	Word	_	2	A	2:A	_
-2	valait	_	Word	Word	_	0	root	0:root	_
+2	valait	_	Word	Word	_	0	H	0:H	_
 3	tout	_	Word	Word	_	5	E	5:E	_
 4	l'	_	Word	Word	_	5	E	5:E	_
 5	équipage	_	Word	Word	_	2	A	2:A	_

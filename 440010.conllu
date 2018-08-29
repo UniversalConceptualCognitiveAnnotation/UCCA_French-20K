@@ -3,7 +3,7 @@
 # text = Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
 1	Pourquoi	_	Word	Word	_	3	A	3:A	_
 2	ne	_	Word	Word	_	3	D	3:D	_
-3	cacherait-elle	_	Word	Word	_	0	root	0:root	_
+3	cacherait-elle	_	Word	Word	_	0	H	0:H	_
 4	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
 5	dans	_	Word	Word	_	7	R	7:R	_
 6	son	_	Word	Word	_	7	E	7:E	_

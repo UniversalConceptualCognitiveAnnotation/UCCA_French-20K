@@ -2,7 +2,7 @@
 # sent_id = 937000
 # text = En observant Conseil , je constatai que ce brave garçon subissait tant soit peu l' influence générale .
 1	En	_	Word	Word	_	2	L	2:L	_
-2	observant	_	Word	Word	_	0	root	0:root	_
+2	observant	_	Word	Word	_	0	H	0:H	_
 3	Conseil	_	Word	Word	_	2	A	2:A	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	je	_	Word	Word	_	6	A	6:A|2:A	_

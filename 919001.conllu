@@ -2,7 +2,7 @@
 # sent_id = 919001
 # text = Ne donnant que quelques minutes au repas , quelques heures au sommeil , indifférent au soleil ou à la pluie , je ne quittais plus le pont du navire .
 1	Ne	_	Word	Word	_	2	D	2:D	_
-2	donnant	_	Word	Word	_	0	root	0:root	_
+2	donnant	_	Word	Word	_	0	H	0:H	_
 3	que	_	Word	Word	_	1	Terminal	1:Terminal	_
 4	quelques	_	Word	Word	_	5	E	5:E	_
 5	minutes	_	Word	Word	_	2	T	2:T	_

@@ -5,7 +5,7 @@
 2	Sans	_	Word	Word	_	5	L	5:L	_
 3	que	_	Word	Word	_	5	L	5:L	_
 4	vous	_	Word	Word	_	5	A	5:A	_
-5	vous	_	Word	Word	_	0	root	0:root	_
+5	vous	_	Word	Word	_	0	H	0:H	_
 6	en	_	Word	Word	_	5	A	5:A	_
 7	aperceviez	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
@@ -44,7 +44,7 @@
 41	parfait	_	Word	Word	_	40	D	40:D	_
 42	entre	_	Word	Word	_	44	R	44:R	_
 43	la	_	Word	Word	_	44	E	44:E	_
-44	poussée	_	Word	Word	_	5	orphan	5:orphan	_
+44	poussée	_	Word	Word	_	0	C	0:C|53:A	_
 45	intérieure	_	Word	Word	_	44	E	44:E	_
 46	et	_	Word	Word	_	44	N	44:N	_
 47	la	_	Word	Word	_	48	E	48:E	_

@@ -2,7 +2,7 @@
 # sent_id = 417000
 # text = J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
 1	J'	_	Word	Word	_	2	A	2:A	_
-2	étais	_	Word	Word	_	0	root	0:root	_
+2	étais	_	Word	Word	_	0	H	0:H	_
 3	parfaitement	_	Word	Word	_	2	D	2:D	_
 4	au	_	Word	Word	_	2	Terminal	2:Terminal	_
 5	courant	_	Word	Word	_	2	Terminal	2:Terminal	_

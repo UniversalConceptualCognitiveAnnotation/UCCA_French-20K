@@ -6,7 +6,7 @@
 3	et	_	Word	Word	_	2	N	2:N	_
 4	lui	_	Word	Word	_	2	C	2:C	_
 5	ne	_	Word	Word	_	6	D	6:D	_
-6	faisaient	_	Word	Word	_	0	root	0:root	_
+6	faisaient	_	Word	Word	_	0	H	0:H	_
 7	qu'	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	un	_	Word	Word	_	6	A	6:A	_
 9	.	_	Punctuation	Punctuation	_	6	U	6:U	_

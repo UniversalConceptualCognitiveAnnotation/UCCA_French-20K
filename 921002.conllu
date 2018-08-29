@@ -2,7 +2,7 @@
 # sent_id = 921002
 # text = C' était alors la mauvaise saison australe , car le juillet de cette zone correspond à notre janvier d' Europe ; mais la mer se maintenait belle , et se laissait facilement observer dans un vaste périmètre .
 1	C'	_	Word	Word	_	2	F	2:F	_
-2	était	_	Word	Word	_	0	root	0:root	_
+2	était	_	Word	Word	_	0	H	0:H	_
 3	alors	_	Word	Word	_	2	T	2:T	_
 4	la	_	Word	Word	_	6	E	6:E	_
 5	mauvaise	_	Word	Word	_	6	E	6:E	_
@@ -24,7 +24,7 @@
 21	;	_	Punctuation	Punctuation	_	2	U	2:U	_
 22	mais	_	Word	Word	_	2	L	2:L	_
 23	la	_	Word	Word	_	24	E	24:E	_
-24	mer	_	Word	Word	_	2	orphan	2:orphan	_
+24	mer	_	Word	Word	_	0	C	0:C|30:A	_
 25	se	_	Word	Word	_	2	H	2:H	_
 26	maintenait	_	Word	Word	_	25	Terminal	25:Terminal	_
 27	belle	_	Word	Word	_	25	D	25:D	_

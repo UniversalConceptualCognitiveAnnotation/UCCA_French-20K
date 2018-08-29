@@ -3,7 +3,7 @@
 # text = - On s' en occupera plus tard .
 1	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	On	_	Word	Word	_	3	A	3:A	_
-3	s'	_	Word	Word	_	0	root	0:root	_
+3	s'	_	Word	Word	_	0	H	0:H	_
 4	en	_	Word	Word	_	3	A	3:A	_
 5	occupera	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	plus	_	Word	Word	_	7	E	7:E	_

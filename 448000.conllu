@@ -2,7 +2,7 @@
 # sent_id = 448000
 # text = « Monsieur Aronnax , professeur au Muséum de Paris , « Fifth Avenue hotel . « New York . « Monsieur , « Si vous voulez vous joindre à l' expédition de l' Abraham - Lincoln , le gouvernement de l' Union verra avec plaisir que la France soit représentée par vous dans cette entreprise . Le commandant Farragut tient une cabine à votre disposition . « Très - cordialement , votre « J . -B . HOBSON , Secrétaire de la marine . »
 1	«	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Monsieur	_	Word	Word	_	0	root	0:root	_
+2	Monsieur	_	Word	Word	_	0	H	0:H	_
 3	Aronnax	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	professeur	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -15,8 +15,8 @@
 12	Fifth	_	Word	Word	_	2	H	2:H	_
 13	Avenue	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	hotel	_	Word	Word	_	12	Terminal	12:Terminal	_
-15	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-16	«	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	«	_	Punctuation	Punctuation	_	12	U	12:U	_
 17	New	_	Word	Word	_	12	Terminal	12:Terminal	_
 18	York	_	Word	Word	_	12	Terminal	12:Terminal	_
 19	.	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -69,17 +69,17 @@
 66	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 67	«	_	Punctuation	Punctuation	_	2	U	2:U	_
 68	Très	_	Word	Word	_	2	H	2:H	_
-69	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+69	-	_	Punctuation	Punctuation	_	68	U	68:U	_
 70	cordialement	_	Word	Word	_	68	Terminal	68:Terminal	_
 71	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 72	votre	_	Word	Word	_	2	H	2:H	_
-73	«	_	Punctuation	Punctuation	_	2	U	2:U	_
+73	«	_	Punctuation	Punctuation	_	72	U	72:U	_
 74	J	_	Word	Word	_	72	Terminal	72:Terminal	_
-75	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+75	.	_	Punctuation	Punctuation	_	72	U	72:U	_
 76	-B	_	Word	Word	_	72	Terminal	72:Terminal	_
-77	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+77	.	_	Punctuation	Punctuation	_	72	U	72:U	_
 78	HOBSON	_	Word	Word	_	72	Terminal	72:Terminal	_
-79	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+79	,	_	Punctuation	Punctuation	_	72	U	72:U	_
 80	Secrétaire	_	Word	Word	_	72	Terminal	72:Terminal	_
 81	de	_	Word	Word	_	72	Terminal	72:Terminal	_
 82	la	_	Word	Word	_	72	Terminal	72:Terminal	_

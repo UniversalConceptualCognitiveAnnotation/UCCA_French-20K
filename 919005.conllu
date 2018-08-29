@@ -3,7 +3,7 @@
 # text = Les capots vomissaient un torrent de matelots et d' officiers .
 1	Les	_	Word	Word	_	2	E	2:E	_
 2	capots	_	Word	Word	_	3	A	3:A	_
-3	vomissaient	_	Word	Word	_	0	root	0:root	_
+3	vomissaient	_	Word	Word	_	0	H	0:H	_
 4	un	_	Word	Word	_	5	E	5:E	_
 5	torrent	_	Word	Word	_	7	E	7:E	_
 6	de	_	Word	Word	_	5	R	5:R	_

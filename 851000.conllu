@@ -7,7 +7,7 @@
 4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 5	je	_	Word	Word	_	7	A	7:A	_
 6	n'	_	Word	Word	_	7	D	7:D	_
-7	étais	_	Word	Word	_	0	root	0:root	_
+7	étais	_	Word	Word	_	0	H	0:H	_
 8	pas	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	en	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	reste	_	Word	Word	_	7	Terminal	7:Terminal	_

@@ -2,7 +2,7 @@
 # sent_id = 853002
 # text = Il avait Ned Land , le roi des harponneurs .
 1	Il	_	Word	Word	_	2	A	2:A	_
-2	avait	_	Word	Word	_	0	root	0:root	_
+2	avait	_	Word	Word	_	0	H	0:H	_
 3	Ned	_	Word	Word	_	2	A	2:A	_
 4	Land	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	,	_	Punctuation	Punctuation	_	3	U	3:U	_

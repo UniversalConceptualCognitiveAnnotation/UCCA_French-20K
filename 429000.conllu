@@ -11,7 +11,7 @@
 8	nous	_	Word	Word	_	11	A	11:A	_
 9	sont	_	Word	Word	_	11	F	11:F	_
 10	totalement	_	Word	Word	_	11	D	11:D	_
-11	inconnues	_	Word	Word	_	0	root	0:root	_
+11	inconnues	_	Word	Word	_	0	H	0:H	_
 12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	La	_	Word	Word	_	14	E	14:E	_
 14	sonde	_	Word	Word	_	19	A	19:A	_
@@ -45,7 +45,7 @@
 42	quinze	_	Word	Word	_	40	C	40:C	_
 43	milles	_	Word	Word	_	35	A	35:A	_
 44	au	_	Word	Word	_	51	R	51:R	_
-45	-	_	Punctuation	Punctuation	_	51	U	51:U	_
+45	-	_	Punctuation	Punctuation	_	44	U	44:U	_
 46	dessous	_	Word	Word	_	44	Terminal	44:Terminal	_
 47	de	_	Word	Word	_	51	R	51:R	_
 48	la	_	Word	Word	_	49	E	49:E	_
