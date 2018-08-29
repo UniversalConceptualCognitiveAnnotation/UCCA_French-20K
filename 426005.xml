@@ -100,9 +100,6 @@
       <edge toID="1.17" type="D">
         <attributes />
       </edge>
-      <edge toID="1.21" type="U">
-        <attributes />
-      </edge>
       <edge toID="1.22" type="U">
         <attributes />
       </edge>
@@ -179,6 +176,9 @@
         <attributes />
       </edge>
       <edge toID="0.12" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="1.21" type="U">
         <attributes />
       </edge>
     </node>

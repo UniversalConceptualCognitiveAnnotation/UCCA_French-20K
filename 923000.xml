@@ -843,9 +843,6 @@
       <edge toID="1.225" type="U">
         <attributes />
       </edge>
-      <edge toID="1.226" type="U">
-        <attributes />
-      </edge>
       <edge toID="1.227" type="U">
         <attributes />
       </edge>
@@ -985,6 +982,9 @@
         <attributes />
       </edge>
       <edge toID="1.191" type="P">
+        <attributes />
+      </edge>
+      <edge toID="1.226" type="U">
         <attributes />
       </edge>
     </node>
