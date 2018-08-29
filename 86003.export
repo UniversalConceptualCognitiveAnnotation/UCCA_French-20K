@@ -41,9 +41,9 @@ enfin	Word	--	Terminal	537
 les	Word	--	Terminal	538
 rapports	Word	--	Terminal	539
 de	Word	--	Terminal	540
-M	Word	--	Terminal	541
-.	Punctuation	--	Terminal	542
-Harrington	Word	--	Terminal	541
+M	Word	--	Terminal	542
+.	Punctuation	--	Terminal	541
+Harrington	Word	--	Terminal	542
 ,	Punctuation	--	Terminal	543
 dont	Word	--	Terminal	544
 la	Word	--	Terminal	545
@@ -128,8 +128,8 @@ Constitutionnel	Word	--	Terminal	584
 #538	FN	--	E	616
 #539	FN	--	C	616
 #540	FN	--	R	615
-#541	FN	--	C	615	A*	594
-#542	PNCT	--	U	615
+#541	PNCT	--	U	542
+#542	FN	--	C	615	A*	594
 #543	PNCT	--	U	615
 #544	FN	--	R	594
 #545	FN	--	E	593

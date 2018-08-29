@@ -16,9 +16,9 @@ au	Word	--	Terminal	513
 carré	Word	--	Terminal	514
 de	Word	--	Terminal	515
 l'	Word	--	Terminal	516
-état	Word	--	Terminal	517
--	Punctuation	--	Terminal	518
-major	Word	--	Terminal	517
+état	Word	--	Terminal	518
+-	Punctuation	--	Terminal	517
+major	Word	--	Terminal	518
 ,	Punctuation	--	Terminal	519
 et	Word	--	Terminal	520
 certainement	Word	--	Terminal	521
@@ -60,8 +60,8 @@ sud	Word	--	Terminal	541
 #514	FN	--	C	555
 #515	FN	--	R	546
 #516	FN	--	E	546
-#517	FN	--	C	546
-#518	PNCT	--	U	546
+#517	PNCT	--	U	518
+#518	FN	--	C	546
 #519	PNCT	--	U	561
 #520	FN	--	L	561	LR	562
 #521	FN	--	G	556

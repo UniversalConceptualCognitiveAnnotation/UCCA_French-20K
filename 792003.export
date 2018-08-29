@@ -14,9 +14,9 @@ croissante	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512
 et	Word	--	Terminal	513
 l'	Word	--	Terminal	514
-Abraham	Word	--	Terminal	515
--	Punctuation	--	Terminal	516
-Lincoln	Word	--	Terminal	515
+Abraham	Word	--	Terminal	516
+-	Punctuation	--	Terminal	515
+Lincoln	Word	--	Terminal	516
 s'	Word	--	Terminal	517
 avança	Word	--	Terminal	517
 majestueusement	Word	--	Terminal	518
@@ -56,8 +56,8 @@ cortège	Word	--	Terminal	538
 #512	PNCT	--	U	556
 #513	FN	--	L	556	LR	557
 #514	FN	--	E	543
-#515	FN	--	C	543
-#516	PNCT	--	U	543
+#515	PNCT	--	U	516
+#516	FN	--	C	543
 #517	FN	--	P	555
 #518	FN	--	D	555
 #519	FN	--	R	544

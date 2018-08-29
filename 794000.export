@@ -8,9 +8,9 @@ suivant	Word	--	Terminal	505
 du	Word	--	Terminal	506
 côté	Word	--	Terminal	507
 de	Word	--	Terminal	508
-New	Word	--	Terminal	509
--	Punctuation	--	Terminal	510
-Jersey	Word	--	Terminal	509
+New	Word	--	Terminal	510
+-	Punctuation	--	Terminal	509
+Jersey	Word	--	Terminal	510
 l'	Word	--	Terminal	511
 admirable	Word	--	Terminal	512
 rive	Word	--	Terminal	513
@@ -44,8 +44,8 @@ canons	Word	--	Terminal	533
 #506	FN	--	R	535
 #507	FN	--	C	535
 #508	FN	--	R	535
-#509	FN	--	C	536
-#510	PNCT	--	U	536
+#509	PNCT	--	U	510
+#510	FN	--	C	536
 #511	FN	--	E	542
 #512	FN	--	E	542
 #513	FN	--	C	542	A*	541

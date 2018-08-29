@@ -21,9 +21,9 @@ jaune	Word	--	Terminal	518
 et	Word	--	Terminal	519
 basse	Word	--	Terminal	520
 de	Word	--	Terminal	521
-Long	Word	--	Terminal	522
--	Punctuation	--	Terminal	523
-Island	Word	--	Terminal	522
+Long	Word	--	Terminal	523
+-	Punctuation	--	Terminal	522
+Island	Word	--	Terminal	523
 ,	Punctuation	--	Terminal	524
 et	Word	--	Terminal	525
 ,	Punctuation	--	Terminal	526
@@ -38,15 +38,15 @@ avoir	Word	--	Terminal	534
 perdu	Word	--	Terminal	535
 dans	Word	--	Terminal	536
 le	Word	--	Terminal	537
-nord	Word	--	Terminal	538
--	Punctuation	--	Terminal	539
-ouest	Word	--	Terminal	538
+nord	Word	--	Terminal	539
+-	Punctuation	--	Terminal	538
+ouest	Word	--	Terminal	539
 les	Word	--	Terminal	540
 feux	Word	--	Terminal	541
 de	Word	--	Terminal	542
-Fire	Word	--	Terminal	543
--	Punctuation	--	Terminal	544
-Island	Word	--	Terminal	543
+Fire	Word	--	Terminal	544
+-	Punctuation	--	Terminal	543
+Island	Word	--	Terminal	544
 ,	Punctuation	--	Terminal	545
 elle	Word	--	Terminal	546
 courut	Word	--	Terminal	547
@@ -83,8 +83,8 @@ Atlantique	Word	--	Terminal	557
 #519	FN	--	N	564
 #520	FN	--	C	564
 #521	FN	--	R	565
-#522	FN	--	C	565
-#523	PNCT	--	U	565
+#522	PNCT	--	U	523
+#523	FN	--	C	565
 #524	PNCT	--	U	581
 #525	FN	--	L	581	LR	582
 #526	PNCT	--	U	581
@@ -99,13 +99,13 @@ Atlantique	Word	--	Terminal	557
 #535	FN	--	P	578
 #536	FN	--	R	567
 #537	FN	--	E	567
-#538	FN	--	C	567
-#539	PNCT	--	U	567
+#538	PNCT	--	U	539
+#539	FN	--	C	567
 #540	FN	--	E	577
 #541	FN	--	C	577
 #542	FN	--	R	568
-#543	FN	--	C	568
-#544	PNCT	--	U	568
+#543	PNCT	--	U	544
+#544	FN	--	C	568
 #545	PNCT	--	U	578
 #546	FN	--	A	580	A*	578
 #547	FN	--	P	580

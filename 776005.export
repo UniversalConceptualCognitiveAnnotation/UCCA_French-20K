@@ -36,9 +36,9 @@ tu	Word	--	Terminal	533
 pourras	Word	--	Terminal	534
 ,	Punctuation	--	Terminal	535
 et	Word	--	Terminal	536
-hâte	Word	--	Terminal	537
--	Punctuation	--	Terminal	538
-toi	Word	--	Terminal	537
+hâte	Word	--	Terminal	538
+-	Punctuation	--	Terminal	537
+toi	Word	--	Terminal	538
 !	Punctuation	--	Terminal	539
 #500	PNCT	--	U	561
 #501	FN	--	D	548
@@ -77,8 +77,8 @@ toi	Word	--	Terminal	537
 #534	FN	--	E	541
 #535	PNCT	--	U	561
 #536	FN	--	L	561	LR	562
-#537	FN	--	P	559
-#538	PNCT	--	U	559
+#537	PNCT	--	U	538
+#538	FN	--	P	559
 #539	PNCT	--	U	559
 #540	FN	--	A	548
 #541	FN	--	P	555

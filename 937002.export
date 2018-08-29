@@ -9,9 +9,9 @@ fois	Word	--	Terminal	506
 ,	Punctuation	--	Terminal	507
 ses	Word	--	Terminal	508
 nerfs	Word	--	Terminal	509
-vibraient	Word	--	Terminal	510
--	Punctuation	--	Terminal	511
-ils	Word	--	Terminal	510
+vibraient	Word	--	Terminal	511
+-	Punctuation	--	Terminal	510
+ils	Word	--	Terminal	511
 sous	Word	--	Terminal	512
 l'	Word	--	Terminal	513
 action	Word	--	Terminal	514
@@ -31,8 +31,8 @@ curiosité	Word	--	Terminal	519
 #507	PNCT	--	U	527
 #508	FN	--	E	522
 #509	FN	--	C	522
-#510	FN	--	P	527
-#511	PNCT	--	U	527
+#510	PNCT	--	U	511
+#511	FN	--	P	527
 #512	FN	--	R	523
 #513	FN	--	E	523
 #514	FN	--	C	523

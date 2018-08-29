@@ -13,9 +13,9 @@ fût	Word	--	Terminal	509
 dévoilé	Word	--	Terminal	508
 ce	Word	--	Terminal	510
 mystère	Word	--	Terminal	511
-sous	Word	--	Terminal	512
--	Punctuation	--	Terminal	513
-marin	Word	--	Terminal	512
+sous	Word	--	Terminal	513
+-	Punctuation	--	Terminal	512
+marin	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
 #500	FN	--	L	521
 #501	FN	--	E	515
@@ -29,8 +29,8 @@ marin	Word	--	Terminal	512
 #509	FN	--	F	520
 #510	FN	--	E	518
 #511	FN	--	C	518
-#512	FN	--	E	518
-#513	PNCT	--	U	518
+#512	PNCT	--	U	513
+#513	FN	--	E	518
 #514	PNCT	--	U	518
 #515	FN	--	E	516
 #516	FN	--	T	517

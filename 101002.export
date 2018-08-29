@@ -4,9 +4,9 @@ deux	Word	--	Terminal	501
 mètres	Word	--	Terminal	502
 et	Word	--	Terminal	503
 demi	Word	--	Terminal	504
-au	Word	--	Terminal	505
--	Punctuation	--	Terminal	506
-dessous	Word	--	Terminal	505
+au	Word	--	Terminal	506
+-	Punctuation	--	Terminal	505
+dessous	Word	--	Terminal	506
 de	Word	--	Terminal	507
 la	Word	--	Terminal	508
 flottaison	Word	--	Terminal	509
@@ -27,8 +27,8 @@ isocèle	Word	--	Terminal	519
 #502	FN	--	C	521	C*	522
 #503	FN	--	N	523
 #504	FN	--	E	522
-#505	FN	--	R	524
-#506	PNCT	--	U	524
+#505	PNCT	--	U	506
+#506	FN	--	R	524
 #507	FN	--	R	524
 #508	FN	--	E	524
 #509	FN	--	C	524

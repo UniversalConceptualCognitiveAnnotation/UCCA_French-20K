@@ -14,9 +14,9 @@ amarres	Word	--	Terminal	511
 qui	Word	--	Terminal	512
 retenaient	Word	--	Terminal	513
 l'	Word	--	Terminal	514
-Abraham	Word	--	Terminal	515
--	Punctuation	--	Terminal	516
-Lincoln	Word	--	Terminal	515
+Abraham	Word	--	Terminal	516
+-	Punctuation	--	Terminal	515
+Lincoln	Word	--	Terminal	516
 à	Word	--	Terminal	517
 la	Word	--	Terminal	518
 pier	Word	--	Terminal	519
@@ -38,8 +38,8 @@ Brooklyn	Word	--	Terminal	521
 #512	FN	--	R	529
 #513	FN	--	P	529
 #514	FN	--	E	526
-#515	FN	--	C	526
-#516	PNCT	--	U	526
+#515	PNCT	--	U	516
+#516	FN	--	C	526
 #517	FN	--	R	528
 #518	FN	--	E	528
 #519	FN	--	C	528

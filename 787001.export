@@ -14,10 +14,10 @@ Conseil	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
 qu'	Word	--	Terminal	509
 un	Word	--	Terminal	510
-bernard	Word	--	Terminal	511
--	Punctuation	--	Terminal	512
-l'	Word	--	Terminal	511
-ermite	Word	--	Terminal	511
+bernard	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+l'	Word	--	Terminal	512
+ermite	Word	--	Terminal	512
 dans	Word	--	Terminal	513
 la	Word	--	Terminal	514
 coquille	Word	--	Terminal	515
@@ -37,8 +37,8 @@ buccin	Word	--	Terminal	518
 #508	PNCT	--	U	528
 #509	FN	--	R	526
 #510	FN	--	E	525
-#511	FN	--	C	525
-#512	PNCT	--	U	525
+#511	PNCT	--	U	512
+#512	FN	--	C	525
 #513	FN	--	R	524
 #514	FN	--	E	524
 #515	FN	--	C	524

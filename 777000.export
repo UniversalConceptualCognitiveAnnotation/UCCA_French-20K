@@ -29,9 +29,9 @@ auteur	Word	--	Terminal	525
 d'	Word	--	Terminal	526
 un	Word	--	Terminal	527
 ouvrage	Word	--	Terminal	528
-in	Word	--	Terminal	529
--	Punctuation	--	Terminal	530
-quarto	Word	--	Terminal	529
+in	Word	--	Terminal	530
+-	Punctuation	--	Terminal	529
+quarto	Word	--	Terminal	530
 en	Word	--	Terminal	531
 deux	Word	--	Terminal	532
 volumes	Word	--	Terminal	533
@@ -131,8 +131,8 @@ yeux	Word	--	Terminal	590
 #526	FN	--	R	623
 #527	FN	--	E	623
 #528	FN	--	C	623
-#529	FN	--	E	623
-#530	PNCT	--	U	623
+#529	PNCT	--	U	530
+#530	FN	--	E	623
 #531	FN	--	R	597
 #532	FN	--	E	597
 #533	FN	--	C	597

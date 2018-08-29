@@ -42,9 +42,9 @@ acier	Word	--	Terminal	538
 On	Word	--	Terminal	540
 a	Word	--	Terminal	541
 trouvé	Word	--	Terminal	542
-quelques	Word	--	Terminal	543
--	Punctuation	--	Terminal	544
-unes	Word	--	Terminal	543
+quelques	Word	--	Terminal	544
+-	Punctuation	--	Terminal	543
+unes	Word	--	Terminal	544
 de	Word	--	Terminal	545
 ces	Word	--	Terminal	546
 dents	Word	--	Terminal	547
@@ -165,8 +165,8 @@ base	Word	--	Terminal	620
 #540	FN	--	A	672
 #541	FN	--	F	672
 #542	FN	--	P	672
-#543	FN	--	C	629
-#544	PNCT	--	U	629
+#543	PNCT	--	U	544
+#544	FN	--	C	629
 #545	FN	--	R	629
 #546	FN	--	E	671
 #547	FN	--	C	671	C*	630	A*	668

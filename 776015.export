@@ -23,9 +23,9 @@ prenons	Word	--	Terminal	518
 passage	Word	--	Terminal	518
 sur	Word	--	Terminal	519
 l'	Word	--	Terminal	520
-Abraham	Word	--	Terminal	521
--	Punctuation	--	Terminal	522
-Lincoln	Word	--	Terminal	521
+Abraham	Word	--	Terminal	522
+-	Punctuation	--	Terminal	521
+Lincoln	Word	--	Terminal	522
 ...	Punctuation	--	Terminal	523
 -	Punctuation	--	Terminal	524
 Comme	Word	--	Terminal	525
@@ -59,8 +59,8 @@ Conseil	Word	--	Terminal	533
 #518	FN	--	P	544
 #519	FN	--	R	539
 #520	FN	--	E	539
-#521	FN	--	C	539
-#522	PNCT	--	U	539
+#521	PNCT	--	U	522
+#522	FN	--	C	539
 #523	PNCT	--	U	551
 #524	PNCT	--	U	551
 #525	FN	--	D	545

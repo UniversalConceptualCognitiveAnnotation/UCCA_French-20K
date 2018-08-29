@@ -36,9 +36,9 @@ s'	Word	--	Terminal	531
 arrêta	Word	--	Terminal	531
 à	Word	--	Terminal	532
 la	Word	--	Terminal	533
-trente	Word	--	Terminal	534
--	Punctuation	--	Terminal	535
-quatrième	Word	--	Terminal	534
+trente	Word	--	Terminal	535
+-	Punctuation	--	Terminal	534
+quatrième	Word	--	Terminal	535
 pier	Word	--	Terminal	536
 .	Punctuation	--	Terminal	537
 #500	FN	--	E	548
@@ -75,8 +75,8 @@ pier	Word	--	Terminal	536
 #531	FN	--	P	552
 #532	FN	--	R	544
 #533	FN	--	E	544
-#534	FN	--	E	544
-#535	PNCT	--	U	544
+#534	PNCT	--	U	535
+#535	FN	--	E	544
 #536	FN	--	C	544
 #537	PNCT	--	U	544
 #538	FN	--	A	547

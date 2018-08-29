@@ -8,9 +8,9 @@ d'	Word	--	Terminal	505
 un	Word	--	Terminal	506
 journal	Word	--	Terminal	507
 satirique	Word	--	Terminal	508
-très	Word	--	Terminal	509
--	Punctuation	--	Terminal	510
-redouté	Word	--	Terminal	509
+très	Word	--	Terminal	510
+-	Punctuation	--	Terminal	509
+redouté	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 le	Word	--	Terminal	512
 plus	Word	--	Terminal	513
@@ -57,8 +57,8 @@ universel	Word	--	Terminal	543
 #506	FN	--	E	545
 #507	FN	--	C	545
 #508	FN	--	E	545
-#509	FN	--	E	545
-#510	PNCT	--	U	545
+#509	PNCT	--	U	510
+#510	FN	--	E	545
 #511	PNCT	--	U	557
 #512	FN	--	E	546
 #513	FN	--	D	547

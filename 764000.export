@@ -9,11 +9,11 @@ de	Word	--	Terminal	506
 la	Word	--	Terminal	507
 lettre	Word	--	Terminal	508
 de	Word	--	Terminal	509
-J	Word	--	Terminal	510
+J	Word	--	Terminal	512
+.	Punctuation	--	Terminal	510
+-B	Word	--	Terminal	512
 .	Punctuation	--	Terminal	511
--B	Word	--	Terminal	510
-.	Punctuation	--	Terminal	512
-Hobson	Word	--	Terminal	510
+Hobson	Word	--	Terminal	512
 ,	Punctuation	--	Terminal	513
 je	Word	--	Terminal	514
 ne	Word	--	Terminal	515
@@ -30,9 +30,9 @@ tenter	Word	--	Terminal	524
 le	Word	--	Terminal	525
 passage	Word	--	Terminal	526
 du	Word	--	Terminal	527
-Nord	Word	--	Terminal	528
--	Punctuation	--	Terminal	529
-Ouest	Word	--	Terminal	528
+Nord	Word	--	Terminal	529
+-	Punctuation	--	Terminal	528
+Ouest	Word	--	Terminal	529
 .	Punctuation	--	Terminal	530
 #500	PNCT	--	U	544
 #501	FN	--	E	531
@@ -44,9 +44,9 @@ Ouest	Word	--	Terminal	528
 #507	FN	--	E	537
 #508	FN	--	C	537
 #509	FN	--	R	533
-#510	FN	--	C	533
-#511	PNCT	--	U	533
-#512	PNCT	--	U	533
+#510	PNCT	--	U	512
+#511	PNCT	--	U	512
+#512	FN	--	C	533
 #513	PNCT	--	U	544
 #514	FN	--	A	542	A*	543	A*	541	A*	539
 #515	FN	--	D	542
@@ -62,8 +62,8 @@ Ouest	Word	--	Terminal	528
 #525	FN	--	E	540
 #526	FN	--	C	540
 #527	FN	--	R	536
-#528	FN	--	C	536
-#529	PNCT	--	U	536
+#528	PNCT	--	U	529
+#529	FN	--	C	536
 #530	PNCT	--	U	536
 #531	FN	--	T	538
 #532	FN	--	P	538

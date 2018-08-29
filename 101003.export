@@ -21,9 +21,9 @@ plus	Word	--	Terminal	517
 sûrement	Word	--	Terminal	518
 à	Word	--	Terminal	519
 l'	Word	--	Terminal	520
-emporte	Word	--	Terminal	521
--	Punctuation	--	Terminal	522
-pièce	Word	--	Terminal	521
+emporte	Word	--	Terminal	522
+-	Punctuation	--	Terminal	521
+pièce	Word	--	Terminal	522
 .	Punctuation	--	Terminal	523
 #500	FN	--	E	524
 #501	FN	--	C	524
@@ -46,8 +46,8 @@ pièce	Word	--	Terminal	521
 #518	FN	--	C	527
 #519	FN	--	R	528
 #520	FN	--	E	528
-#521	FN	--	C	528
-#522	PNCT	--	U	528
+#521	PNCT	--	U	522
+#522	FN	--	C	528
 #523	PNCT	--	U	528
 #524	FN	--	P	529
 #525	FN	--	A	529

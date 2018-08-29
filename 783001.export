@@ -1,8 +1,8 @@
 #BOS 783001
 -	Punctuation	--	Terminal	500
-Lui	Word	--	Terminal	501
--	Punctuation	--	Terminal	502
-même	Word	--	Terminal	501
+Lui	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+même	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 répondis	Word	--	Terminal	504
 -	Punctuation	--	Terminal	505
@@ -31,8 +31,8 @@ attend	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
 »	Punctuation	--	Terminal	527
 #500	PNCT	--	U	551
-#501	FN	--	A	544
-#502	PNCT	--	U	544
+#501	PNCT	--	U	502
+#502	FN	--	A	544
 #503	PNCT	--	U	550
 #504	FN	--	P	550
 #505	PNCT	--	U	550

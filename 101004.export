@@ -43,9 +43,9 @@ dû	Word	--	Terminal	540
 se	Word	--	Terminal	541
 retirer	Word	--	Terminal	541
 de	Word	--	Terminal	542
-lui	Word	--	Terminal	543
--	Punctuation	--	Terminal	544
-même	Word	--	Terminal	543
+lui	Word	--	Terminal	544
+-	Punctuation	--	Terminal	543
+même	Word	--	Terminal	544
 par	Word	--	Terminal	545
 un	Word	--	Terminal	546
 mouvement	Word	--	Terminal	547
@@ -97,8 +97,8 @@ inexplicable	Word	--	Terminal	551
 #540	FN	--	F	569
 #541	FN	--	P	569
 #542	FN	--	R	560
-#543	FN	--	C	560
-#544	PNCT	--	U	560
+#543	PNCT	--	U	544
+#544	FN	--	C	560
 #545	FN	--	R	568
 #546	FN	--	E	568
 #547	FN	--	C	568	A*	561	A*	562

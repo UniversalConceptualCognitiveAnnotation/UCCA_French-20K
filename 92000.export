@@ -5,9 +5,9 @@ fait	Word	--	Terminal	501
 extrêmement	Word	--	Terminal	503
 grave	Word	--	Terminal	504
 en	Word	--	Terminal	505
-lui	Word	--	Terminal	506
--	Punctuation	--	Terminal	507
-même	Word	--	Terminal	506
+lui	Word	--	Terminal	507
+-	Punctuation	--	Terminal	506
+même	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
 eût	Word	--	Terminal	509
 peut-être	Word	--	Terminal	510
@@ -40,8 +40,8 @@ identiques	Word	--	Terminal	531
 #503	FN	--	D	537
 #504	FN	--	S	537
 #505	FN	--	R	533
-#506	FN	--	C	533
-#507	PNCT	--	U	533
+#506	PNCT	--	U	507
+#507	FN	--	C	533
 #508	PNCT	--	U	539
 #509	FN	--	F	539
 #510	FN	--	G	539

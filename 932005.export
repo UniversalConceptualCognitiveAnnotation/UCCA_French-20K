@@ -10,9 +10,9 @@ narwal	Word	--	Terminal	507
 géant	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
 et	Word	--	Terminal	510
-celui	Word	--	Terminal	511
--	Punctuation	--	Terminal	512
-ci	Word	--	Terminal	511
+celui	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+ci	Word	--	Terminal	512
 ne	Word	--	Terminal	513
 pouvait	Word	--	Terminal	514
 raisonnablement	Word	--	Terminal	515
@@ -39,8 +39,8 @@ comparaître	Word	--	Terminal	522
 #508	FN	--	E	525
 #509	PNCT	--	U	536
 #510	FN	--	L	536	LR	537
-#511	FN	--	A	535	A*	532	A*	530
-#512	PNCT	--	U	535
+#511	PNCT	--	U	512
+#512	FN	--	A	535	A*	532	A*	530
 #513	FN	--	D	535
 #514	FN	--	D	535
 #515	FN	--	D	535

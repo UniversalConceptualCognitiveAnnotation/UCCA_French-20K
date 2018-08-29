@@ -17,9 +17,9 @@ donner	Word	--	Terminal	514
 la	Word	--	Terminal	514
 route	Word	--	Terminal	514
 au	Word	--	Terminal	515
-sud	Word	--	Terminal	516
--	Punctuation	--	Terminal	517
-est	Word	--	Terminal	516
+sud	Word	--	Terminal	517
+-	Punctuation	--	Terminal	516
+est	Word	--	Terminal	517
 ,	Punctuation	--	Terminal	518
 et	Word	--	Terminal	519
 abandonner	Word	--	Terminal	520
@@ -46,8 +46,8 @@ Pacifique	Word	--	Terminal	526
 #513	FN	--	D	533
 #514	FN	--	P	533
 #515	FN	--	R	531
-#516	FN	--	C	531
-#517	PNCT	--	U	531
+#516	PNCT	--	U	517
+#517	FN	--	C	531
 #518	PNCT	--	U	543
 #519	FN	--	L	543
 #520	FN	--	P	536

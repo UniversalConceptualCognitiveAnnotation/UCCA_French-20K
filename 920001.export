@@ -1,8 +1,8 @@
 #BOS 920001
 L'	Word	--	Terminal	500
-Abraham	Word	--	Terminal	501
--	Punctuation	--	Terminal	502
-Lincoln	Word	--	Terminal	501
+Abraham	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+Lincoln	Word	--	Terminal	502
 modifiait	Word	--	Terminal	503
 sa	Word	--	Terminal	504
 route	Word	--	Terminal	505
@@ -31,8 +31,8 @@ d'	Word	--	Terminal	527
 imprécations	Word	--	Terminal	528
 !	Punctuation	--	Terminal	529
 #500	FN	--	E	530
-#501	FN	--	C	530
-#502	PNCT	--	U	530
+#501	PNCT	--	U	502
+#502	FN	--	C	530
 #503	FN	--	P	537
 #504	FN	--	E	531
 #505	FN	--	C	531

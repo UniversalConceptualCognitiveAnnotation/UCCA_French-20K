@@ -4,9 +4,9 @@ heures	Word	--	Terminal	501
 avant	Word	--	Terminal	502
 que	Word	--	Terminal	502
 l'	Word	--	Terminal	503
-Abraham	Word	--	Terminal	504
--	Punctuation	--	Terminal	505
-Lincoln	Word	--	Terminal	504
+Abraham	Word	--	Terminal	505
+-	Punctuation	--	Terminal	504
+Lincoln	Word	--	Terminal	505
 ne	Word	--	Terminal	506
 quittât	Word	--	Terminal	507
 la	Word	--	Terminal	508
@@ -27,8 +27,8 @@ termes	Word	--	Terminal	520
 #501	FN	--	C	522
 #502	FN	--	R	522
 #503	FN	--	E	523
-#504	FN	--	C	523
-#505	PNCT	--	U	523
+#504	PNCT	--	U	505
+#505	FN	--	C	523
 #506	FN	--	D	527
 #507	FN	--	P	527
 #508	FN	--	E	526

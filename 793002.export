@@ -15,9 +15,9 @@ compacte	Word	--	Terminal	511
 et	Word	--	Terminal	512
 saluèrent	Word	--	Terminal	513
 l'	Word	--	Terminal	514
-Abraham	Word	--	Terminal	515
--	Punctuation	--	Terminal	516
-Lincoln	Word	--	Terminal	515
+Abraham	Word	--	Terminal	516
+-	Punctuation	--	Terminal	515
+Lincoln	Word	--	Terminal	516
 jusqu'	Word	--	Terminal	517
 à	Word	--	Terminal	517
 son	Word	--	Terminal	518
@@ -60,8 +60,8 @@ York	Word	--	Terminal	540
 #512	FN	--	L	558	LR	554
 #513	FN	--	P	551
 #514	FN	--	E	546
-#515	FN	--	C	546
-#516	PNCT	--	U	546
+#515	PNCT	--	U	516
+#516	FN	--	C	546
 #517	FN	--	L	558
 #518	FN	--	A	557
 #519	FN	--	P	557

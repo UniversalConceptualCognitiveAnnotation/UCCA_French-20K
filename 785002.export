@@ -4,9 +4,9 @@ cette	Word	--	Terminal	501
 pression	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 l'	Word	--	Terminal	504
-Abraham	Word	--	Terminal	505
--	Punctuation	--	Terminal	506
-Lincoln	Word	--	Terminal	505
+Abraham	Word	--	Terminal	506
+-	Punctuation	--	Terminal	505
+Lincoln	Word	--	Terminal	506
 atteignait	Word	--	Terminal	507
 une	Word	--	Terminal	508
 vitesse	Word	--	Terminal	509
@@ -39,8 +39,8 @@ cétacé	Word	--	Terminal	531
 #502	FN	--	C	533
 #503	PNCT	--	U	545
 #504	FN	--	E	534
-#505	FN	--	C	534	A*	546
-#506	PNCT	--	U	546
+#505	PNCT	--	U	506
+#506	FN	--	C	534	A*	546
 #507	FN	--	P	545
 #508	FN	--	E	535
 #509	FN	--	C	535

@@ -35,9 +35,9 @@ le	Word	--	Terminal	529
 Scotia	Word	--	Terminal	530
 ou	Word	--	Terminal	531
 l'	Word	--	Terminal	532
-Abraham	Word	--	Terminal	533
--	Punctuation	--	Terminal	534
-Lincoln	Word	--	Terminal	533
+Abraham	Word	--	Terminal	534
+-	Punctuation	--	Terminal	533
+Lincoln	Word	--	Terminal	534
 .	Punctuation	--	Terminal	535
 #500	FN	--	S	542
 #501	PNCT	--	U	542
@@ -72,8 +72,8 @@ Lincoln	Word	--	Terminal	533
 #530	FN	--	C	539
 #531	FN	--	N	544
 #532	FN	--	E	540
-#533	FN	--	C	540
-#534	PNCT	--	U	540
+#533	PNCT	--	U	534
+#534	FN	--	C	540
 #535	PNCT	--	U	540
 #536	FN	--	E	541
 #537	FN	--	E	541

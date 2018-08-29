@@ -15,9 +15,9 @@ poussée	Word	--	Terminal	512
 de	Word	--	Terminal	513
 ses	Word	--	Terminal	514
 mille	Word	--	Terminal	515
-chevaux	Word	--	Terminal	516
--	Punctuation	--	Terminal	517
-vapeur	Word	--	Terminal	516
+chevaux	Word	--	Terminal	517
+-	Punctuation	--	Terminal	516
+vapeur	Word	--	Terminal	517
 .	Punctuation	--	Terminal	518
 #500	FN	--	A	526
 #501	FN	--	P	526
@@ -35,8 +35,8 @@ vapeur	Word	--	Terminal	516
 #513	FN	--	R	521
 #514	FN	--	E	521
 #515	FN	--	E	521
-#516	FN	--	C	521
-#517	PNCT	--	U	521
+#516	PNCT	--	U	517
+#517	FN	--	C	521
 #518	PNCT	--	U	521
 #519	FN	--	C	523
 #520	FN	--	P	522

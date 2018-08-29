@@ -7,9 +7,9 @@ existait	Word	--	Terminal	503
 le	Word	--	Terminal	505
 fait	Word	--	Terminal	506
 en	Word	--	Terminal	507
-lui	Word	--	Terminal	508
--	Punctuation	--	Terminal	509
-même	Word	--	Terminal	508
+lui	Word	--	Terminal	509
+-	Punctuation	--	Terminal	508
+même	Word	--	Terminal	509
 n'	Word	--	Terminal	510
 était	Word	--	Terminal	511
 plus	Word	--	Terminal	510
@@ -50,8 +50,8 @@ apparition	Word	--	Terminal	539
 #505	FN	--	E	550
 #506	FN	--	C	550
 #507	FN	--	R	542
-#508	FN	--	C	542
-#509	PNCT	--	U	542
+#508	PNCT	--	U	509
+#509	FN	--	C	542
 #510	FN	--	D	552
 #511	FN	--	F	552
 #512	FN	--	P	552

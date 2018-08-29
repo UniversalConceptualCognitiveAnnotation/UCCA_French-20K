@@ -1,8 +1,8 @@
 #BOS 794001
 L'	Word	--	Terminal	500
-Abraham	Word	--	Terminal	501
--	Punctuation	--	Terminal	502
-Lincoln	Word	--	Terminal	501
+Abraham	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+Lincoln	Word	--	Terminal	502
 répondit	Word	--	Terminal	503
 en	Word	--	Terminal	504
 amenant	Word	--	Terminal	505
@@ -67,8 +67,8 @@ une	Word	--	Terminal	562
 fois	Word	--	Terminal	563
 .	Punctuation	--	Terminal	564
 #500	FN	--	E	565
-#501	FN	--	C	565	A*	595
-#502	PNCT	--	U	595
+#501	PNCT	--	U	502
+#502	FN	--	C	565	A*	595
 #503	FN	--	P	580
 #504	FN	--	F	566
 #505	FN	--	C	566

@@ -50,9 +50,9 @@ quai	Word	--	Terminal	546
 près	Word	--	Terminal	547
 duquel	Word	--	Terminal	548
 l'	Word	--	Terminal	549
-Abraham	Word	--	Terminal	550
--	Punctuation	--	Terminal	551
-Lincoln	Word	--	Terminal	550
+Abraham	Word	--	Terminal	551
+-	Punctuation	--	Terminal	550
+Lincoln	Word	--	Terminal	551
 vomissait	Word	--	Terminal	552
 par	Word	--	Terminal	553
 ses	Word	--	Terminal	554
@@ -114,8 +114,8 @@ noire	Word	--	Terminal	561
 #547	FN	--	R	568
 #548	FN	--	R	576
 #549	FN	--	E	569
-#550	FN	--	C	569
-#551	PNCT	--	U	569
+#550	PNCT	--	U	551
+#551	FN	--	C	569
 #552	FN	--	P	576
 #553	FN	--	R	570
 #554	FN	--	E	570
