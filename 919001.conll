@@ -22,9 +22,9 @@
 20	pluie	_	Word	Word	_	16	C	_	_
 21	,	_	Punctuation	Punctuation	_	14	U	_	_
 22	je	_	Word	Word	_	24	A	_	_
+22	je	_	Word	Word	_	14	A*	_	_
 22	je	_	Word	Word	_	12	A*	_	_
 22	je	_	Word	Word	_	2	A*	_	_
-22	je	_	Word	Word	_	14	A*	_	_
 23	ne	_	Word	Word	_	24	D	_	_
 24	quittais	_	Word	Word	_	2	H	_	_
 25	plus	_	Word	Word	_	23	Terminal	_	_
