@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 77002
 # text = Les négociants , armateurs , capitaines de navires , skippers et masters de l' Europe et de l' Amérique , officiers des marines militaires de tous pays , et , après eux , les gouvernements des divers États des deux continents , se préoccupèrent de ce fait au plus haut point .
-1	Les	_	Word	Word	_	2	E	2:E|6:E|4:E	_
+1	Les	_	Word	Word	_	2	E	2:E|4:E|6:E	_
 2	négociants	_	Word	Word	_	43	A	43:A	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	armateurs	_	Word	Word	_	2	C	2:C	_

@@ -22,7 +22,7 @@
 19	la	_	Word	Word	_	20	E	20:E	_
 20	pluie	_	Word	Word	_	16	C	16:C	_
 21	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-22	je	_	Word	Word	_	24	A	24:A|14:A|2:A|12:A	_
+22	je	_	Word	Word	_	24	A	24:A|14:A|12:A|2:A	_
 23	ne	_	Word	Word	_	24	D	24:D	_
 24	quittais	_	Word	Word	_	2	H	2:H	_
 25	plus	_	Word	Word	_	23	Terminal	23:Terminal	_

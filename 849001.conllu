@@ -3,7 +3,7 @@
 # text = Il fallait les entendre causer , discuter , disputer , calculer les diverses chances d' une rencontre , et observer la vaste étendue de l' Océan .
 1	Il	_	Word	Word	_	4	F	4:F	_
 2	fallait	_	Word	Word	_	4	F	4:F	_
-3	les	_	Word	Word	_	4	A	4:A|5:A|11:A|20:A	_
+3	les	_	Word	Word	_	4	A	4:A|11:A|5:A|20:A	_
 4	entendre	_	Word	Word	_	0	H	0:H	_
 5	causer	_	Word	Word	_	4	A	4:A	_
 6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
