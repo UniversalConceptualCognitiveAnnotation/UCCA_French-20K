@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="par" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="27&#176;30'" />
+      <attributes paragraph="1" paragraph_position="20" text="27&#176;30&apos;" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="de" />
@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="et" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="72&#176;15'" />
+      <attributes paragraph="1" paragraph_position="24" text="72&#176;15&apos;" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="de" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="roc" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="qu'aucune" />
+      <attributes paragraph="1" paragraph_position="36" text="qu&apos;aucune" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="carte" />
@@ -135,7 +135,7 @@
       <attributes paragraph="1" paragraph_position="44" text="Sous" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="l'" />
+      <attributes paragraph="1" paragraph_position="45" text="l&apos;" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="effort" />
@@ -282,7 +282,7 @@
       <attributes paragraph="1" paragraph_position="93" text="passagers" />
     </node>
     <node ID="0.94" type="Word">
-      <attributes paragraph="1" paragraph_position="94" text="qu'" />
+      <attributes paragraph="1" paragraph_position="94" text="qu&apos;" />
     </node>
     <node ID="0.95" type="Word">
       <attributes paragraph="1" paragraph_position="95" text="il" />
@@ -703,7 +703,7 @@
     </node>
     <node ID="1.50" type="FN">
       <attributes />
-      <extra remarks="qu' should be separated and annotated as R" />
+      <extra remarks="qu&apos; should be separated and annotated as R" />
       <edge toID="0.36" type="Terminal">
         <attributes />
       </edge>

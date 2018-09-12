@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="&#192;" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="l'" />
+      <attributes paragraph="1" paragraph_position="2" text="l&apos;" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="&#233;poque" />
@@ -36,7 +36,7 @@
       <attributes paragraph="1" paragraph_position="11" text="revenais" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="d'" />
+      <attributes paragraph="1" paragraph_position="12" text="d&apos;" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="une" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="Mus&#233;um" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="d'" />
+      <attributes paragraph="1" paragraph_position="36" text="d&apos;" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="histoire" />
@@ -135,7 +135,7 @@
       <attributes paragraph="1" paragraph_position="44" text="fran&#231;ais" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="m'" />
+      <attributes paragraph="1" paragraph_position="45" text="m&apos;" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="avait" />
@@ -195,7 +195,7 @@
       <attributes paragraph="1" paragraph_position="64" text="," />
     </node>
     <node ID="0.65" type="Word">
-      <attributes paragraph="1" paragraph_position="65" text="j'" />
+      <attributes paragraph="1" paragraph_position="65" text="j&apos;" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="arrivai" />
@@ -270,7 +270,7 @@
       <attributes paragraph="1" paragraph_position="89" text="Je" />
     </node>
     <node ID="0.90" type="Word">
-      <attributes paragraph="1" paragraph_position="90" text="m'" />
+      <attributes paragraph="1" paragraph_position="90" text="m&apos;" />
     </node>
     <node ID="0.91" type="Word">
       <attributes paragraph="1" paragraph_position="91" text="occupais" />
@@ -327,7 +327,7 @@
       <attributes paragraph="1" paragraph_position="108" text="arriva" />
     </node>
     <node ID="0.109" type="Word">
-      <attributes paragraph="1" paragraph_position="109" text="l'" />
+      <attributes paragraph="1" paragraph_position="109" text="l&apos;" />
     </node>
     <node ID="0.110" type="Word">
       <attributes paragraph="1" paragraph_position="110" text="incident" />

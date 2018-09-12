@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="Je" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="m'" />
+      <attributes paragraph="1" paragraph_position="2" text="m&apos;" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="ex&#233;cutai" />
@@ -96,7 +96,7 @@
       <attributes paragraph="1" paragraph_position="31" text="extrait" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="d'" />
+      <attributes paragraph="1" paragraph_position="32" text="d&apos;" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="un" />

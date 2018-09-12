@@ -1851,7 +1851,7 @@
     </node>
     <node ID="1.186" type="FN">
       <attributes />
-      <extra remarks="l' should be separated and marked as inside the Participant." />
+      <extra remarks="l&apos; should be separated and marked as inside the Participant." />
       <edge toID="0.131" type="Terminal">
         <attributes />
       </edge>

@@ -1865,7 +1865,7 @@
     </node>
     <node ID="1.131" type="FN">
       <attributes />
-      <extra remarks="l' should be annotated as E and air as C inside the Participant." />
+      <extra remarks="l&apos; should be annotated as E and air as C inside the Participant." />
       <edge toID="0.93" type="Terminal">
         <attributes />
       </edge>

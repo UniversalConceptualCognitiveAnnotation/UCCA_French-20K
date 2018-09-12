@@ -252,7 +252,7 @@
       <attributes paragraph="1" paragraph_position="83" text="," />
     </node>
     <node ID="0.84" type="Word">
-      <attributes paragraph="1" paragraph_position="84" text="jusqu'" />
+      <attributes paragraph="1" paragraph_position="84" text="jusqu&apos;" />
     </node>
     <node ID="0.85" type="Word">
       <attributes paragraph="1" paragraph_position="85" text="au" />
@@ -303,7 +303,7 @@
       <attributes paragraph="1" paragraph_position="100" text="et" />
     </node>
     <node ID="0.101" type="Word">
-      <attributes paragraph="1" paragraph_position="101" text="l'" />
+      <attributes paragraph="1" paragraph_position="101" text="l&apos;" />
     </node>
     <node ID="0.102" type="Word">
       <attributes paragraph="1" paragraph_position="102" text="entra&#238;ner" />
@@ -321,7 +321,7 @@
       <attributes paragraph="1" paragraph_position="106" text="de" />
     </node>
     <node ID="0.107" type="Word">
-      <attributes paragraph="1" paragraph_position="107" text="l'Oc&#233;an" />
+      <attributes paragraph="1" paragraph_position="107" text="l&apos;Oc&#233;an" />
     </node>
     <node ID="0.108" type="Punctuation">
       <attributes paragraph="1" paragraph_position="108" text="." />
@@ -357,7 +357,7 @@
       <attributes paragraph="1" paragraph_position="118" text="opinions" />
     </node>
     <node ID="0.119" type="Word">
-      <attributes paragraph="1" paragraph_position="119" text="d'" />
+      <attributes paragraph="1" paragraph_position="119" text="d&apos;" />
     </node>
     <node ID="0.120" type="Word">
       <attributes paragraph="1" paragraph_position="120" text="Aristote" />
@@ -381,7 +381,7 @@
       <attributes paragraph="1" paragraph_position="126" text="admettaient" />
     </node>
     <node ID="0.127" type="Word">
-      <attributes paragraph="1" paragraph_position="127" text="l'existence" />
+      <attributes paragraph="1" paragraph_position="127" text="l&apos;existence" />
     </node>
     <node ID="0.128" type="Word">
       <attributes paragraph="1" paragraph_position="128" text="de" />
@@ -411,7 +411,7 @@
       <attributes paragraph="1" paragraph_position="136" text="de" />
     </node>
     <node ID="0.137" type="Word">
-      <attributes paragraph="1" paragraph_position="137" text="l'&#233;v&#234;que" />
+      <attributes paragraph="1" paragraph_position="137" text="l&apos;&#233;v&#234;que" />
     </node>
     <node ID="0.138" type="Word">
       <attributes paragraph="1" paragraph_position="138" text="Pontoppidan" />
@@ -549,7 +549,7 @@
       <attributes paragraph="1" paragraph_position="182" text="qui" />
     </node>
     <node ID="0.183" type="Word">
-      <attributes paragraph="1" paragraph_position="183" text="n'" />
+      <attributes paragraph="1" paragraph_position="183" text="n&apos;" />
     </node>
     <node ID="0.184" type="Word">
       <attributes paragraph="1" paragraph_position="184" text="avait" />
@@ -561,7 +561,7 @@
       <attributes paragraph="1" paragraph_position="186" text="fr&#233;quent&#233;" />
     </node>
     <node ID="0.187" type="Word">
-      <attributes paragraph="1" paragraph_position="187" text="jusqu'" />
+      <attributes paragraph="1" paragraph_position="187" text="jusqu&apos;" />
     </node>
     <node ID="0.188" type="Word">
       <attributes paragraph="1" paragraph_position="188" text="alors" />
@@ -579,7 +579,7 @@
       <attributes paragraph="1" paragraph_position="192" text="de" />
     </node>
     <node ID="0.193" type="Word">
-      <attributes paragraph="1" paragraph_position="193" text="l'" />
+      <attributes paragraph="1" paragraph_position="193" text="l&apos;" />
     </node>
     <node ID="0.194" type="Word">
       <attributes paragraph="1" paragraph_position="194" text="ancien" />

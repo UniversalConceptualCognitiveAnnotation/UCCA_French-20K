@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="obtenez" />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="l'" />
+      <attributes paragraph="1" paragraph_position="43" text="l&apos;" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="animal" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="," />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="l'" />
+      <attributes paragraph="1" paragraph_position="58" text="l&apos;" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="instrument" />
@@ -225,7 +225,7 @@
       <attributes paragraph="1" paragraph_position="74" text="coque" />
     </node>
     <node ID="0.75" type="Word">
-      <attributes paragraph="1" paragraph_position="75" text="d'" />
+      <attributes paragraph="1" paragraph_position="75" text="d&apos;" />
     </node>
     <node ID="0.76" type="Word">
       <attributes paragraph="1" paragraph_position="76" text="un" />

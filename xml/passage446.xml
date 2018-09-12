@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="L'" />
+      <attributes paragraph="1" paragraph_position="1" text="L&apos;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="&#233;motion" />
@@ -33,7 +33,7 @@
       <attributes paragraph="1" paragraph_position="10" text="On" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="n'" />
+      <attributes paragraph="1" paragraph_position="11" text="n&apos;" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="accorda" />
@@ -123,7 +123,7 @@
       <attributes paragraph="1" paragraph_position="40" text="r&#244;le" />
     </node>
     <node ID="0.41" type="Word">
-      <attributes paragraph="1" paragraph_position="41" text="d'" />
+      <attributes paragraph="1" paragraph_position="41" text="d&apos;" />
     </node>
     <node ID="0.42" type="Word">
       <attributes paragraph="1" paragraph_position="42" text="&#233;quipage" />
@@ -135,13 +135,13 @@
       <attributes paragraph="1" paragraph_position="44" text="Il" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="n'" />
+      <attributes paragraph="1" paragraph_position="45" text="n&apos;" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="avait" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="qu'" />
+      <attributes paragraph="1" paragraph_position="47" text="qu&apos;" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="&#224;" />
@@ -216,7 +216,7 @@
       <attributes paragraph="1" paragraph_position="71" text="!" />
     </node>
     <node ID="0.72" type="Word">
-      <attributes paragraph="1" paragraph_position="72" text="D'" />
+      <attributes paragraph="1" paragraph_position="72" text="D&apos;" />
     </node>
     <node ID="0.73" type="Word">
       <attributes paragraph="1" paragraph_position="73" text="ailleurs" />
@@ -240,7 +240,7 @@
       <attributes paragraph="1" paragraph_position="79" text="demandait" />
     </node>
     <node ID="0.80" type="Word">
-      <attributes paragraph="1" paragraph_position="80" text="qu'" />
+      <attributes paragraph="1" paragraph_position="80" text="qu&apos;" />
     </node>
     <node ID="0.81" type="Word">
       <attributes paragraph="1" paragraph_position="81" text="&#224;" />

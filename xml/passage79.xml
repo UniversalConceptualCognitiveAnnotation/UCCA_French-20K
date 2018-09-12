@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="," />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="s'" />
+      <attributes paragraph="1" paragraph_position="15" text="s&apos;" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="accordaient" />
@@ -69,7 +69,7 @@
       <attributes paragraph="1" paragraph_position="22" text="de" />
     </node>
     <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="l'" />
+      <attributes paragraph="1" paragraph_position="23" text="l&apos;" />
     </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="objet" />
@@ -81,7 +81,7 @@
       <attributes paragraph="1" paragraph_position="26" text="de" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="l'" />
+      <attributes paragraph="1" paragraph_position="27" text="l&apos;" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="&#234;tre" />
@@ -165,7 +165,7 @@
       <attributes paragraph="1" paragraph_position="54" text="Si" />
     </node>
     <node ID="0.55" type="Word">
-      <attributes paragraph="1" paragraph_position="55" text="c'" />
+      <attributes paragraph="1" paragraph_position="55" text="c&apos;" />
     </node>
     <node ID="0.56" type="Word">
       <attributes paragraph="1" paragraph_position="56" text="&#233;tait" />
@@ -213,7 +213,7 @@
       <attributes paragraph="1" paragraph_position="70" text="class&#233;s" />
     </node>
     <node ID="0.71" type="Word">
-      <attributes paragraph="1" paragraph_position="71" text="jusqu'" />
+      <attributes paragraph="1" paragraph_position="71" text="jusqu&apos;" />
     </node>
     <node ID="0.72" type="Word">
       <attributes paragraph="1" paragraph_position="72" text="alors" />
@@ -270,7 +270,7 @@
       <attributes paragraph="1" paragraph_position="89" text="Quatrefages" />
     </node>
     <node ID="0.90" type="Word">
-      <attributes paragraph="1" paragraph_position="90" text="n'" />
+      <attributes paragraph="1" paragraph_position="90" text="n&apos;" />
     </node>
     <node ID="0.91" type="Word">
       <attributes paragraph="1" paragraph_position="91" text="eussent" />
@@ -279,13 +279,13 @@
       <attributes paragraph="1" paragraph_position="92" text="admis" />
     </node>
     <node ID="0.93" type="Word">
-      <attributes paragraph="1" paragraph_position="93" text="l'" />
+      <attributes paragraph="1" paragraph_position="93" text="l&apos;" />
     </node>
     <node ID="0.94" type="Word">
       <attributes paragraph="1" paragraph_position="94" text="existence" />
     </node>
     <node ID="0.95" type="Word">
-      <attributes paragraph="1" paragraph_position="95" text="d'" />
+      <attributes paragraph="1" paragraph_position="95" text="d&apos;" />
     </node>
     <node ID="0.96" type="Word">
       <attributes paragraph="1" paragraph_position="96" text="un" />
@@ -312,7 +312,7 @@
       <attributes paragraph="1" paragraph_position="103" text="de" />
     </node>
     <node ID="0.104" type="Word">
-      <attributes paragraph="1" paragraph_position="104" text="l'" />
+      <attributes paragraph="1" paragraph_position="104" text="l&apos;" />
     </node>
     <node ID="0.105" type="Word">
       <attributes paragraph="1" paragraph_position="105" text="avoir" />
@@ -330,7 +330,7 @@
       <attributes paragraph="1" paragraph_position="109" text="qui" />
     </node>
     <node ID="0.110" type="Word">
-      <attributes paragraph="1" paragraph_position="110" text="s'" />
+      <attributes paragraph="1" paragraph_position="110" text="s&apos;" />
     </node>
     <node ID="0.111" type="Word">
       <attributes paragraph="1" paragraph_position="111" text="appelle" />

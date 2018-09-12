@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="navires" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="s'" />
+      <attributes paragraph="1" paragraph_position="10" text="s&apos;" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="&#233;taient" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="rapide" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="qu'" />
+      <attributes paragraph="1" paragraph_position="36" text="qu&apos;" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="une" />

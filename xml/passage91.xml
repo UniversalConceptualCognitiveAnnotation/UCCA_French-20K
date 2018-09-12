@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="L'" />
+      <attributes paragraph="1" paragraph_position="1" text="L&apos;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="accident" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="&#224;" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="l'" />
+      <attributes paragraph="1" paragraph_position="25" text="l&apos;" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="arri&#232;re" />
@@ -96,7 +96,7 @@
       <attributes paragraph="1" paragraph_position="31" text="examin&#232;rent" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="l'" />
+      <attributes paragraph="1" paragraph_position="32" text="l&apos;" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="Oc&#233;an" />
@@ -141,7 +141,7 @@
       <attributes paragraph="1" paragraph_position="46" text="ce" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="n'" />
+      <attributes paragraph="1" paragraph_position="47" text="n&apos;" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="est" />
@@ -294,7 +294,7 @@
       <attributes paragraph="1" paragraph_position="97" text="&#233;pave" />
     </node>
     <node ID="0.98" type="Word">
-      <attributes paragraph="1" paragraph_position="98" text="d'" />
+      <attributes paragraph="1" paragraph_position="98" text="d&apos;" />
     </node>
     <node ID="0.99" type="Word">
       <attributes paragraph="1" paragraph_position="99" text="un" />
@@ -372,7 +372,7 @@
       <attributes paragraph="1" paragraph_position="123" text="reconnu" />
     </node>
     <node ID="0.124" type="Word">
-      <attributes paragraph="1" paragraph_position="124" text="qu'" />
+      <attributes paragraph="1" paragraph_position="124" text="qu&apos;" />
     </node>
     <node ID="0.125" type="Word">
       <attributes paragraph="1" paragraph_position="125" text="une" />

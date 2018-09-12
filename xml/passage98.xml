@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="Tout" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="d'" />
+      <attributes paragraph="1" paragraph_position="2" text="d&apos;" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="abord" />
@@ -147,7 +147,7 @@
       <attributes paragraph="1" paragraph_position="48" text="voie" />
     </node>
     <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="d'eau" />
+      <attributes paragraph="1" paragraph_position="49" text="d&apos;eau" />
     </node>
     <node ID="0.50" type="Punctuation">
       <attributes paragraph="1" paragraph_position="50" text="." />
@@ -637,7 +637,7 @@
     </node>
     <node ID="1.64" type="FN">
       <attributes />
-      <extra remarks="d' should be separated from eau and annotated as R. eau should be C  " />
+      <extra remarks="d&apos; should be separated from eau and annotated as R. eau should be C  " />
       <edge toID="0.49" type="Terminal">
         <attributes />
       </edge>

@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="et" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="l'" />
+      <attributes paragraph="1" paragraph_position="9" text="l&apos;" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="un" />
@@ -48,7 +48,7 @@
       <attributes paragraph="1" paragraph_position="15" text="reconna&#238;tre" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="l'" />
+      <attributes paragraph="1" paragraph_position="16" text="l&apos;" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="avarie" />
@@ -75,13 +75,13 @@
       <attributes paragraph="1" paragraph_position="24" text="constatait" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="l'" />
+      <attributes paragraph="1" paragraph_position="25" text="l&apos;" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="existence" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="d'" />
+      <attributes paragraph="1" paragraph_position="27" text="d&apos;" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="un" />
@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="voie" />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="d'" />
+      <attributes paragraph="1" paragraph_position="43" text="d&apos;" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="eau" />
@@ -246,7 +246,7 @@
       <attributes paragraph="1" paragraph_position="81" text="jours" />
     </node>
     <node ID="0.82" type="Word">
-      <attributes paragraph="1" paragraph_position="82" text="d'" />
+      <attributes paragraph="1" paragraph_position="82" text="d&apos;" />
     </node>
     <node ID="0.83" type="Word">
       <attributes paragraph="1" paragraph_position="83" text="un" />

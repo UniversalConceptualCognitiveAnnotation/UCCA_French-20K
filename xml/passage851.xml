@@ -560,7 +560,7 @@
     </node>
     <node ID="1.45" type="FN">
       <attributes />
-      <extra remarks="l' should be annotated as E and Argus as C." />
+      <extra remarks="l&apos; should be annotated as E and Argus as C." />
       <edge toID="0.37" type="Terminal">
         <attributes />
       </edge>

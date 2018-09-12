@@ -96,13 +96,13 @@
       <attributes paragraph="1" paragraph_position="31" text="," />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="l'" />
+      <attributes paragraph="1" paragraph_position="32" text="l&apos;" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="hypoth&#232;se" />
     </node>
     <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="d'" />
+      <attributes paragraph="1" paragraph_position="34" text="d&apos;" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="un" />

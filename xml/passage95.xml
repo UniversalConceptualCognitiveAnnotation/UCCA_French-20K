@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="par" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="15&#176;12'" />
+      <attributes paragraph="1" paragraph_position="20" text="15&#176;12&apos;" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="de" />
@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="et" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="45&#176;37'" />
+      <attributes paragraph="1" paragraph_position="24" text="45&#176;37&apos;" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="de" />
@@ -180,7 +180,7 @@
       <attributes paragraph="1" paragraph_position="59" text="tirant" />
     </node>
     <node ID="0.60" type="Word">
-      <attributes paragraph="1" paragraph_position="60" text="d'" />
+      <attributes paragraph="1" paragraph_position="60" text="d&apos;" />
     </node>
     <node ID="0.61" type="Word">
       <attributes paragraph="1" paragraph_position="61" text="eau" />

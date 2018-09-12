@@ -36,7 +36,7 @@
       <attributes paragraph="1" paragraph_position="11" text="m&#234;me" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="n'" />
+      <attributes paragraph="1" paragraph_position="12" text="n&apos;" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="&#233;tait" />
@@ -96,7 +96,7 @@
       <attributes paragraph="1" paragraph_position="31" text="comprendra" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="l'" />
+      <attributes paragraph="1" paragraph_position="32" text="l&apos;" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="&#233;motion" />

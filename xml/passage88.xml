@@ -57,7 +57,7 @@
       <attributes paragraph="1" paragraph_position="18" text="de" />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="l'" />
+      <attributes paragraph="1" paragraph_position="19" text="l&apos;" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="Institut" />
@@ -78,7 +78,7 @@
       <attributes paragraph="1" paragraph_position="25" text="de" />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="l'" />
+      <attributes paragraph="1" paragraph_position="26" text="l&apos;" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="Acad&#233;mie" />
@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="de" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="l'" />
+      <attributes paragraph="1" paragraph_position="35" text="l&apos;" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="Association" />
@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="de" />
     </node>
     <node ID="0.40" type="Word">
-      <attributes paragraph="1" paragraph_position="40" text="l'" />
+      <attributes paragraph="1" paragraph_position="40" text="l&apos;" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="Institution" />
@@ -168,7 +168,7 @@
       <attributes paragraph="1" paragraph_position="55" text="de" />
     </node>
     <node ID="0.56" type="Word">
-      <attributes paragraph="1" paragraph_position="56" text="l'" />
+      <attributes paragraph="1" paragraph_position="56" text="l&apos;" />
     </node>
     <node ID="0.57" type="Word">
       <attributes paragraph="1" paragraph_position="57" text="abb&#233;" />
@@ -228,7 +228,7 @@
       <attributes paragraph="1" paragraph_position="75" text="de" />
     </node>
     <node ID="0.76" type="Word">
-      <attributes paragraph="1" paragraph_position="76" text="l'" />
+      <attributes paragraph="1" paragraph_position="76" text="l&apos;" />
     </node>
     <node ID="0.77" type="Word">
       <attributes paragraph="1" paragraph_position="77" text="&#233;tranger" />
@@ -405,7 +405,7 @@
       <attributes paragraph="1" paragraph_position="134" text="admettant" />
     </node>
     <node ID="0.135" type="Word">
-      <attributes paragraph="1" paragraph_position="135" text="l'" />
+      <attributes paragraph="1" paragraph_position="135" text="l&apos;" />
     </node>
     <node ID="0.136" type="Word">
       <attributes paragraph="1" paragraph_position="136" text="existence" />
@@ -492,7 +492,7 @@
       <attributes paragraph="1" paragraph_position="163" text="article" />
     </node>
     <node ID="0.164" type="Word">
-      <attributes paragraph="1" paragraph_position="164" text="d'" />
+      <attributes paragraph="1" paragraph_position="164" text="d&apos;" />
     </node>
     <node ID="0.165" type="Word">
       <attributes paragraph="1" paragraph_position="165" text="un" />
@@ -591,7 +591,7 @@
       <attributes paragraph="1" paragraph_position="196" text="et" />
     </node>
     <node ID="0.197" type="Word">
-      <attributes paragraph="1" paragraph_position="197" text="l'" />
+      <attributes paragraph="1" paragraph_position="197" text="l&apos;" />
     </node>
     <node ID="0.198" type="Word">
       <attributes paragraph="1" paragraph_position="198" text="acheva" />
@@ -603,7 +603,7 @@
       <attributes paragraph="1" paragraph_position="200" text="milieu" />
     </node>
     <node ID="0.201" type="Word">
-      <attributes paragraph="1" paragraph_position="201" text="d'" />
+      <attributes paragraph="1" paragraph_position="201" text="d&apos;" />
     </node>
     <node ID="0.202" type="Word">
       <attributes paragraph="1" paragraph_position="202" text="un" />
@@ -624,7 +624,7 @@
       <attributes paragraph="1" paragraph_position="207" text="." />
     </node>
     <node ID="0.208" type="Word">
-      <attributes paragraph="1" paragraph_position="208" text="L'" />
+      <attributes paragraph="1" paragraph_position="208" text="L&apos;" />
     </node>
     <node ID="0.209" type="Word">
       <attributes paragraph="1" paragraph_position="209" text="esprit" />

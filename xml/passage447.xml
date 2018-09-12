@@ -15,7 +15,7 @@
       <attributes paragraph="1" paragraph_position="4" text="que" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="l'" />
+      <attributes paragraph="1" paragraph_position="5" text="l&apos;" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="Abraham" />

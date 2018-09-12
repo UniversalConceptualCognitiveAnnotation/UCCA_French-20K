@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="." />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="Qu'" />
+      <attributes paragraph="1" paragraph_position="24" text="Qu&apos;" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="un" />
@@ -111,7 +111,7 @@
       <attributes paragraph="1" paragraph_position="36" text="," />
     </node>
     <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="c'" />
+      <attributes paragraph="1" paragraph_position="37" text="c&apos;" />
     </node>
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="&#233;tait" />
@@ -135,7 +135,7 @@
       <attributes paragraph="1" paragraph_position="44" text="quand" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="l'" />
+      <attributes paragraph="1" paragraph_position="45" text="l&apos;" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="eut" />

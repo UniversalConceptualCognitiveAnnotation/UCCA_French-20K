@@ -12,7 +12,7 @@
       <attributes paragraph="1" paragraph_position="3" text="," />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="jusqu'" />
+      <attributes paragraph="1" paragraph_position="4" text="jusqu&apos;" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="&#224;" />
@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="," />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="j'" />
+      <attributes paragraph="1" paragraph_position="10" text="j&apos;" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="opinerais" />
@@ -78,7 +78,7 @@
       <attributes paragraph="1" paragraph_position="25" text="plus" />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="d'" />
+      <attributes paragraph="1" paragraph_position="26" text="d&apos;" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="une" />
@@ -93,7 +93,7 @@
       <attributes paragraph="1" paragraph_position="30" text="mais" />
     </node>
     <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="d'" />
+      <attributes paragraph="1" paragraph_position="31" text="d&apos;" />
     </node>
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="un" />

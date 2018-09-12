@@ -57,13 +57,13 @@
       <attributes paragraph="1" paragraph_position="18" text="o&#249;" />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="l'" />
+      <attributes paragraph="1" paragraph_position="19" text="l&apos;" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="homme" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="s'" />
+      <attributes paragraph="1" paragraph_position="21" text="s&apos;" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="ing&#233;nie" />
@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="possible" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="qu'" />
+      <attributes paragraph="1" paragraph_position="35" text="qu&apos;" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="un" />
@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="&#224;" />
     </node>
     <node ID="0.40" type="Word">
-      <attributes paragraph="1" paragraph_position="40" text="l'" />
+      <attributes paragraph="1" paragraph_position="40" text="l&apos;" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="insu" />
@@ -219,7 +219,7 @@
       <attributes paragraph="1" paragraph_position="72" text="je" />
     </node>
     <node ID="0.73" type="Word">
-      <attributes paragraph="1" paragraph_position="73" text="l'" />
+      <attributes paragraph="1" paragraph_position="73" text="l&apos;" />
     </node>
     <node ID="0.74" type="Word">
       <attributes paragraph="1" paragraph_position="74" text="esp&#232;re" />

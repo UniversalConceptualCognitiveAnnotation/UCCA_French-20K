@@ -36,7 +36,7 @@
       <attributes paragraph="1" paragraph_position="11" text="." />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="L'" />
+      <attributes paragraph="1" paragraph_position="12" text="L&apos;" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="hypoth&#232;se" />
@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="de" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="l'" />
+      <attributes paragraph="1" paragraph_position="15" text="l&apos;" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="&#238;lot" />
@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="de" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="l'" />
+      <attributes paragraph="1" paragraph_position="20" text="l&apos;" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="&#233;cueil" />
@@ -135,7 +135,7 @@
       <attributes paragraph="1" paragraph_position="44" text="&#233;cueil" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="n'" />
+      <attributes paragraph="1" paragraph_position="45" text="n&apos;" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="e&#251;t" />

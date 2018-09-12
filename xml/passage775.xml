@@ -1112,7 +1112,7 @@
     </node>
     <node ID="1.105" type="FN">
       <attributes />
-      <extra remarks="l' should be separated and annotated as E" />
+      <extra remarks="l&apos; should be separated and annotated as E" />
       <edge toID="0.81" type="Terminal">
         <attributes />
       </edge>
