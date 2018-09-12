@@ -4,7 +4,7 @@
 1	Mais	_	Word	Word	_	8	L	8:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	commandant	_	Word	Word	_	4	E	4:E	_
-4	Farragut	_	Word	Word	_	0	C	0:C|14:A|18:A	_
+4	Farragut	_	Word	Word	_	0	C	0:C|18:A|14:A	_
 5	ne	_	Word	Word	_	8	R	8:R	_
 6	voulut	_	Word	Word	_	8	D	8:D	_
 7	pas	_	Word	Word	_	5	Terminal	5:Terminal	_

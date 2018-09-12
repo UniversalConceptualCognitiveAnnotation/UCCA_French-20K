@@ -3,7 +3,7 @@
 # text = Cependant une circonstance se présenta , qui mit en relief la merveilleuse habileté de Ned Land , et montra quelle confiance on devait avoir en lui .
 1	Cependant	_	Word	Word	_	4	L	4:L	_
 2	une	_	Word	Word	_	3	E	3:E	_
-3	circonstance	_	Word	Word	_	0	C	0:C|8:A|19:A	_
+3	circonstance	_	Word	Word	_	0	C	0:C|19:A|8:A	_
 4	se	_	Word	Word	_	0	H	0:H	_
 5	présenta	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
