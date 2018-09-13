@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 83000
-# text = Pareil fait fut également observé le 23 juillet de la même année , dans les mers du Pacifique , par le Cristobal-Colon , de West India and Pacific steam navigation Company .
+# text = Pareil fait fut également observé le 23 juillet de la même année , dans les mers du Pacifique , par le Cristobal - Colon , de West India and Pacific steam navigation Company .
 1	Pareil	_	Word	Word	_	2	E	2:E	_
 2	fait	_	Word	Word	_	5	A	5:A	_
 3	fut	_	Word	Word	_	5	F	5:F	_
@@ -22,15 +22,17 @@
 19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 20	par	_	Word	Word	_	22	R	22:R	_
 21	le	_	Word	Word	_	22	E	22:E	_
-22	Cristobal-Colon	_	Word	Word	_	5	A	5:A	_
-23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
-24	de	_	Word	Word	_	25	R	25:R	_
-25	West	_	Word	Word	_	22	E	22:E	_
-26	India	_	Word	Word	_	25	Terminal	25:Terminal	_
-27	and	_	Word	Word	_	25	Terminal	25:Terminal	_
-28	Pacific	_	Word	Word	_	25	Terminal	25:Terminal	_
-29	steam	_	Word	Word	_	25	Terminal	25:Terminal	_
-30	navigation	_	Word	Word	_	25	Terminal	25:Terminal	_
-31	Company	_	Word	Word	_	25	Terminal	25:Terminal	_
-32	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+22	Cristobal	_	Word	Word	_	5	A	5:A	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	Colon	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	de	_	Word	Word	_	27	R	27:R	_
+27	West	_	Word	Word	_	22	E	22:E	_
+28	India	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	and	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	Pacific	_	Word	Word	_	27	Terminal	27:Terminal	_
+31	steam	_	Word	Word	_	27	Terminal	27:Terminal	_
+32	navigation	_	Word	Word	_	27	Terminal	27:Terminal	_
+33	Company	_	Word	Word	_	27	Terminal	27:Terminal	_
+34	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

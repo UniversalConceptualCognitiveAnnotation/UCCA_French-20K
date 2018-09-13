@@ -2,7 +2,7 @@
 # sent_id = 864000
 # text = Le harponneur me regarda pendant quelques instants avant de répondre , frappa de sa main son large front par un geste qui lui était habituel , ferma les yeux comme pour se recueillir , et dit enfin : « Peut-être bien , monsieur Aronnax .
 1	Le	_	Word	Word	_	2	E	2:E	_
-2	harponneur	_	Word	Word	_	0	C	0:C|12:A|10:A|32:A|27:A|36:A	_
+2	harponneur	_	Word	Word	_	0	C	0:C|32:A|10:A|12:A|36:A|27:A	_
 3	me	_	Word	Word	_	4	A	4:A	_
 4	regarda	_	Word	Word	_	0	H	0:H	_
 5	pendant	_	Word	Word	_	7	R	7:R	_

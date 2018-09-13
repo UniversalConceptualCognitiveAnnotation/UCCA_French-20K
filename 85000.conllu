@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 85000
-# text = Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l' Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l'état-major du commodore Fitz-James à bord du Lord-Clyde , émurent profondément l' opinion publique .
+# text = Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l' Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l'état-major du commodore Fitz-James à bord du Lord - Clyde , émurent profondément l' opinion publique .
 1	Ces	_	Word	Word	_	2	E	2:E	_
 2	rapports	_	Word	Word	_	3	A	3:A	_
-3	arrivés	_	Word	Word	_	63	A	63:A	_
+3	arrivés	_	Word	Word	_	65	A	65:A	_
 4	coup	_	Word	Word	_	3	D	3:D	_
 5	sur	_	Word	Word	_	4	R	4:R	_
 6	coup	_	Word	Word	_	4	C	4:C	_
@@ -61,12 +61,14 @@
 58	à	_	Word	Word	_	61	R	61:R	_
 59	bord	_	Word	Word	_	61	E	61:E	_
 60	du	_	Word	Word	_	59	R	59:R	_
-61	Lord-Clyde	_	Word	Word	_	52	A	52:A	_
-62	,	_	Punctuation	Punctuation	_	63	U	63:U	_
-63	émurent	_	Word	Word	_	0	H	0:H	_
-64	profondément	_	Word	Word	_	63	D	63:D	_
-65	l'	_	Word	Word	_	66	E	66:E	_
-66	opinion	_	Word	Word	_	63	A	63:A	_
-67	publique	_	Word	Word	_	66	E	66:E	_
-68	.	_	Punctuation	Punctuation	_	66	U	66:U	_
+61	Lord	_	Word	Word	_	52	A	52:A	_
+62	-	_	Punctuation	Punctuation	_	61	U	61:U	_
+63	Clyde	_	Word	Word	_	61	Terminal	61:Terminal	_
+64	,	_	Punctuation	Punctuation	_	65	U	65:U	_
+65	émurent	_	Word	Word	_	0	H	0:H	_
+66	profondément	_	Word	Word	_	65	D	65:D	_
+67	l'	_	Word	Word	_	68	E	68:E	_
+68	opinion	_	Word	Word	_	65	A	65:A	_
+69	publique	_	Word	Word	_	68	E	68:E	_
+70	.	_	Punctuation	Punctuation	_	68	U	68:U	_
 

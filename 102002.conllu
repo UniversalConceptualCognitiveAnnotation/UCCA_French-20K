@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 102002
-# text = Ce fantastique animal endossa la responsabilité de tous ces naufrages , dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau-Veritas , le chiffre des navires à vapeur ou à voiles , supposés perdus corps et biens par suite d'absence de nouvelles , ne s'élève pas à moins de deux cents !
+# text = Ce fantastique animal endossa la responsabilité de tous ces naufrages , dont le nombre est malheureusement considérable ; car sur trois mille navires dont la perte est annuellement relevée au Bureau - Veritas , le chiffre des navires à vapeur ou à voiles , supposés perdus corps et biens par suite d'absence de nouvelles , ne s'élève pas à moins de deux cents !
 1	Ce	_	Word	Word	_	3	E	3:E	_
 2	fantastique	_	Word	Word	_	3	E	3:E	_
 3	animal	_	Word	Word	_	6	A	6:A	_
@@ -23,7 +23,7 @@
 20	sur	_	Word	Word	_	23	R	23:R	_
 21	trois	_	Word	Word	_	23	E	23:E	_
 22	mille	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	navires	_	Word	Word	_	55	A	55:A	_
+23	navires	_	Word	Word	_	57	A	57:A	_
 24	dont	_	Word	Word	_	29	R	29:R	_
 25	la	_	Word	Word	_	26	E	26:E	_
 26	perte	_	Word	Word	_	29	A	29:A	_
@@ -31,36 +31,38 @@
 28	annuellement	_	Word	Word	_	29	D	29:D	_
 29	relevée	_	Word	Word	_	23	E	23:E	_
 30	au	_	Word	Word	_	31	R	31:R	_
-31	Bureau-Veritas	_	Word	Word	_	29	A	29:A	_
-32	,	_	Punctuation	Punctuation	_	55	U	55:U	_
-33	le	_	Word	Word	_	34	E	34:E	_
-34	chiffre	_	Word	Word	_	55	A	55:A	_
-35	des	_	Word	Word	_	36	R	36:R	_
-36	navires	_	Word	Word	_	34	E	34:E	_
-37	à	_	Word	Word	_	38	R	38:R	_
-38	vapeur	_	Word	Word	_	36	E	36:E	_
-39	ou	_	Word	Word	_	38	N	38:N	_
-40	à	_	Word	Word	_	41	R	41:R	_
-41	voiles	_	Word	Word	_	0	C	0:C|43:A	_
-42	,	_	Punctuation	Punctuation	_	43	U	43:U	_
-43	supposés	_	Word	Word	_	36	E	36:E	_
-44	perdus	_	Word	Word	_	43	Terminal	43:Terminal	_
-45	corps	_	Word	Word	_	43	D	43:D	_
-46	et	_	Word	Word	_	45	N	45:N	_
-47	biens	_	Word	Word	_	45	C	45:C	_
-48	par	_	Word	Word	_	49	R	49:R	_
-49	suite	_	Word	Word	_	50	E	50:E	_
-50	d'absence	_	Word	Word	_	43	A	43:A	_
-51	de	_	Word	Word	_	52	R	52:R	_
-52	nouvelles	_	Word	Word	_	50	E	50:E	_
-53	,	_	Punctuation	Punctuation	_	55	U	55:U	_
-54	ne	_	Word	Word	_	55	D	55:D	_
-55	s'élève	_	Word	Word	_	6	H	6:H	_
-56	pas	_	Word	Word	_	54	Terminal	54:Terminal	_
-57	à	_	Word	Word	_	60	R	60:R	_
-58	moins	_	Word	Word	_	60	E	60:E	_
-59	de	_	Word	Word	_	58	R	58:R	_
-60	deux	_	Word	Word	_	55	A	55:A	_
-61	cents	_	Word	Word	_	60	Terminal	60:Terminal	_
-62	!	_	Punctuation	Punctuation	_	60	U	60:U	_
+31	Bureau	_	Word	Word	_	29	A	29:A	_
+32	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	Veritas	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	,	_	Punctuation	Punctuation	_	57	U	57:U	_
+35	le	_	Word	Word	_	36	E	36:E	_
+36	chiffre	_	Word	Word	_	57	A	57:A	_
+37	des	_	Word	Word	_	38	R	38:R	_
+38	navires	_	Word	Word	_	36	E	36:E	_
+39	à	_	Word	Word	_	40	R	40:R	_
+40	vapeur	_	Word	Word	_	38	E	38:E	_
+41	ou	_	Word	Word	_	40	N	40:N	_
+42	à	_	Word	Word	_	43	R	43:R	_
+43	voiles	_	Word	Word	_	0	C	0:C|45:A	_
+44	,	_	Punctuation	Punctuation	_	45	U	45:U	_
+45	supposés	_	Word	Word	_	38	E	38:E	_
+46	perdus	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	corps	_	Word	Word	_	45	D	45:D	_
+48	et	_	Word	Word	_	47	N	47:N	_
+49	biens	_	Word	Word	_	47	C	47:C	_
+50	par	_	Word	Word	_	51	R	51:R	_
+51	suite	_	Word	Word	_	52	E	52:E	_
+52	d'absence	_	Word	Word	_	45	A	45:A	_
+53	de	_	Word	Word	_	54	R	54:R	_
+54	nouvelles	_	Word	Word	_	52	E	52:E	_
+55	,	_	Punctuation	Punctuation	_	57	U	57:U	_
+56	ne	_	Word	Word	_	57	D	57:D	_
+57	s'élève	_	Word	Word	_	6	H	6:H	_
+58	pas	_	Word	Word	_	56	Terminal	56:Terminal	_
+59	à	_	Word	Word	_	62	R	62:R	_
+60	moins	_	Word	Word	_	62	E	62:E	_
+61	de	_	Word	Word	_	60	R	60:R	_
+62	deux	_	Word	Word	_	57	A	57:A	_
+63	cents	_	Word	Word	_	62	Terminal	62:Terminal	_
+64	!	_	Punctuation	Punctuation	_	62	U	62:U	_
 

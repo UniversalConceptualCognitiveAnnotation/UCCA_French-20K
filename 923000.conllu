@@ -55,7 +55,7 @@
 52	on	_	Word	Word	_	50	A	50:A	_
 53	,	_	Punctuation	Punctuation	_	50	U	50:U	_
 54	cette	_	Word	Word	_	55	E	55:E	_
-55	bête	_	Word	Word	_	0	C	0:C|79:A|56:A	_
+55	bête	_	Word	Word	_	0	C	0:C|56:A|79:A	_
 56	introuvable	_	Word	Word	_	55	E	55:E	_
 57	dans	_	Word	Word	_	60	R	60:R	_
 58	les	_	Word	Word	_	60	E	60:E	_

@@ -5,7 +5,7 @@
 2	entre	_	Word	Word	_	3	R	3:R	_
 3	tous	_	Word	Word	_	1	A	1:A	_
 4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-5	Conseil	_	Word	Word	_	0	C	0:C|1:A|18:A	_
+5	Conseil	_	Word	Word	_	0	C	0:C|18:A|1:A	_
 6	protestait	_	Word	Word	_	0	H	0:H	_
 7	par	_	Word	Word	_	9	R	9:R	_
 8	son	_	Word	Word	_	9	E	9:E	_

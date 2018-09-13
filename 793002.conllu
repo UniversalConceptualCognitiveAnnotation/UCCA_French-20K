@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 793002
-# text = Des milliers de mouchoirs s' agitèrent au - dessus de la masse compacte et saluèrent l' Abraham - Lincoln jusqu' à son arrivée dans les eaux de l' Hudson , à la pointe de cette presqu' île allongée qui forme la ville de New York .
+# text = Des milliers de mouchoirs s' agitèrent au - dessus de la masse compacte et saluèrent l' Abraham - Lincoln jusqu' à son arrivée dans les eaux de l' Hudson , à la pointe de cette presqu ' île allongée qui forme la ville de New York .
 1	Des	_	Word	Word	_	2	E	2:E	_
 2	milliers	_	Word	Word	_	4	E	4:E	_
 3	de	_	Word	Word	_	2	R	2:R	_
@@ -33,18 +33,19 @@
 30	,	_	Punctuation	Punctuation	_	26	U	26:U	_
 31	à	_	Word	Word	_	33	R	33:R	_
 32	la	_	Word	Word	_	33	E	33:E	_
-33	pointe	_	Word	Word	_	37	E	37:E	_
+33	pointe	_	Word	Word	_	38	E	38:E	_
 34	de	_	Word	Word	_	33	R	33:R	_
-35	cette	_	Word	Word	_	37	E	37:E	_
-36	presqu'	_	Word	Word	_	37	E	37:E	_
-37	île	_	Word	Word	_	26	E	26:E	_
-38	allongée	_	Word	Word	_	37	E	37:E	_
-39	qui	_	Word	Word	_	40	R	40:R	_
-40	forme	_	Word	Word	_	37	E	37:E	_
-41	la	_	Word	Word	_	42	E	42:E	_
-42	ville	_	Word	Word	_	40	A	40:A	_
-43	de	_	Word	Word	_	44	R	44:R	_
-44	New	_	Word	Word	_	42	E	42:E	_
-45	York	_	Word	Word	_	44	Terminal	44:Terminal	_
-46	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+35	cette	_	Word	Word	_	38	E	38:E	_
+36	presqu	_	Word	Word	_	38	E	38:E	_
+37	'	_	Punctuation	Punctuation	_	38	U	38:U	_
+38	île	_	Word	Word	_	26	E	26:E	_
+39	allongée	_	Word	Word	_	38	E	38:E	_
+40	qui	_	Word	Word	_	41	R	41:R	_
+41	forme	_	Word	Word	_	38	E	38:E	_
+42	la	_	Word	Word	_	43	E	43:E	_
+43	ville	_	Word	Word	_	41	A	41:A	_
+44	de	_	Word	Word	_	45	R	45:R	_
+45	New	_	Word	Word	_	43	E	43:E	_
+46	York	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	.	_	Punctuation	Punctuation	_	45	U	45:U	_
 

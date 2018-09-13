@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 93003
-# text = En 1853 , la compagnie Cunard , dont le privilège pour le transport des dépêches venait d' être renouvelé , ajouta successivement à son matériel l' Arabia , le Persia , le China , le Scotia , le Java , le Russia , tous navires de première marche , et les plus vastes qui , après le Great-Eastern , eussent jamais sillonné les mers .
+# text = En 1853 , la compagnie Cunard , dont le privilège pour le transport des dépêches venait d' être renouvelé , ajouta successivement à son matériel l' Arabia , le Persia , le China , le Scotia , le Java , le Russia , tous navires de première marche , et les plus vastes qui , après le Great - Eastern , eussent jamais sillonné les mers .
 1	En	_	Word	Word	_	2	R	2:R	_
 2	1853	_	Word	Word	_	21	T	21:T	_
 3	,	_	Punctuation	Punctuation	_	21	U	21:U	_
@@ -54,16 +54,18 @@
 51	les	_	Word	Word	_	44	C	44:C	_
 52	plus	_	Word	Word	_	51	E	51:E	_
 53	vastes	_	Word	Word	_	51	E	51:E	_
-54	qui	_	Word	Word	_	62	R	62:R	_
+54	qui	_	Word	Word	_	64	R	64:R	_
 55	,	_	Punctuation	Punctuation	_	51	U	51:U	_
 56	après	_	Word	Word	_	58	R	58:R	_
 57	le	_	Word	Word	_	58	E	58:E	_
-58	Great-Eastern	_	Word	Word	_	51	E	51:E	_
-59	,	_	Punctuation	Punctuation	_	51	U	51:U	_
-60	eussent	_	Word	Word	_	62	F	62:F	_
-61	jamais	_	Word	Word	_	62	D	62:D	_
-62	sillonné	_	Word	Word	_	51	E	51:E	_
-63	les	_	Word	Word	_	64	E	64:E	_
-64	mers	_	Word	Word	_	62	A	62:A	_
-65	.	_	Punctuation	Punctuation	_	64	U	64:U	_
+58	Great	_	Word	Word	_	51	E	51:E	_
+59	-	_	Punctuation	Punctuation	_	58	U	58:U	_
+60	Eastern	_	Word	Word	_	58	Terminal	58:Terminal	_
+61	,	_	Punctuation	Punctuation	_	51	U	51:U	_
+62	eussent	_	Word	Word	_	64	F	64:F	_
+63	jamais	_	Word	Word	_	64	D	64:D	_
+64	sillonné	_	Word	Word	_	51	E	51:E	_
+65	les	_	Word	Word	_	66	E	66:E	_
+66	mers	_	Word	Word	_	64	A	64:A	_
+67	.	_	Punctuation	Punctuation	_	66	U	66:U	_
 

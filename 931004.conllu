@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 931004
-# text = Si dans le délai de trois jours , le monstre n' avait pas paru , l' homme de barre donnerait trois tours de roue , et l ' Abraham-Lincoln ferait route vers les mers européennes .
+# text = Si dans le délai de trois jours , le monstre n' avait pas paru , l' homme de barre donnerait trois tours de roue , et l ' Abraham - Lincoln ferait route vers les mers européennes .
 1	Si	_	Word	Word	_	14	L	14:L	_
 2	dans	_	Word	Word	_	4	R	4:R	_
 3	le	_	Word	Word	_	4	E	4:E	_
@@ -29,12 +29,14 @@
 26	et	_	Word	Word	_	14	L	14:L	_
 27	l	_	Word	Word	_	29	E	29:E	_
 28	'	_	Punctuation	Punctuation	_	29	U	29:U	_
-29	Abraham-Lincoln	_	Word	Word	_	30	A	30:A	_
-30	ferait	_	Word	Word	_	14	H	14:H	_
-31	route	_	Word	Word	_	30	Terminal	30:Terminal	_
-32	vers	_	Word	Word	_	34	R	34:R	_
-33	les	_	Word	Word	_	34	E	34:E	_
-34	mers	_	Word	Word	_	30	A	30:A	_
-35	européennes	_	Word	Word	_	34	E	34:E	_
-36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+29	Abraham	_	Word	Word	_	32	A	32:A	_
+30	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	Lincoln	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	ferait	_	Word	Word	_	14	H	14:H	_
+33	route	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	vers	_	Word	Word	_	36	R	36:R	_
+35	les	_	Word	Word	_	36	E	36:E	_
+36	mers	_	Word	Word	_	32	A	32:A	_
+37	européennes	_	Word	Word	_	36	E	36:E	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
 
