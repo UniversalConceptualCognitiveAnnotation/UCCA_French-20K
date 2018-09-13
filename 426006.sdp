@@ -21,10 +21,12 @@
 20	par	_	Word	-	-	_	_	_	_	_	_	R	_	_
 21	le	_	Word	-	-	_	_	_	_	_	_	E	_	_
 22	New	_	Word	-	+	_	_	_	_	_	A	_	_	_
-23	York-Herald	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-24	de	_	Word	-	-	_	_	_	_	_	_	_	R	_
-25	formuler	_	Word	-	+	_	_	_	_	_	A	_	_	_
-26	une	_	Word	-	-	_	_	_	_	_	_	_	_	E
-27	opinion	_	Word	-	+	_	_	_	_	_	_	_	A	_
-28	quelconque	_	Word	-	-	_	_	_	_	_	_	_	_	E
+23	York	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+25	Herald	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+26	de	_	Word	-	-	_	_	_	_	_	_	_	R	_
+27	formuler	_	Word	-	+	_	_	_	_	_	A	_	_	_
+28	une	_	Word	-	-	_	_	_	_	_	_	_	_	E
+29	opinion	_	Word	-	+	_	_	_	_	_	_	_	A	_
+30	quelconque	_	Word	-	-	_	_	_	_	_	_	_	_	E
 

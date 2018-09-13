@@ -34,15 +34,16 @@
 33	pointe	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
 34	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
 35	cette	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-36	presqu'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-37	île	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-38	allongée	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-39	qui	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-40	forme	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-41	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-42	ville	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-43	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-44	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-45	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+36	presqu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+37	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+38	île	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+39	allongée	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+40	qui	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+41	forme	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+42	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+43	ville	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+44	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+45	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+46	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

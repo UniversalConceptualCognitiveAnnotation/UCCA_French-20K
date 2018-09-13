@@ -12,6 +12,8 @@
 11	bord	_	Word	-	+	_	_	_	_	_	E
 12	de	_	Word	-	-	_	_	_	_	R	_
 13	l'	_	Word	-	-	_	_	_	_	_	E
-14	Abraham-Lincoln	_	Word	-	+	_	_	_	A	_	_
-15	.	_	Punctuation	-	-	_	_	_	_	_	U
+14	Abraham	_	Word	-	+	_	_	_	A	_	_
+15	-	_	Punctuation	-	-	_	_	_	_	_	U
+16	Lincoln	_	Word	-	-	_	_	_	_	_	Terminal
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
 

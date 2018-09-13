@@ -27,12 +27,14 @@
 26	et	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_
 27	l	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
 28	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-29	Abraham-Lincoln	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-30	ferait	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_
-31	route	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-32	vers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-33	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-34	mers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-35	européennes	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+29	Abraham	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+30	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+31	Lincoln	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+32	ferait	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_
+33	route	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+34	vers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+35	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+36	mers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+37	européennes	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 
