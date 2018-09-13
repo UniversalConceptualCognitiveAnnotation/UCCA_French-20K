@@ -2,7 +2,7 @@
 # sent_id = 85000
 1	Ces	_	Word	Word	_	2	E	_	_
 2	rapports	_	Word	Word	_	3	A	_	_
-3	arrivés	_	Word	Word	_	63	A	_	_
+3	arrivés	_	Word	Word	_	65	A	_	_
 4	coup	_	Word	Word	_	3	D	_	_
 5	sur	_	Word	Word	_	4	R	_	_
 6	coup	_	Word	Word	_	4	C	_	_
@@ -60,12 +60,14 @@
 58	à	_	Word	Word	_	61	R	_	_
 59	bord	_	Word	Word	_	61	E	_	_
 60	du	_	Word	Word	_	59	R	_	_
-61	Lord-Clyde	_	Word	Word	_	52	A	_	_
-62	,	_	Punctuation	Punctuation	_	63	U	_	_
-63	émurent	_	Word	Word	_	0	H	_	_
-64	profondément	_	Word	Word	_	63	D	_	_
-65	l'	_	Word	Word	_	66	E	_	_
-66	opinion	_	Word	Word	_	63	A	_	_
-67	publique	_	Word	Word	_	66	E	_	_
-68	.	_	Punctuation	Punctuation	_	66	U	_	_
+61	Lord	_	Word	Word	_	52	A	_	_
+62	-	_	Punctuation	Punctuation	_	61	U	_	_
+63	Clyde	_	Word	Word	_	61	Terminal	_	_
+64	,	_	Punctuation	Punctuation	_	65	U	_	_
+65	émurent	_	Word	Word	_	0	H	_	_
+66	profondément	_	Word	Word	_	65	D	_	_
+67	l'	_	Word	Word	_	68	E	_	_
+68	opinion	_	Word	Word	_	65	A	_	_
+69	publique	_	Word	Word	_	68	E	_	_
+70	.	_	Punctuation	Punctuation	_	68	U	_	_
 

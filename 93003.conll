@@ -53,16 +53,18 @@
 51	les	_	Word	Word	_	44	C	_	_
 52	plus	_	Word	Word	_	51	E	_	_
 53	vastes	_	Word	Word	_	51	E	_	_
-54	qui	_	Word	Word	_	62	R	_	_
+54	qui	_	Word	Word	_	64	R	_	_
 55	,	_	Punctuation	Punctuation	_	51	U	_	_
 56	après	_	Word	Word	_	58	R	_	_
 57	le	_	Word	Word	_	58	E	_	_
-58	Great-Eastern	_	Word	Word	_	51	E	_	_
-59	,	_	Punctuation	Punctuation	_	51	U	_	_
-60	eussent	_	Word	Word	_	62	F	_	_
-61	jamais	_	Word	Word	_	62	D	_	_
-62	sillonné	_	Word	Word	_	51	E	_	_
-63	les	_	Word	Word	_	64	E	_	_
-64	mers	_	Word	Word	_	62	A	_	_
-65	.	_	Punctuation	Punctuation	_	64	U	_	_
+58	Great	_	Word	Word	_	51	E	_	_
+59	-	_	Punctuation	Punctuation	_	58	U	_	_
+60	Eastern	_	Word	Word	_	58	Terminal	_	_
+61	,	_	Punctuation	Punctuation	_	51	U	_	_
+62	eussent	_	Word	Word	_	64	F	_	_
+63	jamais	_	Word	Word	_	64	D	_	_
+64	sillonné	_	Word	Word	_	51	E	_	_
+65	les	_	Word	Word	_	66	E	_	_
+66	mers	_	Word	Word	_	64	A	_	_
+67	.	_	Punctuation	Punctuation	_	66	U	_	_
 

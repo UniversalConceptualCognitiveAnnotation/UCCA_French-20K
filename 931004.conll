@@ -28,12 +28,14 @@
 26	et	_	Word	Word	_	14	L	_	_
 27	l	_	Word	Word	_	29	E	_	_
 28	'	_	Punctuation	Punctuation	_	29	U	_	_
-29	Abraham-Lincoln	_	Word	Word	_	30	A	_	_
-30	ferait	_	Word	Word	_	14	H	_	_
-31	route	_	Word	Word	_	30	Terminal	_	_
-32	vers	_	Word	Word	_	34	R	_	_
-33	les	_	Word	Word	_	34	E	_	_
-34	mers	_	Word	Word	_	30	A	_	_
-35	européennes	_	Word	Word	_	34	E	_	_
-36	.	_	Punctuation	Punctuation	_	34	U	_	_
+29	Abraham	_	Word	Word	_	32	A	_	_
+30	-	_	Punctuation	Punctuation	_	29	U	_	_
+31	Lincoln	_	Word	Word	_	29	Terminal	_	_
+32	ferait	_	Word	Word	_	14	H	_	_
+33	route	_	Word	Word	_	32	Terminal	_	_
+34	vers	_	Word	Word	_	36	R	_	_
+35	les	_	Word	Word	_	36	E	_	_
+36	mers	_	Word	Word	_	32	A	_	_
+37	européennes	_	Word	Word	_	36	E	_	_
+38	.	_	Punctuation	Punctuation	_	36	U	_	_
 
