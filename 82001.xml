@@ -373,7 +373,6 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra remarks="l' should be annotated as E and air should be annotated as C." />
       <edge toID="0.49" type="Terminal">
         <attributes />
       </edge>
@@ -425,7 +424,6 @@
     </node>
     <node ID="1.27" type="FN">
       <attributes />
-      <extra remarks="d' should be annotated as R and eau should be annotated as C." />
       <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>

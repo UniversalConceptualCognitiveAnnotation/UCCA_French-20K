@@ -476,7 +476,6 @@
     </node>
     <node ID="1.42" type="FN">
       <attributes />
-      <extra remarks="ALSO E " />
       <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>
@@ -519,7 +518,6 @@
     </node>
     <node ID="1.47" type="FN">
       <attributes />
-      <extra remarks="ALSO E" />
       <edge toID="0.7" type="Terminal">
         <attributes />
       </edge>

@@ -109,7 +109,6 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <extra remarks="ALSO E" />
       <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>

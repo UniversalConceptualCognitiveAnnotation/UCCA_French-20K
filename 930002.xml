@@ -361,7 +361,6 @@
     </node>
     <node ID="1.28" type="FN">
       <attributes />
-      <extra remarks="D" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>

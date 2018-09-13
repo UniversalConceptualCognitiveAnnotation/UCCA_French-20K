@@ -200,7 +200,6 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra remarks="also E" />
       <edge toID="1.13" type="R">
         <attributes />
       </edge>
@@ -267,7 +266,6 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra remarks="n' should be separated and be part of the adverbial." />
       <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>

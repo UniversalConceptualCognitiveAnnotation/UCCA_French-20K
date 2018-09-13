@@ -70,7 +70,6 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <extra remarks="A" />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>

@@ -232,7 +232,6 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra remarks="l' should be separated and annotated as E" />
       <edge toID="0.15" type="Terminal">
         <attributes />
       </edge>
