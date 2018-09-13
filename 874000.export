@@ -85,7 +85,7 @@ pressions	Word	--	Terminal	576
 #500	PNCT	--	U	608
 #501	FN	--	L	608
 #502	PNCT	--	U	608
-#503	FN	--	G	606
+#503	FN	--	G	607
 #504	PNCT	--	U	608
 #505	FN	--	L	608
 #506	FN	--	E	603
@@ -101,13 +101,13 @@ pressions	Word	--	Terminal	576
 #516	FN	--	S	595
 #517	FN	--	R	581
 #518	FN	--	C	581
-#519	PNCT	--	U	606
-#520	FN	--	P	606
+#519	PNCT	--	U	607
+#520	FN	--	P	607
 #521	FN	--	R	582
 #522	FN	--	E	582
 #523	FN	--	E	582
 #524	FN	--	C	582
-#525	PNCT	--	U	606
+#525	PNCT	--	U	607
 #526	FN	--	F	593
 #527	FN	--	R	593
 #528	FN	--	E	578
@@ -136,7 +136,7 @@ pressions	Word	--	Terminal	576
 #551	FN	--	A	587	A*	592
 #552	FN	--	P	587
 #553	PNCT	--	U	608
-#554	FN	--	P	607
+#554	FN	--	P	606
 #555	FN	--	L	608
 #556	FN	--	A	605
 #557	FN	--	E	588
@@ -164,7 +164,7 @@ pressions	Word	--	Terminal	576
 #579	FN	--	E	580
 #580	FN	--	A	594
 #581	FN	--	D	595
-#582	FN	--	A	606
+#582	FN	--	A	607
 #583	FN	--	E	584
 #584	FN	--	A	593
 #585	FN	--	E	586
@@ -181,13 +181,13 @@ pressions	Word	--	Terminal	576
 #596	FN	--	A	598
 #597	FN	--	A	598
 #598	FN	--	H	608
-#599	FN	--	A	607
+#599	FN	--	A	606
 #600	FN	--	C	604
 #601	FN	--	C	604
 #602	FN	--	E	603
-#603	FN	--	A	606
+#603	FN	--	A	607
 #604	FN	--	A	605
-#605	FN	--	A	607
+#605	FN	--	A	606
 #606	FN	--	H	608
 #607	FN	--	H	608
 #608	FN	--	A	611

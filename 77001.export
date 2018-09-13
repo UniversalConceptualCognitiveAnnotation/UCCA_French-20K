@@ -30,15 +30,15 @@ particulièrement	Word	--	Terminal	526
 .	Punctuation	--	Terminal	528
 #500	FN	--	L	545	LR	546	D*	544
 #501	FN	--	P	544
-#502	FN	--	R	542
-#503	FN	--	C	542	A*	536	A*	537
+#502	FN	--	R	541
+#503	FN	--	C	541	A*	536	A*	537
 #504	FN	--	R	540
 #505	FN	--	P	536
 #506	FN	--	E	535
 #507	FN	--	C	535
 #508	FN	--	R	529
 #509	FN	--	C	529
-#510	FN	--	L	540	LR	541
+#510	FN	--	L	540	LR	542
 #511	FN	--	P	537
 #512	FN	--	E	530
 #513	FN	--	C	530
@@ -64,13 +64,13 @@ particulièrement	Word	--	Terminal	526
 #533	FN	--	E	538
 #534	FN	--	A	544
 #535	FN	--	A	536
-#536	FN	--	H	540	LA	541
-#537	FN	--	H	540	LA	541
+#536	FN	--	H	540	LA	542
+#537	FN	--	H	540	LA	542
 #538	FN	--	A	543
 #539	FN	--	A	543
-#540	FN	--	E	542
-#541	LKG	--	--	0
-#542	FN	--	A	544
+#540	FN	--	E	541
+#541	FN	--	A	544
+#542	LKG	--	--	0
 #543	FN	--	H	545
 #544	FN	--	H	545	LA	546
 #545	FN	--	--	0

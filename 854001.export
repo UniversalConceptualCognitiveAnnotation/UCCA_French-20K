@@ -71,9 +71,9 @@ harpon	Word	--	Terminal	537
 #530	FN	--	C	544
 #531	FN	--	L	557
 #532	FN	--	P	556
-#533	FN	--	R	553
-#534	FN	--	E	553
-#535	FN	--	C	553
+#533	FN	--	R	552
+#534	FN	--	E	552
+#535	FN	--	C	552
 #536	FN	--	R	545
 #537	FN	--	C	545
 #538	PNCT	--	U	545
@@ -83,7 +83,7 @@ harpon	Word	--	Terminal	537
 #542	FN	--	D	548
 #543	FN	--	E	550
 #544	FN	--	E	551
-#545	FN	--	E	553
+#545	FN	--	E	552
 #546	FN	--	C	547
 #547	FN	--	A	548
 #548	FN	--	H	557

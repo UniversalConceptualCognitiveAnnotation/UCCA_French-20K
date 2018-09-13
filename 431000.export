@@ -20,8 +20,8 @@ les	Word	--	Terminal	517
 connaissons	Word	--	Terminal	518
 pas	Word	--	Terminal	516
 .	Punctuation	--	Terminal	519
-#500	PNCT	--	U	527
-#501	FN	--	L	527	LR	528
+#500	PNCT	--	U	528
+#501	FN	--	L	528	LR	527
 #502	FN	--	A	526
 #503	FN	--	P	526
 #504	FN	--	E	525
@@ -33,22 +33,22 @@ pas	Word	--	Terminal	516
 #510	FN	--	P	522
 #511	FN	--	E	520
 #512	FN	--	C	520
-#513	PNCT	--	U	527
-#514	FN	--	L	527	LR	523
+#513	PNCT	--	U	528
+#514	FN	--	L	528	LR	523
 #515	FN	--	A	521
 #516	FN	--	D	521
 #517	FN	--	A	521
 #518	FN	--	P	521
 #519	PNCT	--	U	521
 #520	FN	--	A	522
-#521	FN	--	H	527	LA	523
+#521	FN	--	H	528	LA	523
 #522	FN	--	E	524
 #523	LKG	--	--	0
 #524	FN	--	E	525
 #525	FN	--	A	526
-#526	FN	--	H	527	LA	528
-#527	FN	--	A	531
-#528	LKG	--	--	0
+#526	FN	--	H	528	LA	527
+#527	LKG	--	--	0
+#528	FN	--	A	531
 #529	FN	--	A	531
 #530	FN	--	P	531
 #531	FN	--	H	532

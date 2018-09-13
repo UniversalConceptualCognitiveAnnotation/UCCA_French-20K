@@ -20,15 +20,15 @@ arrivé	Word	--	Terminal	515
 au	Word	--	Terminal	516
 Scotia	Word	--	Terminal	517
 ?	Punctuation	--	Terminal	518
-#500	PNCT	--	U	524
-#501	FN	--	L	524	LR	525
-#502	FN	--	L	524
+#500	PNCT	--	U	525
+#501	FN	--	L	525	LR	524
+#502	FN	--	L	525
 #503	FN	--	A	519
 #504	FN	--	D	519
 #505	FN	--	S	519
 #506	PNCT	--	U	519
 #507	FN	--	G	519
-#508	PNCT	--	U	524
+#508	PNCT	--	U	525
 #509	FN	--	D	523
 #510	FN	--	P	523
 #511	PNCT	--	U	523
@@ -39,13 +39,13 @@ Scotia	Word	--	Terminal	517
 #516	FN	--	R	520
 #517	FN	--	C	520
 #518	PNCT	--	U	520
-#519	FN	--	H	524
+#519	FN	--	H	525
 #520	FN	--	A	521
 #521	FN	--	E	522
 #522	FN	--	A	523
-#523	FN	--	H	524	LA	525
-#524	FN	--	A	528
-#525	LKG	--	--	0
+#523	FN	--	H	525	LA	524
+#524	LKG	--	--	0
+#525	FN	--	A	528
 #526	FN	--	P	528
 #527	FN	--	A	528
 #528	FN	--	H	529

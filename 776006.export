@@ -11,7 +11,7 @@ observer	Word	--	Terminal	508
 Conseil	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
 #500	PNCT	--	U	519
-#501	FN	--	L	517	LR	518
+#501	FN	--	L	518	LR	517
 #502	FN	--	E	512
 #503	FN	--	C	512
 #504	FN	--	R	511
@@ -26,9 +26,9 @@ Conseil	Word	--	Terminal	509
 #513	FN	--	A	516
 #514	FN	--	P	516
 #515	FN	--	A	516
-#516	FN	--	H	517	LA	518
-#517	FN	--	A	519
-#518	LKG	--	--	0
+#516	FN	--	H	518	LA	517
+#517	LKG	--	--	0
+#518	FN	--	A	519
 #519	FN	--	H	520
 #520	FN	--	--	0
 #EOS 776006

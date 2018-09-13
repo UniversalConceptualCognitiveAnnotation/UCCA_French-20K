@@ -160,8 +160,8 @@ capitale	Word	--	Terminal	596
 #559	FN	--	C	623
 #560	FN	--	R	611
 #561	FN	--	C	611
-#562	PNCT	--	U	639
-#563	FN	--	L	639	LR	636
+#562	PNCT	--	U	640
+#563	FN	--	L	640	LR	636
 #564	FN	--	A	627
 #565	FN	--	F	627
 #566	FN	--	D	627
@@ -170,8 +170,8 @@ capitale	Word	--	Terminal	596
 #569	FN	--	C	626
 #570	FN	--	R	612
 #571	FN	--	C	612
-#572	PNCT	--	U	639
-#573	FN	--	L	639	LR	641
+#572	PNCT	--	U	640
+#573	FN	--	L	640	LR	641
 #574	FN	--	E	628
 #575	FN	--	C	628
 #576	FN	--	R	613
@@ -185,8 +185,8 @@ capitale	Word	--	Terminal	596
 #584	FN	--	C	630
 #585	FN	--	R	614
 #586	FN	--	C	614
-#587	PNCT	--	U	639
-#588	FN	--	L	639	LR	640
+#587	PNCT	--	U	640
+#588	FN	--	L	640	LR	639
 #589	FN	--	A	635
 #590	FN	--	P	635
 #591	FN	--	E	631
@@ -222,10 +222,10 @@ capitale	Word	--	Terminal	596
 #621	FN	--	A	634
 #622	FN	--	A	624
 #623	FN	--	A	625
-#624	FN	--	H	639
-#625	FN	--	H	639	LA	636
+#624	FN	--	H	640
+#625	FN	--	H	640	LA	636
 #626	FN	--	A	627
-#627	FN	--	H	639	LA	641	LA	636
+#627	FN	--	H	640	LA	641	LA	636
 #628	FN	--	A	638
 #629	FN	--	A	638
 #630	FN	--	E	637
@@ -233,12 +233,12 @@ capitale	Word	--	Terminal	596
 #632	FN	--	P	634
 #633	FN	--	A	634
 #634	FN	--	H	643
-#635	FN	--	H	639	LA	640
+#635	FN	--	H	640	LA	639
 #636	LKG	--	--	0
 #637	FN	--	A	638
-#638	FN	--	H	639	LA	640	LA	641
-#639	FN	--	A	642
-#640	LKG	--	--	0
+#638	FN	--	H	640	LA	639	LA	641
+#639	LKG	--	--	0
+#640	FN	--	A	642
 #641	LKG	--	--	0
 #642	FN	--	H	643
 #643	FN	--	--	0
