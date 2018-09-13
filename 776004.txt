@@ -1,6 +1,6 @@
 # ::id 776004
 # ::tok - Comme il plaira à monsieur , répondit tranquillement Conseil .
-# ::alignments 1-1.1.1.1 3-1.1.1.3 4-1.1.1.4.1 5-1.1.1.4.2 7-1.1.2 8-1.1.3 9-1.1.4
+# ::alignments 1-1.1.4.1 3-1.1.4.3 4-1.1.4.4.1 5-1.1.4.4.2 7-1.1.5 8-1.1.6 9-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label

@@ -1,6 +1,6 @@
 # ::id 875003
 # ::tok - Eh bien , vous ai - je convaincu ?
-# ::alignments 4-1.1.2 7-1.1.4 8-1.1.5
+# ::alignments 4-1.1.6 7-1.1.8 8-1.1.9
 # ::format ucca
 (v1 / label
     :H (v2 / label
