@@ -2,7 +2,7 @@
 # sent_id = 925003
 # text = La frégate passa donc au large des Pomotou , des Marquises , des Sandwich , coupa le tropique du Cancer par 132 ° de longitude , et se dirigea vers les mers de Chine .
 1	La	_	Word	Word	_	2	E	2:E	_
-2	frégate	_	Word	Word	_	0	C	0:C|28:A|16:A	_
+2	frégate	_	Word	Word	_	0	C	0:C|16:A|28:A	_
 3	passa	_	Word	Word	_	0	H	0:H	_
 4	donc	_	Word	Word	_	3	L	3:L	_
 5	au	_	Word	Word	_	3	Terminal	3:Terminal	_

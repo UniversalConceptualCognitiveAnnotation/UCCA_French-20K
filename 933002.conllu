@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 933002
 # text = On employait mille moyens pour éveiller l' attention ou stimuler l' apathie de l' animal , au cas où il se fût rencontré dans ces parages .
-1	On	_	Word	Word	_	2	A	2:A|10:A|6:A	_
+1	On	_	Word	Word	_	2	A	2:A|6:A|10:A	_
 2	employait	_	Word	Word	_	0	H	0:H	_
 3	mille	_	Word	Word	_	4	E	4:E	_
 4	moyens	_	Word	Word	_	2	A	2:A	_

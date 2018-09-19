@@ -3,7 +3,7 @@
 # text = L ' Abraham - Lincoln n' avait rien à se reprocher , ayant tout fait pour réussir .
 1	L	_	Word	Word	_	3	E	3:E	_
 2	'	_	Punctuation	Punctuation	_	3	U	3:U	_
-3	Abraham	_	Word	Word	_	0	C	0:C|17:A|15:A	_
+3	Abraham	_	Word	Word	_	0	C	0:C|15:A|17:A	_
 4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Lincoln	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	n'	_	Word	Word	_	10	D	10:D	_

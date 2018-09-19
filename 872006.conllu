@@ -12,7 +12,7 @@
 9	vingt	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	pieds	_	Word	Word	_	13	A	13:A	_
 11	cette	_	Word	Word	_	12	E	12:E	_
-12	pression	_	Word	Word	_	0	C	0:C|20:A|31:A	_
+12	pression	_	Word	Word	_	0	C	0:C|31:A|20:A	_
 13	est	_	Word	Word	_	2	A	2:A	_
 14	de	_	Word	Word	_	16	R	16:R	_
 15	dix	_	Word	Word	_	16	E	16:E	_

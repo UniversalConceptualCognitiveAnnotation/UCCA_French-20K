@@ -12,7 +12,7 @@
 9	géant	_	Word	Word	_	8	E	8:E	_
 10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 11	et	_	Word	Word	_	2	L	2:L	_
-12	celui	_	Word	Word	_	18	A	18:A|27:A|24:A	_
+12	celui	_	Word	Word	_	18	A	18:A|24:A|27:A	_
 13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 14	ci	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	ne	_	Word	Word	_	18	D	18:D	_

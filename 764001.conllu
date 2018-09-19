@@ -16,7 +16,7 @@
 13	la	_	Word	Word	_	14	E	14:E	_
 14	marine	_	Word	Word	_	11	E	11:E	_
 15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-16	je	_	Word	Word	_	17	A	17:A|33:A|40:A	_
+16	je	_	Word	Word	_	17	A	17:A|40:A|33:A	_
 17	comprenais	_	Word	Word	_	5	H	5:H	_
 18	enfin	_	Word	Word	_	17	D	17:D	_
 19	que	_	Word	Word	_	31	R	31:R	_
