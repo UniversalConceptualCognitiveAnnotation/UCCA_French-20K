@@ -15,12 +15,12 @@
 13	!	_	Punctuation	Punctuation	_	18	U	_	_
 14	l'	_	Word	Word	_	15	E	_	_
 15	Abraham	_	Word	Word	_	0	C	_	_
-15	Abraham	_	Word	Word	_	34	A*	_	_
-15	Abraham	_	Word	Word	_	64	A*	_	_
-15	Abraham	_	Word	Word	_	51	A*	_	_
 15	Abraham	_	Word	Word	_	26	A*	_	_
-15	Abraham	_	Word	Word	_	47	A*	_	_
+15	Abraham	_	Word	Word	_	51	A*	_	_
+15	Abraham	_	Word	Word	_	64	A*	_	_
+15	Abraham	_	Word	Word	_	34	A*	_	_
 15	Abraham	_	Word	Word	_	38	A*	_	_
+15	Abraham	_	Word	Word	_	47	A*	_	_
 16	-	_	Punctuation	Punctuation	_	15	U	_	_
 17	Lincoln	_	Word	Word	_	15	Terminal	_	_
 18	sillonna	_	Word	Word	_	0	H	_	_
