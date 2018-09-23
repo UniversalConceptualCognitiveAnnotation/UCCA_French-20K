@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 92000
+1	Ce	_	Word	Word	_	2	E	_	_
+2	fait	_	Word	Word	_	14	A	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	extrêmement	_	Word	Word	_	5	D	_	_
+5	grave	_	Word	Word	_	2	E	_	_
+6	en	_	Word	Word	_	7	R	_	_
+7	lui	_	Word	Word	_	5	A	_	_
+8	-	_	Punctuation	Punctuation	_	7	U	_	_
+9	même	_	Word	Word	_	7	Terminal	_	_
+10	,	_	Punctuation	Punctuation	_	14	U	_	_
+11	eût	_	Word	Word	_	14	F	_	_
+12	peut-être	_	Word	Word	_	14	G	_	_
+13	été	_	Word	Word	_	14	F	_	_
+14	oublié	_	Word	Word	_	0	H	_	_
+15	comme	_	Word	Word	_	18	R	_	_
+16	tant	_	Word	Word	_	18	E	_	_
+17	d'	_	Word	Word	_	18	E	_	_
+18	autres	_	Word	Word	_	14	A	_	_
+19	,	_	Punctuation	Punctuation	_	14	U	_	_
+20	si	_	Word	Word	_	14	L	_	_
+21	,	_	Punctuation	Punctuation	_	14	U	_	_
+22	trois	_	Word	Word	_	23	E	_	_
+23	semaines	_	Word	Word	_	28	T	_	_
+24	après	_	Word	Word	_	23	R	_	_
+25	,	_	Punctuation	Punctuation	_	28	U	_	_
+26	il	_	Word	Word	_	28	A	_	_
+27	ne	_	Word	Word	_	28	D	_	_
+28	se	_	Word	Word	_	14	H	_	_
+29	fût	_	Word	Word	_	28	F	_	_
+30	reproduit	_	Word	Word	_	28	Terminal	_	_
+31	dans	_	Word	Word	_	33	R	_	_
+32	des	_	Word	Word	_	33	E	_	_
+33	conditions	_	Word	Word	_	28	A	_	_
+34	identiques	_	Word	Word	_	33	E	_	_
+35	.	_	Punctuation	Punctuation	_	33	U	_	_
+

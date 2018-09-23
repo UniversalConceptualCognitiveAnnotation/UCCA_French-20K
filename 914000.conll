@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 914000
+1	La	_	Word	Word	_	2	E	_	_
+2	frégate	_	Word	Word	_	3	A	_	_
+3	prolongea	_	Word	Word	_	0	H	_	_
+4	la	_	Word	Word	_	5	E	_	_
+5	côte	_	Word	Word	_	3	A	_	_
+6	sud	_	Word	Word	_	5	E	_	_
+7	-	_	Punctuation	Punctuation	_	6	U	_	_
+8	est	_	Word	Word	_	6	Terminal	_	_
+9	de	_	Word	Word	_	11	R	_	_
+10	l'	_	Word	Word	_	11	E	_	_
+11	Amérique	_	Word	Word	_	5	E	_	_
+12	avec	_	Word	Word	_	14	R	_	_
+13	une	_	Word	Word	_	14	E	_	_
+14	rapidité	_	Word	Word	_	3	D	_	_
+15	prodigieuse	_	Word	Word	_	14	E	_	_
+16	.	_	Punctuation	Punctuation	_	14	U	_	_
+

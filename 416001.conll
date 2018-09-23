@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 416001
+1	En	_	Word	Word	_	3	R	_	_
+2	ma	_	Word	Word	_	3	E	_	_
+3	qualité	_	Word	Word	_	5	E	_	_
+4	de	_	Word	Word	_	3	R	_	_
+5	professeur	_	Word	Word	_	21	A	_	_
+6	-	_	Punctuation	Punctuation	_	5	U	_	_
+7	suppléant	_	Word	Word	_	5	E	_	_
+8	au	_	Word	Word	_	9	R	_	_
+9	Muséum	_	Word	Word	_	5	E	_	_
+10	d'	_	Word	Word	_	11	R	_	_
+11	histoire	_	Word	Word	_	9	E	_	_
+12	naturelle	_	Word	Word	_	11	E	_	_
+13	de	_	Word	Word	_	14	R	_	_
+14	Paris	_	Word	Word	_	9	E	_	_
+15	,	_	Punctuation	Punctuation	_	21	U	_	_
+16	le	_	Word	Word	_	17	E	_	_
+17	gouvernement	_	Word	Word	_	21	A	_	_
+18	français	_	Word	Word	_	17	E	_	_
+19	m'	_	Word	Word	_	21	A	_	_
+20	avait	_	Word	Word	_	21	F	_	_
+21	joint	_	Word	Word	_	0	H	_	_
+22	à	_	Word	Word	_	24	R	_	_
+23	cette	_	Word	Word	_	24	E	_	_
+24	expédition	_	Word	Word	_	21	A	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
+

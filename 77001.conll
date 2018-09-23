@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 77001
+1	Sans	_	Word	Word	_	2	D*	_	_
+2	parler	_	Word	Word	_	0	H	_	_
+3	des	_	Word	Word	_	4	R	_	_
+4	rumeurs	_	Word	Word	_	2	A	_	_
+5	qui	_	Word	Word	_	6	R	_	_
+6	agitaient	_	Word	Word	_	4	E	_	_
+7	les	_	Word	Word	_	8	E	_	_
+8	populations	_	Word	Word	_	6	A	_	_
+9	des	_	Word	Word	_	10	R	_	_
+10	ports	_	Word	Word	_	8	E	_	_
+11	et	_	Word	Word	_	6	L	_	_
+12	surexcitaient	_	Word	Word	_	6	H	_	_
+13	l'	_	Word	Word	_	14	E	_	_
+14	esprit	_	Word	Word	_	12	A	_	_
+15	public	_	Word	Word	_	14	E	_	_
+16	à	_	Word	Word	_	20	R	_	_
+17	l'	_	Word	Word	_	18	E	_	_
+18	intérieur	_	Word	Word	_	20	E	_	_
+19	des	_	Word	Word	_	18	R	_	_
+20	continents	_	Word	Word	_	12	A	_	_
+21	,	_	Punctuation	Punctuation	_	2	U	_	_
+22	les	_	Word	Word	_	23	E	_	_
+23	gens	_	Word	Word	_	28	A	_	_
+24	de	_	Word	Word	_	25	R	_	_
+25	mer	_	Word	Word	_	23	E	_	_
+26	furent	_	Word	Word	_	28	F	_	_
+27	particulièrement	_	Word	Word	_	28	D	_	_
+28	émus	_	Word	Word	_	2	H	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+

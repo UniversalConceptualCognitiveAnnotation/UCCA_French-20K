@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 93000
+1	Personne	_	Word	Word	_	3	A	_	_
+2	n'	_	Word	Word	_	3	D	_	_
+3	ignore	_	Word	Word	_	0	H	_	_
+4	le	_	Word	Word	_	5	E	_	_
+5	nom	_	Word	Word	_	3	A	_	_
+6	du	_	Word	Word	_	10	R	_	_
+7	célèbre	_	Word	Word	_	8	E	_	_
+8	armateur	_	Word	Word	_	10	E	_	_
+9	anglais	_	Word	Word	_	8	E	_	_
+10	Cunard	_	Word	Word	_	5	E	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+

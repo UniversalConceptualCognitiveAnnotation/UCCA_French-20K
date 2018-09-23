@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 933003
+1	D'	_	Word	Word	_	3	E	_	_
+2	énormes	_	Word	Word	_	3	E	_	_
+3	quartiers	_	Word	Word	_	5	E	_	_
+4	de	_	Word	Word	_	3	R	_	_
+5	lard	_	Word	Word	_	7	A	_	_
+6	furent	_	Word	Word	_	7	F	_	_
+7	mis	_	Word	Word	_	0	H	_	_
+8	à	_	Word	Word	_	7	Terminal	_	_
+9	la	_	Word	Word	_	7	Terminal	_	_
+10	traîne	_	Word	Word	_	7	Terminal	_	_
+11	pour	_	Word	Word	_	7	L	_	_
+12	la	_	Word	Word	_	14	E	_	_
+13	plus	_	Word	Word	_	14	E	_	_
+14	grande	_	Word	Word	_	15	D	_	_
+15	satisfaction	_	Word	Word	_	7	H	_	_
+16	des	_	Word	Word	_	17	R	_	_
+17	requins	_	Word	Word	_	15	A	_	_
+18	,	_	Punctuation	Punctuation	_	15	U	_	_
+19	je	_	Word	Word	_	15	G	_	_
+20	dois	_	Word	Word	_	19	Terminal	_	_
+21	le	_	Word	Word	_	19	Terminal	_	_
+22	dire	_	Word	Word	_	19	Terminal	_	_
+23	.	_	Punctuation	Punctuation	_	15	U	_	_
+

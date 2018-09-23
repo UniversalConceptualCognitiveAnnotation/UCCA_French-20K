@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 764000
+1	﻿	_	Punctuation	Punctuation	_	6	U	_	_
+2	Trois	_	Word	Word	_	3	E	_	_
+3	secondes	_	Word	Word	_	6	T	_	_
+4	avant	_	Word	Word	_	3	R	_	_
+5	l'	_	Word	Word	_	6	E	_	_
+6	arrivée	_	Word	Word	_	0	H	_	_
+7	de	_	Word	Word	_	9	R	_	_
+8	la	_	Word	Word	_	9	E	_	_
+9	lettre	_	Word	Word	_	6	A	_	_
+10	de	_	Word	Word	_	11	R	_	_
+11	J	_	Word	Word	_	9	E	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+13	-B	_	Word	Word	_	11	Terminal	_	_
+14	.	_	Punctuation	Punctuation	_	11	U	_	_
+15	Hobson	_	Word	Word	_	11	Terminal	_	_
+16	,	_	Punctuation	Punctuation	_	6	U	_	_
+17	je	_	Word	Word	_	19	A	_	_
+17	je	_	Word	Word	_	23	A*	_	_
+17	je	_	Word	Word	_	28	A*	_	_
+18	ne	_	Word	Word	_	19	D	_	_
+19	songeais	_	Word	Word	_	6	H	_	_
+20	pas	_	Word	Word	_	18	Terminal	_	_
+21	plus	_	Word	Word	_	19	D	_	_
+22	à	_	Word	Word	_	23	F	_	_
+23	poursuivre	_	Word	Word	_	19	A	_	_
+24	la	_	Word	Word	_	25	E	_	_
+25	Licorne	_	Word	Word	_	23	A	_	_
+26	qu'	_	Word	Word	_	6	L	_	_
+27	à	_	Word	Word	_	28	F	_	_
+28	tenter	_	Word	Word	_	6	H	_	_
+29	le	_	Word	Word	_	30	E	_	_
+30	passage	_	Word	Word	_	28	A	_	_
+31	du	_	Word	Word	_	32	R	_	_
+32	Nord	_	Word	Word	_	30	E	_	_
+33	-	_	Punctuation	Punctuation	_	32	U	_	_
+34	Ouest	_	Word	Word	_	32	Terminal	_	_
+35	.	_	Punctuation	Punctuation	_	32	U	_	_
+

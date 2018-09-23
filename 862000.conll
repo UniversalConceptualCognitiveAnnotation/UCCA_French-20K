@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 862000
+1	Assis	_	Word	Word	_	6	E	_	_
+2	sur	_	Word	Word	_	4	R	_	_
+3	la	_	Word	Word	_	4	E	_	_
+4	dunette	_	Word	Word	_	1	A	_	_
+5	,	_	Punctuation	Punctuation	_	1	U	_	_
+6	Ned	_	Word	Word	_	12	A	_	_
+7	Land	_	Word	Word	_	6	Terminal	_	_
+8	et	_	Word	Word	_	6	N	_	_
+9	moi	_	Word	Word	_	6	C	_	_
+10	,	_	Punctuation	Punctuation	_	12	U	_	_
+11	nous	_	Word	Word	_	12	F	_	_
+12	causions	_	Word	Word	_	0	H	_	_
+13	de	_	Word	Word	_	14	R	_	_
+14	choses	_	Word	Word	_	12	A	_	_
+15	et	_	Word	Word	_	14	N	_	_
+16	d'	_	Word	Word	_	17	R	_	_
+17	autres	_	Word	Word	_	14	C	_	_
+18	,	_	Punctuation	Punctuation	_	12	U	_	_
+19	regardant	_	Word	Word	_	6	E	_	_
+20	cette	_	Word	Word	_	22	E	_	_
+21	mystérieuse	_	Word	Word	_	22	E	_	_
+22	mer	_	Word	Word	_	19	A	_	_
+23	dont	_	Word	Word	_	30	R	_	_
+24	les	_	Word	Word	_	25	E	_	_
+25	profondeurs	_	Word	Word	_	30	A	_	_
+26	sont	_	Word	Word	_	30	F	_	_
+27	restées	_	Word	Word	_	30	D	_	_
+28	jusqu'	_	Word	Word	_	30	T	_	_
+29	ici	_	Word	Word	_	28	Terminal	_	_
+30	inaccessibles	_	Word	Word	_	22	E	_	_
+31	aux	_	Word	Word	_	32	R	_	_
+32	regards	_	Word	Word	_	30	A	_	_
+33	de	_	Word	Word	_	35	R	_	_
+34	l'	_	Word	Word	_	35	E	_	_
+35	homme	_	Word	Word	_	32	E	_	_
+36	.	_	Punctuation	Punctuation	_	35	U	_	_
+
