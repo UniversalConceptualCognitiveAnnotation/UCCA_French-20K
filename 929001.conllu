@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 929001
+# text = Les plus chauds partisans de l' entreprise devinrent fatalement ses plus ardents détracteurs .
+1	Les	_	Word	Word	_	4	E	4:E	_
+2	plus	_	Word	Word	_	4	E	4:E	_
+3	chauds	_	Word	Word	_	4	E	4:E	_
+4	partisans	_	Word	Word	_	8	A	8:A	_
+5	de	_	Word	Word	_	7	R	7:R	_
+6	l'	_	Word	Word	_	7	E	7:E	_
+7	entreprise	_	Word	Word	_	4	E	4:E	_
+8	devinrent	_	Word	Word	_	0	H	0:H	_
+9	fatalement	_	Word	Word	_	8	D	8:D	_
+10	ses	_	Word	Word	_	13	E	13:E	_
+11	plus	_	Word	Word	_	13	E	13:E	_
+12	ardents	_	Word	Word	_	13	E	13:E	_
+13	détracteurs	_	Word	Word	_	8	A	8:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

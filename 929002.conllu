@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 929002
+# text = La réaction monta des fonds du navire , du poste des soutiers jusqu' au carré de l' état - major , et certainement , sans un entêtement très - particulier du commandant Farragut , la frégate eût définitivement remis le cap au sud .
+1	La	_	Word	Word	_	2	E	2:E	_
+2	réaction	_	Word	Word	_	3	A	3:A	_
+3	monta	_	Word	Word	_	0	H	0:H	_
+4	des	_	Word	Word	_	5	R	5:R	_
+5	fonds	_	Word	Word	_	7	E	7:E	_
+6	du	_	Word	Word	_	5	R	5:R|7:E	_
+7	navire	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	du	_	Word	Word	_	0	root	0:root	_
+10	poste	_	Word	Word	_	7	E	7:E	_
+11	des	_	Word	Word	_	12	R	12:R	_
+12	soutiers	_	Word	Word	_	10	E	10:E	_
+13	jusqu'	_	Word	Word	_	10	R	10:R	_
+14	au	_	Word	Word	_	10	R	10:R	_
+15	carré	_	Word	Word	_	10	C	10:C	_
+16	de	_	Word	Word	_	18	R	18:R	_
+17	l'	_	Word	Word	_	18	E	18:E	_
+18	état	_	Word	Word	_	15	E	15:E	_
+19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	major	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+22	et	_	Word	Word	_	3	L	3:L	_
+23	certainement	_	Word	Word	_	27	G	27:G	_
+24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	sans	_	Word	Word	_	3	L	3:L	_
+26	un	_	Word	Word	_	27	E	27:E	_
+27	entêtement	_	Word	Word	_	3	H	3:H	_
+28	très	_	Word	Word	_	30	E	30:E	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	particulier	_	Word	Word	_	27	D	27:D	_
+31	du	_	Word	Word	_	33	R	33:R|32:E	_
+32	commandant	_	Word	Word	_	33	E	33:E	_
+33	Farragut	_	Word	Word	_	27	A	27:A	_
+34	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+35	la	_	Word	Word	_	36	E	36:E	_
+36	frégate	_	Word	Word	_	41	A	41:A	_
+37	eût	_	Word	Word	_	41	F	41:F	_
+38	définitivement	_	Word	Word	_	41	D	41:D	_
+39	remis	_	Word	Word	_	41	E	41:E	_
+40	le	_	Word	Word	_	41	E	41:E	_
+41	cap	_	Word	Word	_	3	H	3:H	_
+42	au	_	Word	Word	_	43	R	43:R	_
+43	sud	_	Word	Word	_	41	A	41:A	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

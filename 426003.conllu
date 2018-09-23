@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 426003
+# text = Mon avis me fut demandé .
+1	Mon	_	Word	Word	_	2	E	2:E	_
+2	avis	_	Word	Word	_	5	A	5:A	_
+3	me	_	Word	Word	_	5	A	5:A	_
+4	fut	_	Word	Word	_	5	F	5:F	_
+5	demandé	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

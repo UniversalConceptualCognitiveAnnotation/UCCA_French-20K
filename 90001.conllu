@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 90001
+# text = Sous l' effort combiné du vent et de ses quatre cents chevaux-vapeur , il marchait à la vitesse de treize nuds .
+1	Sous	_	Word	Word	_	3	R	3:R	_
+2	l'	_	Word	Word	_	3	E	3:E	_
+3	effort	_	Word	Word	_	15	A	15:A	_
+4	combiné	_	Word	Word	_	3	D	3:D	_
+5	du	_	Word	Word	_	6	R	6:R	_
+6	vent	_	Word	Word	_	3	A	3:A	_
+7	et	_	Word	Word	_	6	N	6:N	_
+8	de	_	Word	Word	_	12	R	12:R	_
+9	ses	_	Word	Word	_	12	E	12:E	_
+10	quatre	_	Word	Word	_	12	E	12:E	_
+11	cents	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	chevaux-vapeur	_	Word	Word	_	6	C	6:C	_
+13	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+14	il	_	Word	Word	_	15	A	15:A	_
+15	marchait	_	Word	Word	_	0	H	0:H	_
+16	à	_	Word	Word	_	18	R	18:R	_
+17	la	_	Word	Word	_	18	E	18:E	_
+18	vitesse	_	Word	Word	_	21	E	21:E	_
+19	de	_	Word	Word	_	18	R	18:R	_
+20	treize	_	Word	Word	_	21	E	21:E	_
+21	nuds	_	Word	Word	_	15	A	15:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

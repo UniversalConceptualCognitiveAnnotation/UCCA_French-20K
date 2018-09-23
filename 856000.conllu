@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 856000
+# text = Je crois que le commandant Farragut avait sagement fait d' engager cet homme à son bord .
+1	Je	_	Word	Word	_	2	A	2:A	_
+2	crois	_	Word	Word	_	0	H	0:H	_
+3	que	_	Word	Word	_	2	F	2:F	_
+4	le	_	Word	Word	_	5	E	5:E	_
+5	commandant	_	Word	Word	_	6	E	6:E	_
+6	Farragut	_	Word	Word	_	0	C	0:C|11:A	_
+7	avait	_	Word	Word	_	9	F	9:F	_
+8	sagement	_	Word	Word	_	9	D	9:D	_
+9	fait	_	Word	Word	_	2	A	2:A	_
+10	d'	_	Word	Word	_	2	L	2:L	_
+11	engager	_	Word	Word	_	2	H	2:H	_
+12	cet	_	Word	Word	_	13	E	13:E	_
+13	homme	_	Word	Word	_	11	A	11:A	_
+14	à	_	Word	Word	_	16	R	16:R	_
+15	son	_	Word	Word	_	16	E	16:E	_
+16	bord	_	Word	Word	_	11	A	11:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

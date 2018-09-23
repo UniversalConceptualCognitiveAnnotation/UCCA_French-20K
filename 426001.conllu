@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 426001
+# text = J ' avais publié en France un ouvrage in-quarto en deux volumes intitulé : Les Mystères des grands fonds sous-marins .
+1	J	_	Word	Word	_	4	A	4:A	_
+2	'	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	avais	_	Word	Word	_	4	F	4:F	_
+4	publié	_	Word	Word	_	0	H	0:H	_
+5	en	_	Word	Word	_	6	R	6:R	_
+6	France	_	Word	Word	_	4	A	4:A	_
+7	un	_	Word	Word	_	8	E	8:E	_
+8	ouvrage	_	Word	Word	_	4	A	4:A	_
+9	in-quarto	_	Word	Word	_	8	E	8:E	_
+10	en	_	Word	Word	_	12	R	12:R	_
+11	deux	_	Word	Word	_	12	E	12:E	_
+12	volumes	_	Word	Word	_	8	E	8:E	_
+13	intitulé	_	Word	Word	_	8	E	8:E	_
+14	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Les	_	Word	Word	_	13	A	13:A	_
+16	Mystères	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	des	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	grands	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	fonds	_	Word	Word	_	15	Terminal	15:Terminal	_
+20	sous-marins	_	Word	Word	_	15	Terminal	15:Terminal	_
+21	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

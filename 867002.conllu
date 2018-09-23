@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 867002
+# text = Tout ce que vous voudrez excepté cela .
+1	Tout	_	Word	Word	_	5	A	5:A	_
+2	ce	_	Word	Word	_	5	F	5:F	_
+3	que	_	Word	Word	_	5	F	5:F	_
+4	vous	_	Word	Word	_	5	A	5:A	_
+5	voudrez	_	Word	Word	_	6	A	6:A	_
+6	excepté	_	Word	Word	_	0	H	0:H	_
+7	cela	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

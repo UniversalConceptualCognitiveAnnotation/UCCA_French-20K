@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 440004
+# text = Or la mer est précisément leur meilleur véhicule , le seul milieu où ces géants près desquels les animaux terrestres , éléphants ou rhinocéros , ne sont que des nains , - puissent se produire et se développer .
+1	Or	_	Word	Word	_	4	L	4:L	_
+2	la	_	Word	Word	_	3	E	3:E	_
+3	mer	_	Word	Word	_	4	A	4:A	_
+4	est	_	Word	Word	_	0	H	0:H	_
+5	précisément	_	Word	Word	_	4	D	4:D	_
+6	leur	_	Word	Word	_	8	E	8:E	_
+7	meilleur	_	Word	Word	_	8	E	8:E	_
+8	véhicule	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	le	_	Word	Word	_	12	E	12:E	_
+11	seul	_	Word	Word	_	12	E	12:E	_
+12	milieu	_	Word	Word	_	8	E	8:E	_
+13	où	_	Word	Word	_	34	R	34:R	_
+14	ces	_	Word	Word	_	15	E	15:E	_
+15	géants	_	Word	Word	_	34	A	34:A	_
+16	près	_	Word	Word	_	27	A	27:A	_
+17	desquels	_	Word	Word	_	27	R	27:R	_
+18	les	_	Word	Word	_	19	E	19:E	_
+19	animaux	_	Word	Word	_	27	A	27:A	_
+20	terrestres	_	Word	Word	_	19	E	19:E	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	éléphants	_	Word	Word	_	19	E	19:E	_
+23	ou	_	Word	Word	_	22	N	22:N	_
+24	rhinocéros	_	Word	Word	_	22	C	22:C	_
+25	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+26	ne	_	Word	Word	_	27	D	27:D	_
+27	sont	_	Word	Word	_	15	E	15:E	_
+28	que	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	des	_	Word	Word	_	30	E	30:E	_
+30	nains	_	Word	Word	_	27	A	27:A	_
+31	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+32	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+33	puissent	_	Word	Word	_	34	D	34:D	_
+34	se	_	Word	Word	_	12	E	12:E	_
+35	produire	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	et	_	Word	Word	_	34	N	34:N	_
+37	se	_	Word	Word	_	34	C	34:C	_
+38	développer	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

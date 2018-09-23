@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 82002
+# text = Donc , à moins que cet écueil ne fût soumis aux expansions intermittentes d' un geyser , le Governor - Higginson avait affaire bel et bien à quelque mammifère aquatique , inconnu jusque - là , qui rejetait par ses évents des colonnes d' eau , mélangées d' air et de vapeur .
+1	Donc	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	à	_	Word	Word	_	10	L	10:L	_
+4	moins	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	que	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	cet	_	Word	Word	_	7	E	7:E	_
+7	écueil	_	Word	Word	_	10	A	10:A	_
+8	ne	_	Word	Word	_	10	D	10:D	_
+9	fût	_	Word	Word	_	10	F	10:F	_
+10	soumis	_	Word	Word	_	0	H	0:H	_
+11	aux	_	Word	Word	_	12	R	12:R	_
+12	expansions	_	Word	Word	_	10	A	10:A	_
+13	intermittentes	_	Word	Word	_	12	D	12:D	_
+14	d'	_	Word	Word	_	16	R	16:R	_
+15	un	_	Word	Word	_	16	E	16:E	_
+16	geyser	_	Word	Word	_	12	A	12:A	_
+17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	le	_	Word	Word	_	19	E	19:E	_
+19	Governor	_	Word	Word	_	23	A	23:A	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Higginson	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	avait	_	Word	Word	_	23	F	23:F	_
+23	affaire	_	Word	Word	_	10	H	10:H	_
+24	bel	_	Word	Word	_	23	D	23:D	_
+25	et	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	bien	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	à	_	Word	Word	_	29	R	29:R	_
+28	quelque	_	Word	Word	_	29	E	29:E	_
+29	mammifère	_	Word	Word	_	23	A	23:A	_
+30	aquatique	_	Word	Word	_	29	E	29:E	_
+31	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+32	inconnu	_	Word	Word	_	29	E	29:E	_
+33	jusque	_	Word	Word	_	35	E	35:E	_
+34	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	là	_	Word	Word	_	32	T	32:T	_
+36	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+37	qui	_	Word	Word	_	38	R	38:R	_
+38	rejetait	_	Word	Word	_	29	E	29:E	_
+39	par	_	Word	Word	_	41	R	41:R	_
+40	ses	_	Word	Word	_	41	E	41:E	_
+41	évents	_	Word	Word	_	38	A	38:A	_
+42	des	_	Word	Word	_	43	E	43:E	_
+43	colonnes	_	Word	Word	_	38	A	38:A	_
+44	d'	_	Word	Word	_	45	R	45:R	_
+45	eau	_	Word	Word	_	43	E	43:E	_
+46	,	_	Punctuation	Punctuation	_	43	U	43:U	_
+47	mélangées	_	Word	Word	_	43	E	43:E	_
+48	d'	_	Word	Word	_	49	R	49:R	_
+49	air	_	Word	Word	_	47	A	47:A	_
+50	et	_	Word	Word	_	49	N	49:N	_
+51	de	_	Word	Word	_	52	R	52:R	_
+52	vapeur	_	Word	Word	_	49	C	49:C	_
+53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 856001
+# text = Il valait tout l' équipage , à lui seul , pour l' œil et le bras .
+1	Il	_	Word	Word	_	2	A	2:A	_
+2	valait	_	Word	Word	_	0	H	0:H	_
+3	tout	_	Word	Word	_	5	E	5:E	_
+4	l'	_	Word	Word	_	5	E	5:E	_
+5	équipage	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	à	_	Word	Word	_	9	R	9:R	_
+8	lui	_	Word	Word	_	9	E	9:E	_
+9	seul	_	Word	Word	_	2	D	2:D	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	pour	_	Word	Word	_	13	R	13:R	_
+12	l'	_	Word	Word	_	13	E	13:E	_
+13	œil	_	Word	Word	_	2	A	2:A	_
+14	et	_	Word	Word	_	13	N	13:N	_
+15	le	_	Word	Word	_	16	E	16:E	_
+16	bras	_	Word	Word	_	13	C	13:C	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

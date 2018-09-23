@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 927003
+# text = rien que l' immensité des flots déserts !
+1	rien	_	Word	Word	_	4	D	4:D	_
+2	que	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	l'	_	Word	Word	_	4	E	4:E	_
+4	immensité	_	Word	Word	_	0	H	0:H	_
+5	des	_	Word	Word	_	6	R	6:R	_
+6	flots	_	Word	Word	_	4	E	4:E	_
+7	déserts	_	Word	Word	_	6	E	6:E	_
+8	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+

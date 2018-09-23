@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 873001
+# text = - Environ dix-sept mille .
+1	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	Environ	_	Word	Word	_	4	D	4:D	_
+3	dix-sept	_	Word	Word	_	4	E	4:E	_
+4	mille	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

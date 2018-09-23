@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 931002
+# text = Les matelots ne cachèrent point leur mécontentement , et le service en souffrit .
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	matelots	_	Word	Word	_	4	A	4:A	_
+3	ne	_	Word	Word	_	4	D	4:D	_
+4	cachèrent	_	Word	Word	_	0	H	0:H	_
+5	point	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	leur	_	Word	Word	_	7	R	7:R	_
+7	mécontentement	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	et	_	Word	Word	_	4	L	4:L	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	service	_	Word	Word	_	13	A	13:A	_
+12	en	_	Word	Word	_	13	A	13:A	_
+13	souffrit	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

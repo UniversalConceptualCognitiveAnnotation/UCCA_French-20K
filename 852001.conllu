@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 852001
+# text = Un baleinier n' eût pas été mieux armé .
+1	Un	_	Word	Word	_	2	E	2:E	_
+2	baleinier	_	Word	Word	_	8	A	8:A	_
+3	n'	_	Word	Word	_	8	D	8:D	_
+4	eût	_	Word	Word	_	8	F	8:F	_
+5	pas	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	été	_	Word	Word	_	8	F	8:F	_
+7	mieux	_	Word	Word	_	8	D	8:D	_
+8	armé	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

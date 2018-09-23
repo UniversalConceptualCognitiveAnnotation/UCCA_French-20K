@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 925000
+# text = Le 20 juillet , le tropique du Capricorne fut coupé par 105 ° de longitude , et le 27 du même mois , nous franchissions l' équateur sur le cent dixième méridien .
+1	Le	_	Word	Word	_	2	E	2:E	_
+2	20	_	Word	Word	_	10	T	10:T	_
+3	juillet	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	le	_	Word	Word	_	6	E	6:E	_
+6	tropique	_	Word	Word	_	10	A	10:A	_
+7	du	_	Word	Word	_	8	R	8:R	_
+8	Capricorne	_	Word	Word	_	6	E	6:E	_
+9	fut	_	Word	Word	_	10	F	10:F	_
+10	coupé	_	Word	Word	_	0	H	0:H	_
+11	par	_	Word	Word	_	12	R	12:R	_
+12	105	_	Word	Word	_	10	A	10:A	_
+13	°	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	de	_	Word	Word	_	15	R	15:R	_
+15	longitude	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	et	_	Word	Word	_	10	L	10:L	_
+18	le	_	Word	Word	_	19	E	19:E	_
+19	27	_	Word	Word	_	25	T	25:T	_
+20	du	_	Word	Word	_	22	R	22:R	_
+21	même	_	Word	Word	_	22	E	22:E	_
+22	mois	_	Word	Word	_	19	E	19:E	_
+23	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+24	nous	_	Word	Word	_	25	A	25:A|10:A	_
+25	franchissions	_	Word	Word	_	10	H	10:H	_
+26	l'	_	Word	Word	_	27	E	27:E	_
+27	équateur	_	Word	Word	_	25	A	25:A	_
+28	sur	_	Word	Word	_	32	R	32:R	_
+29	le	_	Word	Word	_	32	E	32:E	_
+30	cent	_	Word	Word	_	32	E	32:E	_
+31	dixième	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	méridien	_	Word	Word	_	25	A	25:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

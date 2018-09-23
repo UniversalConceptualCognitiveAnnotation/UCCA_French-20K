@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 417000
+# text = J' étais parfaitement au courant de la question à l' ordre du jour , et comment ne l' aurais - je pas été ?
+1	J'	_	Word	Word	_	2	A	2:A	_
+2	étais	_	Word	Word	_	0	H	0:H	_
+3	parfaitement	_	Word	Word	_	2	D	2:D	_
+4	au	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	courant	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	de	_	Word	Word	_	8	R	8:R	_
+7	la	_	Word	Word	_	8	E	8:E	_
+8	question	_	Word	Word	_	2	A	2:A	_
+9	à	_	Word	Word	_	11	R	11:R	_
+10	l'	_	Word	Word	_	11	E	11:E	_
+11	ordre	_	Word	Word	_	8	E	8:E	_
+12	du	_	Word	Word	_	13	R	13:R	_
+13	jour	_	Word	Word	_	11	E	11:E	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	et	_	Word	Word	_	2	L	2:L	_
+16	comment	_	Word	Word	_	23	D	23:D	_
+17	ne	_	Word	Word	_	23	D	23:D	_
+18	l'	_	Word	Word	_	23	A	23:A	_
+19	aurais	_	Word	Word	_	23	F	23:F	_
+20	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+21	je	_	Word	Word	_	23	A	23:A	_
+22	pas	_	Word	Word	_	17	Terminal	17:Terminal	_
+23	été	_	Word	Word	_	2	H	2:H	_
+24	?	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 919007
+# text = Je regardais , je regardais à en user ma rétine , à en devenir aveugle , tandis que Conseil , toujours phlegmatique , me répétait d' un ton calme : « Si monsieur voulait avoir la bonté de moins écarquiller ses yeux , monsieur verrait bien davantage ! »
+1	Je	_	Word	Word	_	2	A	2:A|8:A	_
+2	regardais	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	je	_	Word	Word	_	5	A	5:A|15:A	_
+5	regardais	_	Word	Word	_	2	H	2:H	_
+6	à	_	Word	Word	_	2	L	2:L	_
+7	en	_	Word	Word	_	8	A	8:A	_
+8	user	_	Word	Word	_	2	H	2:H	_
+9	ma	_	Word	Word	_	10	E	10:E	_
+10	rétine	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	à	_	Word	Word	_	2	L	2:L	_
+13	en	_	Word	Word	_	15	A	15:A	_
+14	devenir	_	Word	Word	_	15	F	15:F	_
+15	aveugle	_	Word	Word	_	2	H	2:H	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	tandis	_	Word	Word	_	2	L	2:L	_
+18	que	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Conseil	_	Word	Word	_	25	A	25:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	toujours	_	Word	Word	_	22	D	22:D	_
+22	phlegmatique	_	Word	Word	_	19	E	19:E	_
+23	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+24	me	_	Word	Word	_	25	A	25:A	_
+25	répétait	_	Word	Word	_	2	H	2:H	_
+26	d'	_	Word	Word	_	28	R	28:R	_
+27	un	_	Word	Word	_	28	E	28:E	_
+28	ton	_	Word	Word	_	25	D	25:D	_
+29	calme	_	Word	Word	_	28	E	28:E	_
+30	:	_	Punctuation	Punctuation	_	25	U	25:U	_
+31	«	_	Punctuation	Punctuation	_	25	U	25:U	_
+32	Si	_	Word	Word	_	35	L	35:L	_
+33	monsieur	_	Word	Word	_	35	A	35:A|40:A	_
+34	voulait	_	Word	Word	_	35	D	35:D	_
+35	avoir	_	Word	Word	_	25	A	25:A	_
+36	la	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	bonté	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	de	_	Word	Word	_	40	R	40:R	_
+39	moins	_	Word	Word	_	40	D	40:D	_
+40	écarquiller	_	Word	Word	_	35	A	35:A	_
+41	ses	_	Word	Word	_	42	E	42:E	_
+42	yeux	_	Word	Word	_	40	A	40:A	_
+43	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+44	monsieur	_	Word	Word	_	45	A	45:A	_
+45	verrait	_	Word	Word	_	35	H	35:H	_
+46	bien	_	Word	Word	_	47	E	47:E	_
+47	davantage	_	Word	Word	_	45	D	45:D	_
+48	!	_	Punctuation	Punctuation	_	47	U	47:U	_
+49	»	_	Punctuation	Punctuation	_	47	U	47:U	_
+

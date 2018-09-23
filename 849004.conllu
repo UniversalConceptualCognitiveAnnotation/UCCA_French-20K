@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 849004
+# text = Et cependant , l' Abraham - Lincoln ne tranchait pas encore de son étrave les eaux suspectes du Pacifique .
+1	Et	_	Word	Word	_	9	L	9:L	_
+2	cependant	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	l'	_	Word	Word	_	5	E	5:E	_
+5	Abraham	_	Word	Word	_	9	A	9:A	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Lincoln	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	ne	_	Word	Word	_	9	D	9:D	_
+9	tranchait	_	Word	Word	_	0	H	0:H	_
+10	pas	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	encore	_	Word	Word	_	9	D	9:D	_
+12	de	_	Word	Word	_	14	R	14:R	_
+13	son	_	Word	Word	_	14	E	14:E	_
+14	étrave	_	Word	Word	_	9	A	9:A	_
+15	les	_	Word	Word	_	16	E	16:E	_
+16	eaux	_	Word	Word	_	9	A	9:A	_
+17	suspectes	_	Word	Word	_	16	E	16:E	_
+18	du	_	Word	Word	_	19	R	19:R	_
+19	Pacifique	_	Word	Word	_	16	E	16:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

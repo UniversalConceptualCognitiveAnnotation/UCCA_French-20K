@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 422002
+# text = Du moins , je l' espère .
+1	Du	_	Word	Word	_	6	L	6:L	_
+2	moins	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	je	_	Word	Word	_	6	A	6:A	_
+5	l'	_	Word	Word	_	6	A	6:A	_
+6	espère	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 856002
+# text = Je ne saurais le mieux comparer qu' à un télescope puissant qui serait en même temps un canon toujours prêt à partir .
+1	Je	_	Word	Word	_	6	A	6:A	_
+2	ne	_	Word	Word	_	6	D	6:D	_
+3	saurais	_	Word	Word	_	6	D	6:D	_
+4	le	_	Word	Word	_	5	E	5:E	_
+5	mieux	_	Word	Word	_	6	D	6:D	_
+6	comparer	_	Word	Word	_	0	H	0:H	_
+7	qu'	_	Word	Word	_	2	Terminal	2:Terminal	_
+8	à	_	Word	Word	_	10	R	10:R	_
+9	un	_	Word	Word	_	10	E	10:E	_
+10	télescope	_	Word	Word	_	6	A	6:A	_
+11	puissant	_	Word	Word	_	10	E	10:E	_
+12	qui	_	Word	Word	_	13	R	13:R	_
+13	serait	_	Word	Word	_	10	E	10:E	_
+14	en	_	Word	Word	_	16	R	16:R	_
+15	même	_	Word	Word	_	16	E	16:E	_
+16	temps	_	Word	Word	_	13	T	13:T	_
+17	un	_	Word	Word	_	18	E	18:E	_
+18	canon	_	Word	Word	_	13	A	13:A	_
+19	toujours	_	Word	Word	_	20	T	20:T	_
+20	prêt	_	Word	Word	_	18	E	18:E	_
+21	à	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	partir	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

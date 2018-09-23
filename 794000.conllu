@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 794000
+# text = Alors , la frégate , suivant du côté de New - Jersey l' admirable rive droite du fleuve toute chargée de villas , passa entre les forts qui la saluèrent de leurs plus gros canons .
+1	Alors	_	Word	Word	_	24	L	24:L	_
+2	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+3	la	_	Word	Word	_	4	E	4:E	_
+4	frégate	_	Word	Word	_	24	A	24:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	suivant	_	Word	Word	_	4	E	4:E	_
+7	du	_	Word	Word	_	8	R	8:R	_
+8	côté	_	Word	Word	_	10	E	10:E	_
+9	de	_	Word	Word	_	8	R	8:R	_
+10	New	_	Word	Word	_	6	A	6:A	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Jersey	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	l'	_	Word	Word	_	15	E	15:E	_
+14	admirable	_	Word	Word	_	15	E	15:E	_
+15	rive	_	Word	Word	_	6	A	6:A	_
+16	droite	_	Word	Word	_	15	E	15:E	_
+17	du	_	Word	Word	_	18	R	18:R	_
+18	fleuve	_	Word	Word	_	15	E	15:E	_
+19	toute	_	Word	Word	_	20	D	20:D	_
+20	chargée	_	Word	Word	_	15	E	15:E	_
+21	de	_	Word	Word	_	22	R	22:R	_
+22	villas	_	Word	Word	_	20	A	20:A	_
+23	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	passa	_	Word	Word	_	0	H	0:H	_
+25	entre	_	Word	Word	_	27	R	27:R	_
+26	les	_	Word	Word	_	27	E	27:E	_
+27	forts	_	Word	Word	_	24	A	24:A	_
+28	qui	_	Word	Word	_	30	R	30:R	_
+29	la	_	Word	Word	_	30	A	30:A	_
+30	saluèrent	_	Word	Word	_	27	E	27:E	_
+31	de	_	Word	Word	_	35	R	35:R	_
+32	leurs	_	Word	Word	_	35	E	35:E	_
+33	plus	_	Word	Word	_	34	E	34:E	_
+34	gros	_	Word	Word	_	35	E	35:E	_
+35	canons	_	Word	Word	_	30	A	30:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

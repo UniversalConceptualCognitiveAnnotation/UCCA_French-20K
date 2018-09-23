@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 446000
+# text = L' émotion causée par cette nouvelle fut extrême .
+1	L'	_	Word	Word	_	2	E	2:E	_
+2	émotion	_	Word	Word	_	8	A	8:A	_
+3	causée	_	Word	Word	_	2	E	2:E	_
+4	par	_	Word	Word	_	6	R	6:R	_
+5	cette	_	Word	Word	_	6	E	6:E	_
+6	nouvelle	_	Word	Word	_	3	A	3:A	_
+7	fut	_	Word	Word	_	8	F	8:F	_
+8	extrême	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

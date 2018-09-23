@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 848003
+# text = Il en était l' âme .
+1	Il	_	Word	Word	_	3	A	3:A	_
+2	en	_	Word	Word	_	5	E	5:E	_
+3	était	_	Word	Word	_	0	H	0:H	_
+4	l'	_	Word	Word	_	5	E	5:E	_
+5	âme	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

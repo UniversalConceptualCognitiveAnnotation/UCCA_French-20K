@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 765001
+# text = Je n' aspirais plus qu' à revoir mon pays , mes amis , mon petit logement du Jardin des Plantes , mes chères et précieuses collections !
+1	Je	_	Word	Word	_	3	A	3:A|7:A	_
+2	n'	_	Word	Word	_	3	D	3:D	_
+3	aspirais	_	Word	Word	_	0	H	0:H	_
+4	plus	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	qu'	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	à	_	Word	Word	_	7	F	7:F	_
+7	revoir	_	Word	Word	_	3	A	3:A	_
+8	mon	_	Word	Word	_	9	E	9:E	_
+9	pays	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	mes	_	Word	Word	_	12	E	12:E	_
+12	amis	_	Word	Word	_	9	C	9:C	_
+13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	mon	_	Word	Word	_	16	E	16:E	_
+15	petit	_	Word	Word	_	16	E	16:E	_
+16	logement	_	Word	Word	_	9	C	9:C	_
+17	du	_	Word	Word	_	18	R	18:R	_
+18	Jardin	_	Word	Word	_	16	E	16:E	_
+19	des	_	Word	Word	_	20	R	20:R	_
+20	Plantes	_	Word	Word	_	18	E	18:E	_
+21	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+22	mes	_	Word	Word	_	26	E	26:E	_
+23	chères	_	Word	Word	_	26	E	26:E	_
+24	et	_	Word	Word	_	23	N	23:N	_
+25	précieuses	_	Word	Word	_	23	C	23:C	_
+26	collections	_	Word	Word	_	9	C	9:C	_
+27	!	_	Punctuation	Punctuation	_	26	U	26:U	_
+

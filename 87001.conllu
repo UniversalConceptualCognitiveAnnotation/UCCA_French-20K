@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 87001
+# text = La « question du monstre » enflamma les esprits .
+1	La	_	Word	Word	_	3	E	3:E	_
+2	«	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	question	_	Word	Word	_	7	A	7:A	_
+4	du	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	monstre	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	»	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	enflamma	_	Word	Word	_	0	H	0:H	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	esprits	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

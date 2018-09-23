@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 91005
+# text = Avait - il heurté une roche sous-marine , ou quelque énorme épave d' un naufrage ?
+1	Avait	_	Word	Word	_	4	F	4:F	_
+2	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	il	_	Word	Word	_	4	A	4:A|12:A	_
+4	heurté	_	Word	Word	_	0	H	0:H	_
+5	une	_	Word	Word	_	6	E	6:E	_
+6	roche	_	Word	Word	_	4	A	4:A	_
+7	sous-marine	_	Word	Word	_	6	E	6:E	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	ou	_	Word	Word	_	4	L	4:L	_
+10	quelque	_	Word	Word	_	12	E	12:E	_
+11	énorme	_	Word	Word	_	12	E	12:E	_
+12	épave	_	Word	Word	_	4	H	4:H	_
+13	d'	_	Word	Word	_	15	R	15:R	_
+14	un	_	Word	Word	_	15	E	15:E	_
+15	naufrage	_	Word	Word	_	12	E	12:E	_
+16	?	_	Punctuation	Punctuation	_	15	U	15:U	_
+

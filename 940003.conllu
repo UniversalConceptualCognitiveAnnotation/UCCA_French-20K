@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 940003
+# text = - Eh bien , monsieur n' aura que ce qu' il mérite !
+1	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+2	Eh	_	Word	Word	_	7	L	7:L	_
+3	bien	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	monsieur	_	Word	Word	_	7	A	7:A	_
+6	n'	_	Word	Word	_	7	D	7:D	_
+7	aura	_	Word	Word	_	0	H	0:H	_
+8	que	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	ce	_	Word	Word	_	7	A	7:A	_
+10	qu'	_	Word	Word	_	12	R	12:R	_
+11	il	_	Word	Word	_	12	A	12:A	_
+12	mérite	_	Word	Word	_	9	E	9:E	_
+13	!	_	Punctuation	Punctuation	_	12	U	12:U	_
+

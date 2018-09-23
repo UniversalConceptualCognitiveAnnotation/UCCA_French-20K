@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 440002
+# text = La solution qu' il proposait , d' ailleurs , laissait libre carrière à l' imagination .
+1	La	_	Word	Word	_	2	E	2:E	_
+2	solution	_	Word	Word	_	11	A	11:A	_
+3	qu'	_	Word	Word	_	5	R	5:R	_
+4	il	_	Word	Word	_	5	A	5:A	_
+5	proposait	_	Word	Word	_	2	E	2:E	_
+6	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+7	d'	_	Word	Word	_	8	R	8:R	_
+8	ailleurs	_	Word	Word	_	11	L	11:L	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	laissait	_	Word	Word	_	11	D	11:D	_
+11	libre	_	Word	Word	_	0	H	0:H	_
+12	carrière	_	Word	Word	_	11	A	11:A	_
+13	à	_	Word	Word	_	15	R	15:R	_
+14	l'	_	Word	Word	_	15	E	15:E	_
+15	imagination	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

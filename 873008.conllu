@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 873008
+# text = - Diable ! fit Ned .
+1	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	Diable	_	Word	Word	_	4	A	4:A	_
+3	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	fit	_	Word	Word	_	0	H	0:H	_
+5	Ned	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

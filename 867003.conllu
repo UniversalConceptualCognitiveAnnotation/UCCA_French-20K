@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 867003
+# text = Un poulpe gigantesque , peut-être ?
+1	Un	_	Word	Word	_	2	E	2:E	_
+2	poulpe	_	Word	Word	_	0	H	0:H	_
+3	gigantesque	_	Word	Word	_	2	E	2:E	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	peut-être	_	Word	Word	_	2	D	2:D	_
+6	?	_	Punctuation	Punctuation	_	2	U	2:U	_
+

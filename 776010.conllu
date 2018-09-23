@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 776010
+# text = - Et le babiroussa vivant de monsieur ?
+1	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	Et	_	Word	Word	_	4	L	4:L	_
+3	le	_	Word	Word	_	4	E	4:E	_
+4	babiroussa	_	Word	Word	_	0	H	0:H	_
+5	vivant	_	Word	Word	_	4	E	4:E	_
+6	de	_	Word	Word	_	7	R	7:R	_
+7	monsieur	_	Word	Word	_	4	E	4:E	_
+8	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+
