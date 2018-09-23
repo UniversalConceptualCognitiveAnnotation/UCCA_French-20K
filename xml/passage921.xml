@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="voyage" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="10" text="s'" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="accomplissait" />
@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="." />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="C&apos;" />
+      <attributes paragraph="1" paragraph_position="17" text="C'" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="&#233;tait" />
@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="janvier" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="35" text="d'" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="Europe" />

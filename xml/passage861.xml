@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="c" />
     </node>
     <node ID="0.10" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="10" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="10" text="'" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="est" />
@@ -168,7 +168,7 @@
       <attributes paragraph="1" paragraph_position="55" text="Magellan" />
     </node>
     <node ID="0.56" type="Word">
-      <attributes paragraph="1" paragraph_position="56" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="56" text="s'" />
     </node>
     <node ID="0.57" type="Word">
       <attributes paragraph="1" paragraph_position="57" text="ouvrait" />
@@ -216,7 +216,7 @@
       <attributes paragraph="1" paragraph_position="71" text="," />
     </node>
     <node ID="0.72" type="Word">
-      <attributes paragraph="1" paragraph_position="72" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="72" text="l'" />
     </node>
     <node ID="0.73" type="Word">
       <attributes paragraph="1" paragraph_position="73" text="Abraham" />

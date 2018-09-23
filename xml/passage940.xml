@@ -24,7 +24,7 @@
       <attributes paragraph="1" paragraph_position="7" text="." />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="C&apos;" />
+      <attributes paragraph="1" paragraph_position="8" text="C'" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="est" />
@@ -99,7 +99,7 @@
       <attributes paragraph="1" paragraph_position="32" text="que" />
     </node>
     <node ID="0.33" type="Word">
-      <attributes paragraph="1" paragraph_position="33" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="33" text="d'" />
     </node>
     <node ID="0.34" type="Word">
       <attributes paragraph="1" paragraph_position="34" text="&#233;motions" />
@@ -198,7 +198,7 @@
       <attributes paragraph="1" paragraph_position="65" text="Et" />
     </node>
     <node ID="0.66" type="Word">
-      <attributes paragraph="1" paragraph_position="66" text="j&apos;" />
+      <attributes paragraph="1" paragraph_position="66" text="j'" />
     </node>
     <node ID="0.67" type="Word">
       <attributes paragraph="1" paragraph_position="67" text="aurais" />
@@ -333,7 +333,7 @@
       <attributes paragraph="1" paragraph_position="110" text="," />
     </node>
     <node ID="0.111" type="Word">
-      <attributes paragraph="1" paragraph_position="111" text="j&apos;" />
+      <attributes paragraph="1" paragraph_position="111" text="j'" />
     </node>
     <node ID="0.112" type="Word">
       <attributes paragraph="1" paragraph_position="112" text="imagine" />
@@ -345,7 +345,7 @@
       <attributes paragraph="1" paragraph_position="114" text="que" />
     </node>
     <node ID="0.115" type="Word">
-      <attributes paragraph="1" paragraph_position="115" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="115" text="l'" />
     </node>
     <node ID="0.116" type="Word">
       <attributes paragraph="1" paragraph_position="116" text="on" />
@@ -396,7 +396,7 @@
       <attributes paragraph="1" paragraph_position="131" text="que" />
     </node>
     <node ID="0.132" type="Word">
-      <attributes paragraph="1" paragraph_position="132" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="132" text="l'" />
     </node>
     <node ID="0.133" type="Word">
       <attributes paragraph="1" paragraph_position="133" text="on" />
@@ -483,7 +483,7 @@
       <attributes paragraph="1" paragraph_position="160" text="monsieur" />
     </node>
     <node ID="0.161" type="Word">
-      <attributes paragraph="1" paragraph_position="161" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="161" text="n'" />
     </node>
     <node ID="0.162" type="Word">
       <attributes paragraph="1" paragraph_position="162" text="aura" />
@@ -495,7 +495,7 @@
       <attributes paragraph="1" paragraph_position="164" text="ce" />
     </node>
     <node ID="0.165" type="Word">
-      <attributes paragraph="1" paragraph_position="165" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="165" text="qu'" />
     </node>
     <node ID="0.166" type="Word">
       <attributes paragraph="1" paragraph_position="166" text="il" />
@@ -528,13 +528,13 @@
       <attributes paragraph="1" paragraph_position="175" text="a" />
     </node>
     <node ID="0.176" type="Word">
-      <attributes paragraph="1" paragraph_position="176" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="176" text="l'" />
     </node>
     <node ID="0.177" type="Word">
       <attributes paragraph="1" paragraph_position="177" text="honneur" />
     </node>
     <node ID="0.178" type="Word">
-      <attributes paragraph="1" paragraph_position="178" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="178" text="d'" />
     </node>
     <node ID="0.179" type="Word">
       <attributes paragraph="1" paragraph_position="179" text="&#234;tre" />
@@ -561,7 +561,7 @@
       <attributes paragraph="1" paragraph_position="186" text="ne" />
     </node>
     <node ID="0.187" type="Word">
-      <attributes paragraph="1" paragraph_position="187" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="187" text="s'" />
     </node>
     <node ID="0.188" type="Word">
       <attributes paragraph="1" paragraph_position="188" text="expose" />

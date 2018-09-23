@@ -33,7 +33,7 @@
       <attributes paragraph="1" paragraph_position="10" text="m" />
     </node>
     <node ID="0.11" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="11" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="11" text="'" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="avaient" />
@@ -42,7 +42,7 @@
       <attributes paragraph="1" paragraph_position="13" text="fait" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="l&apos;honneur" />
+      <attributes paragraph="1" paragraph_position="14" text="l'honneur" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="de" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="J" />
     </node>
     <node ID="0.25" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="25" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="25" text="'" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="avais" />
@@ -195,7 +195,7 @@
       <attributes paragraph="1" paragraph_position="64" text="de" />
     </node>
     <node ID="0.65" type="Word">
-      <attributes paragraph="1" paragraph_position="65" text="l&apos;histoire" />
+      <attributes paragraph="1" paragraph_position="65" text="l'histoire" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="naturelle" />
@@ -306,7 +306,7 @@
       <attributes paragraph="1" paragraph_position="101" text="m" />
     </node>
     <node ID="0.102" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="102" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="102" text="'" />
     </node>
     <node ID="0.103" type="Word">
       <attributes paragraph="1" paragraph_position="103" text="expliquer" />
@@ -330,7 +330,7 @@
       <attributes paragraph="1" paragraph_position="109" text="&#171;" />
     </node>
     <node ID="0.110" type="Word">
-      <attributes paragraph="1" paragraph_position="110" text="l&apos;honorable" />
+      <attributes paragraph="1" paragraph_position="110" text="l'honorable" />
     </node>
     <node ID="0.111" type="Word">
       <attributes paragraph="1" paragraph_position="111" text="Pierre" />

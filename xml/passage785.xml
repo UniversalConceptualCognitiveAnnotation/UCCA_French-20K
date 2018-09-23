@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="L&apos;" />
+      <attributes paragraph="1" paragraph_position="1" text="L'" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Abraham" />
@@ -48,7 +48,7 @@
       <attributes paragraph="1" paragraph_position="15" text="." />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="C&apos;" />
+      <attributes paragraph="1" paragraph_position="16" text="C'" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="&#233;tait" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="munie" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="25" text="d'" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="appareils" />
@@ -138,7 +138,7 @@
       <attributes paragraph="1" paragraph_position="45" text="," />
     </node>
     <node ID="0.46" type="Word">
-      <attributes paragraph="1" paragraph_position="46" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="46" text="l'" />
     </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="Abraham" />
@@ -183,7 +183,7 @@
       <attributes paragraph="1" paragraph_position="60" text="&#224;" />
     </node>
     <node ID="0.61" type="Word">
-      <attributes paragraph="1" paragraph_position="61" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="61" text="l'" />
     </node>
     <node ID="0.62" type="Word">
       <attributes paragraph="1" paragraph_position="62" text="heure" />

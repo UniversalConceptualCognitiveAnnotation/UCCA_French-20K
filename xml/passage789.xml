@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="retenaient" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="15" text="l'" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="Abraham" />
@@ -90,7 +90,7 @@
       <attributes paragraph="1" paragraph_position="29" text="quart" />
     </node>
     <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="30" text="d'" />
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="heure" />

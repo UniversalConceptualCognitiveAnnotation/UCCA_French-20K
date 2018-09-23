@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="L&apos;" />
+      <attributes paragraph="1" paragraph_position="1" text="L'" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="ascenseur" />
@@ -12,7 +12,7 @@
       <attributes paragraph="1" paragraph_position="3" text="de" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="4" text="l'" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="h&#244;tel" />
@@ -36,7 +36,7 @@
       <attributes paragraph="1" paragraph_position="11" text="de" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="12" text="l'" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="entresol" />
@@ -138,13 +138,13 @@
       <attributes paragraph="1" paragraph_position="45" text="donnai" />
     </node>
     <node ID="0.46" type="Word">
-      <attributes paragraph="1" paragraph_position="46" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="46" text="l'" />
     </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="ordre" />
     </node>
     <node ID="0.48" type="Word">
-      <attributes paragraph="1" paragraph_position="48" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="48" text="d'" />
     </node>
     <node ID="0.49" type="Word">
       <attributes paragraph="1" paragraph_position="49" text="exp&#233;dier" />
@@ -171,7 +171,7 @@
       <attributes paragraph="1" paragraph_position="56" text="ballots" />
     </node>
     <node ID="0.57" type="Word">
-      <attributes paragraph="1" paragraph_position="57" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="57" text="d'" />
     </node>
     <node ID="0.58" type="Word">
       <attributes paragraph="1" paragraph_position="58" text="animaux" />

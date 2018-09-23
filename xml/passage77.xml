@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="L&apos;ann&#233;e" />
+      <attributes paragraph="1" paragraph_position="1" text="L'ann&#233;e" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="1866" />
@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="personne" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="17" text="n'" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="a" />
@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="surexcitaient" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="35" text="l'" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="esprit" />
@@ -117,7 +117,7 @@
       <attributes paragraph="1" paragraph_position="38" text="&#224;" />
     </node>
     <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="39" text="l'" />
     </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="int&#233;rieur" />
@@ -195,7 +195,7 @@
       <attributes paragraph="1" paragraph_position="64" text="de" />
     </node>
     <node ID="0.65" type="Word">
-      <attributes paragraph="1" paragraph_position="65" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="65" text="l'" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="Europe" />
@@ -207,7 +207,7 @@
       <attributes paragraph="1" paragraph_position="68" text="de" />
     </node>
     <node ID="0.69" type="Word">
-      <attributes paragraph="1" paragraph_position="69" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="69" text="l'" />
     </node>
     <node ID="0.70" type="Word">
       <attributes paragraph="1" paragraph_position="70" text="Am&#233;rique" />
@@ -367,7 +367,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra remarks="l&apos; should be annotated as E and annee should be annotated as C" />
+      <extra remarks="l' should be annotated as E and annee should be annotated as C" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>

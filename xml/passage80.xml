@@ -114,7 +114,7 @@
       <attributes paragraph="1" paragraph_position="37" text="large" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="38" text="d'" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="un" />
@@ -192,7 +192,7 @@
       <attributes paragraph="1" paragraph_position="63" text="admises" />
     </node>
     <node ID="0.64" type="Word">
-      <attributes paragraph="1" paragraph_position="64" text="jusqu&apos;" />
+      <attributes paragraph="1" paragraph_position="64" text="jusqu'" />
     </node>
     <node ID="0.65" type="Word">
       <attributes paragraph="1" paragraph_position="65" text="&#224;" />
@@ -219,7 +219,7 @@
       <attributes paragraph="1" paragraph_position="72" text="-" />
     </node>
     <node ID="0.73" type="Word">
-      <attributes paragraph="1" paragraph_position="73" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="73" text="s'" />
     </node>
     <node ID="0.74" type="Word">
       <attributes paragraph="1" paragraph_position="74" text="il" />

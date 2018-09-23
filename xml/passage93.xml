@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="Personne" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="2" text="n'" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="ignore" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="roues" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="36" text="d'" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="une" />
@@ -135,7 +135,7 @@
       <attributes paragraph="1" paragraph_position="44" text="et" />
     </node>
     <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="45" text="d'" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="une" />
@@ -189,7 +189,7 @@
       <attributes paragraph="1" paragraph_position="62" text="Compagnie" />
     </node>
     <node ID="0.63" type="Word">
-      <attributes paragraph="1" paragraph_position="63" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="63" text="s'" />
     </node>
     <node ID="0.64" type="Word">
       <attributes paragraph="1" paragraph_position="64" text="accroissait" />
@@ -342,7 +342,7 @@
       <attributes paragraph="1" paragraph_position="113" text="venait" />
     </node>
     <node ID="0.114" type="Word">
-      <attributes paragraph="1" paragraph_position="114" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="114" text="d'" />
     </node>
     <node ID="0.115" type="Word">
       <attributes paragraph="1" paragraph_position="115" text="&#234;tre" />
@@ -369,7 +369,7 @@
       <attributes paragraph="1" paragraph_position="122" text="mat&#233;riel" />
     </node>
     <node ID="0.123" type="Word">
-      <attributes paragraph="1" paragraph_position="123" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="123" text="l'" />
     </node>
     <node ID="0.124" type="Word">
       <attributes paragraph="1" paragraph_position="124" text="Arabia" />

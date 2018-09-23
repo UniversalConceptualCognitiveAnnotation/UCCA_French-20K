@@ -36,7 +36,7 @@
       <attributes paragraph="1" paragraph_position="11" text="tout" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="12" text="d'" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="abord" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="de" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="21" text="l'" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="&#233;quipage" />
@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="." />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="L&apos;" />
+      <attributes paragraph="1" paragraph_position="24" text="L'" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="Oc&#233;an" />
@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="coup" />
     </node>
     <node ID="0.40" type="Word">
-      <attributes paragraph="1" paragraph_position="40" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="40" text="d'" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="oeil" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="." />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="C&apos;" />
+      <attributes paragraph="1" paragraph_position="58" text="C'" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="&#233;tait" />

@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="qui" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="m&apos;" />
+      <attributes paragraph="1" paragraph_position="10" text="m'" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="accompagnait" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="que" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="j&apos;" />
+      <attributes paragraph="1" paragraph_position="21" text="j'" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="aimais" />
@@ -132,7 +132,7 @@
       <attributes paragraph="1" paragraph_position="43" text="," />
     </node>
     <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="44" text="s'" />
     </node>
     <node ID="0.45" type="Word">
       <attributes paragraph="1" paragraph_position="45" text="&#233;tonnant" />

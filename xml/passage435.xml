@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="arm&#233;" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="9" text="d'" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="une" />
@@ -36,13 +36,13 @@
       <attributes paragraph="1" paragraph_position="11" text="sorte" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="12" text="d'" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="&#233;p&#233;e" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="14" text="d'" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="ivoire" />
@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="," />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="17" text="d'" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="une" />
@@ -66,7 +66,7 @@
       <attributes paragraph="1" paragraph_position="21" text="suivant" />
     </node>
     <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="22" text="l'" />
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="expression" />
@@ -84,7 +84,7 @@
       <attributes paragraph="1" paragraph_position="27" text="." />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="C&apos;" />
+      <attributes paragraph="1" paragraph_position="28" text="C'" />
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="est" />
@@ -114,7 +114,7 @@
       <attributes paragraph="1" paragraph_position="37" text="de" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="38" text="l'" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="acier" />
@@ -192,7 +192,7 @@
       <attributes paragraph="1" paragraph_position="63" text="." />
     </node>
     <node ID="0.64" type="Word">
-      <attributes paragraph="1" paragraph_position="64" text="D&apos;" />
+      <attributes paragraph="1" paragraph_position="64" text="D'" />
     </node>
     <node ID="0.65" type="Word">
       <attributes paragraph="1" paragraph_position="65" text="autres" />
@@ -234,7 +234,7 @@
       <attributes paragraph="1" paragraph_position="77" text="vaisseaux" />
     </node>
     <node ID="0.78" type="Word">
-      <attributes paragraph="1" paragraph_position="78" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="78" text="qu'" />
     </node>
     <node ID="0.79" type="Word">
       <attributes paragraph="1" paragraph_position="79" text="elles" />
@@ -246,7 +246,7 @@
       <attributes paragraph="1" paragraph_position="81" text="perc&#233;es" />
     </node>
     <node ID="0.82" type="Word">
-      <attributes paragraph="1" paragraph_position="82" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="82" text="d'" />
     </node>
     <node ID="0.83" type="Word">
       <attributes paragraph="1" paragraph_position="83" text="outre" />

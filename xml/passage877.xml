@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="&#224;" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="17" text="l'" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="embranchement" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="&#224;" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="36" text="l'" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="ordre" />
@@ -201,7 +201,7 @@
       <attributes paragraph="1" paragraph_position="66" text="&#224;" />
     </node>
     <node ID="0.67" type="Word">
-      <attributes paragraph="1" paragraph_position="67" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="67" text="l'" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="esp&#232;ce" />
@@ -231,7 +231,7 @@
       <attributes paragraph="1" paragraph_position="76" text="," />
     </node>
     <node ID="0.77" type="Word">
-      <attributes paragraph="1" paragraph_position="77" text="c&apos;" />
+      <attributes paragraph="1" paragraph_position="77" text="c'" />
     </node>
     <node ID="0.78" type="Word">
       <attributes paragraph="1" paragraph_position="78" text="&#233;tait" />
@@ -336,7 +336,7 @@
       <attributes paragraph="1" paragraph_position="111" text="&#233;tait" />
     </node>
     <node ID="0.112" type="Word">
-      <attributes paragraph="1" paragraph_position="112" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="112" text="l'" />
     </node>
     <node ID="0.113" type="Word">
       <attributes paragraph="1" paragraph_position="113" text="affaire" />
@@ -384,7 +384,7 @@
       <attributes paragraph="1" paragraph_position="127" text="&#233;tait" />
     </node>
     <node ID="0.128" type="Word">
-      <attributes paragraph="1" paragraph_position="128" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="128" text="l'" />
     </node>
     <node ID="0.129" type="Word">
       <attributes paragraph="1" paragraph_position="129" text="affaire" />
@@ -393,7 +393,7 @@
       <attributes paragraph="1" paragraph_position="130" text="de" />
     </node>
     <node ID="0.131" type="Word">
-      <attributes paragraph="1" paragraph_position="131" text="l&apos;&#233;quipage" />
+      <attributes paragraph="1" paragraph_position="131" text="l'&#233;quipage" />
     </node>
     <node ID="0.132" type="Punctuation">
       <attributes paragraph="1" paragraph_position="132" text="-" />
@@ -432,7 +432,7 @@
       <attributes paragraph="1" paragraph_position="143" text="&#233;tait" />
     </node>
     <node ID="0.144" type="Word">
-      <attributes paragraph="1" paragraph_position="144" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="144" text="l'" />
     </node>
     <node ID="0.145" type="Word">
       <attributes paragraph="1" paragraph_position="145" text="affaire" />
@@ -1851,7 +1851,7 @@
     </node>
     <node ID="1.186" type="FN">
       <attributes />
-      <extra remarks="l&apos; should be separated and marked as inside the Participant." />
+      <extra remarks="l' should be separated and marked as inside the Participant." />
       <edge toID="0.131" type="Terminal">
         <attributes />
       </edge>

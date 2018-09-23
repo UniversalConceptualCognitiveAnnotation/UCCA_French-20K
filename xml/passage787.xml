@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="," />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="17" text="n'" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="en" />
@@ -78,7 +78,7 @@
       <attributes paragraph="1" paragraph_position="25" text="," />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="26" text="qu'" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="un" />
@@ -90,7 +90,7 @@
       <attributes paragraph="1" paragraph_position="29" text="-" />
     </node>
     <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="30" text="l'" />
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="ermite" />
@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="coquille" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="35" text="d'" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="un" />

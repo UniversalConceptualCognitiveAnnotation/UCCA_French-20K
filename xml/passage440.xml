@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="solution" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="25" text="qu'" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="il" />
@@ -87,7 +87,7 @@
       <attributes paragraph="1" paragraph_position="28" text="," />
     </node>
     <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="29" text="d'" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="ailleurs" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="&#224;" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="36" text="l'" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="imagination" />
@@ -117,7 +117,7 @@
       <attributes paragraph="1" paragraph_position="38" text="." />
     </node>
     <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="L&apos;esprit" />
+      <attributes paragraph="1" paragraph_position="39" text="L'esprit" />
     </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="humain" />
@@ -141,7 +141,7 @@
       <attributes paragraph="1" paragraph_position="46" text="grandioses" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="47" text="d'" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="&#234;tres" />
@@ -327,7 +327,7 @@
       <attributes paragraph="1" paragraph_position="108" text="mollusques" />
     </node>
     <node ID="0.109" type="Word">
-      <attributes paragraph="1" paragraph_position="109" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="109" text="d'" />
     </node>
     <node ID="0.110" type="Word">
       <attributes paragraph="1" paragraph_position="110" text="une" />
@@ -585,7 +585,7 @@
       <attributes paragraph="1" paragraph_position="194" text="," />
     </node>
     <node ID="0.195" type="Word">
-      <attributes paragraph="1" paragraph_position="195" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="195" text="n'" />
     </node>
     <node ID="0.196" type="Word">
       <attributes paragraph="1" paragraph_position="196" text="aurait" />
@@ -621,7 +621,7 @@
       <attributes paragraph="1" paragraph_position="206" text="vie" />
     </node>
     <node ID="0.207" type="Word">
-      <attributes paragraph="1" paragraph_position="207" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="207" text="d'" />
     </node>
     <node ID="0.208" type="Word">
       <attributes paragraph="1" paragraph_position="208" text="un" />
@@ -1258,7 +1258,7 @@
     </node>
     <node ID="1.55" type="FN">
       <attributes />
-      <extra remarks="l&apos; should be annotated as E" />
+      <extra remarks="l' should be annotated as E" />
       <edge toID="0.39" type="Terminal">
         <attributes />
       </edge>

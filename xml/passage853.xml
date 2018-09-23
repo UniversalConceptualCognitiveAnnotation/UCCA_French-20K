@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="," />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="3" text="l'" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="Abraham" />
@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="manquait" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="9" text="d'" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="aucun" />

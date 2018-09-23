@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="il" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="9" text="n'" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="y" />
@@ -93,7 +93,7 @@
       <attributes paragraph="1" paragraph_position="30" text="de" />
     </node>
     <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="31" text="l'" />
     </node>
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="apercevoir" />
@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="&#224;" />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="43" text="l'" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="aventure" />
@@ -201,7 +201,7 @@
       <attributes paragraph="1" paragraph_position="66" text="bien" />
     </node>
     <node ID="0.67" type="Word">
-      <attributes paragraph="1" paragraph_position="67" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="67" text="l'" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="admettre" />
@@ -249,7 +249,7 @@
       <attributes paragraph="1" paragraph_position="82" text="&#224;" />
     </node>
     <node ID="0.83" type="Word">
-      <attributes paragraph="1" paragraph_position="83" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="83" text="s'" />
     </node>
     <node ID="0.84" type="Word">
       <attributes paragraph="1" paragraph_position="84" text="en" />
@@ -279,7 +279,7 @@
       <attributes paragraph="1" paragraph_position="92" text="il" />
     </node>
     <node ID="0.93" type="Word">
-      <attributes paragraph="1" paragraph_position="93" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="93" text="n'" />
     </node>
     <node ID="0.94" type="Word">
       <attributes paragraph="1" paragraph_position="94" text="aime" />
@@ -321,7 +321,7 @@
       <attributes paragraph="1" paragraph_position="106" text="dou&#233;" />
     </node>
     <node ID="0.107" type="Word">
-      <attributes paragraph="1" paragraph_position="107" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="107" text="d'" />
     </node>
     <node ID="0.108" type="Word">
       <attributes paragraph="1" paragraph_position="108" text="une" />
@@ -465,13 +465,13 @@
       <attributes paragraph="1" paragraph_position="154" text="," />
     </node>
     <node ID="0.155" type="Word">
-      <attributes paragraph="1" paragraph_position="155" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="155" text="s'" />
     </node>
     <node ID="0.156" type="Word">
       <attributes paragraph="1" paragraph_position="156" text="il" />
     </node>
     <node ID="0.157" type="Word">
-      <attributes paragraph="1" paragraph_position="157" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="157" text="n'" />
     </node>
     <node ID="0.158" type="Word">
       <attributes paragraph="1" paragraph_position="158" text="avait" />
@@ -486,7 +486,7 @@
       <attributes paragraph="1" paragraph_position="161" text="de" />
     </node>
     <node ID="0.162" type="Word">
-      <attributes paragraph="1" paragraph_position="162" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="162" text="s'" />
     </node>
     <node ID="0.163" type="Word">
       <attributes paragraph="1" paragraph_position="163" text="en" />
@@ -568,7 +568,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.5" type="H">
+      <edge toID="1.6" type="H">
         <attributes />
       </edge>
       <edge toID="1.12" type="H">
@@ -707,12 +707,6 @@
         <attributes />
       </edge>
       <edge toID="1.243" type="U">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <edge toID="1.6" type="F">
         <attributes />
       </edge>
     </node>

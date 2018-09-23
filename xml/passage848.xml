@@ -42,7 +42,7 @@
       <attributes paragraph="2" paragraph_position="12" text="fr&#233;gate" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="2" paragraph_position="13" text="qu&apos;" />
+      <attributes paragraph="2" paragraph_position="13" text="qu'" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="2" paragraph_position="14" text="il" />
@@ -72,7 +72,7 @@
       <attributes paragraph="2" paragraph_position="22" text="faisaient" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="2" paragraph_position="23" text="qu&apos;" />
+      <attributes paragraph="2" paragraph_position="23" text="qu'" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="2" paragraph_position="24" text="un" />
@@ -90,7 +90,7 @@
       <attributes paragraph="2" paragraph_position="28" text="&#233;tait" />
     </node>
     <node ID="0.30" type="Word">
-      <attributes paragraph="2" paragraph_position="29" text="l&apos;" />
+      <attributes paragraph="2" paragraph_position="29" text="l'" />
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="2" paragraph_position="30" text="&#226;me" />
@@ -126,7 +126,7 @@
       <attributes paragraph="2" paragraph_position="40" text="ne" />
     </node>
     <node ID="0.42" type="Word">
-      <attributes paragraph="2" paragraph_position="41" text="s&apos;" />
+      <attributes paragraph="2" paragraph_position="41" text="s'" />
     </node>
     <node ID="0.43" type="Word">
       <attributes paragraph="2" paragraph_position="42" text="&#233;levait" />
@@ -162,7 +162,7 @@
       <attributes paragraph="2" paragraph_position="52" text="que" />
     </node>
     <node ID="0.54" type="Word">
-      <attributes paragraph="2" paragraph_position="53" text="l&apos;" />
+      <attributes paragraph="2" paragraph_position="53" text="l'" />
     </node>
     <node ID="0.55" type="Word">
       <attributes paragraph="2" paragraph_position="54" text="existence" />
@@ -171,7 +171,7 @@
       <attributes paragraph="2" paragraph_position="55" text="de" />
     </node>
     <node ID="0.57" type="Word">
-      <attributes paragraph="2" paragraph_position="56" text="l&apos;" />
+      <attributes paragraph="2" paragraph_position="56" text="l'" />
     </node>
     <node ID="0.58" type="Word">
       <attributes paragraph="2" paragraph_position="57" text="animal" />
@@ -285,7 +285,7 @@
       <attributes paragraph="2" paragraph_position="93" text="il" />
     </node>
     <node ID="0.95" type="Word">
-      <attributes paragraph="2" paragraph_position="94" text="l&apos;" />
+      <attributes paragraph="2" paragraph_position="94" text="l'" />
     </node>
     <node ID="0.96" type="Word">
       <attributes paragraph="2" paragraph_position="95" text="avait" />
@@ -297,7 +297,7 @@
       <attributes paragraph="2" paragraph_position="97" text="." />
     </node>
     <node ID="0.99" type="Word">
-      <attributes paragraph="2" paragraph_position="98" text="C&apos;" />
+      <attributes paragraph="2" paragraph_position="98" text="C'" />
     </node>
     <node ID="0.100" type="Word">
       <attributes paragraph="2" paragraph_position="99" text="&#233;tait" />

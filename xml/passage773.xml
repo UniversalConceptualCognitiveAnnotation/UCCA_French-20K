@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="jamais" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="15" text="qu'" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="&#224;" />
@@ -72,7 +72,7 @@
       <attributes paragraph="1" paragraph_position="23" text="point" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="24" text="d'" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="en" />

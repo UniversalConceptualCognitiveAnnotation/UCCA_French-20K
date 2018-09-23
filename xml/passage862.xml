@@ -48,7 +48,7 @@
       <attributes paragraph="1" paragraph_position="15" text="et" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="16" text="d'" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="autres" />
@@ -84,7 +84,7 @@
       <attributes paragraph="1" paragraph_position="27" text="rest&#233;es" />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="jusqu&apos;" />
+      <attributes paragraph="1" paragraph_position="28" text="jusqu'" />
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="ici" />
@@ -102,7 +102,7 @@
       <attributes paragraph="1" paragraph_position="33" text="de" />
     </node>
     <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="34" text="l'" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="homme" />
@@ -111,7 +111,7 @@
       <attributes paragraph="1" paragraph_position="36" text="." />
     </node>
     <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="J&apos;" />
+      <attributes paragraph="1" paragraph_position="37" text="J'" />
     </node>
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="amenai" />
@@ -147,7 +147,7 @@
       <attributes paragraph="1" paragraph_position="48" text="et" />
     </node>
     <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="j&apos;" />
+      <attributes paragraph="1" paragraph_position="49" text="j'" />
     </node>
     <node ID="0.50" type="Word">
       <attributes paragraph="1" paragraph_position="50" text="examinai" />
@@ -171,7 +171,7 @@
       <attributes paragraph="1" paragraph_position="56" text="ou" />
     </node>
     <node ID="0.57" type="Word">
-      <attributes paragraph="1" paragraph_position="57" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="57" text="d'" />
     </node>
     <node ID="0.58" type="Word">
       <attributes paragraph="1" paragraph_position="58" text="insucc&#232;s" />

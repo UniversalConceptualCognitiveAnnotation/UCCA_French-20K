@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="Broadway" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="jusqu&apos;" />
+      <attributes paragraph="1" paragraph_position="10" text="jusqu'" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="&#224;" />
@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="Avenue" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="jusqu&apos;" />
+      <attributes paragraph="1" paragraph_position="20" text="jusqu'" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="&#224;" />
@@ -102,7 +102,7 @@
       <attributes paragraph="1" paragraph_position="33" text="et" />
     </node>
     <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="34" text="s'" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="arr&#234;ta" />
@@ -237,7 +237,7 @@
       <attributes paragraph="1" paragraph_position="78" text="de" />
     </node>
     <node ID="0.79" type="Word">
-      <attributes paragraph="1" paragraph_position="79" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="79" text="l'" />
     </node>
     <node ID="0.80" type="Word">
       <attributes paragraph="1" paragraph_position="80" text="Est" />
@@ -279,7 +279,7 @@
       <attributes paragraph="1" paragraph_position="92" text="duquel" />
     </node>
     <node ID="0.93" type="Word">
-      <attributes paragraph="1" paragraph_position="93" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="93" text="l'" />
     </node>
     <node ID="0.94" type="Word">
       <attributes paragraph="1" paragraph_position="94" text="Abraham" />

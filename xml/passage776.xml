@@ -51,7 +51,7 @@
       <attributes paragraph="1" paragraph_position="16" text="Monsieur" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="m&apos;" />
+      <attributes paragraph="1" paragraph_position="17" text="m'" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="appelle" />
@@ -333,7 +333,7 @@
       <attributes paragraph="1" paragraph_position="110" text="On" />
     </node>
     <node ID="0.111" type="Word">
-      <attributes paragraph="1" paragraph_position="111" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="111" text="s'" />
     </node>
     <node ID="0.112" type="Word">
       <attributes paragraph="1" paragraph_position="112" text="en" />
@@ -426,7 +426,7 @@
       <attributes paragraph="1" paragraph_position="141" text="&#224;" />
     </node>
     <node ID="0.142" type="Word">
-      <attributes paragraph="1" paragraph_position="142" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="142" text="l'" />
     </node>
     <node ID="0.143" type="Word">
       <attributes paragraph="1" paragraph_position="143" text="h&#244;tel" />
@@ -483,7 +483,7 @@
       <attributes paragraph="1" paragraph_position="160" text="." />
     </node>
     <node ID="0.161" type="Word">
-      <attributes paragraph="1" paragraph_position="161" text="D&apos;" />
+      <attributes paragraph="1" paragraph_position="161" text="D'" />
     </node>
     <node ID="0.162" type="Word">
       <attributes paragraph="1" paragraph_position="162" text="ailleurs" />
@@ -498,7 +498,7 @@
       <attributes paragraph="1" paragraph_position="165" text="donnerai" />
     </node>
     <node ID="0.166" type="Word">
-      <attributes paragraph="1" paragraph_position="166" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="166" text="l'" />
     </node>
     <node ID="0.167" type="Word">
       <attributes paragraph="1" paragraph_position="167" text="ordre" />
@@ -705,7 +705,7 @@
       <attributes paragraph="1" paragraph_position="234" text="sur" />
     </node>
     <node ID="0.235" type="Word">
-      <attributes paragraph="1" paragraph_position="235" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="235" text="l'" />
     </node>
     <node ID="0.236" type="Word">
       <attributes paragraph="1" paragraph_position="236" text="Abraham" />

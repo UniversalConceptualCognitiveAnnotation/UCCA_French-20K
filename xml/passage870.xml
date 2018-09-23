@@ -57,7 +57,7 @@
       <attributes paragraph="1" paragraph_position="18" text="," />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="19" text="s'" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="il" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="de" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="25" text="l'" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Oc&#233;an" />
@@ -84,7 +84,7 @@
       <attributes paragraph="1" paragraph_position="27" text="," />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="28" text="s'" />
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="il" />
@@ -216,7 +216,7 @@
       <attributes paragraph="1" paragraph_position="71" text="Parce" />
     </node>
     <node ID="0.72" type="Word">
-      <attributes paragraph="1" paragraph_position="72" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="72" text="qu'" />
     </node>
     <node ID="0.73" type="Word">
       <attributes paragraph="1" paragraph_position="73" text="il" />

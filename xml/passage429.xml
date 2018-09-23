@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="de" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="6" text="l'" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="Oc&#233;an" />
@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="sonde" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="15" text="n'" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="a" />
@@ -165,7 +165,7 @@
       <attributes paragraph="1" paragraph_position="54" text="est" />
     </node>
     <node ID="0.55" type="Word">
-      <attributes paragraph="1" paragraph_position="55" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="55" text="l'" />
     </node>
     <node ID="0.56" type="Word">
       <attributes paragraph="1" paragraph_position="56" text="organisme" />

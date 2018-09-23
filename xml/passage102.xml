@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="nouveau" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="l&apos;opinion" />
+      <attributes paragraph="1" paragraph_position="15" text="l'opinion" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="publique" />
@@ -87,7 +87,7 @@
       <attributes paragraph="1" paragraph_position="28" text="qui" />
     </node>
     <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="n&apos;avaient" />
+      <attributes paragraph="1" paragraph_position="29" text="n'avaient" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="pas" />
@@ -279,7 +279,7 @@
       <attributes paragraph="1" paragraph_position="92" text="suite" />
     </node>
     <node ID="0.93" type="Word">
-      <attributes paragraph="1" paragraph_position="93" text="d&apos;absence" />
+      <attributes paragraph="1" paragraph_position="93" text="d'absence" />
     </node>
     <node ID="0.94" type="Word">
       <attributes paragraph="1" paragraph_position="94" text="de" />
@@ -294,7 +294,7 @@
       <attributes paragraph="1" paragraph_position="97" text="ne" />
     </node>
     <node ID="0.98" type="Word">
-      <attributes paragraph="1" paragraph_position="98" text="s&apos;&#233;l&#232;ve" />
+      <attributes paragraph="1" paragraph_position="98" text="s'&#233;l&#232;ve" />
     </node>
     <node ID="0.99" type="Word">
       <attributes paragraph="1" paragraph_position="99" text="pas" />

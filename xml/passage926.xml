@@ -105,13 +105,13 @@
       <attributes paragraph="1" paragraph_position="34" text="pour" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="35" text="l'" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="avenir" />
     </node>
     <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="37" text="d'" />
     </node>
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="incurables" />
@@ -123,7 +123,7 @@
       <attributes paragraph="1" paragraph_position="40" text="." />
     </node>
     <node ID="0.41" type="Word">
-      <attributes paragraph="1" paragraph_position="41" text="L&apos;" />
+      <attributes paragraph="1" paragraph_position="41" text="L'" />
     </node>
     <node ID="0.42" type="Word">
       <attributes paragraph="1" paragraph_position="42" text="&#233;quipage" />
@@ -162,7 +162,7 @@
       <attributes paragraph="1" paragraph_position="53" text="donner" />
     </node>
     <node ID="0.54" type="Word">
-      <attributes paragraph="1" paragraph_position="54" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="54" text="l'" />
     </node>
     <node ID="0.55" type="Word">
       <attributes paragraph="1" paragraph_position="55" text="id&#233;e" />
@@ -222,7 +222,7 @@
       <attributes paragraph="1" paragraph_position="73" text="erreur" />
     </node>
     <node ID="0.74" type="Word">
-      <attributes paragraph="1" paragraph_position="74" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="74" text="d'" />
     </node>
     <node ID="0.75" type="Word">
       <attributes paragraph="1" paragraph_position="75" text="appr&#233;ciation" />
@@ -237,7 +237,7 @@
       <attributes paragraph="1" paragraph_position="78" text="illusion" />
     </node>
     <node ID="0.79" type="Word">
-      <attributes paragraph="1" paragraph_position="79" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="79" text="d'" />
     </node>
     <node ID="0.80" type="Word">
       <attributes paragraph="1" paragraph_position="80" text="optique" />
@@ -270,7 +270,7 @@
       <attributes paragraph="1" paragraph_position="89" text="causaient" />
     </node>
     <node ID="0.90" type="Word">
-      <attributes paragraph="1" paragraph_position="90" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="90" text="d'" />
     </node>
     <node ID="0.91" type="Word">
       <attributes paragraph="1" paragraph_position="91" text="intol&#233;rables" />
@@ -321,7 +321,7 @@
       <attributes paragraph="1" paragraph_position="106" text="&#233;tat" />
     </node>
     <node ID="0.107" type="Word">
-      <attributes paragraph="1" paragraph_position="107" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="107" text="d'" />
     </node>
     <node ID="0.108" type="Word">
       <attributes paragraph="1" paragraph_position="108" text="&#233;r&#233;thisme" />

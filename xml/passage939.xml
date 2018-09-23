@@ -45,7 +45,7 @@
       <attributes paragraph="1" paragraph_position="14" text="je" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="15" text="n'" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="ai" />
@@ -81,7 +81,7 @@
       <attributes paragraph="1" paragraph_position="26" text="de" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="27" text="l'" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="Union" />
@@ -108,7 +108,7 @@
       <attributes paragraph="1" paragraph_position="35" text="il" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="36" text="n'" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="en" />

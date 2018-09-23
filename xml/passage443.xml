@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="L&apos;" />
+      <attributes paragraph="1" paragraph_position="1" text="L'" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="opinion" />
@@ -12,7 +12,7 @@
       <attributes paragraph="1" paragraph_position="3" text="publique" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="4" text="s'" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="&#233;tant" />
@@ -33,7 +33,7 @@
       <attributes paragraph="1" paragraph_position="10" text="de" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="11" text="l'" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="Union" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="pr&#233;paratifs" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="25" text="d'" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="une" />
@@ -117,7 +117,7 @@
       <attributes paragraph="1" paragraph_position="38" text="marche" />
     </node>
     <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="39" text="l'" />
     </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="Abraham" />
@@ -201,7 +201,7 @@
       <attributes paragraph="1" paragraph_position="66" text="activement" />
     </node>
     <node ID="0.67" type="Word">
-      <attributes paragraph="1" paragraph_position="67" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="67" text="l'" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="armement" />

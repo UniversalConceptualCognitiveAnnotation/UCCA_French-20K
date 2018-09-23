@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="baleine" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="35" text="n'" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="&#233;tait" />
@@ -581,7 +581,7 @@
     </node>
     <node ID="1.38" type="FN">
       <attributes />
-      <extra remarks="I didn&apos;t manage to add here the remote Participant &quot;il&quot;" />
+      <extra remarks="I didn't manage to add here the remote Participant &quot;il&quot;" />
       <edge toID="1.39" type="P">
         <attributes />
       </edge>

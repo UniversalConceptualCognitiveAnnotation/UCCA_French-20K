@@ -132,7 +132,7 @@
       <attributes paragraph="1" paragraph_position="43" text="," />
     </node>
     <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="c&apos;" />
+      <attributes paragraph="1" paragraph_position="44" text="c'" />
     </node>
     <node ID="0.45" type="Word">
       <attributes paragraph="1" paragraph_position="45" text="est" />
@@ -150,7 +150,7 @@
       <attributes paragraph="1" paragraph_position="49" text="kilogrammes" />
     </node>
     <node ID="0.50" type="Word">
-      <attributes paragraph="1" paragraph_position="50" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="50" text="qu'" />
     </node>
     <node ID="0.51" type="Word">
       <attributes paragraph="1" paragraph_position="51" text="il" />
@@ -168,7 +168,7 @@
       <attributes paragraph="1" paragraph_position="55" text="pouss&#233;e" />
     </node>
     <node ID="0.56" type="Word">
-      <attributes paragraph="1" paragraph_position="56" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="56" text="qu'" />
     </node>
     <node ID="0.57" type="Word">
       <attributes paragraph="1" paragraph_position="57" text="ils" />

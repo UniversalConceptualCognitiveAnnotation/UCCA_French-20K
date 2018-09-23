@@ -39,7 +39,7 @@
       <attributes paragraph="1" paragraph_position="12" text="que" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="13" text="l'" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="on" />
@@ -102,7 +102,7 @@
       <attributes paragraph="1" paragraph_position="33" text="personne" />
     </node>
     <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="34" text="n'" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="en" />

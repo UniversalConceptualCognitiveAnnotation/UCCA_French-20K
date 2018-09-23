@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="." />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="L&apos;" />
+      <attributes paragraph="1" paragraph_position="6" text="L'" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="Abraham" />
@@ -66,7 +66,7 @@
       <attributes paragraph="1" paragraph_position="21" text="&#233;veiller" />
     </node>
     <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="22" text="l'" />
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="attention" />
@@ -78,7 +78,7 @@
       <attributes paragraph="1" paragraph_position="25" text="stimuler" />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="26" text="l'" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="apathie" />
@@ -87,7 +87,7 @@
       <attributes paragraph="1" paragraph_position="28" text="de" />
     </node>
     <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="29" text="l'" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="animal" />
@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="." />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="D&apos;" />
+      <attributes paragraph="1" paragraph_position="43" text="D'" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="&#233;normes" />
@@ -228,7 +228,7 @@
       <attributes paragraph="1" paragraph_position="75" text="l" />
     </node>
     <node ID="0.76" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="76" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="76" text="'" />
     </node>
     <node ID="0.77" type="Word">
       <attributes paragraph="1" paragraph_position="77" text="Abraham" />
@@ -246,7 +246,7 @@
       <attributes paragraph="1" paragraph_position="81" text="pendant" />
     </node>
     <node ID="0.82" type="Word">
-      <attributes paragraph="1" paragraph_position="82" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="82" text="qu'" />
     </node>
     <node ID="0.83" type="Word">
       <attributes paragraph="1" paragraph_position="83" text="il" />

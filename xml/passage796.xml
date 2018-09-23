@@ -57,7 +57,7 @@
       <attributes paragraph="1" paragraph_position="18" text="qui" />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="19" text="l'" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="attendait" />
@@ -90,7 +90,7 @@
       <attributes paragraph="1" paragraph_position="29" text=";" />
     </node>
     <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="30" text="l'" />
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="h&#233;lice" />
@@ -252,7 +252,7 @@
       <attributes paragraph="1" paragraph_position="83" text="de" />
     </node>
     <node ID="0.84" type="Word">
-      <attributes paragraph="1" paragraph_position="84" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="84" text="l'" />
     </node>
     <node ID="0.85" type="Word">
       <attributes paragraph="1" paragraph_position="85" text="Atlantique" />

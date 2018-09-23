@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="&#233;tait" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="6" text="l'" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="opinion" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="avouer" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="qu&apos;" />
+      <attributes paragraph="1" paragraph_position="21" text="qu'" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="il" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="devoir" />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="58" text="l'" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="entreprendre" />

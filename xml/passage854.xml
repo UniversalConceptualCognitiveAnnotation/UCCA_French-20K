@@ -21,7 +21,7 @@
       <attributes paragraph="1" paragraph_position="6" text="," />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="7" text="d'" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="une" />
@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="pas" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="20" text="d'" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="&#233;gal" />

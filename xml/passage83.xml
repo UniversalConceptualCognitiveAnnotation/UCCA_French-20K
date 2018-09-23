@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="transporter" />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="43" text="d'" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="un" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="jours" />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="58" text="d'" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="intervalle" />
@@ -210,7 +210,7 @@
       <attributes paragraph="1" paragraph_position="69" text="Colon" />
     </node>
     <node ID="0.70" type="Word">
-      <attributes paragraph="1" paragraph_position="70" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="70" text="l'" />
     </node>
     <node ID="0.71" type="Word">
       <attributes paragraph="1" paragraph_position="71" text="avaient" />

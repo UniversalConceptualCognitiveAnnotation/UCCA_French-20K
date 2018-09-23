@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="je" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="n&apos;" />
+      <attributes paragraph="1" paragraph_position="6" text="n'" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="&#233;tais" />
@@ -69,7 +69,7 @@
       <attributes paragraph="1" paragraph_position="22" text="part" />
     </node>
     <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="d&apos;" />
+      <attributes paragraph="1" paragraph_position="23" text="d'" />
     </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="observations" />
@@ -105,13 +105,13 @@
       <attributes paragraph="1" paragraph_position="34" text="de" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="s&apos;" />
+      <attributes paragraph="1" paragraph_position="35" text="s'" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="appeler" />
     </node>
     <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="l&apos;Argus" />
+      <attributes paragraph="1" paragraph_position="37" text="l'Argus" />
     </node>
     <node ID="0.38" type="Punctuation">
       <attributes paragraph="1" paragraph_position="38" text="." />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="sur" />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="l&apos;" />
+      <attributes paragraph="1" paragraph_position="58" text="l'" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="enthousiasme" />
@@ -560,7 +560,7 @@
     </node>
     <node ID="1.45" type="FN">
       <attributes />
-      <extra remarks="l&apos; should be annotated as E and Argus as C." />
+      <extra remarks="l' should be annotated as E and Argus as C." />
       <edge toID="0.37" type="Terminal">
         <attributes />
       </edge>

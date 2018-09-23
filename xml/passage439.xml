@@ -42,7 +42,7 @@
       <attributes paragraph="1" paragraph_position="13" text="voulais" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="jusqu&apos;" />
+      <attributes paragraph="1" paragraph_position="14" text="jusqu'" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="&#224;" />
@@ -156,7 +156,7 @@
       <attributes paragraph="1" paragraph_position="51" text="," />
     </node>
     <node ID="0.52" type="Word">
-      <attributes paragraph="1" paragraph_position="52" text="j&apos;" />
+      <attributes paragraph="1" paragraph_position="52" text="j'" />
     </node>
     <node ID="0.53" type="Word">
       <attributes paragraph="1" paragraph_position="53" text="admettais" />
@@ -165,7 +165,7 @@
       <attributes paragraph="1" paragraph_position="54" text="l" />
     </node>
     <node ID="0.55" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="55" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="55" text="'" />
     </node>
     <node ID="0.56" type="Word">
       <attributes paragraph="1" paragraph_position="56" text="existence" />
