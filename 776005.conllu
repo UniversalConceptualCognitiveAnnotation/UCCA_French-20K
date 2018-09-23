@@ -14,7 +14,7 @@
 11	malle	_	Word	Word	_	8	A	8:A|31:A	_
 12	tous	_	Word	Word	_	14	E	14:E	_
 13	mes	_	Word	Word	_	14	E	14:E	_
-14	ustensiles	_	Word	Word	_	8	A	8:A|31:C|28:A|35:A	_
+14	ustensiles	_	Word	Word	_	8	A	8:A|28:A|31:C|35:A	_
 15	de	_	Word	Word	_	16	R	16:R	_
 16	voyage	_	Word	Word	_	14	E	14:E	_
 17	,	_	Punctuation	Punctuation	_	14	U	14:U	_

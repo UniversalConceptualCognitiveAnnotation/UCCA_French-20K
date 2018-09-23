@@ -49,7 +49,7 @@
 46	unes	_	Word	Word	_	44	Terminal	44:Terminal	_
 47	de	_	Word	Word	_	44	R	44:R	_
 48	ces	_	Word	Word	_	49	E	49:E	_
-49	dents	_	Word	Word	_	0	C	0:C|64:C|50:A	_
+49	dents	_	Word	Word	_	0	C	0:C|50:A|64:C	_
 50	implantées	_	Word	Word	_	49	E	49:E	_
 51	dans	_	Word	Word	_	53	R	53:R	_
 52	le	_	Word	Word	_	53	E	53:E	_
