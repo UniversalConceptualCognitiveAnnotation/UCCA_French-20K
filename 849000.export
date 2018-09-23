@@ -1,0 +1,30 @@
+#BOS 849000
+Les	Word	--	Terminal	500
+officiers	Word	--	Terminal	501
+du	Word	--	Terminal	502
+bord	Word	--	Terminal	503
+partageaient	Word	--	Terminal	504
+l'	Word	--	Terminal	505
+opinion	Word	--	Terminal	506
+de	Word	--	Terminal	507
+leur	Word	--	Terminal	508
+chef	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	514
+#501	FN	--	C	514
+#502	FN	--	R	511
+#503	FN	--	C	511
+#504	FN	--	D	515
+#505	FN	--	E	512
+#506	FN	--	C	512
+#507	FN	--	R	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	E	514
+#512	FN	--	P	515
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 849000

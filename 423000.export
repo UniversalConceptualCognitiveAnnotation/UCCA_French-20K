@@ -1,0 +1,43 @@
+#BOS 423000
+Mais	Word	--	Terminal	500
+l'	Word	--	Terminal	501
+hypothèse	Word	--	Terminal	502
+d'	Word	--	Terminal	503
+une	Word	--	Terminal	504
+machine	Word	--	Terminal	505
+de	Word	--	Terminal	506
+guerre	Word	--	Terminal	507
+tomba	Word	--	Terminal	508
+encore	Word	--	Terminal	509
+devant	Word	--	Terminal	510
+la	Word	--	Terminal	511
+déclaration	Word	--	Terminal	512
+des	Word	--	Terminal	513
+gouvernements	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	523	LR	524
+#501	FN	--	E	520
+#502	FN	--	C	520
+#503	FN	--	R	519
+#504	FN	--	E	519
+#505	FN	--	C	519
+#506	FN	--	R	516
+#507	FN	--	C	516
+#508	FN	--	P	522
+#509	FN	--	D	522
+#510	FN	--	R	521
+#511	FN	--	E	517
+#512	FN	--	C	517
+#513	FN	--	R	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	519
+#517	FN	--	P	521
+#518	FN	--	A	521
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	A	522
+#522	FN	--	H	523	LA	524
+#523	FN	--	--	0
+#524	LKG	--	--	0
+#EOS 423000

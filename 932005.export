@@ -1,0 +1,69 @@
+#BOS 932005
+C'	Word	--	Terminal	500
+était	Word	--	Terminal	501
+un	Word	--	Terminal	502
+suprême	Word	--	Terminal	503
+défi	Word	--	Terminal	504
+porté	Word	--	Terminal	505
+au	Word	--	Terminal	506
+narwal	Word	--	Terminal	507
+géant	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+et	Word	--	Terminal	510
+celui	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+ci	Word	--	Terminal	512
+ne	Word	--	Terminal	513
+pouvait	Word	--	Terminal	514
+raisonnablement	Word	--	Terminal	515
+se	Word	--	Terminal	516
+dispenser	Word	--	Terminal	516
+de	Word	--	Terminal	516
+répondre	Word	--	Terminal	516
+à	Word	--	Terminal	517
+cette	Word	--	Terminal	518
+sommation	Word	--	Terminal	519
+«	Punctuation	--	Terminal	520
+à	Word	--	Terminal	521
+comparaître	Word	--	Terminal	522
+!	Punctuation	--	Terminal	523
+»	Punctuation	--	Terminal	524
+#500	FN	--	A	533
+#501	FN	--	S	533
+#502	FN	--	E	531
+#503	FN	--	E	531
+#504	FN	--	C	531	A*	527
+#505	FN	--	P	527
+#506	FN	--	R	525
+#507	FN	--	C	525
+#508	FN	--	E	525
+#509	PNCT	--	U	536
+#510	FN	--	L	536	LR	537
+#511	PNCT	--	U	512
+#512	FN	--	A	535	A*	532	A*	530
+#513	FN	--	D	535
+#514	FN	--	D	535
+#515	FN	--	D	535
+#516	FN	--	P	535
+#517	FN	--	R	534
+#518	FN	--	E	534
+#519	FN	--	P	532
+#520	PNCT	--	U	532
+#521	FN	--	F	526
+#522	FN	--	C	526
+#523	PNCT	--	U	526
+#524	PNCT	--	U	526
+#525	FN	--	A	527
+#526	FN	--	P	530
+#527	FN	--	E	531
+#528	FN	--	A	532
+#529	FN	--	A	530
+#530	FN	--	A	532
+#531	FN	--	A	533
+#532	FN	--	C	534
+#533	FN	--	H	536	LA	537
+#534	FN	--	A	535
+#535	FN	--	H	536	LA	537
+#536	FN	--	--	0
+#537	LKG	--	--	0
+#EOS 932005

@@ -1,0 +1,67 @@
+#BOS 782003
+Un	Word	--	Terminal	500
+des	Word	--	Terminal	501
+matelots	Word	--	Terminal	502
+me	Word	--	Terminal	503
+conduisit	Word	--	Terminal	504
+sur	Word	--	Terminal	505
+la	Word	--	Terminal	506
+dunette	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+où	Word	--	Terminal	509
+je	Word	--	Terminal	510
+me	Word	--	Terminal	511
+trouvai	Word	--	Terminal	511
+en	Word	--	Terminal	512
+présence	Word	--	Terminal	513
+d'	Word	--	Terminal	514
+un	Word	--	Terminal	515
+officier	Word	--	Terminal	516
+de	Word	--	Terminal	517
+bonne	Word	--	Terminal	518
+mine	Word	--	Terminal	519
+qui	Word	--	Terminal	520
+me	Word	--	Terminal	521
+tendit	Word	--	Terminal	522
+la	Word	--	Terminal	523
+main	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	C	526
+#501	FN	--	R	526	E*	527
+#502	FN	--	C	527
+#503	FN	--	A	532
+#504	FN	--	P	532
+#505	FN	--	R	528
+#506	FN	--	E	528
+#507	FN	--	C	528
+#508	PNCT	--	U	536
+#509	FN	--	L	536	LR	537
+#510	FN	--	A	535
+#511	FN	--	D	535
+#512	FN	--	R	529
+#513	FN	--	C	529
+#514	FN	--	R	534
+#515	FN	--	E	534
+#516	FN	--	C	534	A*	533
+#517	FN	--	R	530
+#518	FN	--	E	530
+#519	FN	--	C	530
+#520	FN	--	R	533
+#521	FN	--	A	533
+#522	FN	--	P	533
+#523	FN	--	E	531
+#524	FN	--	C	531
+#525	PNCT	--	U	531
+#526	FN	--	E	527
+#527	FN	--	A	532
+#528	FN	--	A	532
+#529	FN	--	S	535
+#530	FN	--	E	534
+#531	FN	--	A	533
+#532	FN	--	H	536	LA	537
+#533	FN	--	E	534
+#534	FN	--	A	535
+#535	FN	--	H	536	LA	537
+#536	FN	--	--	0
+#537	LKG	--	--	0
+#EOS 782003

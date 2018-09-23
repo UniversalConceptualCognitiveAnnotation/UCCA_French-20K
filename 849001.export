@@ -1,0 +1,69 @@
+#BOS 849001
+Il	Word	--	Terminal	500
+fallait	Word	--	Terminal	501
+les	Word	--	Terminal	502
+entendre	Word	--	Terminal	503
+causer	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+discuter	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+disputer	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+calculer	Word	--	Terminal	510
+les	Word	--	Terminal	511
+diverses	Word	--	Terminal	512
+chances	Word	--	Terminal	513
+d'	Word	--	Terminal	514
+une	Word	--	Terminal	515
+rencontre	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+et	Word	--	Terminal	518
+observer	Word	--	Terminal	519
+la	Word	--	Terminal	520
+vaste	Word	--	Terminal	521
+étendue	Word	--	Terminal	522
+de	Word	--	Terminal	523
+l'	Word	--	Terminal	524
+Océan	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	F	538
+#501	FN	--	F	538
+#502	FN	--	A	538	A*	533	A*	534	A*	535
+#503	FN	--	P	538
+#504	FN	--	C	527
+#505	PNCT	--	U	527
+#506	FN	--	C	527
+#507	PNCT	--	U	527
+#508	FN	--	C	527
+#509	PNCT	--	U	536
+#510	FN	--	P	534
+#511	FN	--	E	531
+#512	FN	--	E	531
+#513	FN	--	C	531
+#514	FN	--	R	528
+#515	FN	--	E	528
+#516	FN	--	C	528
+#517	PNCT	--	U	536
+#518	FN	--	L	536	LR	537
+#519	FN	--	P	535
+#520	FN	--	E	532
+#521	FN	--	E	532
+#522	FN	--	C	532
+#523	FN	--	R	529
+#524	FN	--	E	529
+#525	FN	--	C	529
+#526	PNCT	--	U	529
+#527	FN	--	P	533
+#528	FN	--	E	531
+#529	FN	--	E	532
+#530	FN	--	A	538
+#531	FN	--	A	534
+#532	FN	--	A	535
+#533	FN	--	H	536
+#534	FN	--	H	536	LA	537
+#535	FN	--	H	536	LA	537
+#536	FN	--	A	538
+#537	LKG	--	--	0
+#538	FN	--	H	539
+#539	FN	--	--	0
+#EOS 849001

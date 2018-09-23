@@ -1,0 +1,54 @@
+#BOS 417000
+J'	Word	--	Terminal	500
+étais	Word	--	Terminal	501
+parfaitement	Word	--	Terminal	502
+au	Word	--	Terminal	501
+courant	Word	--	Terminal	501
+de	Word	--	Terminal	503
+la	Word	--	Terminal	504
+question	Word	--	Terminal	505
+à	Word	--	Terminal	506
+l'	Word	--	Terminal	507
+ordre	Word	--	Terminal	508
+du	Word	--	Terminal	509
+jour	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+et	Word	--	Terminal	512
+comment	Word	--	Terminal	513
+ne	Word	--	Terminal	514
+l'	Word	--	Terminal	515
+aurais	Word	--	Terminal	516
+-	Punctuation	--	Terminal	517
+je	Word	--	Terminal	518
+pas	Word	--	Terminal	514
+été	Word	--	Terminal	519
+?	Punctuation	--	Terminal	520
+#500	FN	--	A	525
+#501	FN	--	S	525
+#502	FN	--	D	525
+#503	FN	--	R	524
+#504	FN	--	E	524
+#505	FN	--	C	524
+#506	FN	--	R	523
+#507	FN	--	E	523
+#508	FN	--	C	523
+#509	FN	--	R	521
+#510	FN	--	C	521
+#511	PNCT	--	U	526
+#512	FN	--	L	526	LR	527
+#513	FN	--	D	522
+#514	FN	--	D	522
+#515	FN	--	A	522
+#516	FN	--	F	522
+#517	PNCT	--	U	522
+#518	FN	--	A	522
+#519	FN	--	S	522
+#520	PNCT	--	U	522
+#521	FN	--	E	523
+#522	FN	--	H	526	LA	527
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526	LA	527
+#526	FN	--	--	0
+#527	LKG	--	--	0
+#EOS 417000

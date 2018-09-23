@@ -1,0 +1,68 @@
+#BOS 933002
+On	Word	--	Terminal	500
+employait	Word	--	Terminal	501
+mille	Word	--	Terminal	502
+moyens	Word	--	Terminal	503
+pour	Word	--	Terminal	504
+éveiller	Word	--	Terminal	505
+l'	Word	--	Terminal	506
+attention	Word	--	Terminal	507
+ou	Word	--	Terminal	508
+stimuler	Word	--	Terminal	509
+l'	Word	--	Terminal	510
+apathie	Word	--	Terminal	511
+de	Word	--	Terminal	512
+l'	Word	--	Terminal	513
+animal	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+au	Word	--	Terminal	516
+cas	Word	--	Terminal	517
+où	Word	--	Terminal	518
+il	Word	--	Terminal	519
+se	Word	--	Terminal	520
+fût	Word	--	Terminal	521
+rencontré	Word	--	Terminal	520
+dans	Word	--	Terminal	522
+ces	Word	--	Terminal	523
+parages	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	A	532	A*	533	A*	534
+#501	FN	--	P	532
+#502	FN	--	E	526
+#503	FN	--	C	526
+#504	FN	--	L	537
+#505	FN	--	P	533
+#506	FN	--	E	527
+#507	FN	--	C	527
+#508	FN	--	L	537
+#509	FN	--	P	534
+#510	FN	--	E	531
+#511	FN	--	C	531
+#512	FN	--	R	528
+#513	FN	--	E	528
+#514	FN	--	C	528	E*	527
+#515	PNCT	--	U	537
+#516	FN	--	R	529
+#517	FN	--	C	529
+#518	FN	--	R	529
+#519	FN	--	A	536
+#520	FN	--	P	536
+#521	FN	--	F	536
+#522	FN	--	R	530
+#523	FN	--	E	530
+#524	FN	--	C	530
+#525	PNCT	--	U	530
+#526	FN	--	A	532
+#527	FN	--	A	533
+#528	FN	--	E	531
+#529	FN	--	L	537	LR	538
+#530	FN	--	A	536
+#531	FN	--	A	534
+#532	FN	--	H	537
+#533	FN	--	H	537
+#534	FN	--	H	537	LA	538
+#535	FN	--	A	536
+#536	FN	--	H	537	LA	538
+#537	FN	--	--	0
+#538	LKG	--	--	0
+#EOS 933002

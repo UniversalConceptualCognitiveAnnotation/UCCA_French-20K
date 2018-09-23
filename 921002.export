@@ -1,0 +1,90 @@
+#BOS 921002
+C'	Word	--	Terminal	500
+était	Word	--	Terminal	501
+alors	Word	--	Terminal	502
+la	Word	--	Terminal	503
+mauvaise	Word	--	Terminal	504
+saison	Word	--	Terminal	505
+australe	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+car	Word	--	Terminal	508
+le	Word	--	Terminal	509
+juillet	Word	--	Terminal	510
+de	Word	--	Terminal	511
+cette	Word	--	Terminal	512
+zone	Word	--	Terminal	513
+correspond	Word	--	Terminal	514
+à	Word	--	Terminal	515
+notre	Word	--	Terminal	516
+janvier	Word	--	Terminal	517
+d'	Word	--	Terminal	518
+Europe	Word	--	Terminal	519
+;	Punctuation	--	Terminal	520
+mais	Word	--	Terminal	521
+la	Word	--	Terminal	522
+mer	Word	--	Terminal	523
+se	Word	--	Terminal	524
+maintenait	Word	--	Terminal	524
+belle	Word	--	Terminal	525
+,	Punctuation	--	Terminal	526
+et	Word	--	Terminal	527
+se	Word	--	Terminal	528
+laissait	Word	--	Terminal	528
+facilement	Word	--	Terminal	529
+observer	Word	--	Terminal	528
+dans	Word	--	Terminal	530
+un	Word	--	Terminal	531
+vaste	Word	--	Terminal	532
+périmètre	Word	--	Terminal	533
+.	Punctuation	--	Terminal	534
+#500	FN	--	F	541
+#501	FN	--	S	541
+#502	FN	--	T	541
+#503	FN	--	E	535
+#504	FN	--	E	535
+#505	FN	--	C	535
+#506	FN	--	E	535
+#507	PNCT	--	U	547
+#508	FN	--	L	547	LR	548
+#509	FN	--	E	542
+#510	FN	--	C	542
+#511	FN	--	R	536
+#512	FN	--	E	536
+#513	FN	--	C	536
+#514	FN	--	P	544
+#515	FN	--	R	543
+#516	FN	--	E	543
+#517	FN	--	C	543
+#518	FN	--	R	537
+#519	FN	--	C	537
+#520	PNCT	--	U	547
+#521	FN	--	L	547
+#522	FN	--	E	538
+#523	FN	--	C	538	A*	546
+#524	FN	--	S	539
+#525	FN	--	D	539
+#526	PNCT	--	U	547
+#527	FN	--	L	547	LR	549
+#528	FN	--	P	546
+#529	FN	--	D	546
+#530	FN	--	R	540
+#531	FN	--	E	540
+#532	FN	--	E	540
+#533	FN	--	C	540
+#534	PNCT	--	U	540
+#535	FN	--	A	541
+#536	FN	--	E	542
+#537	FN	--	E	543
+#538	FN	--	A	539
+#539	FN	--	H	547	LA	549
+#540	FN	--	A	546
+#541	FN	--	H	547	LA	548
+#542	FN	--	A	544
+#543	FN	--	A	544
+#544	FN	--	H	547	LA	548
+#545	FN	--	A	546
+#546	FN	--	H	547	LA	549
+#547	FN	--	--	0
+#548	LKG	--	--	0
+#549	LKG	--	--	0
+#EOS 921002

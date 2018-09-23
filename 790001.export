@@ -1,0 +1,17 @@
+#BOS 790001
+Il	Word	--	Terminal	500
+fit	Word	--	Terminal	501
+venir	Word	--	Terminal	502
+son	Word	--	Terminal	503
+ingénieur	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	507
+#501	FN	--	F	507
+#502	FN	--	P	507
+#503	FN	--	E	506
+#504	FN	--	C	506
+#505	PNCT	--	U	506
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 790001

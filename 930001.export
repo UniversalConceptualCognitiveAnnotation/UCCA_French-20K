@@ -1,0 +1,45 @@
+#BOS 930001
+L	Word	--	Terminal	500
+'	Punctuation	--	Terminal	501
+Abraham	Word	--	Terminal	503
+-	Punctuation	--	Terminal	502
+Lincoln	Word	--	Terminal	503
+n'	Word	--	Terminal	504
+avait	Word	--	Terminal	505
+rien	Word	--	Terminal	506
+à	Word	--	Terminal	507
+se	Word	--	Terminal	508
+reprocher	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+ayant	Word	--	Terminal	510
+tout	Word	--	Terminal	511
+fait	Word	--	Terminal	512
+pour	Word	--	Terminal	513
+réussir	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	516
+#501	PNCT	--	U	516
+#502	PNCT	--	U	503
+#503	FN	--	C	516	A*	522	A*	517
+#504	FN	--	D	519
+#505	FN	--	F	519
+#506	FN	--	A	519
+#507	FN	--	R	518
+#508	FN	--	C	518
+#509	PNCT	--	U	523
+#510	FN	--	F	522
+#511	FN	--	E	521
+#512	FN	--	P	522
+#513	FN	--	L	523	LR	524
+#514	FN	--	P	517
+#515	PNCT	--	U	517
+#516	FN	--	A	519
+#517	FN	--	H	523	LA	524
+#518	FN	--	P	519
+#519	FN	--	H	523
+#520	FN	--	C	521
+#521	FN	--	A	522
+#522	FN	--	H	523	LA	524
+#523	FN	--	--	0
+#524	LKG	--	--	0
+#EOS 930001

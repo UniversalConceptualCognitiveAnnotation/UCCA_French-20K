@@ -1,0 +1,23 @@
+#BOS 852001
+Un	Word	--	Terminal	500
+baleinier	Word	--	Terminal	501
+n'	Word	--	Terminal	502
+eût	Word	--	Terminal	503
+pas	Word	--	Terminal	502
+été	Word	--	Terminal	504
+mieux	Word	--	Terminal	505
+armé	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	E	508
+#501	FN	--	C	508
+#502	FN	--	D	510
+#503	FN	--	F	510
+#504	FN	--	F	510
+#505	FN	--	D	510
+#506	FN	--	P	510
+#507	PNCT	--	U	510
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 852001

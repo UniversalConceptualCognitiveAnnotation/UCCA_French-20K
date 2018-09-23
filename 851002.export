@@ -1,0 +1,64 @@
+#BOS 851002
+Seul	Word	--	Terminal	500
+entre	Word	--	Terminal	501
+tous	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Conseil	Word	--	Terminal	504
+protestait	Word	--	Terminal	505
+par	Word	--	Terminal	506
+son	Word	--	Terminal	507
+indifférence	Word	--	Terminal	508
+touchant	Word	--	Terminal	509
+la	Word	--	Terminal	510
+question	Word	--	Terminal	511
+qui	Word	--	Terminal	512
+nous	Word	--	Terminal	513
+passionnait	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+et	Word	--	Terminal	516
+détonait	Word	--	Terminal	517
+sur	Word	--	Terminal	518
+l'	Word	--	Terminal	519
+enthousiasme	Word	--	Terminal	520
+général	Word	--	Terminal	521
+du	Word	--	Terminal	522
+bord	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	S	526
+#501	FN	--	R	525
+#502	FN	--	C	525
+#503	PNCT	--	U	526
+#504	FN	--	C	527	A*	532	A*	526
+#505	FN	--	P	534
+#506	FN	--	R	533
+#507	FN	--	E	533
+#508	FN	--	C	533
+#509	FN	--	R	531
+#510	FN	--	E	531
+#511	FN	--	C	531	A*	528
+#512	FN	--	R	528
+#513	FN	--	A	528
+#514	FN	--	P	528
+#515	PNCT	--	U	535
+#516	FN	--	L	535	LR	536
+#517	FN	--	P	532
+#518	FN	--	R	530
+#519	FN	--	E	530
+#520	FN	--	C	530
+#521	FN	--	E	530
+#522	FN	--	R	529
+#523	FN	--	C	529
+#524	PNCT	--	U	529
+#525	FN	--	A	526
+#526	FN	--	E	527
+#527	FN	--	A	534
+#528	FN	--	E	531
+#529	FN	--	E	530
+#530	FN	--	A	532
+#531	FN	--	E	533
+#532	FN	--	H	535	LA	536
+#533	FN	--	A	534
+#534	FN	--	H	535	LA	536
+#535	FN	--	--	0
+#536	LKG	--	--	0
+#EOS 851002

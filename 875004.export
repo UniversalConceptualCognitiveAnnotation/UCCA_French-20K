@@ -1,0 +1,92 @@
+#BOS 875004
+-	Punctuation	--	Terminal	500
+Vous	Word	--	Terminal	501
+m'	Word	--	Terminal	502
+avez	Word	--	Terminal	503
+convaincu	Word	--	Terminal	504
+d'	Word	--	Terminal	505
+une	Word	--	Terminal	506
+chose	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+monsieur	Word	--	Terminal	509
+le	Word	--	Terminal	509
+naturaliste	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+c'	Word	--	Terminal	511
+est	Word	--	Terminal	511
+que	Word	--	Terminal	512
+si	Word	--	Terminal	513
+de	Word	--	Terminal	514
+tels	Word	--	Terminal	515
+animaux	Word	--	Terminal	516
+existent	Word	--	Terminal	517
+au	Word	--	Terminal	518
+fond	Word	--	Terminal	519
+des	Word	--	Terminal	520
+mers	Word	--	Terminal	521
+,	Punctuation	--	Terminal	522
+il	Word	--	Terminal	523
+faut	Word	--	Terminal	523
+nécessairement	Word	--	Terminal	524
+qu	Word	--	Terminal	525
+'	Punctuation	--	Terminal	526
+ils	Word	--	Terminal	527
+soient	Word	--	Terminal	528
+aussi	Word	--	Terminal	529
+forts	Word	--	Terminal	530
+que	Word	--	Terminal	531
+vous	Word	--	Terminal	532
+le	Word	--	Terminal	533
+dites	Word	--	Terminal	534
+.	Punctuation	--	Terminal	535
+#500	PNCT	--	U	546
+#501	FN	--	A	537
+#502	FN	--	A	537
+#503	FN	--	F	537
+#504	FN	--	P	537
+#505	FN	--	R	536
+#506	FN	--	E	536
+#507	FN	--	C	536
+#508	PNCT	--	U	537
+#509	FN	--	G	537
+#510	PNCT	--	U	546
+#511	FN	--	F	543
+#512	FN	--	L	546	LR	548
+#513	FN	--	L	546
+#514	FN	--	E	538
+#515	FN	--	E	538
+#516	FN	--	C	538
+#517	FN	--	S	543
+#518	FN	--	R	539
+#519	FN	--	C	539
+#520	FN	--	R	539	E*	540
+#521	FN	--	C	540
+#522	PNCT	--	U	546
+#523	FN	--	S	545
+#524	FN	--	D	545
+#525	FN	--	R	544
+#526	PNCT	--	U	544
+#527	FN	--	A	544
+#528	FN	--	F	544
+#529	FN	--	E	541
+#530	FN	--	C	541
+#531	FN	--	L	546	LR	547
+#532	FN	--	A	542
+#533	FN	--	A	542
+#534	FN	--	P	542
+#535	PNCT	--	U	542
+#536	FN	--	A	537
+#537	FN	--	H	546	LA	548
+#538	FN	--	A	543
+#539	FN	--	E	540
+#540	FN	--	A	543
+#541	FN	--	S	544
+#542	FN	--	H	546	LA	547
+#543	FN	--	H	546
+#544	FN	--	A	545
+#545	FN	--	H	546	LA	547	LA	548
+#546	FN	--	H	549
+#547	LKG	--	--	0
+#548	LKG	--	--	0
+#549	FN	--	--	0
+#EOS 875004

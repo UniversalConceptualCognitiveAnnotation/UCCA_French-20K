@@ -1,0 +1,32 @@
+#BOS 851001
+La	Word	--	Terminal	500
+frégate	Word	--	Terminal	501
+aurait	Word	--	Terminal	502
+eu	Word	--	Terminal	503
+cent	Word	--	Terminal	504
+fois	Word	--	Terminal	505
+raison	Word	--	Terminal	506
+de	Word	--	Terminal	507
+s'	Word	--	Terminal	508
+appeler	Word	--	Terminal	509
+l'Argus	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	E	512
+#501	FN	--	C	512
+#502	FN	--	F	516
+#503	FN	--	F	516
+#504	FN	--	E	513
+#505	FN	--	C	513
+#506	FN	--	S	516
+#507	FN	--	R	515
+#508	FN	--	E	514
+#509	FN	--	C	514
+#510	FN	--	A	515
+#511	PNCT	--	U	515
+#512	FN	--	A	516
+#513	FN	--	D	516
+#514	FN	--	S	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 851001

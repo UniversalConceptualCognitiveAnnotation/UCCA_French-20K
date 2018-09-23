@@ -1,0 +1,30 @@
+#BOS 870001
+-	Punctuation	--	Terminal	500
+Et	Word	--	Terminal	501
+pourquoi	Word	--	Terminal	502
+cet	Word	--	Terminal	503
+organisme	Word	--	Terminal	504
+si	Word	--	Terminal	505
+puissant	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+demanda	Word	--	Terminal	508
+Ned	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	515
+#501	FN	--	L	514
+#502	FN	--	D	513
+#503	FN	--	E	511
+#504	FN	--	C	511
+#505	FN	--	E	512
+#506	FN	--	C	512
+#507	PNCT	--	U	515
+#508	FN	--	P	515
+#509	FN	--	A	515
+#510	PNCT	--	U	515
+#511	FN	--	A	513
+#512	FN	--	S	513
+#513	FN	--	H	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 870001
