@@ -1,0 +1,25 @@
+# format = ucca
+1	Je	_	Word	-	-	_	A	_	_	_	_	_	_
+2	fus	_	Word	-	-	_	F	_	_	_	_	_	_
+3	très	_	Word	-	-	_	E	_	_	_	_	_	_
+4	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+5	satisfait	_	Word	-	+	_	_	_	_	_	_	_	_
+6	de	_	Word	-	-	_	_	R	_	_	_	_	_
+7	ma	_	Word	-	-	_	_	E	_	_	_	_	_
+8	cabine	_	Word	-	+	_	A	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+10	située	_	Word	-	+	_	_	E	_	_	_	_	_
+11	à	_	Word	-	-	_	_	_	_	R	_	_	_
+12	l'	_	Word	-	-	_	_	_	_	E	_	_	_
+13	arrière	_	Word	-	+	_	_	_	A	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+15	qui	_	Word	-	-	_	_	_	_	_	R	_	_
+16	s'	_	Word	-	+	_	_	E	_	_	_	_	_
+17	ouvrait	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+18	sur	_	Word	-	-	_	_	_	_	_	_	R	_
+19	le	_	Word	-	-	_	_	_	_	_	_	E	_
+20	carré	_	Word	-	+	_	_	_	_	_	A	_	_
+21	des	_	Word	-	-	_	_	_	_	_	_	_	R
+22	officiers	_	Word	-	+	_	_	_	_	_	_	E	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

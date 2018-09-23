@@ -1,0 +1,21 @@
+# format = ucca
+1	Conseil	_	Word	-	-	_	_	_	A	_	_	_
+2	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+3	jusqu'	_	Word	-	-	_	R	_	_	_	_	_
+4	ici	_	Word	-	+	_	_	_	T	_	_	_
+5	et	_	Word	-	-	_	N	_	_	_	_	_
+6	depuis	_	Word	-	-	_	_	R	_	_	_	_
+7	dix	_	Word	-	-	_	_	E	_	_	_	_
+8	ans	_	Word	-	+	_	C	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+10	m'	_	Word	-	-	_	_	_	A	_	_	_
+11	avait	_	Word	-	-	_	_	_	F	_	_	_
+12	suivi	_	Word	-	+	_	_	_	_	_	_	_
+13	partout	_	Word	-	+	_	_	_	A	_	_	_
+14	où	_	Word	-	-	_	_	_	_	_	R	_
+15	m'	_	Word	-	-	_	_	_	_	_	A	_
+16	entraînait	_	Word	-	+	_	_	_	_	E	_	_
+17	la	_	Word	-	-	_	_	_	_	_	_	E
+18	science	_	Word	-	+	_	_	_	_	_	A	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

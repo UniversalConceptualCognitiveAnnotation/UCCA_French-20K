@@ -1,0 +1,30 @@
+# format = ucca
+1	La	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+2	famille	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_	_
+3	du	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+4	harponneur	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+5	était	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+6	originaire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+7	de	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+8	Québec	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+10	et	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+11	formait	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+12	déjà	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+13	une	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+14	tribu	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+15	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+16	hardis	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+17	pêcheurs	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+18	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+19	l'	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+20	époque	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+21	où	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+22	cette	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+23	ville	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+24	appartenait	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+25	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+26	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+27	France	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

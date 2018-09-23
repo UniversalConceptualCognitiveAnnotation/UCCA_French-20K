@@ -1,0 +1,11 @@
+# format = ucca
+1	Et	_	Word	-	+	_	_	_	L
+2	cependant	_	Word	-	-	_	Terminal	_	_
+3	,	_	Punctuation	-	-	_	_	_	U
+4	quel	_	Word	-	-	_	_	_	D
+5	brave	_	Word	-	+	_	_	_	E
+6	et	_	Word	-	-	_	_	N	_
+7	digne	_	Word	-	-	_	_	C	_
+8	garçon	_	Word	-	+	_	_	_	_
+9	!	_	Punctuation	-	-	_	_	_	U
+

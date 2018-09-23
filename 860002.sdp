@@ -1,0 +1,20 @@
+# format = ucca
+1	Il	_	Word	-	-	_	A	_	_	_	_	_
+2	évitait	_	Word	-	+	_	_	_	_	_	_	_
+3	même	_	Word	-	-	_	D	_	_	_	_	_
+4	de	_	Word	-	-	_	_	F	_	_	_	_
+5	traiter	_	Word	-	+	_	A	_	_	_	_	_
+6	ce	_	Word	-	-	_	_	_	E	_	_	_
+7	sujet	_	Word	-	+	_	_	A	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+9	sur	_	Word	-	+	_	_	_	_	_	R	_
+10	lequel	_	Word	-	-	_	_	_	_	Terminal	_	_
+11	je	_	Word	-	-	_	_	_	_	_	A	_
+12	crus	_	Word	-	-	_	_	_	_	_	D	_
+13	devoir	_	Word	-	-	_	_	_	_	_	D	_
+14	l'	_	Word	-	-	_	_	_	_	_	A	_
+15	entreprendre	_	Word	-	+	_	_	_	E	_	_	_
+16	un	_	Word	-	-	_	_	_	_	_	_	E
+17	jour	_	Word	-	+	_	_	_	_	_	T	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

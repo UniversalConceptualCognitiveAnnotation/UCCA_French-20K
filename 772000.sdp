@@ -1,0 +1,23 @@
+# format = ucca
+1	Ce	_	Word	-	-	_	E	_	_	_	_	_
+2	garçon	_	Word	-	+	_	_	A	_	_	_	_
+3	avait	_	Word	-	-	_	_	F	_	_	_	_
+4	trente	_	Word	-	-	_	_	E	_	_	_	_
+5	ans	_	Word	-	+	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+7	et	_	Word	-	-	_	_	L	_	_	_	_
+8	son	_	Word	-	-	_	_	_	E	_	_	_
+9	âge	_	Word	-	+	_	_	_	_	A	_	_
+10	était	_	Word	-	-	_	_	_	_	F	_	_
+11	à	_	Word	-	+	_	_	H	_	_	_	_
+12	celui	_	Word	-	-	_	_	_	_	_	F	_
+13	de	_	Word	-	-	_	_	_	_	_	R	_
+14	son	_	Word	-	-	_	_	_	_	_	E	_
+15	maître	_	Word	-	+	_	_	_	_	A	_	_
+16	comme	_	Word	-	-	_	_	L	_	_	_	_
+17	quinze	_	Word	-	-	_	_	_	_	_	_	A
+18	est	_	Word	-	-	_	_	_	_	_	_	F
+19	à	_	Word	-	+	_	_	H	_	_	_	_
+20	vingt	_	Word	-	-	_	_	_	_	_	_	A
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

@@ -1,0 +1,22 @@
+# format = ucca
+1	Où	_	Word	-	+	_	_	A	_	_
+2	et	_	Word	-	-	_	N	_	_	_
+3	quand	_	Word	-	-	_	C	_	_	_
+4	l'	_	Word	-	-	_	_	A	_	_
+5	eut	_	Word	-	-	_	_	F	_	_
+6	-	_	Punctuation	-	-	_	_	U	_	_
+7	il	_	Word	-	-	_	_	A	_	_
+8	fait	_	Word	-	-	_	_	D	_	_
+9	construire	_	Word	-	+	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_
+11	et	_	Word	-	-	_	_	L	_	_
+12	comment	_	Word	-	-	_	_	_	_	D
+13	aurait	_	Word	-	-	_	_	_	_	F
+14	-	_	Punctuation	-	-	_	_	_	_	U
+15	il	_	Word	-	-	_	_	_	_	A
+16	tenu	_	Word	-	-	_	_	_	_	D
+17	cette	_	Word	-	-	_	_	_	E	_
+18	construction	_	Word	-	+	_	_	_	_	A
+19	secrète	_	Word	-	+	_	_	H	_	_
+20	?	_	Punctuation	-	-	_	_	_	_	U
+

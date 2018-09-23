@@ -1,0 +1,30 @@
+# format = ucca
+1	Le	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+2	trou	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+3	existait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	si	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_
+5	bien	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+6	qu'	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+7	il	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+8	avait	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+9	fallu	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+10	le	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+11	boucher	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+13	et	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+14	je	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
+15	ne	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_
+16	pense	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+17	pas	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+18	que	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+19	l'	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+20	existence	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+21	du	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+22	trou	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+23	puisse	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
+24	se	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+25	démontrer	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+26	plus	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+27	catégoriquement	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

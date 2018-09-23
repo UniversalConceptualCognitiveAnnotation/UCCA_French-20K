@@ -1,0 +1,32 @@
+# format = ucca
+1	À	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+2	cet	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	ordre	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+5	qui	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+6	fut	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+7	transmis	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+8	à	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+9	la	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+10	machine	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+11	au	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+12	moyen	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+13	d'	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+14	appareils	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+15	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+16	air	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+17	comprimé	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+19	les	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+20	mécaniciens	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+21	firent	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+22	agir	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+23	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+24	roue	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+25	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+26	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+27	mise	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+28	en	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+29	train	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

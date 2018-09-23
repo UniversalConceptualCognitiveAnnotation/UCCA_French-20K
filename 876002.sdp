@@ -1,0 +1,11 @@
+# format = ucca
+1	L'	_	Word	-	-	_	E	_	_	_
+2	accident	_	Word	-	+	_	_	_	_	A
+3	du	_	Word	-	-	_	_	R	_	_
+4	Scotia	_	Word	-	+	_	E	_	_	_
+5	n'	_	Word	-	+	_	_	_	_	D
+6	était	_	Word	-	-	_	_	_	_	F
+7	pas	_	Word	-	-	_	_	_	Terminal	_
+8	niable	_	Word	-	+	_	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	_	U
+

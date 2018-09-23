@@ -1,0 +1,10 @@
+# format = ucca
+1	rien	_	Word	-	+	_	_	D	_
+2	que	_	Word	-	-	_	Terminal	_	_
+3	l'	_	Word	-	-	_	_	E	_
+4	immensité	_	Word	-	+	_	_	_	_
+5	des	_	Word	-	-	_	_	_	R
+6	flots	_	Word	-	+	_	_	E	_
+7	déserts	_	Word	-	-	_	_	_	E
+8	!	_	Punctuation	-	-	_	_	_	U
+
