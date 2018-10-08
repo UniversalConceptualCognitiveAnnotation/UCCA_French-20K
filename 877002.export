@@ -45,123 +45,125 @@ qui	Word	--	Terminal	540
 l'	Word	--	Terminal	542
 affaire	Word	--	Terminal	543
 de	Word	--	Terminal	544
-l'équipage	Word	--	Terminal	545
--	Punctuation	--	Terminal	546
-et	Word	--	Terminal	547
-pour	Word	--	Terminal	548
-le	Word	--	Terminal	549
-voir	Word	--	Terminal	550
-le	Word	--	Terminal	551
-rencontrer	Word	--	Terminal	552
-,	Punctuation	--	Terminal	553
--	Punctuation	--	Terminal	554
-ce	Word	--	Terminal	555
-qui	Word	--	Terminal	556
-était	Word	--	Terminal	557
-l'	Word	--	Terminal	558
-affaire	Word	--	Terminal	559
-du	Word	--	Terminal	560
-hasard	Word	--	Terminal	561
-.	Punctuation	--	Terminal	562
-#500	FN	--	L	594	LR	595
-#501	FN	--	A	572
-#502	FN	--	P	572
-#503	PNCT	--	U	594
-#504	FN	--	F	574
-#505	FN	--	D	574
-#506	FN	--	P	574
-#507	FN	--	E	563
-#508	FN	--	C	563
-#509	FN	--	S	564
-#510	PNCT	--	U	594
-#511	FN	--	L	594	LR	596
-#512	FN	--	A	577
-#513	FN	--	P	577
-#514	FN	--	A	578
-#515	FN	--	P	578
-#516	PNCT	--	U	594
-#517	FN	--	L	594	LR	597
-#518	FN	--	A	583
-#519	FN	--	P	583
-#520	FN	--	A	581
-#521	FN	--	P	581
-#522	PNCT	--	U	594
-#523	PNCT	--	U	594
-#524	FN	--	F	582
-#525	FN	--	F	582
-#526	FN	--	F	582
-#527	FN	--	E	565
-#528	FN	--	C	565
-#529	FN	--	R	566
-#530	FN	--	C	566
-#531	PNCT	--	U	594
-#532	PNCT	--	U	594
-#533	FN	--	L	594	LR	598
-#534	FN	--	A	586
-#535	FN	--	P	586
-#536	FN	--	A	587
-#537	FN	--	P	587
-#538	PNCT	--	U	594
-#539	FN	--	F	588
-#540	FN	--	F	588
-#541	FN	--	F	588
-#542	FN	--	E	567
-#543	FN	--	C	567
-#544	FN	--	R	568
-#545	FN	--	C	568
-#546	PNCT	--	U	594
-#547	FN	--	L	594	LR	599
-#548	FN	--	L	594	LR	600
-#549	FN	--	A	591
-#550	FN	--	P	591
-#551	FN	--	A	592
-#552	FN	--	P	592
-#553	PNCT	--	U	594
-#554	PNCT	--	U	594
-#555	FN	--	F	593
-#556	FN	--	F	593
-#557	FN	--	F	593
-#558	FN	--	E	569
-#559	FN	--	C	569
-#560	FN	--	R	570
-#561	FN	--	C	570
-#562	PNCT	--	U	570
-#563	FN	--	A	564
-#564	FN	--	A	574
-#565	FN	--	P	582
-#566	FN	--	A	582
-#567	FN	--	P	588
-#568	FN	--	A	588
-#569	FN	--	P	593
-#570	FN	--	A	593
-#571	FN	--	A	572
-#572	FN	--	H	594	LA	595
-#573	FN	--	A	574
-#574	FN	--	H	594	LA	595
-#575	FN	--	A	577
+l'	Word	--	Terminal	545
+équipage	Word	--	Terminal	546
+-	Punctuation	--	Terminal	547
+et	Word	--	Terminal	548
+pour	Word	--	Terminal	549
+le	Word	--	Terminal	550
+voir	Word	--	Terminal	551
+le	Word	--	Terminal	552
+rencontrer	Word	--	Terminal	553
+,	Punctuation	--	Terminal	554
+-	Punctuation	--	Terminal	555
+ce	Word	--	Terminal	556
+qui	Word	--	Terminal	557
+était	Word	--	Terminal	558
+l'	Word	--	Terminal	559
+affaire	Word	--	Terminal	560
+du	Word	--	Terminal	561
+hasard	Word	--	Terminal	562
+.	Punctuation	--	Terminal	563
+#500	FN	--	L	595	LR	596
+#501	FN	--	A	573
+#502	FN	--	P	573
+#503	PNCT	--	U	595
+#504	FN	--	F	575
+#505	FN	--	D	575
+#506	FN	--	P	575
+#507	FN	--	E	564
+#508	FN	--	C	564
+#509	FN	--	S	565
+#510	PNCT	--	U	595
+#511	FN	--	L	595	LR	597
+#512	FN	--	A	578
+#513	FN	--	P	578
+#514	FN	--	A	579
+#515	FN	--	P	579
+#516	PNCT	--	U	595
+#517	FN	--	L	595	LR	598
+#518	FN	--	A	584
+#519	FN	--	P	584
+#520	FN	--	A	582
+#521	FN	--	P	582
+#522	PNCT	--	U	595
+#523	PNCT	--	U	595
+#524	FN	--	F	583
+#525	FN	--	F	583
+#526	FN	--	F	583
+#527	FN	--	E	566
+#528	FN	--	C	566
+#529	FN	--	R	567
+#530	FN	--	C	567
+#531	PNCT	--	U	595
+#532	PNCT	--	U	595
+#533	FN	--	L	595	LR	599
+#534	FN	--	A	587
+#535	FN	--	P	587
+#536	FN	--	A	588
+#537	FN	--	P	588
+#538	PNCT	--	U	595
+#539	FN	--	F	589
+#540	FN	--	F	589
+#541	FN	--	F	589
+#542	FN	--	E	568
+#543	FN	--	C	568
+#544	FN	--	R	569
+#545	FN	--	E	569
+#546	FN	--	C	569
+#547	PNCT	--	U	595
+#548	FN	--	L	595	LR	600
+#549	FN	--	L	595	LR	601
+#550	FN	--	A	592
+#551	FN	--	P	592
+#552	FN	--	A	593
+#553	FN	--	P	593
+#554	PNCT	--	U	595
+#555	PNCT	--	U	595
+#556	FN	--	F	594
+#557	FN	--	F	594
+#558	FN	--	F	594
+#559	FN	--	E	570
+#560	FN	--	C	570
+#561	FN	--	R	571
+#562	FN	--	C	571
+#563	PNCT	--	U	571
+#564	FN	--	A	565
+#565	FN	--	A	575
+#566	FN	--	P	583
+#567	FN	--	A	583
+#568	FN	--	P	589
+#569	FN	--	A	589
+#570	FN	--	P	594
+#571	FN	--	A	594
+#572	FN	--	A	573
+#573	FN	--	H	595	LA	596
+#574	FN	--	A	575
+#575	FN	--	H	595	LA	596
 #576	FN	--	A	578
-#577	FN	--	H	594	LA	596
-#578	FN	--	H	594	LA	596
-#579	FN	--	A	583
-#580	FN	--	A	581
-#581	FN	--	H	594	LA	597	A*	582
-#582	FN	--	H	594
-#583	FN	--	H	594	LA	597
-#584	FN	--	A	586
+#577	FN	--	A	579
+#578	FN	--	H	595	LA	597
+#579	FN	--	H	595	LA	597
+#580	FN	--	A	584
+#581	FN	--	A	582
+#582	FN	--	H	595	LA	598	A*	583
+#583	FN	--	H	595
+#584	FN	--	H	595	LA	598
 #585	FN	--	A	587
-#586	FN	--	H	594	LA	598
-#587	FN	--	H	594	LA	599	LA	598	A*	588
-#588	FN	--	H	594
-#589	FN	--	A	591
+#586	FN	--	A	588
+#587	FN	--	H	595	LA	599
+#588	FN	--	H	595	LA	600	LA	599	A*	589
+#589	FN	--	H	595
 #590	FN	--	A	592
-#591	FN	--	H	594	LA	600	LA	599
-#592	FN	--	H	594	LA	600	A*	593
-#593	FN	--	H	594
-#594	FN	--	--	0
-#595	LKG	--	--	0
+#591	FN	--	A	593
+#592	FN	--	H	595	LA	601	LA	600
+#593	FN	--	H	595	LA	601	A*	594
+#594	FN	--	H	595
+#595	FN	--	--	0
 #596	LKG	--	--	0
 #597	LKG	--	--	0
 #598	LKG	--	--	0
 #599	LKG	--	--	0
 #600	LKG	--	--	0
+#601	LKG	--	--	0
 #EOS 877002

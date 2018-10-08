@@ -12,7 +12,8 @@ m	Word	--	Terminal	508
 '	Punctuation	--	Terminal	509
 avaient	Word	--	Terminal	510
 fait	Word	--	Terminal	508
-l'honneur	Word	--	Terminal	508
+l'	Word	--	Terminal	508
+honneur	Word	--	Terminal	508
 de	Word	--	Terminal	511
 me	Word	--	Terminal	512
 consulter	Word	--	Terminal	513
