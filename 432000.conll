@@ -83,11 +83,12 @@
 81	de	_	Word	Word	_	83	E	_	_
 82	longs	_	Word	Word	_	83	E	_	_
 83	intervalles	_	Word	Word	_	79	T	_	_
-84	vers	_	Word	Word	_	89	R	_	_
+84	vers	_	Word	Word	_	90	R	_	_
 85	le	_	Word	Word	_	86	E	_	_
-86	niveau	_	Word	Word	_	89	E	_	_
+86	niveau	_	Word	Word	_	90	E	_	_
 87	supérieur	_	Word	Word	_	86	E	_	_
 88	de	_	Word	Word	_	86	R	_	_
-89	l'Océan	_	Word	Word	_	79	A	_	_
-90	.	_	Punctuation	Punctuation	_	89	U	_	_
+89	l'	_	Word	Word	_	90	E	_	_
+90	Océan	_	Word	Word	_	79	A	_	_
+91	.	_	Punctuation	Punctuation	_	90	U	_	_
 

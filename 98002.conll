@@ -17,6 +17,7 @@
 15	impunément	_	Word	Word	_	14	D	_	_
 16	une	_	Word	Word	_	17	E	_	_
 17	voie	_	Word	Word	_	14	A	_	_
-18	d'eau	_	Word	Word	_	17	E	_	_
-19	.	_	Punctuation	Punctuation	_	17	U	_	_
+18	d'	_	Word	Word	_	19	E	_	_
+19	eau	_	Word	Word	_	17	E	_	_
+20	.	_	Punctuation	Punctuation	_	19	U	_	_
 

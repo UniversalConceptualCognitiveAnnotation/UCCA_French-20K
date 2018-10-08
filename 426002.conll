@@ -14,13 +14,14 @@
 12	moi	_	Word	Word	_	10	A	_	_
 13	un	_	Word	Word	_	14	E	_	_
 14	spécialiste	_	Word	Word	_	10	A	_	_
-15	dans	_	Word	Word	_	21	R	_	_
+15	dans	_	Word	Word	_	22	R	_	_
 16	cette	_	Word	Word	_	17	E	_	_
-17	partie	_	Word	Word	_	21	E	_	_
+17	partie	_	Word	Word	_	22	E	_	_
 18	assez	_	Word	Word	_	19	E	_	_
 19	obscure	_	Word	Word	_	17	E	_	_
 20	de	_	Word	Word	_	17	R	_	_
-21	l'histoire	_	Word	Word	_	14	E	_	_
-22	naturelle	_	Word	Word	_	21	E	_	_
-23	.	_	Punctuation	Punctuation	_	21	U	_	_
+21	l'	_	Word	Word	_	22	E	_	_
+22	histoire	_	Word	Word	_	14	E	_	_
+23	naturelle	_	Word	Word	_	22	E	_	_
+24	.	_	Punctuation	Punctuation	_	22	U	_	_
 

@@ -35,12 +35,13 @@
 33	tribord	_	Word	Word	_	31	E	_	_
 34	un	_	Word	Word	_	35	R	_	_
 35	roc	_	Word	Word	_	28	A	_	_
-36	qu'aucune	_	Word	Word	_	37	E	_	_
-37	carte	_	Word	Word	_	39	A	_	_
-38	ne	_	Word	Word	_	39	D	_	_
-39	marquait	_	Word	Word	_	35	E	_	_
-40	dans	_	Word	Word	_	42	R	_	_
-41	ces	_	Word	Word	_	42	E	_	_
-42	parages	_	Word	Word	_	39	A	_	_
-43	.	_	Punctuation	Punctuation	_	42	U	_	_
+36	qu'	_	Word	Word	_	40	R	_	_
+37	aucune	_	Word	Word	_	38	E	_	_
+38	carte	_	Word	Word	_	40	A	_	_
+39	ne	_	Word	Word	_	40	D	_	_
+40	marquait	_	Word	Word	_	35	E	_	_
+41	dans	_	Word	Word	_	43	R	_	_
+42	ces	_	Word	Word	_	43	E	_	_
+43	parages	_	Word	Word	_	40	A	_	_
+44	.	_	Punctuation	Punctuation	_	43	U	_	_
 

@@ -31,6 +31,7 @@
 29	au	_	Word	Word	_	30	R	_	_
 30	moral	_	Word	Word	_	20	E	_	_
 31	,	_	Punctuation	Punctuation	_	20	U	_	_
-32	s'entend	_	Word	Word	_	20	G	_	_
-33	.	_	Punctuation	Punctuation	_	20	U	_	_
+32	s'	_	Word	Word	_	33	E	_	_
+33	entend	_	Word	Word	_	20	G	_	_
+34	.	_	Punctuation	Punctuation	_	33	U	_	_
 
