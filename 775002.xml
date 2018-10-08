@@ -44,31 +44,35 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="l'homme" />
+      <attributes paragraph="1" paragraph_position="11" text="l'" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="le" />
+      <attributes paragraph="1" paragraph_position="12" text="homme" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="plus" />
+      <attributes paragraph="1" paragraph_position="13" text="le" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="impassible" />
+      <attributes paragraph="1" paragraph_position="14" text="plus" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="du" />
+      <attributes paragraph="1" paragraph_position="15" text="impassible" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="monde" />
+      <attributes paragraph="1" paragraph_position="16" text="du" />
       <extra orig_paragraph="1" />
     </node>
-    <node ID="0.17" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="17" text="!" />
+    <node ID="0.17" type="Word">
+      <attributes paragraph="1" paragraph_position="17" text="monde" />
+      <extra orig_paragraph="1" />
+    </node>
+    <node ID="0.18" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="18" text="!" />
       <extra orig_paragraph="1" />
     </node>
   </layer>
@@ -136,7 +140,7 @@
       <edge toID="1.11" type="A">
         <attributes />
       </edge>
-      <edge toID="1.23" type="U">
+      <edge toID="1.24" type="U">
         <attributes />
       </edge>
     </node>
@@ -160,10 +164,13 @@
       <edge toID="1.14" type="R">
         <attributes />
       </edge>
-      <edge toID="1.15" type="C">
+      <edge toID="1.15" type="E">
         <attributes />
       </edge>
-      <edge toID="1.16" type="E">
+      <edge toID="1.16" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.17" type="E">
         <attributes />
       </edge>
     </node>
@@ -181,29 +188,28 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra remarks="l' should be separated and annotated as E" />
       <edge toID="0.11" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <edge toID="1.17" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.18" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.19" type="C">
-        <attributes />
-      </edge>
-      <edge toID="1.20" type="E">
+      <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <edge toID="0.12" type="Terminal">
+      <edge toID="1.18" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.19" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.20" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.21" type="E">
         <attributes />
       </edge>
     </node>
@@ -221,20 +227,19 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <edge toID="1.21" type="R">
-        <attributes />
-      </edge>
-      <edge toID="1.22" type="C">
-        <attributes />
-      </edge>
-      <edge toID="1.24" type="U">
+      <edge toID="0.15" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.21" type="FN">
       <attributes />
-      <extra remarks="also E" />
-      <edge toID="0.15" type="Terminal">
+      <edge toID="1.22" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.23" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.25" type="U">
         <attributes />
       </edge>
     </node>
@@ -244,15 +249,21 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.23" type="PNCT">
+    <node ID="1.23" type="FN">
       <attributes />
-      <edge toID="0.8" type="Terminal">
+      <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.24" type="PNCT">
       <attributes />
-      <edge toID="0.17" type="Terminal">
+      <edge toID="0.8" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.25" type="PNCT">
+      <attributes />
+      <edge toID="0.18" type="Terminal">
         <attributes />
       </edge>
     </node>

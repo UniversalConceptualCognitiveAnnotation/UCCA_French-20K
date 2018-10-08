@@ -44,11 +44,15 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="l'Argus" />
+      <attributes paragraph="1" paragraph_position="11" text="l'" />
       <extra orig_paragraph="1" />
     </node>
-    <node ID="0.12" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="12" text="." />
+    <node ID="0.12" type="Word">
+      <attributes paragraph="1" paragraph_position="12" text="Argus" />
+      <extra orig_paragraph="1" />
+    </node>
+    <node ID="0.13" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="13" text="." />
       <extra orig_paragraph="1" />
     </node>
   </layer>
@@ -83,10 +87,10 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.17" type="E">
+      <edge toID="1.19" type="E">
         <attributes />
       </edge>
-      <edge toID="1.18" type="C">
+      <edge toID="1.20" type="C">
         <attributes />
       </edge>
     </node>
@@ -104,10 +108,10 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="1.15" type="E">
+      <edge toID="1.17" type="E">
         <attributes />
       </edge>
-      <edge toID="1.16" type="C">
+      <edge toID="1.18" type="C">
         <attributes />
       </edge>
     </node>
@@ -128,9 +132,6 @@
       <edge toID="1.12" type="A">
         <attributes />
       </edge>
-      <edge toID="1.19" type="U">
-        <attributes />
-      </edge>
     </node>
     <node ID="1.10" type="FN">
       <attributes />
@@ -140,59 +141,76 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
+      <edge toID="1.15" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.16" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.12" type="FN">
+      <attributes />
       <edge toID="1.13" type="E">
         <attributes />
       </edge>
       <edge toID="1.14" type="C">
         <attributes />
       </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <extra remarks="l' should be annotated as E and Argus as C." />
-      <edge toID="0.11" type="Terminal">
+      <edge toID="1.21" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <edge toID="0.9" type="Terminal">
+      <edge toID="0.11" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="0.10" type="Terminal">
+      <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <edge toID="0.5" type="Terminal">
+      <edge toID="0.9" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="0.10" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <edge toID="0.1" type="Terminal">
+      <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.19" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.20" type="FN">
+      <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.19" type="PNCT">
+    <node ID="1.21" type="PNCT">
       <attributes />
-      <edge toID="0.12" type="Terminal">
+      <edge toID="0.13" type="Terminal">
         <attributes />
       </edge>
     </node>

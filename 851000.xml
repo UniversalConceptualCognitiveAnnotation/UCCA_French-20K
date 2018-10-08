@@ -190,7 +190,6 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <extra remarks="D" />
       <edge toID="1.18" type="R">
         <attributes />
       </edge>
