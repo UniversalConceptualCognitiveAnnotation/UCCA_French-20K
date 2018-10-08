@@ -34,12 +34,13 @@
 33	tribord	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 34	un	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
 35	roc	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-36	qu'aucune	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-37	carte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-38	ne	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-39	marquait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-40	dans	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-41	ces	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-42	parages	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+36	qu'	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+37	aucune	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+38	carte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+39	ne	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+40	marquait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+41	dans	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+42	ces	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+43	parages	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

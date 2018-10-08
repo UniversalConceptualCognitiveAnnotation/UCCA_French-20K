@@ -19,7 +19,8 @@
 18	assez	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
 19	obscure	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
 20	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-21	l'histoire	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-22	naturelle	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+21	l'	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+22	histoire	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+23	naturelle	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 
