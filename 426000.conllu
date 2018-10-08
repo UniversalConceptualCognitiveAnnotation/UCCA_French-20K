@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 426000
-# text = À mon arrivée à New York , plusieurs personnes m ' avaient fait l'honneur de me consulter sur le phénomène en question .
+# text = À mon arrivée à New York , plusieurs personnes m ' avaient fait l' honneur de me consulter sur le phénomène en question .
 1	À	_	Word	Word	_	3	L	3:L	_
 2	mon	_	Word	Word	_	3	E	3:E	_
 3	arrivée	_	Word	Word	_	0	H	0:H	_
@@ -14,14 +14,15 @@
 11	'	_	Punctuation	Punctuation	_	10	U	10:U	_
 12	avaient	_	Word	Word	_	10	F	10:F	_
 13	fait	_	Word	Word	_	10	Terminal	10:Terminal	_
-14	l'honneur	_	Word	Word	_	10	Terminal	10:Terminal	_
-15	de	_	Word	Word	_	17	R	17:R	_
-16	me	_	Word	Word	_	17	A	17:A	_
-17	consulter	_	Word	Word	_	10	A	10:A	_
-18	sur	_	Word	Word	_	20	R	20:R	_
-19	le	_	Word	Word	_	20	E	20:E	_
-20	phénomène	_	Word	Word	_	17	A	17:A	_
-21	en	_	Word	Word	_	22	R	22:R	_
-22	question	_	Word	Word	_	20	E	20:E	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+14	l'	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	honneur	_	Word	Word	_	10	Terminal	10:Terminal	_
+16	de	_	Word	Word	_	18	R	18:R	_
+17	me	_	Word	Word	_	18	A	18:A	_
+18	consulter	_	Word	Word	_	10	A	10:A	_
+19	sur	_	Word	Word	_	21	R	21:R	_
+20	le	_	Word	Word	_	21	E	21:E	_
+21	phénomène	_	Word	Word	_	18	A	18:A	_
+22	en	_	Word	Word	_	23	R	23:R	_
+23	question	_	Word	Word	_	21	E	21:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 771004
-# text = D' ailleurs d' une belle santé qui défiait toutes les maladies ; des muscles solides , mais pas de nerfs , pas l' apparence de nerfs , - au moral , s'entend .
+# text = D' ailleurs d' une belle santé qui défiait toutes les maladies ; des muscles solides , mais pas de nerfs , pas l' apparence de nerfs , - au moral , s' entend .
 1	D'	_	Word	Word	_	2	R	2:R	_
 2	ailleurs	_	Word	Word	_	6	L	6:L	_
 3	d'	_	Word	Word	_	6	R	6:R	_
@@ -32,6 +32,7 @@
 29	au	_	Word	Word	_	30	R	30:R	_
 30	moral	_	Word	Word	_	20	E	20:E	_
 31	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-32	s'entend	_	Word	Word	_	20	G	20:G	_
-33	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+32	s'	_	Word	Word	_	33	E	33:E	_
+33	entend	_	Word	Word	_	20	G	20:G	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 432000
-# text = « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d' admettre l' existence de poissons ou de cétacés , d' espèces ou même de genres nouveaux , d' une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu' un événement quelconque , une fantaisie , un caprice , si l' on veut , ramène à de longs intervalles vers le niveau supérieur de l'Océan .
+# text = « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d' admettre l' existence de poissons ou de cétacés , d' espèces ou même de genres nouveaux , d' une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu' un événement quelconque , une fantaisie , un caprice , si l' on veut , ramène à de longs intervalles vers le niveau supérieur de l' Océan .
 1	«	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Si	_	Word	Word	_	6	L	6:L	_
 3	nous	_	Word	Word	_	6	A	6:A	_
@@ -84,11 +84,12 @@
 81	de	_	Word	Word	_	83	E	83:E	_
 82	longs	_	Word	Word	_	83	E	83:E	_
 83	intervalles	_	Word	Word	_	79	T	79:T	_
-84	vers	_	Word	Word	_	89	R	89:R	_
+84	vers	_	Word	Word	_	90	R	90:R	_
 85	le	_	Word	Word	_	86	E	86:E	_
-86	niveau	_	Word	Word	_	89	E	89:E	_
+86	niveau	_	Word	Word	_	90	E	90:E	_
 87	supérieur	_	Word	Word	_	86	E	86:E	_
 88	de	_	Word	Word	_	86	R	86:R	_
-89	l'Océan	_	Word	Word	_	79	A	79:A	_
-90	.	_	Punctuation	Punctuation	_	89	U	89:U	_
+89	l'	_	Word	Word	_	90	E	90:E	_
+90	Océan	_	Word	Word	_	79	A	79:A	_
+91	.	_	Punctuation	Punctuation	_	90	U	90:U	_
 

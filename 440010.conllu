@@ -1,32 +1,34 @@
 # format = ucca
 # sent_id = 440010
-# text = Pourquoi ne cacherait-elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
+# text = Pourquoi ne cacherait - elle pas dans son sein les dernières variétés de ces espèces titanesques , dont les années sont des siècles , et les siècles des millénaires ?
 1	Pourquoi	_	Word	Word	_	3	A	3:A	_
 2	ne	_	Word	Word	_	3	D	3:D	_
-3	cacherait-elle	_	Word	Word	_	0	H	0:H	_
-4	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	dans	_	Word	Word	_	7	R	7:R	_
-6	son	_	Word	Word	_	7	E	7:E	_
-7	sein	_	Word	Word	_	3	A	3:A	_
-8	les	_	Word	Word	_	10	E	10:E	_
-9	dernières	_	Word	Word	_	10	E	10:E	_
-10	variétés	_	Word	Word	_	3	A	3:A	_
-11	de	_	Word	Word	_	13	R	13:R	_
-12	ces	_	Word	Word	_	13	E	13:E	_
-13	espèces	_	Word	Word	_	10	E	10:E	_
-14	titanesques	_	Word	Word	_	13	E	13:E	_
-15	,	_	Punctuation	Punctuation	_	13	U	13:U	_
-16	dont	_	Word	Word	_	19	R	19:R	_
-17	les	_	Word	Word	_	18	E	18:E	_
-18	années	_	Word	Word	_	19	A	19:A	_
-19	sont	_	Word	Word	_	13	E	13:E	_
-20	des	_	Word	Word	_	21	E	21:E	_
-21	siècles	_	Word	Word	_	19	A	19:A	_
-22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-23	et	_	Word	Word	_	19	L	19:L	_
-24	les	_	Word	Word	_	25	E	25:E	_
-25	siècles	_	Word	Word	_	19	H	19:H	_
-26	des	_	Word	Word	_	27	E	27:E	_
-27	millénaires	_	Word	Word	_	25	A	25:A	_
-28	?	_	Punctuation	Punctuation	_	27	U	27:U	_
+3	cacherait	_	Word	Word	_	0	H	0:H	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	elle	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	dans	_	Word	Word	_	9	R	9:R	_
+8	son	_	Word	Word	_	9	E	9:E	_
+9	sein	_	Word	Word	_	3	A	3:A	_
+10	les	_	Word	Word	_	12	E	12:E	_
+11	dernières	_	Word	Word	_	12	E	12:E	_
+12	variétés	_	Word	Word	_	3	A	3:A	_
+13	de	_	Word	Word	_	15	R	15:R	_
+14	ces	_	Word	Word	_	15	E	15:E	_
+15	espèces	_	Word	Word	_	12	E	12:E	_
+16	titanesques	_	Word	Word	_	15	E	15:E	_
+17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	dont	_	Word	Word	_	21	R	21:R	_
+19	les	_	Word	Word	_	20	E	20:E	_
+20	années	_	Word	Word	_	21	A	21:A	_
+21	sont	_	Word	Word	_	15	E	15:E	_
+22	des	_	Word	Word	_	23	E	23:E	_
+23	siècles	_	Word	Word	_	21	A	21:A	_
+24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	et	_	Word	Word	_	21	L	21:L	_
+26	les	_	Word	Word	_	27	E	27:E	_
+27	siècles	_	Word	Word	_	21	H	21:H	_
+28	des	_	Word	Word	_	29	E	29:E	_
+29	millénaires	_	Word	Word	_	27	A	27:A	_
+30	?	_	Punctuation	Punctuation	_	29	U	29:U	_
 

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 85000
-# text = Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l' Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l'état-major du commodore Fitz-James à bord du Lord - Clyde , émurent profondément l' opinion publique .
+# text = Ces rapports arrivés coup sur coup , de nouvelles observations faites à bord du transatlantique le Pereire , un abordage entre l' Etna , de la ligne Inman , et le monstre , un procès-verbal dressé par les officiers de la frégate française la Normandie , un très - sérieux relèvement obtenu par l' état - major du commodore Fitz-James à bord du Lord - Clyde , émurent profondément l' opinion publique .
 1	Ces	_	Word	Word	_	2	E	2:E	_
 2	rapports	_	Word	Word	_	3	A	3:A	_
-3	arrivés	_	Word	Word	_	65	A	65:A	_
+3	arrivés	_	Word	Word	_	68	A	68:A	_
 4	coup	_	Word	Word	_	3	D	3:D	_
 5	sur	_	Word	Word	_	4	R	4:R	_
 6	coup	_	Word	Word	_	4	C	4:C	_
@@ -53,22 +53,25 @@
 50	sérieux	_	Word	Word	_	51	E	51:E	_
 51	relèvement	_	Word	Word	_	3	C	3:C	_
 52	obtenu	_	Word	Word	_	51	E	51:E	_
-53	par	_	Word	Word	_	54	R	54:R	_
-54	l'état-major	_	Word	Word	_	52	A	52:A	_
-55	du	_	Word	Word	_	57	R	57:R	_
-56	commodore	_	Word	Word	_	57	E	57:E	_
-57	Fitz-James	_	Word	Word	_	54	E	54:E	_
-58	à	_	Word	Word	_	61	R	61:R	_
-59	bord	_	Word	Word	_	61	E	61:E	_
-60	du	_	Word	Word	_	59	R	59:R	_
-61	Lord	_	Word	Word	_	52	A	52:A	_
-62	-	_	Punctuation	Punctuation	_	61	U	61:U	_
-63	Clyde	_	Word	Word	_	61	Terminal	61:Terminal	_
-64	,	_	Punctuation	Punctuation	_	65	U	65:U	_
-65	émurent	_	Word	Word	_	0	H	0:H	_
-66	profondément	_	Word	Word	_	65	D	65:D	_
-67	l'	_	Word	Word	_	68	E	68:E	_
-68	opinion	_	Word	Word	_	65	A	65:A	_
-69	publique	_	Word	Word	_	68	E	68:E	_
-70	.	_	Punctuation	Punctuation	_	68	U	68:U	_
+53	par	_	Word	Word	_	57	R	57:R	_
+54	l'	_	Word	Word	_	57	E	57:E	_
+55	état	_	Word	Word	_	57	E	57:E	_
+56	-	_	Punctuation	Punctuation	_	57	U	57:U	_
+57	major	_	Word	Word	_	52	A	52:A	_
+58	du	_	Word	Word	_	60	R	60:R	_
+59	commodore	_	Word	Word	_	60	E	60:E	_
+60	Fitz-James	_	Word	Word	_	57	E	57:E	_
+61	à	_	Word	Word	_	64	R	64:R	_
+62	bord	_	Word	Word	_	64	E	64:E	_
+63	du	_	Word	Word	_	62	R	62:R	_
+64	Lord	_	Word	Word	_	52	A	52:A	_
+65	-	_	Punctuation	Punctuation	_	64	U	64:U	_
+66	Clyde	_	Word	Word	_	64	Terminal	64:Terminal	_
+67	,	_	Punctuation	Punctuation	_	68	U	68:U	_
+68	émurent	_	Word	Word	_	0	H	0:H	_
+69	profondément	_	Word	Word	_	68	D	68:D	_
+70	l'	_	Word	Word	_	71	E	71:E	_
+71	opinion	_	Word	Word	_	68	A	68:A	_
+72	publique	_	Word	Word	_	71	E	71:E	_
+73	.	_	Punctuation	Punctuation	_	71	U	71:U	_
 

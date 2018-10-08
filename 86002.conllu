@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 86002
-# text = On vit réapparaître dans les journaux \u2013 à court de copie \u2013 tous les êtres imaginaires et gigantesques , depuis la baleine blanche , le terrible « Moby Dick » des régions hyperboréennes , jusqu' au Kraken démesuré , dont les tentacules peuvent enlacer un bâtiment de cinq cents tonneaux et l' entraîner dans les abîmes de l'Océan .
+# text = On vit réapparaître dans les journaux \u2013 à court de copie \u2013 tous les êtres imaginaires et gigantesques , depuis la baleine blanche , le terrible « Moby Dick » des régions hyperboréennes , jusqu' au Kraken démesuré , dont les tentacules peuvent enlacer un bâtiment de cinq cents tonneaux et l' entraîner dans les abîmes de l' Océan .
 1	On	_	Word	Word	_	2	A	2:A	_
 2	vit	_	Word	Word	_	0	H	0:H	_
 3	réapparaître	_	Word	Word	_	2	A	2:A	_
@@ -57,7 +57,8 @@
 54	dans	_	Word	Word	_	56	R	56:R	_
 55	les	_	Word	Word	_	56	E	56:E	_
 56	abîmes	_	Word	Word	_	53	A	53:A	_
-57	de	_	Word	Word	_	58	R	58:R	_
-58	l'Océan	_	Word	Word	_	56	E	56:E	_
-59	.	_	Punctuation	Punctuation	_	58	U	58:U	_
+57	de	_	Word	Word	_	59	R	59:R	_
+58	l'	_	Word	Word	_	59	E	59:E	_
+59	Océan	_	Word	Word	_	56	E	56:E	_
+60	.	_	Punctuation	Punctuation	_	59	U	59:U	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 90000
-# text = Le 5 mars 1867 , le Moravian , de Montréal Océan Company , se trouvant pendant la nuit par 27°30' de latitude et 72°15' de longitude , heurta de sa hanche de tribord un roc qu'aucune carte ne marquait dans ces parages .
+# text = Le 5 mars 1867 , le Moravian , de Montréal Océan Company , se trouvant pendant la nuit par 27°30' de latitude et 72°15' de longitude , heurta de sa hanche de tribord un roc qu' aucune carte ne marquait dans ces parages .
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	5	_	Word	Word	_	28	T	28:T	_
 3	mars	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -36,12 +36,13 @@
 33	tribord	_	Word	Word	_	31	E	31:E	_
 34	un	_	Word	Word	_	35	R	35:R	_
 35	roc	_	Word	Word	_	28	A	28:A	_
-36	qu'aucune	_	Word	Word	_	37	E	37:E	_
-37	carte	_	Word	Word	_	39	A	39:A	_
-38	ne	_	Word	Word	_	39	D	39:D	_
-39	marquait	_	Word	Word	_	35	E	35:E	_
-40	dans	_	Word	Word	_	42	R	42:R	_
-41	ces	_	Word	Word	_	42	E	42:E	_
-42	parages	_	Word	Word	_	39	A	39:A	_
-43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+36	qu'	_	Word	Word	_	40	R	40:R	_
+37	aucune	_	Word	Word	_	38	E	38:E	_
+38	carte	_	Word	Word	_	40	A	40:A	_
+39	ne	_	Word	Word	_	40	D	40:D	_
+40	marquait	_	Word	Word	_	35	E	35:E	_
+41	dans	_	Word	Word	_	43	R	43:R	_
+42	ces	_	Word	Word	_	43	E	43:E	_
+43	parages	_	Word	Word	_	40	A	40:A	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 82001
-# text = Le capitaine Baker se crut , tout d' abord , en présence d' un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d'eau , projetées par l' inexplicable objet , s' élancèrent en sifflant à cent cinquante pieds dans l'air .
+# text = Le capitaine Baker se crut , tout d' abord , en présence d' un écueil inconnu ; il se disposait même à en déterminer la situation exacte , quand deux colonnes d' eau , projetées par l' inexplicable objet , s' élancèrent en sifflant à cent cinquante pieds dans l' air .
 1	Le	_	Word	Word	_	2	E	2:E	_
 2	capitaine	_	Word	Word	_	3	E	3:E	_
 3	Baker	_	Word	Word	_	12	A	12:A	_
@@ -31,24 +31,26 @@
 28	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 29	quand	_	Word	Word	_	12	L	12:L	_
 30	deux	_	Word	Word	_	31	E	31:E	_
-31	colonnes	_	Word	Word	_	40	A	40:A	_
-32	d'eau	_	Word	Word	_	31	E	31:E	_
-33	,	_	Punctuation	Punctuation	_	31	U	31:U	_
-34	projetées	_	Word	Word	_	31	E	31:E	_
-35	par	_	Word	Word	_	38	R	38:R	_
-36	l'	_	Word	Word	_	38	E	38:E	_
-37	inexplicable	_	Word	Word	_	38	E	38:E	_
-38	objet	_	Word	Word	_	34	A	34:A	_
-39	,	_	Punctuation	Punctuation	_	40	U	40:U	_
-40	s'	_	Word	Word	_	12	H	12:H	_
-41	élancèrent	_	Word	Word	_	40	Terminal	40:Terminal	_
-42	en	_	Word	Word	_	43	R	43:R	_
-43	sifflant	_	Word	Word	_	40	D	40:D	_
-44	à	_	Word	Word	_	47	R	47:R	_
-45	cent	_	Word	Word	_	47	E	47:E	_
-46	cinquante	_	Word	Word	_	45	Terminal	45:Terminal	_
-47	pieds	_	Word	Word	_	40	A	40:A	_
-48	dans	_	Word	Word	_	49	R	49:R	_
-49	l'air	_	Word	Word	_	40	A	40:A	_
-50	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+31	colonnes	_	Word	Word	_	41	A	41:A	_
+32	d'	_	Word	Word	_	33	E	33:E	_
+33	eau	_	Word	Word	_	31	E	31:E	_
+34	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+35	projetées	_	Word	Word	_	31	E	31:E	_
+36	par	_	Word	Word	_	39	R	39:R	_
+37	l'	_	Word	Word	_	39	E	39:E	_
+38	inexplicable	_	Word	Word	_	39	E	39:E	_
+39	objet	_	Word	Word	_	35	A	35:A	_
+40	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+41	s'	_	Word	Word	_	12	H	12:H	_
+42	élancèrent	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	en	_	Word	Word	_	44	R	44:R	_
+44	sifflant	_	Word	Word	_	41	D	41:D	_
+45	à	_	Word	Word	_	48	R	48:R	_
+46	cent	_	Word	Word	_	48	E	48:E	_
+47	cinquante	_	Word	Word	_	46	Terminal	46:Terminal	_
+48	pieds	_	Word	Word	_	41	A	41:A	_
+49	dans	_	Word	Word	_	51	R	51:R	_
+50	l'	_	Word	Word	_	51	E	51:E	_
+51	air	_	Word	Word	_	41	A	41:A	_
+52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
 

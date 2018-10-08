@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 877002
-# text = Pour la résoudre , il fallait disséquer ce monstre inconnu , pour le disséquer le prendre , pour le prendre le harponner , - ce qui était l' affaire de Ned Land , - pour le harponner le voir , ce qui était l' affaire de l'équipage - et pour le voir le rencontrer , - ce qui était l' affaire du hasard .
+# text = Pour la résoudre , il fallait disséquer ce monstre inconnu , pour le disséquer le prendre , pour le prendre le harponner , - ce qui était l' affaire de Ned Land , - pour le harponner le voir , ce qui était l' affaire de l' équipage - et pour le voir le rencontrer , - ce qui était l' affaire du hasard .
 1	Pour	_	Word	Word	_	3	L	3:L	_
 2	la	_	Word	Word	_	3	A	3:A	_
 3	résoudre	_	Word	Word	_	0	H	0:H	_
@@ -46,23 +46,24 @@
 43	était	_	Word	Word	_	45	F	45:F	_
 44	l'	_	Word	Word	_	45	E	45:E	_
 45	affaire	_	Word	Word	_	3	H	3:H	_
-46	de	_	Word	Word	_	47	R	47:R	_
-47	l'équipage	_	Word	Word	_	45	A	45:A	_
-48	-	_	Punctuation	Punctuation	_	3	U	3:U	_
-49	et	_	Word	Word	_	3	L	3:L	_
-50	pour	_	Word	Word	_	3	L	3:L	_
-51	le	_	Word	Word	_	52	A	52:A	_
-52	voir	_	Word	Word	_	3	H	3:H	_
-53	le	_	Word	Word	_	54	A	54:A	_
-54	rencontrer	_	Word	Word	_	3	H	3:H|61:A	_
-55	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-56	-	_	Punctuation	Punctuation	_	3	U	3:U	_
-57	ce	_	Word	Word	_	61	F	61:F	_
-58	qui	_	Word	Word	_	61	F	61:F	_
-59	était	_	Word	Word	_	61	F	61:F	_
-60	l'	_	Word	Word	_	61	E	61:E	_
-61	affaire	_	Word	Word	_	3	H	3:H	_
-62	du	_	Word	Word	_	63	R	63:R	_
-63	hasard	_	Word	Word	_	61	A	61:A	_
-64	.	_	Punctuation	Punctuation	_	63	U	63:U	_
+46	de	_	Word	Word	_	48	R	48:R	_
+47	l'	_	Word	Word	_	48	E	48:E	_
+48	équipage	_	Word	Word	_	45	A	45:A	_
+49	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+50	et	_	Word	Word	_	3	L	3:L	_
+51	pour	_	Word	Word	_	3	L	3:L	_
+52	le	_	Word	Word	_	53	A	53:A	_
+53	voir	_	Word	Word	_	3	H	3:H	_
+54	le	_	Word	Word	_	55	A	55:A	_
+55	rencontrer	_	Word	Word	_	3	H	3:H|62:A	_
+56	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+57	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+58	ce	_	Word	Word	_	62	F	62:F	_
+59	qui	_	Word	Word	_	62	F	62:F	_
+60	était	_	Word	Word	_	62	F	62:F	_
+61	l'	_	Word	Word	_	62	E	62:E	_
+62	affaire	_	Word	Word	_	3	H	3:H	_
+63	du	_	Word	Word	_	64	R	64:R	_
+64	hasard	_	Word	Word	_	62	A	62:A	_
+65	.	_	Punctuation	Punctuation	_	64	U	64:U	_
 
