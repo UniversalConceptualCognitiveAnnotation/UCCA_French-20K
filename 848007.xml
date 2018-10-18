@@ -210,9 +210,6 @@
       <edge toID="1.15" type="R">
         <attributes />
       </edge>
-      <edge toID="1.15" type="E">
-        <attributes remote="True" />
-      </edge>
       <edge toID="1.16" type="C">
         <attributes />
       </edge>
@@ -222,6 +219,7 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
+      <extra remarks="also E" />
       <edge toID="0.19" type="Terminal">
         <attributes />
       </edge>
