@@ -4,7 +4,7 @@
 1	La	_	Word	Word	_	2	E	2:E	_
 2	frégate	_	Word	Word	_	0	C	0:C|16:A|28:A	_
 3	passa	_	Word	Word	_	0	H	0:H	_
-4	donc	_	Word	Word	_	3	L	3:L	_
+4	donc	_	Word	Word	_	16	L	16:L	_
 5	au	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	large	_	Word	Word	_	3	Terminal	3:Terminal	_
 7	des	_	Word	Word	_	8	R	8:R	_
@@ -27,7 +27,7 @@
 24	de	_	Word	Word	_	25	R	25:R	_
 25	longitude	_	Word	Word	_	22	E	22:E	_
 26	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-27	et	_	Word	Word	_	3	L	3:L	_
+27	et	_	Word	Word	_	28	L	28:L	_
 28	se	_	Word	Word	_	3	H	3:H	_
 29	dirigea	_	Word	Word	_	28	Terminal	28:Terminal	_
 30	vers	_	Word	Word	_	32	R	32:R	_

@@ -18,7 +18,7 @@
 15	que	_	Word	Word	_	17	R	17:R	_
 16	j'	_	Word	Word	_	17	A	17:A	_
 17	aimais	_	Word	Word	_	14	E	14:E	_
-18	et	_	Word	Word	_	17	L	17:L	_
+18	et	_	Word	Word	_	22	L	22:L	_
 19	qui	_	Word	Word	_	22	R	22:R	_
 20	me	_	Word	Word	_	22	A	22:A	_
 21	le	_	Word	Word	_	22	A	22:A	_
@@ -74,7 +74,7 @@
 71	de	_	Word	Word	_	72	E	72:E	_
 72	conseils	_	Word	Word	_	69	A	69:A	_
 73	,	_	Punctuation	Punctuation	_	69	U	69:U	_
-74	même	_	Word	Word	_	69	L	69:L	_
+74	même	_	Word	Word	_	80	L	80:L	_
 75	quand	_	Word	Word	_	74	Terminal	74:Terminal	_
 76	on	_	Word	Word	_	80	A	80:A	_
 77	ne	_	Word	Word	_	80	D	80:D	_

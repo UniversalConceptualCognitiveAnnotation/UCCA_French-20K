@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 876000
 # text = Mais cette réponse prouvait l' obstination du harponneur et pas autre chose .
-1	Mais	_	Word	Word	_	4	L	4:L	_
+1	Mais	_	Word	Word	_	12	L	12:L	_
 2	cette	_	Word	Word	_	3	E	3:E	_
 3	réponse	_	Word	Word	_	0	C	0:C|12:A	_
 4	prouvait	_	Word	Word	_	0	H	0:H	_
@@ -9,7 +9,7 @@
 6	obstination	_	Word	Word	_	4	A	4:A	_
 7	du	_	Word	Word	_	8	R	8:R	_
 8	harponneur	_	Word	Word	_	6	E	6:E	_
-9	et	_	Word	Word	_	4	L	4:L	_
+9	et	_	Word	Word	_	12	L	12:L	_
 10	pas	_	Word	Word	_	12	D	12:D	_
 11	autre	_	Word	Word	_	12	E	12:E	_
 12	chose	_	Word	Word	_	4	H	4:H	_

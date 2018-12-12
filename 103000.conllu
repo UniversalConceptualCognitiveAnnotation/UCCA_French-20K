@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 103000
 # text = Or , ce fut le « monstre » qui , justement ou injustement , fut accusé de leur disparition , et , grâce à lui , les communications entre les divers continents devenant de plus en plus dangereuses , le public se déclara et demanda catégoriquement que les mers fussent enfin débarrassées et à tout prix de ce formidable cétacé .
-1	Or	_	Word	Word	_	16	L	16:L	_
+1	Or	_	Word	Word	_	38	L	38:L	_
 2	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 3	ce	_	Word	Word	_	16	F	16:F	_
 4	fut	_	Word	Word	_	3	Terminal	3:Terminal	_
@@ -21,7 +21,7 @@
 18	leur	_	Word	Word	_	19	E	19:E	_
 19	disparition	_	Word	Word	_	16	A	16:A	_
 20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
-21	et	_	Word	Word	_	16	L	16:L	_
+21	et	_	Word	Word	_	38	L	38:L	_
 22	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 23	grâce	_	Word	Word	_	38	G	38:G	_
 24	à	_	Word	Word	_	23	Terminal	23:Terminal	_
@@ -44,7 +44,7 @@
 41	public	_	Word	Word	_	42	A	42:A|45:A	_
 42	se	_	Word	Word	_	16	H	16:H	_
 43	déclara	_	Word	Word	_	42	Terminal	42:Terminal	_
-44	et	_	Word	Word	_	16	L	16:L	_
+44	et	_	Word	Word	_	45	L	45:L	_
 45	demanda	_	Word	Word	_	16	H	16:H	_
 46	catégoriquement	_	Word	Word	_	45	D	45:D	_
 47	que	_	Word	Word	_	52	R	52:R	_

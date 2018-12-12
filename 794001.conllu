@@ -28,12 +28,12 @@
 25	d'	_	Word	Word	_	26	R	26:R	_
 26	artimon	_	Word	Word	_	24	E	24:E	_
 27	;	_	Punctuation	Punctuation	_	5	U	5:U	_
-28	puis	_	Word	Word	_	5	L	5:L	_
+28	puis	_	Word	Word	_	30	L	30:L	_
 29	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 30	modifiant	_	Word	Word	_	5	H	5:H	_
 31	sa	_	Word	Word	_	32	E	32:E	_
 32	marche	_	Word	Word	_	30	A	30:A	_
-33	pour	_	Word	Word	_	5	L	5:L	_
+33	pour	_	Word	Word	_	34	L	34:L	_
 34	prendre	_	Word	Word	_	5	H	5:H	_
 35	le	_	Word	Word	_	36	E	36:E	_
 36	chenal	_	Word	Word	_	34	A	34:A	_

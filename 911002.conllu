@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 911002
 # text = Cependant une circonstance se présenta , qui mit en relief la merveilleuse habileté de Ned Land , et montra quelle confiance on devait avoir en lui .
-1	Cependant	_	Word	Word	_	4	L	4:L	_
+1	Cependant	_	Word	Word	_	8	L	8:L	_
 2	une	_	Word	Word	_	3	E	3:E	_
 3	circonstance	_	Word	Word	_	0	C	0:C|8:A|19:A	_
 4	se	_	Word	Word	_	0	H	0:H	_
 5	présenta	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	qui	_	Word	Word	_	4	L	4:L	_
+7	qui	_	Word	Word	_	8	L	8:L	_
 8	mit	_	Word	Word	_	4	H	4:H	_
 9	en	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	relief	_	Word	Word	_	8	Terminal	8:Terminal	_
@@ -18,7 +18,7 @@
 15	Ned	_	Word	Word	_	13	A	13:A	_
 16	Land	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-18	et	_	Word	Word	_	4	L	4:L	_
+18	et	_	Word	Word	_	19	L	19:L	_
 19	montra	_	Word	Word	_	4	H	4:H	_
 20	quelle	_	Word	Word	_	21	D	21:D	_
 21	confiance	_	Word	Word	_	19	A	19:A	_

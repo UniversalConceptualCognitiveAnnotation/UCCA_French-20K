@@ -61,7 +61,7 @@
 58	Mission	_	Word	Word	_	0	C	0:C|63:C|87:A	_
 59	glorieuse	_	Word	Word	_	58	E	58:E	_
 60	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-61	mais	_	Word	Word	_	3	L	3:L	_
+61	mais	_	Word	Word	_	63	L	63:L	_
 62	...	_	Punctuation	Punctuation	_	3	U	3:U	_
 63	dangereuse	_	Word	Word	_	3	H	3:H	_
 64	aussi	_	Word	Word	_	63	D	63:D	_
@@ -85,10 +85,10 @@
 82	-	_	Punctuation	Punctuation	_	83	U	83:U	_
 83	capricieuses	_	Word	Word	_	3	H	3:H	_
 84	!	_	Punctuation	Punctuation	_	3	U	3:U	_
-85	Mais	_	Word	Word	_	3	L	3:L	_
+85	Mais	_	Word	Word	_	87	L	87:L	_
 86	nous	_	Word	Word	_	87	A	87:A	_
 87	irons	_	Word	Word	_	3	H	3:H	_
-88	quand	_	Word	Word	_	3	L	3:L	_
+88	quand	_	Word	Word	_	92	L	92:L	_
 89	même	_	Word	Word	_	88	Terminal	88:Terminal	_
 90	!	_	Punctuation	Punctuation	_	3	U	3:U	_
 91	Nous	_	Word	Word	_	92	A	92:A	_

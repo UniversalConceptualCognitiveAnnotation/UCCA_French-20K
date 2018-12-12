@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 418002
 # text = Et , en effet , à moins que cet écueil n' eût une machine dans le ventre , comment pouvait - il se déplacer avec une rapidité si prodigieuse ?
-1	Et	_	Word	Word	_	12	L	12:L	_
+1	Et	_	Word	Word	_	23	L	23:L	_
 2	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 3	en	_	Word	Word	_	4	R	4:R	_
-4	effet	_	Word	Word	_	12	L	12:L	_
+4	effet	_	Word	Word	_	23	L	23:L	_
 5	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-6	à	_	Word	Word	_	12	L	12:L	_
+6	à	_	Word	Word	_	23	L	23:L	_
 7	moins	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	que	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	cet	_	Word	Word	_	10	E	10:E	_

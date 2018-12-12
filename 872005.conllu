@@ -4,7 +4,7 @@
 1	Eh	_	Word	Word	_	0	H	0:H	_
 2	bien	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-4	quand	_	Word	Word	_	1	L	1:L	_
+4	quand	_	Word	Word	_	6	L	6:L	_
 5	vous	_	Word	Word	_	6	A	6:A	_
 6	plongez	_	Word	Word	_	1	H	1:H	_
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 94003
 # text = Aussi , les passagers choisissent - ils encore , malgré la concurrence puissante que lui fait la France , la ligne Cunard de préférence à toute autre , ainsi qu' il appert d' un relevé fait sur les documents officiels des dernières années .
-1	Aussi	_	Word	Word	_	5	L	5:L	_
+1	Aussi	_	Word	Word	_	12	L	12:L	_
 2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	les	_	Word	Word	_	4	E	4:E	_
 4	passagers	_	Word	Word	_	5	A	5:A	_
@@ -10,7 +10,7 @@
 7	ils	_	Word	Word	_	5	A	5:A	_
 8	encore	_	Word	Word	_	5	D	5:D	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-10	malgré	_	Word	Word	_	5	L	5:L	_
+10	malgré	_	Word	Word	_	12	L	12:L	_
 11	la	_	Word	Word	_	12	E	12:E	_
 12	concurrence	_	Word	Word	_	5	H	5:H	_
 13	puissante	_	Word	Word	_	12	D	12:D	_
@@ -29,7 +29,7 @@
 26	toute	_	Word	Word	_	27	E	27:E	_
 27	autre	_	Word	Word	_	24	A	24:A	_
 28	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-29	ainsi	_	Word	Word	_	5	L	5:L	_
+29	ainsi	_	Word	Word	_	32	L	32:L	_
 30	qu'	_	Word	Word	_	29	Terminal	29:Terminal	_
 31	il	_	Word	Word	_	32	F	32:F	_
 32	appert	_	Word	Word	_	5	H	5:H	_

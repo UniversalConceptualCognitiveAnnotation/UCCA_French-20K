@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 933005
 # text = Mais le soir du 4 novembre arriva sans que se fût dévoilé ce mystère sous - marin .
-1	Mais	_	Word	Word	_	7	L	7:L	_
+1	Mais	_	Word	Word	_	10	L	10:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	soir	_	Word	Word	_	6	E	6:E	_
 4	du	_	Word	Word	_	3	R	3:R	_
 5	4	_	Word	Word	_	6	E	6:E	_
 6	novembre	_	Word	Word	_	7	T	7:T	_
 7	arriva	_	Word	Word	_	0	H	0:H	_
-8	sans	_	Word	Word	_	7	L	7:L	_
+8	sans	_	Word	Word	_	10	L	10:L	_
 9	que	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	se	_	Word	Word	_	7	H	7:H	_
 11	fût	_	Word	Word	_	10	F	10:F	_

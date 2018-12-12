@@ -2,7 +2,7 @@
 # sent_id = 436000
 # text = « Eh bien ! supposez l' arme dix fois plus forte , et l' animal dix fois plus puissant , lancez - le avec une rapidité de vingt milles à l' heure , multipliez sa masse par sa vitesse , et vous obtenez un choc capable de produire la catastrophe demandée .
 1	«	_	Punctuation	Punctuation	_	5	U	5:U	_
-2	Eh	_	Word	Word	_	5	L	5:L	_
+2	Eh	_	Word	Word	_	19	L	19:L	_
 3	bien	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	!	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	supposez	_	Word	Word	_	0	H	0:H	_
@@ -13,7 +13,7 @@
 10	plus	_	Word	Word	_	11	E	11:E	_
 11	forte	_	Word	Word	_	5	A	5:A	_
 12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-13	et	_	Word	Word	_	5	L	5:L	_
+13	et	_	Word	Word	_	19	L	19:L	_
 14	l'	_	Word	Word	_	15	E	15:E	_
 15	animal	_	Word	Word	_	19	A	19:A	_
 16	dix	_	Word	Word	_	17	E	17:E	_
@@ -41,7 +41,7 @@
 38	sa	_	Word	Word	_	39	E	39:E	_
 39	vitesse	_	Word	Word	_	34	A	34:A	_
 40	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-41	et	_	Word	Word	_	5	L	5:L	_
+41	et	_	Word	Word	_	43	L	43:L	_
 42	vous	_	Word	Word	_	43	A	43:A	_
 43	obtenez	_	Word	Word	_	5	H	5:H	_
 44	un	_	Word	Word	_	45	E	45:E	_

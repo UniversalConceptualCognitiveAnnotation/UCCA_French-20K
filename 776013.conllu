@@ -11,7 +11,7 @@
 8	je	_	Word	Word	_	6	A	6:A	_
 9	évasivement	_	Word	Word	_	6	D	6:D	_
 10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-11	mais	_	Word	Word	_	2	L	2:L	_
+11	mais	_	Word	Word	_	13	L	13:L	_
 12	en	_	Word	Word	_	13	F	13:F	_
 13	faisant	_	Word	Word	_	2	H	2:H	_
 14	un	_	Word	Word	_	15	E	15:E	_

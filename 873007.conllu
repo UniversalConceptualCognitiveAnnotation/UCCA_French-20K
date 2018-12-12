@@ -6,7 +6,7 @@
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Ned	_	Word	Word	_	2	G	2:G	_
 5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-6	Ainsi	_	Word	Word	_	2	L	2:L	_
+6	Ainsi	_	Word	Word	_	21	L	21:L	_
 7	donc	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 9	à	_	Word	Word	_	11	R	11:R	_
@@ -78,7 +78,7 @@
 75	mille	_	Word	Word	_	76	E	76:E	_
 76	pieds	_	Word	Word	_	2	H	2:H	_
 77	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-78	enfin	_	Word	Word	_	2	L	2:L	_
+78	enfin	_	Word	Word	_	98	L	98:L	_
 79	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 80	mille	_	Word	Word	_	81	E	81:E	_
 81	fois	_	Word	Word	_	83	E	83:E	_
@@ -94,13 +94,13 @@
 91	mille	_	Word	Word	_	86	Terminal	86:Terminal	_
 92	kilogrammes	_	Word	Word	_	83	E	83:E	_
 93	;	_	Punctuation	Punctuation	_	2	U	2:U	_
-94	c'est-à-dire	_	Word	Word	_	2	L	2:L	_
+94	c'est-à-dire	_	Word	Word	_	98	L	98:L	_
 95	que	_	Word	Word	_	94	Terminal	94:Terminal	_
 96	vous	_	Word	Word	_	98	A	98:A	_
 97	seriez	_	Word	Word	_	98	F	98:F	_
 98	aplati	_	Word	Word	_	2	H	2:H	_
-99	comme	_	Word	Word	_	2	L	2:L	_
-100	si	_	Word	Word	_	2	L	2:L	_
+99	comme	_	Word	Word	_	104	L	104:L	_
+100	si	_	Word	Word	_	104	L	104:L	_
 101	l'	_	Word	Word	_	104	F	104:F	_
 102	on	_	Word	Word	_	104	A	104:A	_
 103	vous	_	Word	Word	_	104	A	104:A	_

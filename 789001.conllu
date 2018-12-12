@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 789001
 # text = Ainsi donc , un quart d' heure de retard , moins même , et la frégate partait sans moi , et je manquais cette expédition extraordinaire , surnaturelle , invraisemblable , dont le récit véridique pourra bien trouver cependant quelques incrédules .
-1	Ainsi	_	Word	Word	_	9	L	9:L	_
+1	Ainsi	_	Word	Word	_	17	L	17:L	_
 2	donc	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 4	un	_	Word	Word	_	5	E	5:E	_
@@ -14,14 +14,14 @@
 11	moins	_	Word	Word	_	9	D	9:D	_
 12	même	_	Word	Word	_	11	E	11:E	_
 13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-14	et	_	Word	Word	_	9	L	9:L	_
+14	et	_	Word	Word	_	17	L	17:L	_
 15	la	_	Word	Word	_	16	E	16:E	_
 16	frégate	_	Word	Word	_	17	A	17:A	_
 17	partait	_	Word	Word	_	9	H	9:H	_
 18	sans	_	Word	Word	_	19	R	19:R	_
 19	moi	_	Word	Word	_	17	A	17:A	_
 20	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-21	et	_	Word	Word	_	9	L	9:L	_
+21	et	_	Word	Word	_	23	L	23:L	_
 22	je	_	Word	Word	_	23	A	23:A	_
 23	manquais	_	Word	Word	_	9	H	9:H	_
 24	cette	_	Word	Word	_	25	E	25:E	_

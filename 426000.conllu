@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 426000
 # text = À mon arrivée à New York , plusieurs personnes m ' avaient fait l' honneur de me consulter sur le phénomène en question .
-1	À	_	Word	Word	_	3	L	3:L	_
+1	À	_	Word	Word	_	10	L	10:L	_
 2	mon	_	Word	Word	_	3	E	3:E	_
 3	arrivée	_	Word	Word	_	0	H	0:H	_
 4	à	_	Word	Word	_	5	R	5:R	_

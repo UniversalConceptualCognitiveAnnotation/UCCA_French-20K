@@ -16,8 +16,8 @@
 13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 14	c'	_	Word	Word	_	21	F	21:F	_
 15	est	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	que	_	Word	Word	_	5	L	5:L	_
-17	si	_	Word	Word	_	5	L	5:L	_
+16	que	_	Word	Word	_	21	L	21:L	_
+17	si	_	Word	Word	_	21	L	21:L	_
 18	de	_	Word	Word	_	20	E	20:E	_
 19	tels	_	Word	Word	_	20	E	20:E	_
 20	animaux	_	Word	Word	_	21	A	21:A	_
@@ -36,7 +36,7 @@
 33	soient	_	Word	Word	_	35	F	35:F	_
 34	aussi	_	Word	Word	_	35	E	35:E	_
 35	forts	_	Word	Word	_	27	A	27:A	_
-36	que	_	Word	Word	_	5	L	5:L	_
+36	que	_	Word	Word	_	39	L	39:L	_
 37	vous	_	Word	Word	_	39	A	39:A	_
 38	le	_	Word	Word	_	39	A	39:A	_
 39	dites	_	Word	Word	_	5	H	5:H	_

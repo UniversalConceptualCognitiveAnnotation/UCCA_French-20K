@@ -2,14 +2,14 @@
 # sent_id = 428000
 # text = « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l' existence d' un animal marin d' une puissance excessive .
 1	«	_	Punctuation	Punctuation	_	11	U	11:U	_
-2	Ainsi	_	Word	Word	_	11	L	11:L	_
+2	Ainsi	_	Word	Word	_	23	L	23:L	_
 3	donc	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	disais	_	Word	Word	_	0	H	0:H	_
 6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	je	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	après	_	Word	Word	_	11	L	11:L	_
+9	après	_	Word	Word	_	23	L	23:L	_
 10	avoir	_	Word	Word	_	11	F	11:F	_
 11	examiné	_	Word	Word	_	5	A	5:A	_
 12	une	_	Word	Word	_	11	D	11:D	_

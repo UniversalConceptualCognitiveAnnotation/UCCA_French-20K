@@ -15,7 +15,7 @@
 12	personne	_	Word	Word	_	6	D	6:D	_
 13	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 14	-	_	Punctuation	Punctuation	_	1	U	1:U	_
-15	au	_	Word	Word	_	1	L	1:L	_
+15	au	_	Word	Word	_	18	L	18:L	_
 16	point	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	d'	_	Word	Word	_	15	Terminal	15:Terminal	_
 18	en	_	Word	Word	_	1	H	1:H	_

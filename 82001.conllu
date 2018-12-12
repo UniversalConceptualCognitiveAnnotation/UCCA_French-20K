@@ -7,7 +7,7 @@
 4	se	_	Word	Word	_	12	D	12:D	_
 5	crut	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-7	tout	_	Word	Word	_	12	L	12:L	_
+7	tout	_	Word	Word	_	20	L	20:L	_
 8	d'	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	abord	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
@@ -29,7 +29,7 @@
 26	situation	_	Word	Word	_	24	A	24:A	_
 27	exacte	_	Word	Word	_	26	E	26:E	_
 28	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-29	quand	_	Word	Word	_	12	L	12:L	_
+29	quand	_	Word	Word	_	41	L	41:L	_
 30	deux	_	Word	Word	_	31	E	31:E	_
 31	colonnes	_	Word	Word	_	41	A	41:A	_
 32	d'	_	Word	Word	_	33	E	33:E	_

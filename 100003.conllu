@@ -13,7 +13,7 @@
 10	cap	_	Word	Word	_	9	A	9:A	_
 11	Clear	_	Word	Word	_	10	Terminal	10:Terminal	_
 12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-13	et	_	Word	Word	_	2	L	2:L	_
+13	et	_	Word	Word	_	21	L	21:L	_
 14	après	_	Word	Word	_	16	R	16:R	_
 15	trois	_	Word	Word	_	16	E	16:E	_
 16	jours	_	Word	Word	_	21	T	21:T	_

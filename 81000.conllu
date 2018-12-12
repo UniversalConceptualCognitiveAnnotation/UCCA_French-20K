@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 81000
 # text = Or , il existait , le fait en lui - même n' était plus niable , et , avec ce penchant qui pousse au merveilleux la cervelle humaine , on comprendra l' émotion produite dans le monde entier par cette surnaturelle apparition .
-1	Or	_	Word	Word	_	4	L	4:L	_
+1	Or	_	Word	Word	_	15	L	15:L	_
 2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 3	il	_	Word	Word	_	4	A	4:A	_
 4	existait	_	Word	Word	_	0	H	0:H	_
@@ -17,9 +17,9 @@
 14	plus	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	niable	_	Word	Word	_	4	H	4:H	_
 16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-17	et	_	Word	Word	_	4	L	4:L	_
+17	et	_	Word	Word	_	23	L	23:L	_
 18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-19	avec	_	Word	Word	_	4	L	4:L	_
+19	avec	_	Word	Word	_	23	L	23:L	_
 20	ce	_	Word	Word	_	21	E	21:E	_
 21	penchant	_	Word	Word	_	23	A	23:A	_
 22	qui	_	Word	Word	_	23	F	23:F	_

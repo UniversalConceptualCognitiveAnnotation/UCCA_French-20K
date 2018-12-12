@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 790000
 # text = Mais le commandant Farragut ne voulait perdre ni un jour , ni une heure pour rallier les mers dans lesquelles l' animal venait d' être signalé .
-1	Mais	_	Word	Word	_	7	L	7:L	_
+1	Mais	_	Word	Word	_	16	L	16:L	_
 2	le	_	Word	Word	_	3	E	3:E	_
 3	commandant	_	Word	Word	_	4	E	4:E	_
 4	Farragut	_	Word	Word	_	0	C	0:C|16:A	_
@@ -15,7 +15,7 @@
 12	ni	_	Word	Word	_	10	N	10:N	_
 13	une	_	Word	Word	_	14	E	14:E	_
 14	heure	_	Word	Word	_	10	C	10:C	_
-15	pour	_	Word	Word	_	7	L	7:L	_
+15	pour	_	Word	Word	_	16	L	16:L	_
 16	rallier	_	Word	Word	_	7	H	7:H	_
 17	les	_	Word	Word	_	18	E	18:E	_
 18	mers	_	Word	Word	_	16	A	16:A	_

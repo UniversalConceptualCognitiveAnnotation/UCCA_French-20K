@@ -3,7 +3,7 @@
 # text = « En effet , le narwal est armé d' une sorte d' épée d' ivoire , d' une hallebarde , suivant l' expression de certains naturalistes . C' est une dent principale qui a la dureté de l' acier . On a trouvé quelques - unes de ces dents implantées dans le corps des baleines que le narwal attaque toujours avec succès . D' autres ont été arrachées , non sans peine , de carènes de vaisseaux qu' elles avaient percées d' outre en outre , comme un foret perce un tonneau . Le musée de la Faculté de médecine de Paris possède une de ces défenses longue de deux mètres vingt-cinq centimètres , et large de quarante-huit centimètres à sa base !
 1	«	_	Punctuation	Punctuation	_	8	U	8:U	_
 2	En	_	Word	Word	_	3	R	3:R	_
-3	effet	_	Word	Word	_	8	L	8:L	_
+3	effet	_	Word	Word	_	29	L	29:L	_
 4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 5	le	_	Word	Word	_	6	E	6:E	_
 6	narwal	_	Word	Word	_	8	A	8:A	_
@@ -87,7 +87,7 @@
 84	en	_	Word	Word	_	83	R	83:R	_
 85	outre	_	Word	Word	_	83	C	83:C	_
 86	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-87	comme	_	Word	Word	_	8	L	8:L	_
+87	comme	_	Word	Word	_	90	L	90:L	_
 88	un	_	Word	Word	_	89	E	89:E	_
 89	foret	_	Word	Word	_	90	A	90:A	_
 90	perce	_	Word	Word	_	8	H	8:H	_

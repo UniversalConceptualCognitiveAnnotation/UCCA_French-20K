@@ -27,7 +27,7 @@
 24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
 25	Island	_	Word	Word	_	23	Terminal	23:Terminal	_
 26	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-27	et	_	Word	Word	_	4	L	4:L	_
+27	et	_	Word	Word	_	37	L	37:L	_
 28	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 29	à	_	Word	Word	_	31	R	31:R	_
 30	huit	_	Word	Word	_	31	E	31:E	_
@@ -35,7 +35,7 @@
 32	du	_	Word	Word	_	33	R	33:R	_
 33	soir	_	Word	Word	_	31	E	31:E	_
 34	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-35	après	_	Word	Word	_	4	L	4:L	_
+35	après	_	Word	Word	_	37	L	37:L	_
 36	avoir	_	Word	Word	_	37	F	37:F	_
 37	perdu	_	Word	Word	_	4	H	4:H	_
 38	dans	_	Word	Word	_	40	R	40:R	_

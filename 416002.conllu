@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 416002
 # text = Après six mois passés dans le Nebraska , chargé de précieuses collections , j' arrivai à New York vers la fin de mars .
-1	Après	_	Word	Word	_	4	L	4:L	_
+1	Après	_	Word	Word	_	9	L	9:L	_
 2	six	_	Word	Word	_	3	E	3:E	_
 3	mois	_	Word	Word	_	4	T	4:T	_
 4	passés	_	Word	Word	_	0	H	0:H	_

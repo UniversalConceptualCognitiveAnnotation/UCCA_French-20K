@@ -2,7 +2,7 @@
 # sent_id = 867000
 # text = - Cependant , Ned , on cite des bâtiments que la dent du narwal a traversés de part en part . - Des navires en bois , c' est possible , répondit le Canadien , et encore , je ne les ai jamais vus . Donc , jusqu' à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet .
 1	-	_	Punctuation	Punctuation	_	7	U	7:U	_
-2	Cependant	_	Word	Word	_	7	L	7:L	_
+2	Cependant	_	Word	Word	_	32	L	32:L	_
 3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 4	Ned	_	Word	Word	_	7	G	7:G	_
 5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -36,7 +36,7 @@
 33	le	_	Word	Word	_	34	E	34:E	_
 34	Canadien	_	Word	Word	_	32	A	32:A	_
 35	,	_	Punctuation	Punctuation	_	32	U	32:U	_
-36	et	_	Word	Word	_	30	L	30:L	_
+36	et	_	Word	Word	_	44	L	44:L	_
 37	encore	_	Word	Word	_	36	Terminal	36:Terminal	_
 38	,	_	Punctuation	Punctuation	_	30	U	30:U	_
 39	je	_	Word	Word	_	44	A	44:A	_
@@ -46,9 +46,9 @@
 43	jamais	_	Word	Word	_	44	T	44:T	_
 44	vus	_	Word	Word	_	30	H	30:H	_
 45	.	_	Punctuation	Punctuation	_	30	U	30:U	_
-46	Donc	_	Word	Word	_	30	L	30:L	_
+46	Donc	_	Word	Word	_	50	L	50:L	_
 47	,	_	Punctuation	Punctuation	_	30	U	30:U	_
-48	jusqu'	_	Word	Word	_	30	L	30:L	_
+48	jusqu'	_	Word	Word	_	50	L	50:L	_
 49	à	_	Word	Word	_	48	Terminal	48:Terminal	_
 50	preuve	_	Word	Word	_	30	H	30:H	_
 51	contraire	_	Word	Word	_	50	D	50:D	_

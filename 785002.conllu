@@ -26,10 +26,10 @@
 23	vitesse	_	Word	Word	_	0	C	0:C|28:A	_
 24	considérable	_	Word	Word	_	23	E	23:E	_
 25	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-26	mais	_	Word	Word	_	9	L	9:L	_
+26	mais	_	Word	Word	_	28	L	28:L	_
 27	cependant	_	Word	Word	_	26	Terminal	26:Terminal	_
 28	insuffisante	_	Word	Word	_	9	H	9:H	_
-29	pour	_	Word	Word	_	9	L	9:L	_
+29	pour	_	Word	Word	_	30	L	30:L	_
 30	lutter	_	Word	Word	_	9	H	9:H	_
 31	avec	_	Word	Word	_	34	R	34:R	_
 32	le	_	Word	Word	_	34	E	34:E	_

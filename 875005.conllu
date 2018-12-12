@@ -2,8 +2,8 @@
 # sent_id = 875005
 # text = - Mais s' ils n' existent pas , entêté harponneur , comment expliquez - vous l' accident arrivé au Scotia ?
 1	-	_	Punctuation	Punctuation	_	6	U	6:U	_
-2	Mais	_	Word	Word	_	6	L	6:L	_
-3	s'	_	Word	Word	_	6	L	6:L	_
+2	Mais	_	Word	Word	_	13	L	13:L	_
+3	s'	_	Word	Word	_	13	L	13:L	_
 4	ils	_	Word	Word	_	6	A	6:A	_
 5	n'	_	Word	Word	_	6	D	6:D	_
 6	existent	_	Word	Word	_	0	H	0:H	_

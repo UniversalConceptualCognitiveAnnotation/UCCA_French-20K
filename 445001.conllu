@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 445001
 # text = Et l' impatience allait croissant , quand , le 2 juillet , on apprit qu' un steamer de la ligne de San Francisco de Californie à Shangaï avait revu l' animal , trois semaines auparavant , dans les mers septentrionales du Pacifique .
-1	Et	_	Word	Word	_	4	L	4:L	_
+1	Et	_	Word	Word	_	14	L	14:L	_
 2	l'	_	Word	Word	_	3	E	3:E	_
 3	impatience	_	Word	Word	_	4	A	4:A	_
 4	allait	_	Word	Word	_	0	H	0:H	_
 5	croissant	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	quand	_	Word	Word	_	4	L	4:L	_
+7	quand	_	Word	Word	_	14	L	14:L	_
 8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 9	le	_	Word	Word	_	10	E	10:E	_
 10	2	_	Word	Word	_	14	T	14:T	_

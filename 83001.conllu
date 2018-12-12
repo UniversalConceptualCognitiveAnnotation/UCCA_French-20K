@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 83001
 # text = Donc , ce cétacé extraordinaire pouvait se transporter d' un endroit à un autre avec une vélocité surprenante , puisque à trois jours d' intervalle , le Governor - Higginson et le Cristobal - Colon l' avaient observé en deux points de la carte séparés par une distance de plus de sept cents lieues marines .
-1	Donc	_	Word	Word	_	7	L	7:L	_
+1	Donc	_	Word	Word	_	38	L	38:L	_
 2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 3	ce	_	Word	Word	_	4	E	4:E	_
 4	cétacé	_	Word	Word	_	7	A	7:A	_
@@ -20,7 +20,7 @@
 17	vélocité	_	Word	Word	_	7	A	7:A	_
 18	surprenante	_	Word	Word	_	17	E	17:E	_
 19	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-20	puisque	_	Word	Word	_	7	L	7:L	_
+20	puisque	_	Word	Word	_	38	L	38:L	_
 21	à	_	Word	Word	_	23	R	23:R	_
 22	trois	_	Word	Word	_	23	E	23:E	_
 23	jours	_	Word	Word	_	38	T	38:T	_

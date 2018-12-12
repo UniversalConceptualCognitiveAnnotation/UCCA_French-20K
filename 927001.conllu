@@ -61,14 +61,14 @@
 58	sur	_	Word	Word	_	57	R	57:R	_
 59	coup	_	Word	Word	_	57	C	57:C	_
 60	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-61	au	_	Word	Word	_	18	L	18:L	_
+61	au	_	Word	Word	_	64	L	64:L	_
 62	risque	_	Word	Word	_	61	Terminal	61:Terminal	_
 63	de	_	Word	Word	_	64	F	64:F	_
 64	déniveler	_	Word	Word	_	18	H	18:H	_
 65	sa	_	Word	Word	_	66	E	66:E	_
 66	machine	_	Word	Word	_	64	A	64:A	_
 67	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-68	et	_	Word	Word	_	18	L	18:L	_
+68	et	_	Word	Word	_	75	L	75:L	_
 69	il	_	Word	Word	_	75	A	75:A	_
 70	ne	_	Word	Word	_	75	D	75:D	_
 71	laissa	_	Word	Word	_	75	D	75:D	_

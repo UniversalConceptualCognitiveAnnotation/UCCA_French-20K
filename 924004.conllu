@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 924004
 # text = Cependant , personne ne doutait encore du succès , et pas un matelot du bord n' eût parié contre le narwal et contre sa prochaine apparition .
-1	Cependant	_	Word	Word	_	5	L	5:L	_
+1	Cependant	_	Word	Word	_	18	L	18:L	_
 2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	personne	_	Word	Word	_	5	A	5:A	_
 4	ne	_	Word	Word	_	5	D	5:D	_
@@ -10,7 +10,7 @@
 7	du	_	Word	Word	_	8	R	8:R	_
 8	succès	_	Word	Word	_	5	A	5:A	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-10	et	_	Word	Word	_	5	L	5:L	_
+10	et	_	Word	Word	_	18	L	18:L	_
 11	pas	_	Word	Word	_	13	E	13:E	_
 12	un	_	Word	Word	_	13	E	13:E	_
 13	matelot	_	Word	Word	_	18	A	18:A	_

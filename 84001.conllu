@@ -24,7 +24,7 @@
 21	pieds	_	Word	Word	_	9	A	9:A	_
 22	anglais	_	Word	Word	_	21	E	21:E	_
 23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-24	puisque	_	Word	Word	_	7	L	7:L	_
+24	puisque	_	Word	Word	_	33	L	33:L	_
 25	le	_	Word	Word	_	26	E	26:E	_
 26	Shannon	_	Word	Word	_	33	A	33:A	_
 27	et	_	Word	Word	_	26	N	26:N	_
@@ -37,7 +37,7 @@
 34	à	_	Word	Word	_	35	R	35:R	_
 35	lui	_	Word	Word	_	33	A	33:A	_
 36	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-37	bien	_	Word	Word	_	7	L	7:L	_
+37	bien	_	Word	Word	_	40	L	40:L	_
 38	qu'	_	Word	Word	_	37	Terminal	37:Terminal	_
 39	ils	_	Word	Word	_	40	A	40:A	_
 40	mesurassent	_	Word	Word	_	7	H	7:H	_

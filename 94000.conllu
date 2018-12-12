@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 94000
 # text = Si je donne ces détails très - succincts , c' est afin que chacun sache bien quelle est l' importance de cette compagnie de transports maritimes , connue du monde entier pour son intelligente gestion .
-1	Si	_	Word	Word	_	3	L	3:L	_
+1	Si	_	Word	Word	_	12	L	12:L	_
 2	je	_	Word	Word	_	3	A	3:A	_
 3	donne	_	Word	Word	_	0	H	0:H	_
 4	ces	_	Word	Word	_	5	E	5:E	_

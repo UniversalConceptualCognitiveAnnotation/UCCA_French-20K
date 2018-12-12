@@ -17,7 +17,7 @@
 14	après	_	Word	Word	_	15	R	15:R	_
 15	tout	_	Word	Word	_	9	A	9:A	_
 16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-17	et	_	Word	Word	_	4	L	4:L	_
+17	et	_	Word	Word	_	21	L	21:L	_
 18	dans	_	Word	Word	_	21	R	21:R	_
 19	laquelle	_	Word	Word	_	21	F	21:F	_
 20	nous	_	Word	Word	_	21	A	21:A	_
@@ -65,7 +65,7 @@
 62	de	_	Word	Word	_	63	R	63:R	_
 63	monsieur	_	Word	Word	_	61	E	61:E	_
 64	!	_	Punctuation	Punctuation	_	52	U	52:U	_
-65	Et	_	Word	Word	_	52	L	52:L	_
+65	Et	_	Word	Word	_	69	L	69:L	_
 66	j'	_	Word	Word	_	69	A	69:A	_
 67	aurais	_	Word	Word	_	69	F	69:F	_
 68	déjà	_	Word	Word	_	69	D	69:D	_
@@ -75,7 +75,7 @@
 72	de	_	Word	Word	_	73	R	73:R	_
 73	monsieur	_	Word	Word	_	71	E	71:E	_
 74	!	_	Punctuation	Punctuation	_	52	U	52:U	_
-75	Et	_	Word	Word	_	52	L	52:L	_
+75	Et	_	Word	Word	_	81	L	81:L	_
 76	le	_	Word	Word	_	77	E	77:E	_
 77	babiroussa	_	Word	Word	_	81	A	81:A	_
 78	de	_	Word	Word	_	79	R	79:R	_
@@ -90,7 +90,7 @@
 87	des	_	Word	Word	_	88	R	88:R	_
 88	Plantes	_	Word	Word	_	86	E	86:E	_
 89	,	_	Punctuation	Punctuation	_	52	U	52:U	_
-90	et	_	Word	Word	_	52	L	52:L	_
+90	et	_	Word	Word	_	92	L	92:L	_
 91	il	_	Word	Word	_	92	A	92:A	_
 92	attirerait	_	Word	Word	_	52	H	52:H	_
 93	tous	_	Word	Word	_	95	E	95:E	_

@@ -14,13 +14,13 @@
 11	la	_	Word	Word	_	12	E	12:E	_
 12	masse	_	Word	Word	_	5	A	5:A	_
 13	compacte	_	Word	Word	_	12	E	12:E	_
-14	et	_	Word	Word	_	5	L	5:L	_
+14	et	_	Word	Word	_	15	L	15:L	_
 15	saluèrent	_	Word	Word	_	5	H	5:H	_
 16	l'	_	Word	Word	_	17	E	17:E	_
 17	Abraham	_	Word	Word	_	15	A	15:A	_
 18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
 19	Lincoln	_	Word	Word	_	17	Terminal	17:Terminal	_
-20	jusqu'	_	Word	Word	_	5	L	5:L	_
+20	jusqu'	_	Word	Word	_	23	L	23:L	_
 21	à	_	Word	Word	_	20	Terminal	20:Terminal	_
 22	son	_	Word	Word	_	23	A	23:A	_
 23	arrivée	_	Word	Word	_	5	H	5:H	_

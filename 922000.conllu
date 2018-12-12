@@ -30,7 +30,7 @@
 27	bordée	_	Word	Word	_	16	A	16:A	_
 28	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 29	-	_	Punctuation	Punctuation	_	3	U	3:U	_
-30	du	_	Word	Word	_	3	L	3:L	_
+30	du	_	Word	Word	_	38	L	38:L	_
 31	moins	_	Word	Word	_	30	Terminal	30:Terminal	_
 32	quand	_	Word	Word	_	30	Terminal	30:Terminal	_
 33	aucune	_	Word	Word	_	34	E	34:E	_

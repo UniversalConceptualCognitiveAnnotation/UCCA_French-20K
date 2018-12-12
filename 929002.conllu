@@ -22,10 +22,10 @@
 19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
 20	major	_	Word	Word	_	18	Terminal	18:Terminal	_
 21	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-22	et	_	Word	Word	_	3	L	3:L	_
+22	et	_	Word	Word	_	27	L	27:L	_
 23	certainement	_	Word	Word	_	27	G	27:G	_
 24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-25	sans	_	Word	Word	_	3	L	3:L	_
+25	sans	_	Word	Word	_	27	L	27:L	_
 26	un	_	Word	Word	_	27	E	27:E	_
 27	entêtement	_	Word	Word	_	3	H	3:H	_
 28	très	_	Word	Word	_	30	E	30:E	_

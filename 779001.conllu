@@ -10,7 +10,7 @@
 7	de	_	Word	Word	_	8	R	8:R	_
 8	main	_	Word	Word	_	6	E	6:E	_
 9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-10	et	_	Word	Word	_	3	L	3:L	_
+10	et	_	Word	Word	_	13	L	13:L	_
 11	j'	_	Word	Word	_	13	A	13:A	_
 12	étais	_	Word	Word	_	13	F	13:F	_
 13	sûr	_	Word	Word	_	3	H	3:H	_
@@ -19,7 +19,7 @@
 16	ne	_	Word	Word	_	17	D	17:D	_
 17	manquait	_	Word	Word	_	13	A	13:A	_
 18	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-19	car	_	Word	Word	_	3	L	3:L	_
+19	car	_	Word	Word	_	22	L	22:L	_
 20	ce	_	Word	Word	_	21	E	21:E	_
 21	garçon	_	Word	Word	_	0	C	0:C|32:A	_
 22	classait	_	Word	Word	_	3	H	3:H	_

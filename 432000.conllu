@@ -2,7 +2,7 @@
 # sent_id = 432000
 # text = « Si nous ne les connaissons pas toutes , si la nature a encore des secrets pour nous en ichtyologie , rien de plus acceptable que d' admettre l' existence de poissons ou de cétacés , d' espèces ou même de genres nouveaux , d' une organisation essentiellement « fondrière » , qui habitent les couches inaccessibles à la sonde , et qu' un événement quelconque , une fantaisie , un caprice , si l' on veut , ramène à de longs intervalles vers le niveau supérieur de l' Océan .
 1	«	_	Punctuation	Punctuation	_	6	U	6:U	_
-2	Si	_	Word	Word	_	6	L	6:L	_
+2	Si	_	Word	Word	_	16	L	16:L	_
 3	nous	_	Word	Word	_	6	A	6:A	_
 4	ne	_	Word	Word	_	6	D	6:D	_
 5	les	_	Word	Word	_	6	A	6:A	_
@@ -10,7 +10,7 @@
 7	pas	_	Word	Word	_	4	Terminal	4:Terminal	_
 8	toutes	_	Word	Word	_	5	E	5:E	_
 9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-10	si	_	Word	Word	_	6	L	6:L	_
+10	si	_	Word	Word	_	16	L	16:L	_
 11	la	_	Word	Word	_	12	E	12:E	_
 12	nature	_	Word	Word	_	16	A	16:A	_
 13	a	_	Word	Word	_	16	F	16:F	_
@@ -62,7 +62,7 @@
 59	la	_	Word	Word	_	60	E	60:E	_
 60	sonde	_	Word	Word	_	57	A	57:A	_
 61	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-62	et	_	Word	Word	_	28	L	28:L	_
+62	et	_	Word	Word	_	79	L	79:L	_
 63	qu'	_	Word	Word	_	79	R	79:R	_
 64	un	_	Word	Word	_	65	E	65:E	_
 65	événement	_	Word	Word	_	79	A	79:A	_

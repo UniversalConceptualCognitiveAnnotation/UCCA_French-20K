@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 88003
 # text = Enfin , dans un article d' un journal satirique très - redouté , le plus aimé de ses rédacteurs , brochant sur le tout , poussa au monstre , comme Hippolyte , lui porta un dernier coup et l' acheva au milieu d' un éclat de rire universel .
-1	Enfin	_	Word	Word	_	21	L	21:L	_
+1	Enfin	_	Word	Word	_	26	L	26:L	_
 2	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 3	dans	_	Word	Word	_	5	R	5:R	_
 4	un	_	Word	Word	_	5	E	5:E	_
@@ -38,7 +38,7 @@
 35	un	_	Word	Word	_	37	E	37:E	_
 36	dernier	_	Word	Word	_	37	E	37:E	_
 37	coup	_	Word	Word	_	34	A	34:A	_
-38	et	_	Word	Word	_	21	L	21:L	_
+38	et	_	Word	Word	_	40	L	40:L	_
 39	l'	_	Word	Word	_	40	A	40:A	_
 40	acheva	_	Word	Word	_	21	H	21:H	_
 41	au	_	Word	Word	_	42	E	42:E	_

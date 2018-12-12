@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 417004
 # text = Qu' il y eut quelque chose , cela ne pouvait être douteux , et les incrédules étaient invités à mettre le doigt sur la plaie du Scotia .
-1	Qu'	_	Word	Word	_	2	L	2:L	_
+1	Qu'	_	Word	Word	_	12	L	12:L	_
 2	il	_	Word	Word	_	0	H	0:H	_
 3	y	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	eut	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -14,7 +14,7 @@
 11	être	_	Word	Word	_	12	F	12:F	_
 12	douteux	_	Word	Word	_	2	H	2:H	_
 13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-14	et	_	Word	Word	_	2	L	2:L	_
+14	et	_	Word	Word	_	18	L	18:L	_
 15	les	_	Word	Word	_	16	E	16:E	_
 16	incrédules	_	Word	Word	_	18	A	18:A	_
 17	étaient	_	Word	Word	_	18	F	18:F	_

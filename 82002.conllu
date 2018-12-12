@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 82002
 # text = Donc , à moins que cet écueil ne fût soumis aux expansions intermittentes d' un geyser , le Governor - Higginson avait affaire bel et bien à quelque mammifère aquatique , inconnu jusque - là , qui rejetait par ses évents des colonnes d' eau , mélangées d' air et de vapeur .
-1	Donc	_	Word	Word	_	10	L	10:L	_
+1	Donc	_	Word	Word	_	23	L	23:L	_
 2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-3	à	_	Word	Word	_	10	L	10:L	_
+3	à	_	Word	Word	_	23	L	23:L	_
 4	moins	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	que	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	cet	_	Word	Word	_	7	E	7:E	_

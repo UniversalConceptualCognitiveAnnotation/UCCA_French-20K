@@ -34,7 +34,7 @@
 31	modifie	_	Word	Word	_	30	Terminal	30:Terminal	_
 32	jamais	_	Word	Word	_	30	T	30:T	_
 33	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-34	alors	_	Word	Word	_	15	L	15:L	_
+34	alors	_	Word	Word	_	39	L	39:L	_
 35	que	_	Word	Word	_	34	Terminal	34:Terminal	_
 36	le	_	Word	Word	_	37	E	37:E	_
 37	noyau	_	Word	Word	_	39	A	39:A	_
