@@ -1,0 +1,10 @@
+# format = ucca
+1	L’équipage	_	Word	-	-	_	A	_
+2	lui	_	Word	-	-	_	A	_
+3	donna	_	Word	-	-	_	E	_
+4	raison	_	Word	-	+	_	_	_
+5	à	_	Word	-	-	_	_	R
+6	l’	_	Word	-	-	_	_	E
+7	unanimité	_	Word	-	+	_	D	_
+8	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,32 @@
+# format = ucca
+1	Quintuplez	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+3	décuplez	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_
+4	même	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+5	cette	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+6	dimension	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+8	donnez	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+9	à	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+10	ce	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	cétacé	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+12	une	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+13	force	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+14	proportionnelle	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+15	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+16	sa	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+17	taille	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+19	accroissez	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+20	ses	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+21	armes	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+22	offensives	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+23	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+24	et	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+25	vous	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+26	obtenez	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+27	l\u2019	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+28	animal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+29	voulu	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+

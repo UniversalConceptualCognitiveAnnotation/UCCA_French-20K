@@ -1,0 +1,12 @@
+# format = ucca
+1	Ces	_	Word	-	-	_	E	_	_
+2	bêtes	_	Word	-	+	_	_	A	_
+3	-	_	Punctuation	-	-	_	U	_	_
+4	là	_	Word	-	-	_	E	_	_
+5	peuvent	_	Word	-	-	_	_	E	_
+6	être	_	Word	-	+	_	_	_	_
+7	très	_	Word	-	-	_	_	_	E
+8	-	_	Punctuation	-	-	_	_	_	U
+9	capricieuses	_	Word	-	+	_	_	A	_
+10	!	_	Punctuation	-	-	_	_	_	U
+

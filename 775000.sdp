@@ -1,0 +1,13 @@
+# format = ucca
+1	Certainement	_	Word	-	-	_	L	_	_
+2	,	_	Punctuation	-	-	_	U	_	_
+3	j’	_	Word	-	-	_	A	_	_
+4	étais	_	Word	-	-	_	F	_	_
+5	sûr	_	Word	-	+	_	_	_	_
+6	de	_	Word	-	-	_	_	R	_
+7	ce	_	Word	-	-	_	_	E	_
+8	garçon	_	Word	-	+	_	A	_	_
+9	si	_	Word	-	-	_	_	_	E
+10	dévoué	_	Word	-	+	_	_	E	_
+11	.	_	Punctuation	-	-	_	_	_	U
+

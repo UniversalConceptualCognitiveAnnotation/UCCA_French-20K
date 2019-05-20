@@ -1,0 +1,31 @@
+# format = ucca
+1	C’	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	était	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+3	un	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+4	suprême	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+5	défi	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+6	porté	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+7	au	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+8	narwal	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+9	géant	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+11	et	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+12	celui	_	Word	-	+	_	_	_	_	_	_	_	A	A*	A*
+13	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+14	ci	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+15	ne	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+16	pouvait	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+17	raisonnablement	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+18	se	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+19	dispenser	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
+20	de	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+21	répondre	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+22	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+23	cette	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+24	sommation	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+25	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+26	à	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+27	comparaître	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+28	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+29	»	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

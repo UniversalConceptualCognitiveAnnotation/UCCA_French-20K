@@ -1,0 +1,27 @@
+# format = ucca
+1	En	_	Word	-	-	_	R	_	_	_	_	_	_	_
+2	ma	_	Word	-	-	_	E	_	_	_	_	_	_	_
+3	qualité	_	Word	-	+	_	_	E	_	_	_	_	_	_
+4	de	_	Word	-	-	_	R	_	_	_	_	_	_	_
+5	professeur	_	Word	-	+	_	_	_	_	_	_	_	A	_
+6	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	suppléant	_	Word	-	-	_	_	E	_	_	_	_	_	_
+8	au	_	Word	-	-	_	_	_	R	_	_	_	_	_
+9	Muséum	_	Word	-	+	_	_	E	_	_	_	_	_	_
+10	d\u2019	_	Word	-	-	_	_	_	_	R	_	_	_	_
+11	histoire	_	Word	-	+	_	_	_	E	_	_	_	_	_
+12	naturelle	_	Word	-	-	_	_	_	_	E	_	_	_	_
+13	de	_	Word	-	-	_	_	_	_	_	R	_	_	_
+14	Paris	_	Word	-	+	_	_	_	E	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+16	le	_	Word	-	-	_	_	_	_	_	_	E	_	_
+17	gouvernement	_	Word	-	+	_	_	_	_	_	_	_	A	_
+18	français	_	Word	-	-	_	_	_	_	_	_	E	_	_
+19	m\u2019	_	Word	-	-	_	_	_	_	_	_	_	A	_
+20	avait	_	Word	-	-	_	_	_	_	_	_	_	F	_
+21	joint	_	Word	-	+	_	_	_	_	_	_	_	_	_
+22	à	_	Word	-	-	_	_	_	_	_	_	_	_	R
+23	cette	_	Word	-	-	_	_	_	_	_	_	_	_	E
+24	expédition	_	Word	-	+	_	_	_	_	_	_	_	A	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

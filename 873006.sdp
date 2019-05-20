@@ -1,0 +1,12 @@
+# format = ucca
+1	Mais	_	Word	-	-	_	_	L
+2	dans	_	Word	-	-	_	R	_
+3	l’	_	Word	-	-	_	E	_
+4	eau	_	Word	-	+	_	_	A
+5	,	_	Punctuation	-	-	_	_	U
+6	c’	_	Word	-	-	_	_	F
+7	est	_	Word	-	-	_	_	F
+8	autre	_	Word	-	-	_	_	E
+9	chose	_	Word	-	+	_	_	_
+10	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,26 @@
+# format = ucca
+1	Calculez	_	Word	-	+	_	_	_	_	_	_	_	_	_
+2	alors	_	Word	-	-	_	L	_	_	_	_	_	_	_
+3	quelle	_	Word	-	-	_	_	A	_	_	_	_	_	_
+4	doit	_	Word	-	-	_	_	E	_	_	_	_	_	_
+5	être	_	Word	-	+	_	A	_	_	_	_	_	_	_
+6	la	_	Word	-	-	_	_	_	E	_	_	_	_	_
+7	résistance	_	Word	-	+	_	_	A	_	_	_	_	_	_
+8	de	_	Word	-	-	_	_	_	_	R	_	_	_	_
+9	leur	_	Word	-	-	_	_	_	_	E	_	_	_	_
+10	charpente	_	Word	-	+	_	_	_	E	_	_	_	_	_
+11	osseuse	_	Word	-	-	_	_	_	_	E	_	_	_	_
+12	et	_	Word	-	-	_	_	_	N	_	_	_	_	_
+13	la	_	Word	-	-	_	_	_	_	_	E	_	_	_
+14	puissance	_	Word	-	+	_	_	_	C	_	_	_	_	_
+15	de	_	Word	-	-	_	_	_	_	_	_	R	_	_
+16	leur	_	Word	-	-	_	_	_	_	_	_	E	_	_
+17	organisme	_	Word	-	+	_	_	_	_	_	E	_	_	_
+18	pour	_	Word	-	-	_	L	_	_	_	_	_	_	_
+19	résister	_	Word	-	+	_	H	_	_	_	_	_	_	_
+20	à	_	Word	-	-	_	_	_	_	_	_	_	_	R
+21	de	_	Word	-	-	_	_	_	_	_	_	_	_	E
+22	telles	_	Word	-	-	_	_	_	_	_	_	_	_	E
+23	pressions	_	Word	-	+	_	_	_	_	_	_	_	A	_
+24	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

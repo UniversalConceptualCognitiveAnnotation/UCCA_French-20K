@@ -1,0 +1,17 @@
+# format = ucca
+1	Les	_	Word	-	-	_	E	_	_	_	_	_
+2	officiers	_	Word	-	+	_	_	_	_	_	A	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+4	armes	_	Word	-	+	_	E	_	_	_	_	_
+5	de	_	Word	-	-	_	_	_	R	_	_	_
+6	leur	_	Word	-	-	_	_	_	E	_	_	_
+7	lorgnette	_	Word	-	+	_	_	A	_	_	_	_
+8	de	_	Word	-	-	_	_	_	_	R	_	_
+9	nuit	_	Word	-	+	_	_	_	E	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+11	fouillaient	_	Word	-	+	_	_	_	_	_	_	_
+12	l’	_	Word	-	-	_	_	_	_	_	_	E
+13	obscurité	_	Word	-	+	_	_	_	_	_	A	_
+14	croissante	_	Word	-	-	_	_	_	_	_	_	E
+15	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

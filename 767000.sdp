@@ -1,0 +1,36 @@
+# format = ucca
+1	Mais	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+3	en	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+4	attendant	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+6	il	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
+7	me	_	Word	-	-	_	_	A	A*	_	_	_	A*	_	_	A*	_	_
+8	fallait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	chercher	_	Word	-	+	_	_	A	_	_	_	_	_	_	A*	_	_	_
+10	ce	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	narwal	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+12	dans	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+13	le	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+14	nord	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+15	de	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+16	l’	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+17	océan	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+18	Pacifique	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+19	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+20	ce	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
+21	qui	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+23	pour	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+24	revenir	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+25	en	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+26	France	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+28	était	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+29	prendre	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+30	le	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+31	chemin	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+32	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+33	antipodes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

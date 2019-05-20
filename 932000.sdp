@@ -1,0 +1,10 @@
+# format = ucca
+1	Cette	_	Word	-	-	_	E	_	_
+2	promesse	_	Word	-	+	_	_	A	_
+3	fut	_	Word	-	-	_	_	F	_
+4	faite	_	Word	-	+	_	_	_	_
+5	le	_	Word	-	-	_	_	_	E
+6	2	_	Word	-	+	_	_	D	_
+7	novembre	_	Word	-	-	_	_	_	Terminal
+8	.	_	Punctuation	-	-	_	_	_	U
+

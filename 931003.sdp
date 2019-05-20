@@ -1,0 +1,36 @@
+# format = ucca
+1	Je	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	ne	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+3	veux	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	pas	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+5	dire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	qu’	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+7	il	_	Word	-	+	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+8	y	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+9	eut	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+10	révolte	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+11	à	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+12	bord	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+14	mais	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+15	après	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+16	une	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+17	raisonnable	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+18	période	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+19	d’	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+20	obstination	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+22	le	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+23	commandant	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+24	Farragut	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	_	_
+25	comme	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+26	autrefois	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+27	Colomb	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+29	demanda	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+30	trois	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+31	jours	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+32	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+33	patience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	A	_	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+

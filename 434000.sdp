@@ -1,0 +1,18 @@
+# format = ucca
+1	«	_	Punctuation	-	-	_	_	_	_	U	_	_
+2	Le	_	Word	-	-	_	E	_	_	_	_	_
+3	narwal	_	Word	-	+	_	_	_	_	A	_	_
+4	vulgaire	_	Word	-	-	_	E	_	_	_	_	_
+5	ou	_	Word	-	-	_	N	_	_	_	_	_
+6	licorne	_	Word	-	+	_	C	_	_	_	_	_
+7	de	_	Word	-	-	_	_	_	R	_	_	_
+8	mer	_	Word	-	+	_	_	E	_	_	_	_
+9	atteint	_	Word	-	+	_	_	_	_	_	_	_
+10	souvent	_	Word	-	-	_	_	_	_	D	_	_
+11	une	_	Word	-	-	_	_	_	_	_	E	_
+12	longueur	_	Word	-	+	_	_	_	_	_	_	E
+13	de	_	Word	-	-	_	_	_	_	_	R	_
+14	soixante	_	Word	-	-	_	_	_	_	_	_	E
+15	pieds	_	Word	-	+	_	_	_	_	A	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

@@ -1,0 +1,13 @@
+# format = ucca
+1	Les	_	Word	-	-	_	E	_	_	_
+2	officiers	_	Word	-	+	_	_	_	A	_
+3	du	_	Word	-	-	_	_	R	_	_
+4	bord	_	Word	-	+	_	E	_	_	_
+5	partageaient	_	Word	-	-	_	_	_	E	_
+6	l’	_	Word	-	-	_	_	_	E	_
+7	opinion	_	Word	-	+	_	_	_	_	_
+8	de	_	Word	-	-	_	_	_	_	R
+9	leur	_	Word	-	-	_	_	_	_	E
+10	chef	_	Word	-	+	_	_	_	A	_
+11	.	_	Punctuation	-	-	_	_	_	_	U
+

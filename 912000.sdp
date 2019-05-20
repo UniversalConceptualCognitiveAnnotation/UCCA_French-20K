@@ -1,0 +1,32 @@
+# format = ucca
+1	Au	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	large	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+3	des	_	Word	-	-	_	R	E*	_	_	_	_	_	_	_	_
+4	Malouines	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+6	le	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+7	30	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_
+8	juin	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+10	la	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_
+11	frégate	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+12	communiqua	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+13	avec	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+14	des	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+15	baleiniers	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+16	américains	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+18	et	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_
+19	nous	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+20	apprîmes	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+21	qu’	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+22	ils	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
+23	n’	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_
+24	avaient	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+25	eu	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+26	aucune	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+27	connaissance	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+28	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+29	narwal	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

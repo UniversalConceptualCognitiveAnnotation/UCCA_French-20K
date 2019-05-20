@@ -1,0 +1,26 @@
+# format = ucca
+1	J\u2019	_	Word	-	-	_	A	_	_	_	_	_
+2	étais	_	Word	-	-	_	F	_	_	_	_	_
+3	parfaitement	_	Word	-	-	_	D	_	_	_	_	_
+4	au	_	Word	-	-	_	R	_	_	_	_	_
+5	courant	_	Word	-	+	_	_	_	_	_	_	_
+6	de	_	Word	-	-	_	_	R	_	_	_	_
+7	la	_	Word	-	-	_	_	E	_	_	_	_
+8	question	_	Word	-	+	_	A	_	_	_	_	_
+9	à	_	Word	-	-	_	_	_	R	_	_	_
+10	l\u2019	_	Word	-	-	_	_	_	E	_	_	_
+11	ordre	_	Word	-	+	_	_	E	_	_	_	_
+12	du	_	Word	-	-	_	_	_	_	R	_	_
+13	jour	_	Word	-	+	_	_	_	E	_	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+15	et	_	Word	-	-	_	L	_	_	_	_	_
+16	comment	_	Word	-	-	_	_	_	_	_	_	F
+17	ne	_	Word	-	+	_	_	_	_	_	_	D
+18	l\u2019	_	Word	-	+	_	H	_	_	_	_	_
+19	aurais	_	Word	-	-	_	_	_	_	_	_	F
+20	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	je	_	Word	-	-	_	_	_	_	_	_	A
+22	pas	_	Word	-	-	_	_	_	_	_	Terminal	_
+23	été	_	Word	-	-	_	_	_	_	_	_	F
+24	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+

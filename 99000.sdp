@@ -1,0 +1,12 @@
+# format = ucca
+1	Le	_	Word	-	-	_	E	_	_	_
+2	capitaine	_	Word	-	+	_	_	E	_	_
+3	Anderson	_	Word	-	+	_	_	_	A	_
+4	se	_	Word	-	-	_	_	_	E	_
+5	rendit	_	Word	-	+	_	_	_	_	_
+6	immédiatement	_	Word	-	-	_	_	_	D	_
+7	dans	_	Word	-	-	_	_	_	_	R
+8	la	_	Word	-	-	_	_	_	_	E
+9	cale	_	Word	-	+	_	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+
