@@ -1,0 +1,94 @@
+# ::id 84000
+# ::tok Quinze jours plus tard , à deux mille lieues de là , l\u2019 Helvetia , de la Compagnie Nationale , et le Shannon , du Royal-Mail , marchant à contrebord dans cette portion de l\u2019 Atlantique comprise entre les États-Unis et l\u2019 Europe , se signalèrent respectivement le monstre par 42°15\u2019 de latitude nord , et 60°35\u2019 de longitude à l\u2019 ouest du méridien de Greenwich .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 5-1.1.2.1 6-1.1.2.3 7-1.1.2.3 8-1.1.2.4 9-1.1.2.2.1 10-1.1.2.2.2 12-1.1.3.2.2 13-1.1.3.2.3 15-1.1.3.2.4.1 16-1.1.3.2.4.2 17-1.1.3.2.4.3 18-1.1.3.2.4.4 20-1.1.3.3 21-1.1.3.4.2 22-1.1.3.4.3 24-1.1.3.4.4.1 25-1.1.3.4.4.2 27-1.2.3 28-1.2.4.1 29-1.2.4.2 30-1.2.5.1 31-1.2.5.2 32-1.2.5.4 33-1.2.5.5.1 34-1.2.5.5.2 35-1.2.5.5.3 36-1.2.5.3.1 37-1.2.5.3.2.1 38-1.2.5.3.2.2.1.1 39-1.2.5.3.2.2.1.2 40-1.2.5.3.2.2.2 41-1.2.5.3.2.2.3.1 42-1.2.5.3.2.2.3.2 44-1.1.4.1 45-1.1.4.2 46-1.1.5 47-1.1.6.1 48-1.1.6.2 49-1.1.7.2.1 50-1.1.7.2.2 51-1.1.7.2.3.1 52-1.1.7.2.3.2 53-1.1.7.2.3.3 55-1.1.7.3 56-1.1.7.4.1 57-1.1.7.4.2.1 58-1.1.7.4.2.2 59-1.1.7.4.2.3.1 60-1.1.7.4.2.3.2 61-1.1.7.4.2.3.3 62-1.1.7.4.2.3.4.1 63-1.1.7.4.2.3.4.2 64-1.1.7.4.2.3.4.3.2 65-1.1.7.4.2.3.4.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label
+                  :E (v14 / label~e.0)
+                  :C (v15 / label~e.1)
+                  :R (v16 / label
+                          :E (v38 / label~e.2)
+                          :C (v39 / label~e.3)))
+           :A (v5 / label
+                  :R (v17 / label~e.5)
+                  :E (v18 / label
+                          :R (v40 / label~e.9)
+                          :C (v41 / label~e.10))
+                  :E (v19 / label~e.6,7)
+                  :C (v20 / label~e.8))
+           :A (v6 / label
+                  :C (v21 / label
+                          :E (v42 / label~e.12)
+                          :C (v43 / label~e.13)
+                          :E (v44 / label
+                                  :R (v58 / label~e.15)
+                                  :E (v59 / label~e.16)
+                                  :C (v60 / label~e.17)
+                                  :E (v61 / label~e.18)))
+                  :N (v22 / label~e.20)
+                  :C (v23 / label
+                          :E (v45 / label~e.21)
+                          :C (v46 / label~e.22)
+                          :E (v47 / label
+                                  :R (v62 / label~e.24)
+                                  :C (v63 / label~e.25))))
+           :P (v7 / label
+                  :E (v24 / label~e.44)
+                  :C (v25 / label~e.45))
+           :D (v8 / label~e.46)
+           :A (v9 / label
+                  :E (v26 / label~e.47)
+                  :C (v27 / label~e.48))
+           :A (v10 / label
+                   :C (v28 / label
+                           :R (v48 / label~e.49)
+                           :C (v49 / label~e.50)
+                           :E (v50 / label
+                                   :R (v64 / label~e.51)
+                                   :C (v65 / label~e.52)
+                                   :E (v66 / label~e.53)))
+                   :N (v29 / label~e.55)
+                   :C (v30 / label
+                           :C (v51 / label~e.56)
+                           :E (v52 / label
+                                   :R (v67 / label~e.57)
+                                   :C (v68 / label~e.58)
+                                   :E (v69 / label
+                                           :R (v72 / label~e.59)
+                                           :E (v73 / label~e.60)
+                                           :C (v74 / label~e.61)
+                                           :E (v75 / label
+                                                   :R (v79 / label~e.62)
+                                                   :C (v80 / label~e.63)
+                                                   :E (v81 / label
+                                                           :R (v86 / label~e.64)
+                                                           :C (v87 / label~e.65)))))
+                           :R v48)))
+    :H (v3 / label
+           :A v6
+           :P (v11 / label~e.27)
+           :D (v12 / label
+                   :R (v31 / label~e.28)
+                   :C (v32 / label~e.29))
+           :A (v13 / label
+                   :R (v33 / label~e.30)
+                   :E (v34 / label~e.31)
+                   :E (v35 / label
+                           :S (v53 / label~e.36)
+                           :A (v54 / label
+                                   :R (v70 / label~e.37)
+                                   :C (v71 / label
+                                           :C (v76 / label
+                                                   :E (v82 / label~e.38)
+                                                   :C (v83 / label~e.39))
+                                           :N (v77 / label~e.40)
+                                           :C (v78 / label
+                                                   :E (v84 / label~e.41)
+                                                   :C (v85 / label~e.42))))
+                           :A (v36 / label~e.32))
+                   :C v36
+                   :E (v37 / label
+                           :R (v55 / label~e.33)
+                           :E (v56 / label~e.34)
+                           :C (v57 / label~e.35)))))

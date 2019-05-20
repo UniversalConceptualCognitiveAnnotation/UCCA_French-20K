@@ -1,0 +1,10 @@
+# ::id 875003
+# ::tok — Eh bien , vous ai - je convaincu ?
+# ::alignments 4-1.1.5 7-1.1.7 8-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.4)
+           :P (v4 / label
+                  :C (v6 / label~e.8))
+           :A (v5 / label~e.7)))

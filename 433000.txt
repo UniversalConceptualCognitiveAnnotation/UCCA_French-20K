@@ -1,0 +1,55 @@
+# ::id 433000
+# ::tok « Si , au contraire , nous connaissons toutes les espèces vivantes , il faut nécessairement chercher l\u2019 animal en question parmi les êtres marins déjà catalogués , et dans ce cas , je serai disposé à admettre l\u2019 existence d\u2019un Narwal géant .
+# ::alignments 1-1.1 3-1.2.1 4-1.2.2 6-1.3.1 7-1.3.2 8-1.3.3.1 9-1.3.3.2 10-1.3.3.3 11-1.3.3.4 14-1.4.2.1 15-1.4.3 16-1.4.2.2 17-1.4.4.1 18-1.4.4.2 19-1.4.4.3.1 20-1.4.4.3.2 21-1.4.5.1 22-1.4.5.2 23-1.4.5.4 24-1.4.5.5 25-1.4.5.3.2 26-1.4.5.3.3 28-1.5 29-1.6.1.1 30-1.6.1.2 31-1.6.1.3 33-1.6.2 35-1.6.3.2 37-1.6.3.4 38-1.6.4.1 39-1.6.4.2 40-1.6.4.3.1 41-1.6.4.3.2 42-1.6.4.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.1)
+    :L (v3 / label
+           :R (v8 / label~e.3)
+           :C (v9 / label~e.4))
+    :H (v4 / label
+           :A (v10 / label~e.6)
+           :P (v11 / label~e.7)
+           :A (v12 / label
+                   :E (v21 / label~e.8)
+                   :E (v22 / label~e.9)
+                   :C (v23 / label~e.10)
+                   :E (v24 / label~e.11)))
+    :H (v5 / label
+           :P (v13 / label
+                   :E (v25 / label~e.14)
+                   :C (v26 / label~e.16))
+           :D (v14 / label~e.15)
+           :A (v15 / label
+                   :E (v27 / label~e.17)
+                   :C (v28 / label~e.18)
+                   :E (v29 / label
+                           :R (v43 / label~e.19)
+                           :C (v44 / label~e.20)))
+           :A (v16 / label
+                   :R (v30 / label~e.21)
+                   :E (v31 / label~e.22)
+                   :E (v32 / label
+                           :A (v45 / label)
+                           :D (v46 / label~e.25)
+                           :P (v47 / label~e.26)
+                           :A (v33 / label~e.23))
+                   :C v33
+                   :E (v34 / label~e.24)))
+    :L (v6 / label~e.28)
+    :H (v7 / label
+           :A (v17 / label
+                   :R (v35 / label~e.29)
+                   :E (v36 / label~e.30)
+                   :C (v37 / label~e.31))
+           :A (v18 / label~e.33)
+           :P (v19 / label
+                   :E (v38 / label~e.35)
+                   :C (v39 / label~e.37))
+           :A (v20 / label
+                   :E (v40 / label~e.38)
+                   :C (v41 / label~e.39)
+                   :E (v42 / label
+                           :E (v48 / label~e.40)
+                           :C (v49 / label~e.41)
+                           :E (v50 / label~e.42)))))

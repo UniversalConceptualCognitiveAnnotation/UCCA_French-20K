@@ -1,0 +1,32 @@
+# ::id 100001
+# ::tok Quelques instants après , on constatait l\u2019 existence d\u2019 un trou large de deux mètres dans la carène du steamer .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 5-1.1.4 6-1.1.5.3 7-1.1.5.1 8-1.1.5.2.1 9-1.1.5.2.2 10-1.1.5.2.3 11-1.1.5.2.4.1.1 12-1.1.5.2.4.1.2 13-1.1.5.2.4.2 14-1.1.5.2.4.3 15-1.1.5.2.5.1 16-1.1.5.2.5.2 17-1.1.5.2.5.3 18-1.1.5.2.5.4.1 19-1.1.5.2.5.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1)
+                  :R (v9 / label~e.2))
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.5)
+           :A (v6 / label
+                  :C (v10 / label~e.7)
+                  :E (v11 / label
+                          :R (v13 / label~e.8)
+                          :E (v14 / label~e.9)
+                          :C (v15 / label~e.10)
+                          :E (v16 / label
+                                  :E (v18 / label
+                                          :C (v25 / label~e.11)
+                                          :R (v26 / label~e.12))
+                                  :E (v19 / label~e.13)
+                                  :C (v20 / label~e.14))
+                          :E (v17 / label
+                                  :R (v21 / label~e.15)
+                                  :E (v22 / label~e.16)
+                                  :C (v23 / label~e.17)
+                                  :E (v24 / label
+                                          :R (v27 / label~e.18)
+                                          :C (v28 / label~e.19))))
+                  :E (v12 / label~e.6))))

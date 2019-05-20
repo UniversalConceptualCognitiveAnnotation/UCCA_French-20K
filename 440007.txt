@@ -1,0 +1,29 @@
+# ::id 440007
+# ::tok Le Créateur les avait jetés dans un moule colossal que le temps a réduit peu à peu .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.3.2 5-1.1.4.4 6-1.1.4.5 7-1.1.4.1 8-1.1.4.2 9-1.1.4.3.2 10-1.1.4.3.3.1 11-1.1.4.3.3.2 13-1.1.4.3.4.2 14-1.1.4.3.5.1 15-1.1.4.3.5.2 16-1.1.4.3.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label~e.2)
+           :P (v5 / label
+                  :C (v9 / label~e.4))
+           :A (v6 / label
+                  :C (v10 / label~e.7)
+                  :E (v11 / label~e.8)
+                  :E (v12 / label
+                          :A v10
+                          :R (v15 / label~e.9)
+                          :A (v16 / label
+                                  :E (v19 / label~e.10)
+                                  :C (v20 / label~e.11))
+                          :P (v17 / label
+                                  :C (v21 / label~e.13))
+                          :D (v18 / label
+                                  :C (v22 / label~e.14)
+                                  :R (v23 / label~e.15)
+                                  :C (v24 / label~e.16)))
+                  :R (v13 / label~e.5)
+                  :E (v14 / label~e.6))))

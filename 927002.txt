@@ -1,0 +1,17 @@
+# ::id 927002
+# ::tok Et rien ! rien que l’ immensité des flots déserts !
+# ::alignments 0-1.1 1-1.2 3-1.3.2 4-1.3.2 5-1.3.3.3 6-1.3.3.1 7-1.3.3.2.1 8-1.3.3.2.2 9-1.3.3.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label~e.1)
+    :H (v4 / label
+           :S (v5 / label)
+           :D (v6 / label~e.3,4)
+           :A (v7 / label
+                  :C (v8 / label~e.6)
+                  :E (v9 / label
+                         :R (v11 / label~e.7)
+                         :C (v12 / label~e.8)
+                         :E (v13 / label~e.9))
+                  :E (v10 / label~e.5))))

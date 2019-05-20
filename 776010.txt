@@ -1,0 +1,11 @@
+# ::id 776010
+# ::tok fit observer Conseil .
+# ::alignments 1-1.1.4.2 2-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label)
+           :P (v5 / label
+                  :C (v7 / label~e.1))
+           :A (v6 / label~e.2)))

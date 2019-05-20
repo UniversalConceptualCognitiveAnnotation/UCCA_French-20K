@@ -1,0 +1,28 @@
+# ::id 863000
+# ::tok « Comment , Ned , lui demandai - je , comment pouvez - vous ne pas être convaincu de l’ existence du cétacé que nous poursuivons ?
+# ::alignments 3-1.1.2 5-1.2.4 6-1.2.5 8-1.2.1 11-1.1.4.1 14-1.1.6 15-1.1.6 17-1.1.4.3 18-1.1.7.1 19-1.1.7.2 20-1.1.7.3 21-1.1.7.4.1 22-1.1.7.4.2 23-1.1.7.4.3.2 24-1.1.7.4.3.3 25-1.1.7.4.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.3)
+           :P (v5 / label
+                  :E (v12 / label~e.11)
+                  :C (v13 / label~e.17))
+           :D (v6 / label~e.14,15)
+           :A (v7 / label
+                  :R (v14 / label~e.18)
+                  :E (v15 / label~e.19)
+                  :C (v16 / label~e.20)
+                  :E (v17 / label
+                          :R (v18 / label~e.21)
+                          :C (v19 / label~e.22)
+                          :E (v20 / label
+                                  :A v19
+                                  :R (v21 / label~e.23)
+                                  :A (v22 / label~e.24)
+                                  :P (v23 / label~e.25)))))
+    :H (v3 / label
+           :A (v8 / label~e.8)
+           :A (v9 / label)
+           :A (v10 / label~e.5)
+           :P (v11 / label~e.6)))

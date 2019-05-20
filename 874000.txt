@@ -1,0 +1,73 @@
+# ::id 874000
+# ::tok — Eh bien , mon digne harponneur , si des vertébrés , longs de plusieurs centaines de mètres et gros à proportion , se maintiennent à de pareilles profondeurs , eux dont la surface est représentée par des millions de centimètres carrés , c’ est par milliards de kilogrammes qu’ il faut estimer la poussée qu’ ils subissent .
+# ::alignments 1-1.1 2-1.1 4-1.2 5-1.2 6-1.2 8-1.3 9-1.4.1.1 10-1.4.1.2 12-1.4.1.3.1.2 13-1.4.1.3.1.3.1 14-1.4.1.3.1.3.2.1 15-1.4.1.3.1.3.2.2 16-1.4.1.3.1.3.2.3 17-1.4.1.3.1.3.3 18-1.4.1.3.2 19-1.4.1.3.3.2 20-1.4.1.3.3.3.1 21-1.4.1.3.3.3.2 23-1.4.2.1 24-1.4.2.2 25-1.4.3.1 26-1.4.3.2 27-1.4.3.3 28-1.4.3.4 31-1.4.1.4.2 32-1.4.1.4.3.2 33-1.4.1.4.3.3 35-1.4.1.4.4.2 36-1.4.1.4.5.1 37-1.4.1.4.5.2.1 38-1.4.1.4.5.2.2 39-1.4.1.4.5.2.3 40-1.4.1.4.5.3 41-1.4.1.4.5.4 45-1.5.3.1 46-1.5.3.2.1 47-1.5.3.2.2 48-1.5.3.3 51-1.5.6.1 52-1.5.6.2 53-1.5.7.1 54-1.5.7.2 55-1.5.7.3.2 56-1.5.7.3.3 57-1.5.7.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.1,2)
+    :H (v3 / label~e.4,5,6)
+    :L (v4 / label~e.8)
+    :H (v5 / label
+           :A (v7 / label
+                  :E (v14 / label~e.9)
+                  :C (v15 / label~e.10)
+                  :E (v16 / label
+                          :C (v32 / label
+                                  :A v15
+                                  :S (v44 / label~e.12)
+                                  :A (v45 / label
+                                          :R (v55 / label~e.13)
+                                          :E (v56 / label
+                                                  :E (v63 / label~e.14)
+                                                  :C (v64 / label~e.15)
+                                                  :R (v65 / label~e.16))
+                                          :C (v57 / label~e.17)))
+                          :N (v33 / label~e.18)
+                          :C (v34 / label
+                                  :A v15
+                                  :S (v46 / label~e.19)
+                                  :D (v47 / label
+                                          :R (v58 / label~e.20)
+                                          :C (v59 / label~e.21))))
+                  :E (v17 / label
+                          :R (v35 / label~e.31)
+                          :A (v36 / label
+                                  :E v15
+                                  :E (v48 / label~e.32)
+                                  :C (v49 / label~e.33))
+                          :P (v37 / label
+                                  :C (v50 / label~e.35))
+                          :A (v38 / label
+                                  :R (v51 / label~e.36)
+                                  :E (v52 / label
+                                          :E (v60 / label~e.37)
+                                          :C (v61 / label~e.38)
+                                          :R (v62 / label~e.39))
+                                  :C (v53 / label~e.40)
+                                  :E (v54 / label~e.41))))
+           :P (v8 / label
+                  :E (v18 / label~e.23)
+                  :C (v19 / label~e.24))
+           :A (v9 / label
+                  :R (v20 / label~e.25)
+                  :E (v21 / label~e.26)
+                  :E (v22 / label~e.27)
+                  :C (v23 / label~e.28)))
+    :H (v6 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v24 / label~e.45)
+                   :E (v25 / label
+                           :C (v39 / label~e.46)
+                           :R (v40 / label~e.47))
+                   :C (v26 / label~e.48))
+           :P (v12 / label
+                   :E (v27 / label~e.51)
+                   :C (v28 / label~e.52))
+           :A (v13 / label
+                   :E (v29 / label~e.53)
+                   :C (v30 / label~e.54)
+                   :E (v31 / label
+                           :A v30
+                           :R (v41 / label~e.55)
+                           :A (v42 / label~e.56)
+                           :P (v43 / label~e.57)))))

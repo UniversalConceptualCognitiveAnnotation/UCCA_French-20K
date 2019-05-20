@@ -1,0 +1,25 @@
+# ::id 776015
+# ::tok D’ ailleurs , je donnerai l’ ordre de nous expédier en France notre ménagerie .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.2 5-1.2.3.2 6-1.2.3.3 8-1.2.4.3 9-1.2.4.2.2 10-1.2.4.4.1 11-1.2.4.4.2 12-1.2.4.5.1 13-1.2.4.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :A (v7 / label~e.3)
+           :P (v8 / label
+                  :E (v10 / label~e.5)
+                  :C (v11 / label~e.6))
+           :A (v9 / label
+                  :A (v12 / label)
+                  :P (v13 / label
+                          :C (v17 / label~e.9))
+                  :A (v14 / label~e.8)
+                  :A (v15 / label
+                          :R (v18 / label~e.10)
+                          :C (v19 / label~e.11))
+                  :A (v16 / label
+                          :E (v20 / label~e.12)
+                          :C (v21 / label~e.13)))))

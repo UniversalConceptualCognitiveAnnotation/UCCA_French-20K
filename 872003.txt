@@ -1,0 +1,9 @@
+# ::id 872003
+# ::tok Écoutez - moi .
+# ::alignments 0-1.1.2 2-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label~e.0)
+           :A (v5 / label~e.2)))
