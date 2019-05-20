@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 441002
+# text = Je le répète , l\u2019 opinion se fit alors sur la nature du phénomène , et le public admit sans conteste l\u2019 existence d\u2019 un être prodigieux qui n\u2019 avait rien de commun avec les fabuleux serpents de mer .
+1	Je	_	Word	Word	_	3	A	3:A	_
+2	le	_	Word	Word	_	3	A	3:A	_
+3	répète	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	l\u2019	_	Word	Word	_	6	E	6:E	_
+6	opinion	_	Word	Word	_	8	A	8:A	_
+7	se	_	Word	Word	_	8	E	8:E	_
+8	fit	_	Word	Word	_	3	H	3:H	_
+9	alors	_	Word	Word	_	19	L	19:L	_
+10	sur	_	Word	Word	_	12	R	12:R	_
+11	la	_	Word	Word	_	12	E	12:E	_
+12	nature	_	Word	Word	_	8	A	8:A	_
+13	du	_	Word	Word	_	14	R	14:R	_
+14	phénomène	_	Word	Word	_	12	E	12:E	_
+15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	et	_	Word	Word	_	19	L	19:L	_
+17	le	_	Word	Word	_	18	E	18:E	_
+18	public	_	Word	Word	_	0	C	0:C|21:A	_
+19	admit	_	Word	Word	_	3	H	3:H	_
+20	sans	_	Word	Word	_	21	L	21:L	_
+21	conteste	_	Word	Word	_	3	H	3:H	_
+22	l\u2019	_	Word	Word	_	23	E	23:E	_
+23	existence	_	Word	Word	_	19	A	19:A	_
+24	d\u2019	_	Word	Word	_	26	R	26:R	_
+25	un	_	Word	Word	_	26	E	26:E	_
+26	être	_	Word	Word	_	23	E	23:E	_
+27	prodigieux	_	Word	Word	_	26	E	26:E	_
+28	qui	_	Word	Word	_	33	R	33:R	_
+29	n\u2019	_	Word	Word	_	33	D	33:D	_
+30	avait	_	Word	Word	_	33	F	33:F	_
+31	rien	_	Word	Word	_	33	A	33:A	_
+32	de	_	Word	Word	_	33	R	33:R	_
+33	commun	_	Word	Word	_	26	E	26:E	_
+34	avec	_	Word	Word	_	37	R	37:R	_
+35	les	_	Word	Word	_	37	E	37:E	_
+36	fabuleux	_	Word	Word	_	37	E	37:E	_
+37	serpents	_	Word	Word	_	33	A	33:A	_
+38	de	_	Word	Word	_	39	R	39:R	_
+39	mer	_	Word	Word	_	37	E	37:E	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

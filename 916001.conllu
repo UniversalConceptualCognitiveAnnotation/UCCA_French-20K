@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 916001
+# text = La route fut donnée vers le nord-ouest , et le lendemain , l’ hélice de la frégate battit enfin les eaux du Pacifique .
+1	La	_	Word	Word	_	2	E	2:E	_
+2	route	_	Word	Word	_	4	A	4:A	_
+3	fut	_	Word	Word	_	4	F	4:F	_
+4	donnée	_	Word	Word	_	0	H	0:H	_
+5	vers	_	Word	Word	_	7	R	7:R	_
+6	le	_	Word	Word	_	7	E	7:E	_
+7	nord-ouest	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	et	_	Word	Word	_	18	L	18:L	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	lendemain	_	Word	Word	_	18	D	18:D	_
+12	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+13	l’	_	Word	Word	_	14	E	14:E	_
+14	hélice	_	Word	Word	_	18	A	18:A	_
+15	de	_	Word	Word	_	17	R	17:R	_
+16	la	_	Word	Word	_	17	E	17:E	_
+17	frégate	_	Word	Word	_	14	E	14:E	_
+18	battit	_	Word	Word	_	4	H	4:H	_
+19	enfin	_	Word	Word	_	18	D	18:D	_
+20	les	_	Word	Word	_	21	E	21:E	_
+21	eaux	_	Word	Word	_	18	A	18:A	_
+22	du	_	Word	Word	_	23	R	23:R	_
+23	Pacifique	_	Word	Word	_	21	E	21:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

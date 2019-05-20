@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 792001
+# text = La vapeur siffla en se précipitant dans les tiroirs entr’ouverts .
+1	La	_	Word	Word	_	2	E	2:E	_
+2	vapeur	_	Word	Word	_	0	C	0:C|6:A	_
+3	siffla	_	Word	Word	_	0	H	0:H	_
+4	en	_	Word	Word	_	6	L	6:L	_
+5	se	_	Word	Word	_	6	E	6:E	_
+6	précipitant	_	Word	Word	_	3	H	3:H	_
+7	dans	_	Word	Word	_	9	R	9:R	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	tiroirs	_	Word	Word	_	6	A	6:A	_
+10	entr’ouverts	_	Word	Word	_	9	E	9:E	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

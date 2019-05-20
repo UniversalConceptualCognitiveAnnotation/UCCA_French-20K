@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 857001
+# text = Ma nationalité l’ attirait sans doute . C’ était une occasion pour lui de parler , et pour moi d’ entendre cette vieille langue de Rabelais qui est encore en usage dans quelques provinces canadiennes .
+1	Ma	_	Word	Word	_	2	E	2:E	_
+2	nationalité	_	Word	Word	_	4	A	4:A	_
+3	l’	_	Word	Word	_	4	A	4:A	_
+4	attirait	_	Word	Word	_	0	H	0:H	_
+5	sans	_	Word	Word	_	6	R	6:R	_
+6	doute	_	Word	Word	_	4	G	4:G	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	C’	_	Word	Word	_	11	A	11:A|19:A	_
+9	était	_	Word	Word	_	11	F	11:F	_
+10	une	_	Word	Word	_	11	E	11:E	_
+11	occasion	_	Word	Word	_	4	H	4:H	_
+12	pour	_	Word	Word	_	13	R	13:R	_
+13	lui	_	Word	Word	_	11	A	11:A	_
+14	de	_	Word	Word	_	15	F	15:F	_
+15	parler	_	Word	Word	_	11	A	11:A	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	et	_	Word	Word	_	19	L	19:L	_
+18	pour	_	Word	Word	_	19	R	19:R	_
+19	moi	_	Word	Word	_	4	H	4:H	_
+20	d’	_	Word	Word	_	21	F	21:F	_
+21	entendre	_	Word	Word	_	19	A	19:A	_
+22	cette	_	Word	Word	_	24	E	24:E	_
+23	vieille	_	Word	Word	_	24	E	24:E	_
+24	langue	_	Word	Word	_	0	C	0:C|11:A|31:A	_
+25	de	_	Word	Word	_	26	R	26:R	_
+26	Rabelais	_	Word	Word	_	24	E	24:E	_
+27	qui	_	Word	Word	_	31	R	31:R	_
+28	est	_	Word	Word	_	31	F	31:F	_
+29	encore	_	Word	Word	_	31	D	31:D	_
+30	en	_	Word	Word	_	31	R	31:R	_
+31	usage	_	Word	Word	_	24	E	24:E	_
+32	dans	_	Word	Word	_	34	R	34:R	_
+33	quelques	_	Word	Word	_	34	E	34:E	_
+34	provinces	_	Word	Word	_	31	A	31:A	_
+35	canadiennes	_	Word	Word	_	34	E	34:E	_
+36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

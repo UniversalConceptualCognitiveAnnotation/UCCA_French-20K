@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 873006
+# text = Mais dans l’ eau , c’ est autre chose .
+1	Mais	_	Word	Word	_	9	L	9:L	_
+2	dans	_	Word	Word	_	4	R	4:R	_
+3	l’	_	Word	Word	_	4	E	4:E	_
+4	eau	_	Word	Word	_	9	A	9:A	_
+5	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+6	c’	_	Word	Word	_	9	F	9:F	_
+7	est	_	Word	Word	_	9	F	9:F	_
+8	autre	_	Word	Word	_	9	E	9:E	_
+9	chose	_	Word	Word	_	0	H	0:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

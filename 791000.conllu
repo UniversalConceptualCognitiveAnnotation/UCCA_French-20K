@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 791000
+# text = « Sommes - nous en pression ?
+1	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	Sommes	_	Word	Word	_	6	F	6:F	_
+3	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	nous	_	Word	Word	_	6	A	6:A	_
+5	en	_	Word	Word	_	6	R	6:R	_
+6	pression	_	Word	Word	_	0	H	0:H	_
+7	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 853000
+# text = Donc , l’ Abraham - Lincoln ne manquait d’ aucun moyen de destruction .
+1	Donc	_	Word	Word	_	8	L	8:L	_
+2	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+3	l’	_	Word	Word	_	4	E	4:E	_
+4	Abraham	_	Word	Word	_	8	A	8:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Lincoln	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	ne	_	Word	Word	_	8	D	8:D	_
+8	manquait	_	Word	Word	_	0	H	0:H	_
+9	d’	_	Word	Word	_	11	R	11:R	_
+10	aucun	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	moyen	_	Word	Word	_	8	A	8:A	_
+12	de	_	Word	Word	_	13	R	13:R	_
+13	destruction	_	Word	Word	_	11	E	11:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

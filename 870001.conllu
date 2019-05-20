@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 870001
+# text = — Et pourquoi cet organisme si puissant ?
+1	—	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	Et	_	Word	Word	_	7	L	7:L	_
+3	pourquoi	_	Word	Word	_	0	H	0:H	_
+4	cet	_	Word	Word	_	5	E	5:E	_
+5	organisme	_	Word	Word	_	7	A	7:A	_
+6	si	_	Word	Word	_	7	E	7:E	_
+7	puissant	_	Word	Word	_	3	H	3:H	_
+8	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+

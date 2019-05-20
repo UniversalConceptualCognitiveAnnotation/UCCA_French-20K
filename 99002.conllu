@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 99002
+# text = Fort heureusement , ce compartiment ne renfermait pas les chaudières , car les feux se fussent subitement éteints .
+1	Fort	_	Word	Word	_	2	E	2:E	_
+2	heureusement	_	Word	Word	_	7	G	7:G	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	ce	_	Word	Word	_	5	E	5:E	_
+5	compartiment	_	Word	Word	_	7	A	7:A	_
+6	ne	_	Word	Word	_	7	D	7:D	_
+7	renfermait	_	Word	Word	_	0	H	0:H	_
+8	pas	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	les	_	Word	Word	_	10	E	10:E	_
+10	chaudières	_	Word	Word	_	7	A	7:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	car	_	Word	Word	_	18	L	18:L	_
+13	les	_	Word	Word	_	14	E	14:E	_
+14	feux	_	Word	Word	_	18	A	18:A	_
+15	se	_	Word	Word	_	18	E	18:E	_
+16	fussent	_	Word	Word	_	18	F	18:F	_
+17	subitement	_	Word	Word	_	18	D	18:D	_
+18	éteints	_	Word	Word	_	7	H	7:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

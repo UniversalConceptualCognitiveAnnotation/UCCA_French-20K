@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 861002
+# text = Avant huit jours , l’ Abraham - Lincoln sillonnerait les flots du Pacifique .
+1	Avant	_	Word	Word	_	3	R	3:R	_
+2	huit	_	Word	Word	_	3	E	3:E	_
+3	jours	_	Word	Word	_	9	D	9:D	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	l’	_	Word	Word	_	6	E	6:E	_
+6	Abraham	_	Word	Word	_	9	A	9:A	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Lincoln	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	sillonnerait	_	Word	Word	_	0	H	0:H	_
+10	les	_	Word	Word	_	11	E	11:E	_
+11	flots	_	Word	Word	_	9	A	9:A	_
+12	du	_	Word	Word	_	13	R	13:R	_
+13	Pacifique	_	Word	Word	_	11	E	11:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

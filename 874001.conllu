@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 874001
+# text = Calculez alors quelle doit être la résistance de leur charpente osseuse et la puissance de leur organisme pour résister à de telles pressions !
+1	Calculez	_	Word	Word	_	0	H	0:H	_
+2	alors	_	Word	Word	_	19	L	19:L	_
+3	quelle	_	Word	Word	_	5	A	5:A	_
+4	doit	_	Word	Word	_	5	E	5:E	_
+5	être	_	Word	Word	_	1	A	1:A	_
+6	la	_	Word	Word	_	7	E	7:E	_
+7	résistance	_	Word	Word	_	5	A	5:A	_
+8	de	_	Word	Word	_	10	R	10:R	_
+9	leur	_	Word	Word	_	10	E	10:E	_
+10	charpente	_	Word	Word	_	7	E	7:E	_
+11	osseuse	_	Word	Word	_	10	E	10:E	_
+12	et	_	Word	Word	_	7	N	7:N	_
+13	la	_	Word	Word	_	14	E	14:E	_
+14	puissance	_	Word	Word	_	7	C	7:C	_
+15	de	_	Word	Word	_	17	R	17:R	_
+16	leur	_	Word	Word	_	17	E	17:E	_
+17	organisme	_	Word	Word	_	14	E	14:E	_
+18	pour	_	Word	Word	_	19	L	19:L	_
+19	résister	_	Word	Word	_	1	H	1:H	_
+20	à	_	Word	Word	_	23	R	23:R	_
+21	de	_	Word	Word	_	23	E	23:E	_
+22	telles	_	Word	Word	_	23	E	23:E	_
+23	pressions	_	Word	Word	_	19	A	19:A	_
+24	!	_	Punctuation	Punctuation	_	23	U	23:U	_
+

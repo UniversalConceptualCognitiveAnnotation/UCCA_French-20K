@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 429001
+# text = La sonde n\u2019 a su les atteindre .
+1	La	_	Word	Word	_	2	E	2:E	_
+2	sonde	_	Word	Word	_	7	A	7:A	_
+3	n\u2019	_	Word	Word	_	7	D	7:D	_
+4	a	_	Word	Word	_	5	F	5:F	_
+5	su	_	Word	Word	_	7	E	7:E	_
+6	les	_	Word	Word	_	7	A	7:A	_
+7	atteindre	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

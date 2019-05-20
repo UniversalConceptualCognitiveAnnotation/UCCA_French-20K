@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 776004
+# text = – Oui , mon garçon . Prépare - moi , prépare - toi .
+1	–	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Oui	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	mon	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	garçon	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	Prépare	_	Word	Word	_	2	H	2:H	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	moi	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	prépare	_	Word	Word	_	2	H	2:H	_
+12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	toi	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 873003
+# text = — Sans que vous vous en aperceviez .
+1	—	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	Sans	_	Word	Word	_	5	L	5:L	_
+3	que	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	vous	_	Word	Word	_	5	A	5:A	_
+5	vous	_	Word	Word	_	0	H	0:H	_
+6	en	_	Word	Word	_	5	A	5:A	_
+7	aperceviez	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

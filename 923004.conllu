@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 923004
+# text = Or , vous le savez mieux que moi , monsieur le professeur , la nature ne fait rien à contre sens , et elle ne donnerait pas à un animal lent de sa nature la faculté de se mouvoir rapidement , s’ il n’avait pas besoin de s’ en servir .
+1	Or	_	Word	Word	_	17	L	17:L	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	vous	_	Word	Word	_	5	A	5:A	_
+4	le	_	Word	Word	_	5	A	5:A	_
+5	savez	_	Word	Word	_	0	H	0:H	_
+6	mieux	_	Word	Word	_	5	D	5:D	_
+7	que	_	Word	Word	_	8	F	8:F	_
+8	moi	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	monsieur	_	Word	Word	_	12	E	12:E	_
+11	le	_	Word	Word	_	12	E	12:E	_
+12	professeur	_	Word	Word	_	3	E	3:E	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	la	_	Word	Word	_	15	E	15:E	_
+15	nature	_	Word	Word	_	17	A	17:A	_
+16	ne	_	Word	Word	_	17	D	17:D	_
+17	fait	_	Word	Word	_	5	H	5:H	_
+18	rien	_	Word	Word	_	17	A	17:A	_
+19	à	_	Word	Word	_	21	R	21:R	_
+20	contre	_	Word	Word	_	21	E	21:E	_
+21	sens	_	Word	Word	_	17	D	17:D	_
+22	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+23	et	_	Word	Word	_	36	L	36:L	_
+24	elle	_	Word	Word	_	36	A	36:A	_
+25	ne	_	Word	Word	_	36	D	36:D	_
+26	donnerait	_	Word	Word	_	36	E	36:E	_
+27	pas	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	à	_	Word	Word	_	30	R	30:R	_
+29	un	_	Word	Word	_	30	E	30:E	_
+30	animal	_	Word	Word	_	36	A	36:A	_
+31	lent	_	Word	Word	_	30	E	30:E	_
+32	de	_	Word	Word	_	34	R	34:R	_
+33	sa	_	Word	Word	_	34	E	34:E	_
+34	nature	_	Word	Word	_	31	E	31:E	_
+35	la	_	Word	Word	_	36	E	36:E	_
+36	faculté	_	Word	Word	_	5	H	5:H	_
+37	de	_	Word	Word	_	39	F	39:F	_
+38	se	_	Word	Word	_	39	E	39:E	_
+39	mouvoir	_	Word	Word	_	36	A	36:A	_
+40	rapidement	_	Word	Word	_	39	D	39:D	_
+41	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+42	s’	_	Word	Word	_	48	L	48:L	_
+43	il	_	Word	Word	_	48	A	48:A	_
+44	n’avait	_	Word	Word	_	48	F	48:F	_
+45	pas	_	Word	Word	_	48	D	48:D	_
+46	besoin	_	Word	Word	_	48	E	48:E	_
+47	de	_	Word	Word	_	48	F	48:F	_
+48	s’	_	Word	Word	_	5	H	5:H	_
+49	en	_	Word	Word	_	48	A	48:A	_
+50	servir	_	Word	Word	_	48	Terminal	48:Terminal	_
+51	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+

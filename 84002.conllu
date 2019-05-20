@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 84002
+# text = Or , les plus vastes baleines , celles qui fréquentent les parages des îles Aléoutiennes , le Kulammak et l\u2019 Umgullick , n\u2019 ont jamais dépassé la longueur de cinquante-six mètres , \u2013 si même elles l\u2019 atteignent .
+1	Or	_	Word	Word	_	38	L	38:L	_
+2	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+3	les	_	Word	Word	_	6	E	6:E	_
+4	plus	_	Word	Word	_	6	E	6:E	_
+5	vastes	_	Word	Word	_	6	E	6:E	_
+6	baleines	_	Word	Word	_	26	A	26:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	celles	_	Word	Word	_	10	F	10:F	_
+9	qui	_	Word	Word	_	10	R	10:R	_
+10	fréquentent	_	Word	Word	_	6	E	6:E	_
+11	les	_	Word	Word	_	12	E	12:E	_
+12	parages	_	Word	Word	_	14	E	14:E	_
+13	des	_	Word	Word	_	12	R	12:R	_
+14	îles	_	Word	Word	_	10	A	10:A	_
+15	Aléoutiennes	_	Word	Word	_	14	E	14:E	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	le	_	Word	Word	_	18	E	18:E	_
+18	Kulammak	_	Word	Word	_	14	C	14:C	_
+19	et	_	Word	Word	_	14	N	14:N	_
+20	l\u2019	_	Word	Word	_	21	E	21:E	_
+21	Umgullick	_	Word	Word	_	14	C	14:C	_
+22	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+23	n\u2019	_	Word	Word	_	26	D	26:D	_
+24	ont	_	Word	Word	_	26	F	26:F	_
+25	jamais	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	dépassé	_	Word	Word	_	0	H	0:H	_
+27	la	_	Word	Word	_	28	E	28:E	_
+28	longueur	_	Word	Word	_	31	E	31:E	_
+29	de	_	Word	Word	_	28	R	28:R	_
+30	cinquante-six	_	Word	Word	_	31	E	31:E	_
+31	mètres	_	Word	Word	_	26	A	26:A	_
+32	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+33	\u2013	_	Punctuation	Punctuation	_	26	U	26:U	_
+34	si	_	Word	Word	_	35	E	35:E	_
+35	même	_	Word	Word	_	38	L	38:L	_
+36	elles	_	Word	Word	_	38	A	38:A	_
+37	l\u2019	_	Word	Word	_	38	A	38:A	_
+38	atteignent	_	Word	Word	_	26	H	26:H	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

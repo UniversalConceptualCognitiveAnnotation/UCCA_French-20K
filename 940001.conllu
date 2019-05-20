@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 940001
+# text = C’ est une sotte affaire , après tout , et dans laquelle nous nous sommes lancés trop légèrement .
+1	C’	_	Word	Word	_	2	A	2:A	_
+2	est	_	Word	Word	_	0	H	0:H	_
+3	une	_	Word	Word	_	5	E	5:E	_
+4	sotte	_	Word	Word	_	5	E	5:E	_
+5	affaire	_	Word	Word	_	0	C	0:C|11:C	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	après	_	Word	Word	_	8	R	8:R	_
+8	tout	_	Word	Word	_	16	L	16:L	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	et	_	Word	Word	_	16	L	16:L	_
+11	dans	_	Word	Word	_	16	A	16:A	_
+12	laquelle	_	Word	Word	_	16	F	16:F	_
+13	nous	_	Word	Word	_	16	A	16:A	_
+14	nous	_	Word	Word	_	16	E	16:E	_
+15	sommes	_	Word	Word	_	16	F	16:F	_
+16	lancés	_	Word	Word	_	2	H	2:H	_
+17	trop	_	Word	Word	_	18	E	18:E	_
+18	légèrement	_	Word	Word	_	16	D	16:D	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

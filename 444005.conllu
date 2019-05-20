@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 444005
+# text = Aussi les plaisants prétendaient - ils que cette fine mouche avait arrêté au passage quelque télégramme dont elle faisait maintenant son profit .
+1	Aussi	_	Word	Word	_	4	L	4:L	_
+2	les	_	Word	Word	_	3	E	3:E	_
+3	plaisants	_	Word	Word	_	4	A	4:A	_
+4	prétendaient	_	Word	Word	_	0	H	0:H	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	ils	_	Word	Word	_	4	F	4:F	_
+7	que	_	Word	Word	_	12	R	12:R	_
+8	cette	_	Word	Word	_	10	E	10:E	_
+9	fine	_	Word	Word	_	10	E	10:E	_
+10	mouche	_	Word	Word	_	12	A	12:A	_
+11	avait	_	Word	Word	_	12	F	12:F	_
+12	arrêté	_	Word	Word	_	4	A	4:A	_
+13	au	_	Word	Word	_	14	R	14:R	_
+14	passage	_	Word	Word	_	16	E	16:E	_
+15	quelque	_	Word	Word	_	16	E	16:E	_
+16	télégramme	_	Word	Word	_	0	C	0:C|14:A|22:A	_
+17	dont	_	Word	Word	_	22	L	22:L	_
+18	elle	_	Word	Word	_	22	A	22:A	_
+19	faisait	_	Word	Word	_	22	F	22:F	_
+20	maintenant	_	Word	Word	_	22	D	22:D	_
+21	son	_	Word	Word	_	22	E	22:E	_
+22	profit	_	Word	Word	_	12	H	12:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

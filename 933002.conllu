@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 933002
+# text = On employait mille moyens pour éveiller l’ attention ou stimuler l’ apathie de l’ animal , au cas où il se fût rencontré dans ces parages .
+1	On	_	Word	Word	_	2	A	2:A|6:A|10:A	_
+2	employait	_	Word	Word	_	0	H	0:H	_
+3	mille	_	Word	Word	_	4	E	4:E	_
+4	moyens	_	Word	Word	_	2	A	2:A	_
+5	pour	_	Word	Word	_	6	L	6:L	_
+6	éveiller	_	Word	Word	_	2	H	2:H	_
+7	l’	_	Word	Word	_	8	E	8:E	_
+8	attention	_	Word	Word	_	6	A	6:A	_
+9	ou	_	Word	Word	_	10	L	10:L	_
+10	stimuler	_	Word	Word	_	2	H	2:H	_
+11	l’	_	Word	Word	_	12	E	12:E	_
+12	apathie	_	Word	Word	_	10	A	10:A	_
+13	de	_	Word	Word	_	15	R	15:R	_
+14	l’	_	Word	Word	_	15	E	15:E	_
+15	animal	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	au	_	Word	Word	_	18	R	18:R	_
+18	cas	_	Word	Word	_	23	L	23:L	_
+19	où	_	Word	Word	_	18	R	18:R	_
+20	il	_	Word	Word	_	23	A	23:A	_
+21	se	_	Word	Word	_	23	F	23:F	_
+22	fût	_	Word	Word	_	23	F	23:F	_
+23	rencontré	_	Word	Word	_	2	H	2:H	_
+24	dans	_	Word	Word	_	26	R	26:R	_
+25	ces	_	Word	Word	_	26	E	26:E	_
+26	parages	_	Word	Word	_	23	A	23:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

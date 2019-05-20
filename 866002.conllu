@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 866002
+# text = De même , le baleinier .
+1	De	_	Word	Word	_	2	R	2:R	_
+2	même	_	Word	Word	_	5	L	5:L	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	le	_	Word	Word	_	5	E	5:E	_
+5	baleinier	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

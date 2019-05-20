@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 92001
+# text = Seulement , grâce à la nationalité du navire victime de ce nouvel abordage , grâce à la réputation de la Compagnie à laquelle ce navire appartenait , l\u2019événement eut un retentissement immense
+1	Seulement	_	Word	Word	_	29	L	29:L	_
+2	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+3	grâce	_	Word	Word	_	6	R	6:R	_
+4	à	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	la	_	Word	Word	_	6	E	6:E	_
+6	nationalité	_	Word	Word	_	29	A	29:A	_
+7	du	_	Word	Word	_	8	R	8:R	_
+8	navire	_	Word	Word	_	6	E	6:E	_
+9	victime	_	Word	Word	_	8	E	8:E	_
+10	de	_	Word	Word	_	13	R	13:R	_
+11	ce	_	Word	Word	_	13	E	13:E	_
+12	nouvel	_	Word	Word	_	13	E	13:E	_
+13	abordage	_	Word	Word	_	9	E	9:E	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	grâce	_	Word	Word	_	18	R	18:R	_
+16	à	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	la	_	Word	Word	_	18	E	18:E	_
+18	réputation	_	Word	Word	_	6	C	6:C	_
+19	de	_	Word	Word	_	21	R	21:R	_
+20	la	_	Word	Word	_	21	E	21:E	_
+21	Compagnie	_	Word	Word	_	18	E	18:E	_
+22	à	_	Word	Word	_	26	R	26:R	_
+23	laquelle	_	Word	Word	_	26	F	26:F	_
+24	ce	_	Word	Word	_	25	E	25:E	_
+25	navire	_	Word	Word	_	26	A	26:A	_
+26	appartenait	_	Word	Word	_	21	E	21:E	_
+27	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+28	l\u2019événement	_	Word	Word	_	29	A	29:A	_
+29	eut	_	Word	Word	_	0	H	0:H	_
+30	un	_	Word	Word	_	31	E	31:E	_
+31	retentissement	_	Word	Word	_	29	A	29:A	_
+32	immense	_	Word	Word	_	31	E	31:E	_
+

@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 783006
+# text = Votre cabine vous attend . »
+1	Votre	_	Word	Word	_	2	E	2:E	_
+2	cabine	_	Word	Word	_	4	A	4:A	_
+3	vous	_	Word	Word	_	4	A	4:A	_
+4	attend	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	»	_	Punctuation	Punctuation	_	4	U	4:U	_
+

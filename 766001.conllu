@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 766001
+# text = Ce digne animal se laissera prendre dans les mers d’ Europe , – pour mon agrément personnel , – et je ne veux pas rapporter moins d’ un demi mètre de sa hallebarde d’ ivoire au Muséum d’ histoire naturelle . »
+1	Ce	_	Word	Word	_	3	E	3:E	_
+2	digne	_	Word	Word	_	3	E	3:E	_
+3	animal	_	Word	Word	_	6	A	6:A	_
+4	se	_	Word	Word	_	5	E	5:E	_
+5	laissera	_	Word	Word	_	6	E	6:E	_
+6	prendre	_	Word	Word	_	0	H	0:H	_
+7	dans	_	Word	Word	_	9	R	9:R	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	mers	_	Word	Word	_	6	A	6:A	_
+10	d’	_	Word	Word	_	11	R	11:R	_
+11	Europe	_	Word	Word	_	9	E	9:E	_
+12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	–	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	pour	_	Word	Word	_	16	R	16:R	_
+15	mon	_	Word	Word	_	16	E	16:E	_
+16	agrément	_	Word	Word	_	6	G	6:G	_
+17	personnel	_	Word	Word	_	16	E	16:E	_
+18	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	–	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	et	_	Word	Word	_	23	L	23:L	_
+21	je	_	Word	Word	_	23	A	23:A|25:A	_
+22	ne	_	Word	Word	_	23	D	23:D	_
+23	veux	_	Word	Word	_	6	H	6:H	_
+24	pas	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	rapporter	_	Word	Word	_	23	A	23:A	_
+26	moins	_	Word	Word	_	30	E	30:E	_
+27	d’	_	Word	Word	_	26	R	26:R	_
+28	un	_	Word	Word	_	30	E	30:E	_
+29	demi	_	Word	Word	_	30	E	30:E	_
+30	mètre	_	Word	Word	_	33	E	33:E	_
+31	de	_	Word	Word	_	30	R	30:R	_
+32	sa	_	Word	Word	_	33	E	33:E	_
+33	hallebarde	_	Word	Word	_	25	A	25:A	_
+34	d’	_	Word	Word	_	35	R	35:R	_
+35	ivoire	_	Word	Word	_	33	E	33:E	_
+36	au	_	Word	Word	_	37	R	37:R	_
+37	Muséum	_	Word	Word	_	25	A	25:A	_
+38	d’	_	Word	Word	_	39	R	39:R	_
+39	histoire	_	Word	Word	_	37	E	37:E	_
+40	naturelle	_	Word	Word	_	39	E	39:E	_
+41	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+42	»	_	Punctuation	Punctuation	_	39	U	39:U	_
+

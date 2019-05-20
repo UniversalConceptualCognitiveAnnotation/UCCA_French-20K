@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 82002
+# text = Donc , à moins que cet écueil ne fût soumis aux expansions intermittentes d\u2019 un geyser , le Governor-Higginson avait affaire bel et bien à quelque mammifère aquatique , inconnu jusque - là , qui rejetait par ses évents des colonnes d\u2019 eau , mélangées d\u2019 air et de vapeur .
+1	Donc	_	Word	Word	_	21	L	21:L	_
+2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	à	_	Word	Word	_	4	R	4:R	_
+4	moins	_	Word	Word	_	21	L	21:L	_
+5	que	_	Word	Word	_	4	R	4:R	_
+6	cet	_	Word	Word	_	7	E	7:E	_
+7	écueil	_	Word	Word	_	10	A	10:A	_
+8	ne	_	Word	Word	_	10	F	10:F	_
+9	fût	_	Word	Word	_	10	F	10:F	_
+10	soumis	_	Word	Word	_	0	H	0:H	_
+11	aux	_	Word	Word	_	12	R	12:R	_
+12	expansions	_	Word	Word	_	10	A	10:A	_
+13	intermittentes	_	Word	Word	_	12	E	12:E	_
+14	d\u2019	_	Word	Word	_	16	R	16:R	_
+15	un	_	Word	Word	_	16	E	16:E	_
+16	geyser	_	Word	Word	_	12	E	12:E	_
+17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	le	_	Word	Word	_	19	E	19:E	_
+19	Governor-Higginson	_	Word	Word	_	21	A	21:A	_
+20	avait	_	Word	Word	_	21	F	21:F	_
+21	affaire	_	Word	Word	_	10	H	10:H	_
+22	bel	_	Word	Word	_	21	D	21:D	_
+23	et	_	Word	Word	_	22	N	22:N	_
+24	bien	_	Word	Word	_	22	C	22:C	_
+25	à	_	Word	Word	_	27	R	27:R	_
+26	quelque	_	Word	Word	_	27	E	27:E	_
+27	mammifère	_	Word	Word	_	21	A	21:A	_
+28	aquatique	_	Word	Word	_	27	E	27:E	_
+29	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+30	inconnu	_	Word	Word	_	27	E	27:E	_
+31	jusque	_	Word	Word	_	33	R	33:R	_
+32	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+33	là	_	Word	Word	_	30	D	30:D	_
+34	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+35	qui	_	Word	Word	_	36	R	36:R	_
+36	rejetait	_	Word	Word	_	27	E	27:E	_
+37	par	_	Word	Word	_	39	R	39:R	_
+38	ses	_	Word	Word	_	39	E	39:E	_
+39	évents	_	Word	Word	_	36	A	36:A	_
+40	des	_	Word	Word	_	41	E	41:E	_
+41	colonnes	_	Word	Word	_	36	A	36:A	_
+42	d\u2019	_	Word	Word	_	43	R	43:R	_
+43	eau	_	Word	Word	_	41	E	41:E	_
+44	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+45	mélangées	_	Word	Word	_	41	E	41:E	_
+46	d\u2019	_	Word	Word	_	47	R	47:R	_
+47	air	_	Word	Word	_	45	A	45:A	_
+48	et	_	Word	Word	_	47	N	47:N	_
+49	de	_	Word	Word	_	50	R	50:R	_
+50	vapeur	_	Word	Word	_	47	C	47:C	_
+51	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+

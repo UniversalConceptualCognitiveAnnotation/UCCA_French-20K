@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 776007
+# text = – Pas un instant à perdre .
+1	–	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	Pas	_	Word	Word	_	4	E	4:E	_
+3	un	_	Word	Word	_	4	E	4:E	_
+4	instant	_	Word	Word	_	6	A	6:A	_
+5	à	_	Word	Word	_	6	F	6:F	_
+6	perdre	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

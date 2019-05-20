@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 776020
+# text = – Oh ! ce sera peu de chose !
+1	–	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Oh	_	Word	Word	_	0	H	0:H	_
+3	!	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	ce	_	Word	Word	_	5	A	5:A	_
+5	sera	_	Word	Word	_	2	H	2:H	_
+6	peu	_	Word	Word	_	8	E	8:E	_
+7	de	_	Word	Word	_	6	R	6:R	_
+8	chose	_	Word	Word	_	5	A	5:A	_
+9	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+

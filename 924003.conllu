@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 924003
+# text = Aussi , nos chances étaient - elles fort limitées .
+1	Aussi	_	Word	Word	_	9	L	9:L	_
+2	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	nos	_	Word	Word	_	4	E	4:E	_
+4	chances	_	Word	Word	_	9	A	9:A	_
+5	étaient	_	Word	Word	_	9	F	9:F	_
+6	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	elles	_	Word	Word	_	9	F	9:F	_
+8	fort	_	Word	Word	_	9	D	9:D	_
+9	limitées	_	Word	Word	_	0	H	0:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

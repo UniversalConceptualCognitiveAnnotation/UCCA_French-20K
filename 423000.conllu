@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 423000
+# text = Mais l\u2019 hypothèse d\u2019 une machine de guerre tomba encore devant la déclaration des gouvernements .
+1	Mais	_	Word	Word	_	9	L	9:L	_
+2	l\u2019	_	Word	Word	_	3	E	3:E	_
+3	hypothèse	_	Word	Word	_	9	A	9:A	_
+4	d\u2019	_	Word	Word	_	6	R	6:R	_
+5	une	_	Word	Word	_	6	E	6:E	_
+6	machine	_	Word	Word	_	3	E	3:E	_
+7	de	_	Word	Word	_	8	R	8:R	_
+8	guerre	_	Word	Word	_	6	E	6:E	_
+9	tomba	_	Word	Word	_	0	H	0:H	_
+10	encore	_	Word	Word	_	9	D	9:D	_
+11	devant	_	Word	Word	_	13	R	13:R	_
+12	la	_	Word	Word	_	13	E	13:E	_
+13	déclaration	_	Word	Word	_	9	A	9:A	_
+14	des	_	Word	Word	_	15	R	15:R	_
+15	gouvernements	_	Word	Word	_	13	E	13:E	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

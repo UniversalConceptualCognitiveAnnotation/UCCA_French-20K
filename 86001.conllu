@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 86001
+# text = Les canards eurent là une belle occasion de pondre des & #x153 ; ufs de toute couleur .
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	canards	_	Word	Word	_	3	A	3:A	_
+3	eurent	_	Word	Word	_	0	H	0:H	_
+4	là	_	Word	Word	_	3	A	3:A	_
+5	une	_	Word	Word	_	7	E	7:E	_
+6	belle	_	Word	Word	_	7	E	7:E	_
+7	occasion	_	Word	Word	_	3	A	3:A	_
+8	de	_	Word	Word	_	9	R	9:R	_
+9	pondre	_	Word	Word	_	7	E	7:E	_
+10	des	_	Word	Word	_	12	E	12:E	_
+11	&	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	#x153	_	Word	Word	_	9	A	9:A	_
+13	;	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	ufs	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	de	_	Word	Word	_	17	R	17:R	_
+16	toute	_	Word	Word	_	17	E	17:E	_
+17	couleur	_	Word	Word	_	12	E	12:E	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

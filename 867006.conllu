@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 867006
+# text = Eût - il cinq cents pieds de longueur , le poulpe , qui n’ appartient point à l’ embranchement des vertébrés , est tout à fait inoffensif pour des navires tels que le Scotia ou l ’ Abraham - Lincoln .
+1	Eût	_	Word	Word	_	0	H	0:H	_
+2	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	il	_	Word	Word	_	1	A	1:A	_
+4	cinq	_	Word	Word	_	5	E	5:E	_
+5	cents	_	Word	Word	_	6	E	6:E	_
+6	pieds	_	Word	Word	_	1	A	1:A	_
+7	de	_	Word	Word	_	8	R	8:R	_
+8	longueur	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	le	_	Word	Word	_	11	E	11:E	_
+11	poulpe	_	Word	Word	_	0	C	0:C|1:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	qui	_	Word	Word	_	15	R	15:R	_
+14	n’	_	Word	Word	_	15	D	15:D	_
+15	appartient	_	Word	Word	_	11	E	11:E	_
+16	point	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	à	_	Word	Word	_	19	R	19:R	_
+18	l’	_	Word	Word	_	19	E	19:E	_
+19	embranchement	_	Word	Word	_	15	A	15:A	_
+20	des	_	Word	Word	_	21	R	21:R	_
+21	vertébrés	_	Word	Word	_	19	E	19:E	_
+22	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+23	est	_	Word	Word	_	27	F	27:F	_
+24	tout	_	Word	Word	_	27	D	27:D	_
+25	à	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	fait	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	inoffensif	_	Word	Word	_	1	H	1:H	_
+28	pour	_	Word	Word	_	30	R	30:R	_
+29	des	_	Word	Word	_	30	E	30:E	_
+30	navires	_	Word	Word	_	27	A	27:A	_
+31	tels	_	Word	Word	_	34	R	34:R	_
+32	que	_	Word	Word	_	34	F	34:F	_
+33	le	_	Word	Word	_	34	E	34:E	_
+34	Scotia	_	Word	Word	_	30	E	30:E	_
+35	ou	_	Word	Word	_	34	N	34:N	_
+36	l	_	Word	Word	_	38	E	38:E	_
+37	’	_	Punctuation	Punctuation	_	38	U	38:U	_
+38	Abraham	_	Word	Word	_	34	C	34:C	_
+39	-	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	Lincoln	_	Word	Word	_	38	Terminal	38:Terminal	_
+41	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

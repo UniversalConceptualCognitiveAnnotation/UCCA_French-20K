@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 791001
+# text = lui demanda - t - il .
+1	lui	_	Word	Word	_	2	A	2:A	_
+2	demanda	_	Word	Word	_	0	H	0:H	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	t	_	Word	Word	_	2	F	2:F	_
+5	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	il	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

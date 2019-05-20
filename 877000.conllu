@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 877000
+# text = Or , suivant moi , et toutes les raisons précédemment déduites , cet animal appartenait à l’ embranchement des vertébrés , à la classe des mammifères , au groupe des pisciformes , et finalement à l’ ordre des cétacés .
+1	Or	_	Word	Word	_	15	L	15:L	_
+2	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+3	suivant	_	Word	Word	_	4	R	4:R	_
+4	moi	_	Word	Word	_	15	A	15:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	et	_	Word	Word	_	4	N	4:N	_
+7	toutes	_	Word	Word	_	9	E	9:E	_
+8	les	_	Word	Word	_	9	E	9:E	_
+9	raisons	_	Word	Word	_	4	C	4:C	_
+10	précédemment	_	Word	Word	_	11	D	11:D	_
+11	déduites	_	Word	Word	_	9	E	9:E	_
+12	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+13	cet	_	Word	Word	_	14	E	14:E	_
+14	animal	_	Word	Word	_	15	A	15:A	_
+15	appartenait	_	Word	Word	_	0	H	0:H	_
+16	à	_	Word	Word	_	18	R	18:R	_
+17	l’	_	Word	Word	_	18	E	18:E	_
+18	embranchement	_	Word	Word	_	20	E	20:E	_
+19	des	_	Word	Word	_	18	R	18:R|20:E	_
+20	vertébrés	_	Word	Word	_	15	A	15:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	à	_	Word	Word	_	24	R	24:R	_
+23	la	_	Word	Word	_	24	E	24:E	_
+24	classe	_	Word	Word	_	26	E	26:E	_
+25	des	_	Word	Word	_	24	R	24:R|26:E	_
+26	mammifères	_	Word	Word	_	20	C	20:C	_
+27	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+28	au	_	Word	Word	_	29	R	29:R	_
+29	groupe	_	Word	Word	_	31	E	31:E	_
+30	des	_	Word	Word	_	29	R	29:R|31:E	_
+31	pisciformes	_	Word	Word	_	20	C	20:C	_
+32	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+33	et	_	Word	Word	_	20	N	20:N	_
+34	finalement	_	Word	Word	_	39	E	39:E	_
+35	à	_	Word	Word	_	37	R	37:R	_
+36	l’	_	Word	Word	_	37	E	37:E	_
+37	ordre	_	Word	Word	_	39	E	39:E	_
+38	des	_	Word	Word	_	37	R	37:R|39:E	_
+39	cétacés	_	Word	Word	_	20	C	20:C	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

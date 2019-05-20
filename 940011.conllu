@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 940011
+# text = — Vraiment ! — Quand on a l’ honneur d’ être un savant comme monsieur , on ne s’ expose pas… »
+1	—	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Vraiment	_	Word	Word	_	0	H	0:H	_
+3	!	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	—	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Quand	_	Word	Word	_	15	L	15:L	_
+6	on	_	Word	Word	_	11	A	11:A	_
+7	a	_	Word	Word	_	9	F	9:F	_
+8	l’	_	Word	Word	_	9	E	9:E	_
+9	honneur	_	Word	Word	_	11	E	11:E	_
+10	d’	_	Word	Word	_	11	F	11:F	_
+11	être	_	Word	Word	_	0	C	0:C|15:S	_
+12	un	_	Word	Word	_	13	E	13:E	_
+13	savant	_	Word	Word	_	0	C	0:C|15:A	_
+14	comme	_	Word	Word	_	15	L	15:L	_
+15	monsieur	_	Word	Word	_	2	H	2:H	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	on	_	Word	Word	_	20	A	20:A	_
+18	ne	_	Word	Word	_	20	D	20:D	_
+19	s’	_	Word	Word	_	20	A	20:A	_
+20	expose	_	Word	Word	_	2	H	2:H	_
+21	pas…	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	»	_	Punctuation	Punctuation	_	20	U	20:U	_
+

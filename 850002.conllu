@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 850002
+# text = D’ ailleurs , le commandant Farragut parlait d’ une certaine somme de deux mille dollars , réservée à quiconque , mousse ou matelot , maître ou officier , signalerait l’ animal .
+1	D’	_	Word	Word	_	2	R	2:R	_
+2	ailleurs	_	Word	Word	_	7	L	7:L	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	le	_	Word	Word	_	5	E	5:E	_
+5	commandant	_	Word	Word	_	6	E	6:E	_
+6	Farragut	_	Word	Word	_	7	A	7:A	_
+7	parlait	_	Word	Word	_	0	H	0:H	_
+8	d’	_	Word	Word	_	11	R	11:R	_
+9	une	_	Word	Word	_	11	E	11:E	_
+10	certaine	_	Word	Word	_	11	E	11:E	_
+11	somme	_	Word	Word	_	15	E	15:E	_
+12	de	_	Word	Word	_	11	R	11:R	_
+13	deux	_	Word	Word	_	14	E	14:E	_
+14	mille	_	Word	Word	_	15	E	15:E	_
+15	dollars	_	Word	Word	_	7	A	7:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	réservée	_	Word	Word	_	15	E	15:E	_
+18	à	_	Word	Word	_	21	R	21:R	_
+19	quiconque	_	Word	Word	_	21	R	21:R	_
+20	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	mousse	_	Word	Word	_	17	A	17:A	_
+22	ou	_	Word	Word	_	21	N	21:N	_
+23	matelot	_	Word	Word	_	21	C	21:C	_
+24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	maître	_	Word	Word	_	21	C	21:C	_
+26	ou	_	Word	Word	_	25	N	25:N	_
+27	officier	_	Word	Word	_	25	C	25:C	_
+28	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+29	signalerait	_	Word	Word	_	21	E	21:E	_
+30	l’	_	Word	Word	_	31	E	31:E	_
+31	animal	_	Word	Word	_	29	A	29:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

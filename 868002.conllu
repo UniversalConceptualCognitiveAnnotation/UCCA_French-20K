@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 868002
+# text = Je crois à l’ existence d’ un mammifère , puissamment organisé , appartenant à l’ embranchement des vertébrés , comme les baleines , les cachalots ou les dauphins , et muni d’ une défense cornée dont la force de pénétration est extrême .
+1	Je	_	Word	Word	_	2	A	2:A	_
+2	crois	_	Word	Word	_	0	H	0:H	_
+3	à	_	Word	Word	_	5	R	5:R	_
+4	l’	_	Word	Word	_	5	E	5:E	_
+5	existence	_	Word	Word	_	2	A	2:A	_
+6	d’	_	Word	Word	_	8	R	8:R	_
+7	un	_	Word	Word	_	8	E	8:E	_
+8	mammifère	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	puissamment	_	Word	Word	_	11	E	11:E	_
+11	organisé	_	Word	Word	_	8	E	8:E	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	appartenant	_	Word	Word	_	11	C	11:C	_
+14	à	_	Word	Word	_	16	R	16:R	_
+15	l’	_	Word	Word	_	16	E	16:E	_
+16	embranchement	_	Word	Word	_	18	E	18:E	_
+17	des	_	Word	Word	_	16	R	16:R|18:E	_
+18	vertébrés	_	Word	Word	_	13	A	13:A	_
+19	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	comme	_	Word	Word	_	22	R	22:R	_
+21	les	_	Word	Word	_	22	E	22:E	_
+22	baleines	_	Word	Word	_	13	A	13:A	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	les	_	Word	Word	_	25	E	25:E	_
+25	cachalots	_	Word	Word	_	22	C	22:C	_
+26	ou	_	Word	Word	_	22	N	22:N	_
+27	les	_	Word	Word	_	28	E	28:E	_
+28	dauphins	_	Word	Word	_	22	C	22:C	_
+29	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+30	et	_	Word	Word	_	11	N	11:N	_
+31	muni	_	Word	Word	_	11	C	11:C	_
+32	d’	_	Word	Word	_	34	R	34:R	_
+33	une	_	Word	Word	_	34	E	34:E	_
+34	défense	_	Word	Word	_	31	A	31:A	_
+35	cornée	_	Word	Word	_	34	E	34:E	_
+36	dont	_	Word	Word	_	42	R	42:R	_
+37	la	_	Word	Word	_	38	E	38:E	_
+38	force	_	Word	Word	_	42	A	42:A	_
+39	de	_	Word	Word	_	40	R	40:R	_
+40	pénétration	_	Word	Word	_	38	E	38:E	_
+41	est	_	Word	Word	_	42	F	42:F	_
+42	extrême	_	Word	Word	_	34	E	34:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

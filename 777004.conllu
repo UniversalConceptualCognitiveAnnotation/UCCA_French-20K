@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 777004
+# text = Ces bêtes - là peuvent être très - capricieuses !
+1	Ces	_	Word	Word	_	2	E	2:E	_
+2	bêtes	_	Word	Word	_	6	A	6:A	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	là	_	Word	Word	_	2	E	2:E	_
+5	peuvent	_	Word	Word	_	6	E	6:E	_
+6	être	_	Word	Word	_	0	H	0:H	_
+7	très	_	Word	Word	_	9	E	9:E	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	capricieuses	_	Word	Word	_	6	A	6:A	_
+10	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+

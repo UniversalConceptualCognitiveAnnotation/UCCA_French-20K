@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 434000
+# text = « Le narwal vulgaire ou licorne de mer atteint souvent une longueur de soixante pieds .
+1	«	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	Le	_	Word	Word	_	3	E	3:E	_
+3	narwal	_	Word	Word	_	9	A	9:A	_
+4	vulgaire	_	Word	Word	_	3	E	3:E	_
+5	ou	_	Word	Word	_	3	N	3:N	_
+6	licorne	_	Word	Word	_	3	C	3:C	_
+7	de	_	Word	Word	_	8	R	8:R	_
+8	mer	_	Word	Word	_	6	E	6:E	_
+9	atteint	_	Word	Word	_	0	H	0:H	_
+10	souvent	_	Word	Word	_	9	D	9:D	_
+11	une	_	Word	Word	_	12	E	12:E	_
+12	longueur	_	Word	Word	_	15	E	15:E	_
+13	de	_	Word	Word	_	12	R	12:R	_
+14	soixante	_	Word	Word	_	15	E	15:E	_
+15	pieds	_	Word	Word	_	9	A	9:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

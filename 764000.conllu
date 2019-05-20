@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 764000
+# text = ﻿ Trois secondes avant l’ arrivée de la lettre de J . -B . Hobson , je ne songeais pas plus à poursuivre la Licorne qu’ à tenter le passage du Nord - Ouest .
+1	﻿	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	Trois	_	Word	Word	_	3	E	3:E	_
+3	secondes	_	Word	Word	_	19	L	19:L	_
+4	avant	_	Word	Word	_	3	R	3:R	_
+5	l’	_	Word	Word	_	6	E	6:E	_
+6	arrivée	_	Word	Word	_	0	H	0:H	_
+7	de	_	Word	Word	_	9	R	9:R	_
+8	la	_	Word	Word	_	9	E	9:E	_
+9	lettre	_	Word	Word	_	6	A	6:A	_
+10	de	_	Word	Word	_	11	R	11:R	_
+11	J	_	Word	Word	_	9	E	9:E	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-B	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	Hobson	_	Word	Word	_	11	Terminal	11:Terminal	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	je	_	Word	Word	_	19	A	19:A|23:A|28:A	_
+18	ne	_	Word	Word	_	19	D	19:D	_
+19	songeais	_	Word	Word	_	6	H	6:H	_
+20	pas	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	plus	_	Word	Word	_	19	D	19:D	_
+22	à	_	Word	Word	_	23	F	23:F	_
+23	poursuivre	_	Word	Word	_	19	A	19:A	_
+24	la	_	Word	Word	_	25	E	25:E	_
+25	Licorne	_	Word	Word	_	23	A	23:A	_
+26	qu’	_	Word	Word	_	28	L	28:L	_
+27	à	_	Word	Word	_	28	F	28:F	_
+28	tenter	_	Word	Word	_	6	H	6:H	_
+29	le	_	Word	Word	_	30	E	30:E	_
+30	passage	_	Word	Word	_	28	A	28:A	_
+31	du	_	Word	Word	_	32	R	32:R	_
+32	Nord	_	Word	Word	_	30	E	30:E	_
+33	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	Ouest	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

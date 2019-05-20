@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 777002
+# text = Mission glorieuse , mais ... dangereuse aussi !
+1	Mission	_	Word	Word	_	0	C	0:C|6:C	_
+2	glorieuse	_	Word	Word	_	1	E	1:E	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	mais	_	Word	Word	_	6	L	6:L	_
+5	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	dangereuse	_	Word	Word	_	1	H	1:H	_
+7	aussi	_	Word	Word	_	6	D	6:D	_
+8	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+

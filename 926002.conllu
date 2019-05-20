@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 926002
+# text = Les cœurs palpitaient effroyablement , et se préparaient pour l’ avenir d’ incurables anévrismes .
+1	Les	_	Word	Word	_	2	E	2:E	_
+2	cœurs	_	Word	Word	_	0	C	0:C|8:A	_
+3	palpitaient	_	Word	Word	_	0	H	0:H	_
+4	effroyablement	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	et	_	Word	Word	_	8	L	8:L	_
+7	se	_	Word	Word	_	8	A	8:A	_
+8	préparaient	_	Word	Word	_	3	H	3:H	_
+9	pour	_	Word	Word	_	11	R	11:R	_
+10	l’	_	Word	Word	_	11	E	11:E	_
+11	avenir	_	Word	Word	_	8	A	8:A	_
+12	d’	_	Word	Word	_	14	R	14:R	_
+13	incurables	_	Word	Word	_	14	E	14:E	_
+14	anévrismes	_	Word	Word	_	8	A	8:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

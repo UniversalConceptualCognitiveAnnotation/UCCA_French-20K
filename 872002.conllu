@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 872002
+# text = — En affaires , Ned , mais non en mathématiques .
+1	—	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	En	_	Word	Word	_	3	R	3:R	_
+3	affaires	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Ned	_	Word	Word	_	3	H	3:H	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	mais	_	Word	Word	_	10	L	10:L	_
+8	non	_	Word	Word	_	10	D	10:D	_
+9	en	_	Word	Word	_	10	R	10:R	_
+10	mathématiques	_	Word	Word	_	3	H	3:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+
