@@ -15,15 +15,10 @@ env:
     - secure: "1WfxAgyRd6g/s/ubZTH4zZeyyvV4iKMPqDdLivL0CjAqiO9q+4I5lVsOYsVZjd0YHam3wfJuk0hS7kpigcGW1USULbi9HgEK9ofZ7cglpdJb7E8fLgNA7Sl6PVj9avYIoGlRWhtFDnm2/LYTpBJwpK0JAslftKkX/gDZwRpQPnbqzhl4102pTKgQqYqVl0RZBRljsG54+gYY3KC0/+mLN78mccAEgAAAcizJg9bEZVlKVAgvU0H5CYBrr4bxEkFdRyYIKG7gZisk4SKXfW/iAySLgVo8lC++XcKP4r4p+CMAU0z4NtQzh2Rt602c3Dkw9omGMsnmWgdf7ZmTPJTWXTUauVYVIJ1O7rO+TrKIZsxbH7hiF2g8m49t7OyPMLSfaN+3adU8R6Z6ZknlPjoqdIFx9k+n0BrfQBQyo42FYm3gnU/ZQe5JB5fJlbnB3cZIDboxSBJKV0qLYyKca6Va19oSN5LoVh0l4xC3e4dGdi8wRgwSoy2cmkjvfCr/FyqjROhhBctm8kq0QHOE4sBWEOP2q60KhIhSa6Y5y+uVJM5CzplLcQIIbqECQaGYYDZn9y86ZxPa+V9u5wevdV7P6q9ckuWTqg9TJW0fUzqrSGtcI7A/9uOqRY1xBgRm0wXpyQn0zcTSZXy5Qca3TREIVdZDrim5VpEbKHsMqHS7OKA="
 jobs:
   include:
-    - script: python -m scripts.validate xml --no-linkage
     - stage: split
       script: curl $SCRIPTS/split_to_sentences.sh | bash
     - stage: convert
-      script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
-      env: FORMAT=validate
-    - script: curl $SCRIPTS/tupa.sh | bash
-      env: FORMAT=tupa
-    - script: curl $SCRIPTS/visualize.sh | bash
+      script: curl $SCRIPTS/visualize.sh | bash
       env: FORMAT=visualize
     - script: curl $SCRIPTS/sentences_to_xml.sh | bash
       env: FORMAT=xml
