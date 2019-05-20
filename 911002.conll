@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 911002
+1	Cependant	_	Word	Word	_	4	L	_	_
+2	une	_	Word	Word	_	3	E	_	_
+3	circonstance	_	Word	Word	_	0	C	_	_
+3	circonstance	_	Word	Word	_	10	A*	_	_
+3	circonstance	_	Word	Word	_	19	A*	_	_
+4	se	_	Word	Word	_	0	H	_	_
+5	présenta	_	Word	Word	_	4	Terminal	_	_
+6	,	_	Punctuation	Punctuation	_	4	U	_	_
+7	qui	_	Word	Word	_	4	L	_	_
+8	mit	_	Word	Word	_	10	E	_	_
+9	en	_	Word	Word	_	10	R	_	_
+10	relief	_	Word	Word	_	4	H	_	_
+11	la	_	Word	Word	_	13	E	_	_
+12	merveilleuse	_	Word	Word	_	13	E	_	_
+13	habileté	_	Word	Word	_	10	A	_	_
+14	de	_	Word	Word	_	15	R	_	_
+15	Ned	_	Word	Word	_	13	E	_	_
+16	Land	_	Word	Word	_	15	Terminal	_	_
+17	,	_	Punctuation	Punctuation	_	4	U	_	_
+18	et	_	Word	Word	_	4	L	_	_
+19	montra	_	Word	Word	_	4	H	_	_
+20	quelle	_	Word	Word	_	21	D	_	_
+21	confiance	_	Word	Word	_	19	A	_	_
+22	on	_	Word	Word	_	21	A	_	_
+23	devait	_	Word	Word	_	21	E	_	_
+24	avoir	_	Word	Word	_	21	F	_	_
+25	en	_	Word	Word	_	26	R	_	_
+26	lui	_	Word	Word	_	21	A	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+

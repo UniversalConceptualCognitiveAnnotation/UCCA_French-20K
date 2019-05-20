@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 920001
+1	L’	_	Word	Word	_	2	E	_	_
+2	Abraham	_	Word	Word	_	0	C	_	_
+2	Abraham	_	Word	Word	_	9	A*	_	_
+3	-	_	Punctuation	Punctuation	_	2	U	_	_
+4	Lincoln	_	Word	Word	_	2	Terminal	_	_
+5	modifiait	_	Word	Word	_	0	H	_	_
+6	sa	_	Word	Word	_	7	E	_	_
+7	route	_	Word	Word	_	5	A	_	_
+8	,	_	Punctuation	Punctuation	_	5	U	_	_
+9	courait	_	Word	Word	_	5	H	_	_
+10	sur	_	Word	Word	_	12	R	_	_
+11	l’	_	Word	Word	_	12	E	_	_
+12	animal	_	Word	Word	_	0	C	_	_
+12	animal	_	Word	Word	_	13	A*	_	_
+12	animal	_	Word	Word	_	22	A*	_	_
+13	signalé	_	Word	Word	_	12	E	_	_
+14	,	_	Punctuation	Punctuation	_	12	U	_	_
+15	simple	_	Word	Word	_	16	E	_	_
+16	baleine	_	Word	Word	_	12	E	_	_
+17	ou	_	Word	Word	_	16	N	_	_
+18	cachalot	_	Word	Word	_	16	C	_	_
+19	vulgaire	_	Word	Word	_	18	E	_	_
+20	,	_	Punctuation	Punctuation	_	5	U	_	_
+21	qui	_	Word	Word	_	5	L	_	_
+22	disparaissait	_	Word	Word	_	5	H	_	_
+23	bientôt	_	Word	Word	_	22	D	_	_
+24	au	_	Word	Word	_	25	R	_	_
+25	milieu	_	Word	Word	_	30	R	_	_
+26	d’	_	Word	Word	_	25	R	_	_
+27	un	_	Word	Word	_	28	E	_	_
+28	concert	_	Word	Word	_	30	D	_	_
+29	d’	_	Word	Word	_	28	R	_	_
+30	imprécations	_	Word	Word	_	22	A	_	_
+31	!	_	Punctuation	Punctuation	_	30	U	_	_
+

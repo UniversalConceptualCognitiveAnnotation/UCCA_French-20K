@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 779001
+1	Conseil	_	Word	Word	_	3	A	_	_
+2	avait	_	Word	Word	_	3	F	_	_
+3	fait	_	Word	Word	_	0	H	_	_
+4	en	_	Word	Word	_	6	R	_	_
+5	un	_	Word	Word	_	6	E	_	_
+6	tour	_	Word	Word	_	3	D	_	_
+7	de	_	Word	Word	_	8	R	_	_
+8	main	_	Word	Word	_	6	E	_	_
+9	,	_	Punctuation	Punctuation	_	3	U	_	_
+10	et	_	Word	Word	_	3	L	_	_
+11	j’	_	Word	Word	_	13	A	_	_
+12	étais	_	Word	Word	_	13	F	_	_
+13	sûr	_	Word	Word	_	3	H	_	_
+14	que	_	Word	Word	_	17	R	_	_
+15	rien	_	Word	Word	_	17	A	_	_
+16	ne	_	Word	Word	_	17	D	_	_
+17	manquait	_	Word	Word	_	13	A	_	_
+18	,	_	Punctuation	Punctuation	_	3	U	_	_
+19	car	_	Word	Word	_	3	L	_	_
+20	ce	_	Word	Word	_	21	E	_	_
+21	garçon	_	Word	Word	_	0	C	_	_
+21	garçon	_	Word	Word	_	32	A*	_	_
+22	classait	_	Word	Word	_	3	H	_	_
+23	les	_	Word	Word	_	24	E	_	_
+24	chemises	_	Word	Word	_	22	A	_	_
+25	et	_	Word	Word	_	24	N	_	_
+26	les	_	Word	Word	_	27	E	_	_
+27	habits	_	Word	Word	_	24	C	_	_
+28	aussi	_	Word	Word	_	32	F	_	_
+29	bien	_	Word	Word	_	32	D	_	_
+30	que	_	Word	Word	_	32	F	_	_
+31	les	_	Word	Word	_	32	E	_	_
+32	oiseaux	_	Word	Word	_	3	H	_	_
+33	ou	_	Word	Word	_	32	N	_	_
+34	les	_	Word	Word	_	35	E	_	_
+35	mammifères	_	Word	Word	_	32	C	_	_
+36	.	_	Punctuation	Punctuation	_	35	U	_	_
+

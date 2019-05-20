@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 771004
+1	D’	_	Word	Word	_	2	R	_	_
+2	ailleurs	_	Word	Word	_	6	L	_	_
+3	d’	_	Word	Word	_	6	R	_	_
+4	une	_	Word	Word	_	6	E	_	_
+5	belle	_	Word	Word	_	6	E	_	_
+6	santé	_	Word	Word	_	0	H	_	_
+7	qui	_	Word	Word	_	8	R	_	_
+8	défiait	_	Word	Word	_	6	E	_	_
+9	toutes	_	Word	Word	_	11	R	_	_
+10	les	_	Word	Word	_	11	E	_	_
+11	maladies	_	Word	Word	_	8	A	_	_
+12	;	_	Punctuation	Punctuation	_	6	U	_	_
+13	des	_	Word	Word	_	14	E	_	_
+14	muscles	_	Word	Word	_	6	H	_	_
+15	solides	_	Word	Word	_	14	E	_	_
+16	,	_	Punctuation	Punctuation	_	6	U	_	_
+17	mais	_	Word	Word	_	6	L	_	_
+18	pas	_	Word	Word	_	20	D	_	_
+19	de	_	Word	Word	_	20	E	_	_
+20	nerfs	_	Word	Word	_	6	H	_	_
+21	,	_	Punctuation	Punctuation	_	20	U	_	_
+22	pas	_	Word	Word	_	18	C	_	_
+23	l’	_	Word	Word	_	24	E	_	_
+24	apparence	_	Word	Word	_	20	E	_	_
+25	de	_	Word	Word	_	26	R	_	_
+26	nerfs	_	Word	Word	_	24	E	_	_
+27	,	_	Punctuation	Punctuation	_	20	U	_	_
+28	–	_	Punctuation	Punctuation	_	20	U	_	_
+29	au	_	Word	Word	_	30	R	_	_
+30	moral	_	Word	Word	_	20	E	_	_
+31	,	_	Punctuation	Punctuation	_	6	U	_	_
+32	s’entend	_	Word	Word	_	6	G	_	_
+33	.	_	Punctuation	Punctuation	_	6	U	_	_
+

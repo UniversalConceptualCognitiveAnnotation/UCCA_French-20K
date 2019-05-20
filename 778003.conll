@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 778003
+1	C’	_	Word	Word	_	2	F	_	_
+2	est	_	Word	Word	_	0	H	_	_
+3	là	_	Word	Word	_	2	A	_	_
+4	un	_	Word	Word	_	7	E	_	_
+5	de	_	Word	Word	_	4	R	_	_
+6	ces	_	Word	Word	_	7	E	_	_
+7	voyages	_	Word	Word	_	2	A	_	_
+8	dont	_	Word	Word	_	11	R	_	_
+9	on	_	Word	Word	_	11	A	_	_
+10	ne	_	Word	Word	_	11	D	_	_
+11	revient	_	Word	Word	_	7	E	_	_
+12	pas	_	Word	Word	_	10	Terminal	_	_
+13	toujours	_	Word	Word	_	11	D	_	_
+14	!	_	Punctuation	Punctuation	_	11	U	_	_
+

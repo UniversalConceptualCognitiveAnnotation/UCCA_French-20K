@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 767000
+1	Mais	_	Word	Word	_	8	L	_	_
+2	,	_	Punctuation	Punctuation	_	8	U	_	_
+3	en	_	Word	Word	_	4	R	_	_
+4	attendant	_	Word	Word	_	8	L	_	_
+5	,	_	Punctuation	Punctuation	_	8	U	_	_
+6	il	_	Word	Word	_	8	F	_	_
+7	me	_	Word	Word	_	8	A	_	_
+7	me	_	Word	Word	_	9	A*	_	_
+7	me	_	Word	Word	_	24	A*	_	_
+7	me	_	Word	Word	_	29	A*	_	_
+8	fallait	_	Word	Word	_	0	H	_	_
+9	chercher	_	Word	Word	_	8	A	_	_
+9	chercher	_	Word	Word	_	28	A*	_	_
+10	ce	_	Word	Word	_	11	E	_	_
+11	narwal	_	Word	Word	_	9	A	_	_
+12	dans	_	Word	Word	_	17	R	_	_
+13	le	_	Word	Word	_	14	E	_	_
+14	nord	_	Word	Word	_	17	E	_	_
+15	de	_	Word	Word	_	14	R	_	_
+16	l’	_	Word	Word	_	17	E	_	_
+17	océan	_	Word	Word	_	9	A	_	_
+18	Pacifique	_	Word	Word	_	17	E	_	_
+19	;	_	Punctuation	Punctuation	_	8	U	_	_
+20	ce	_	Word	Word	_	8	F	_	_
+21	qui	_	Word	Word	_	8	F	_	_
+22	,	_	Punctuation	Punctuation	_	8	U	_	_
+23	pour	_	Word	Word	_	8	L	_	_
+24	revenir	_	Word	Word	_	8	H	_	_
+25	en	_	Word	Word	_	26	R	_	_
+26	France	_	Word	Word	_	24	A	_	_
+27	,	_	Punctuation	Punctuation	_	8	U	_	_
+28	était	_	Word	Word	_	8	H	_	_
+29	prendre	_	Word	Word	_	28	A	_	_
+30	le	_	Word	Word	_	31	E	_	_
+31	chemin	_	Word	Word	_	29	A	_	_
+32	des	_	Word	Word	_	33	R	_	_
+33	antipodes	_	Word	Word	_	31	E	_	_
+34	.	_	Punctuation	Punctuation	_	33	U	_	_
+

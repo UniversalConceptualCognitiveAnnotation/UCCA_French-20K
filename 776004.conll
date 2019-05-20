@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 776004
+1	–	_	Punctuation	Punctuation	_	2	U	_	_
+2	Oui	_	Word	Word	_	0	H	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	mon	_	Word	Word	_	2	Terminal	_	_
+5	garçon	_	Word	Word	_	2	Terminal	_	_
+6	.	_	Punctuation	Punctuation	_	2	U	_	_
+7	Prépare	_	Word	Word	_	2	H	_	_
+8	-	_	Punctuation	Punctuation	_	7	U	_	_
+9	moi	_	Word	Word	_	7	A	_	_
+10	,	_	Punctuation	Punctuation	_	2	U	_	_
+11	prépare	_	Word	Word	_	2	H	_	_
+12	-	_	Punctuation	Punctuation	_	11	U	_	_
+13	toi	_	Word	Word	_	11	A	_	_
+14	.	_	Punctuation	Punctuation	_	11	U	_	_
+

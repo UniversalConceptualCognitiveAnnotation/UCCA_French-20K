@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 867005
+1	…	_	Punctuation	Punctuation	_	3	U	_	_
+2	—	_	Punctuation	Punctuation	_	3	U	_	_
+3	Encore	_	Word	Word	_	0	H	_	_
+4	moins	_	Word	Word	_	3	Terminal	_	_
+5	,	_	Punctuation	Punctuation	_	3	U	_	_
+6	Ned	_	Word	Word	_	3	Terminal	_	_
+7	.	_	Punctuation	Punctuation	_	3	U	_	_
+8	Le	_	Word	Word	_	9	E	_	_
+9	poulpe	_	Word	Word	_	11	A	_	_
+10	n’	_	Word	Word	_	11	D	_	_
+11	est	_	Word	Word	_	3	H	_	_
+12	qu’	_	Word	Word	_	10	Terminal	_	_
+13	un	_	Word	Word	_	14	E	_	_
+14	mollusque	_	Word	Word	_	11	A	_	_
+15	,	_	Punctuation	Punctuation	_	3	U	_	_
+16	et	_	Word	Word	_	3	L	_	_
+17	ce	_	Word	Word	_	18	E	_	_
+18	nom	_	Word	Word	_	20	A	_	_
+19	même	_	Word	Word	_	18	E	_	_
+20	indique	_	Word	Word	_	3	H	_	_
+21	le	_	Word	Word	_	22	E	_	_
+22	peu	_	Word	Word	_	24	E	_	_
+23	de	_	Word	Word	_	22	R	_	_
+24	consistance	_	Word	Word	_	20	A	_	_
+25	de	_	Word	Word	_	27	R	_	_
+26	ses	_	Word	Word	_	27	E	_	_
+27	chairs	_	Word	Word	_	24	E	_	_
+28	.	_	Punctuation	Punctuation	_	27	U	_	_
+

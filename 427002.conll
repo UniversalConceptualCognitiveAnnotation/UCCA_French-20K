@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 427002
+1	Je	_	Word	Word	_	2	A	_	_
+2	discutai	_	Word	Word	_	0	H	_	_
+3	la	_	Word	Word	_	4	E	_	_
+4	question	_	Word	Word	_	2	A	_	_
+5	sous	_	Word	Word	_	8	R	_	_
+6	toutes	_	Word	Word	_	8	E	_	_
+7	ses	_	Word	Word	_	8	E	_	_
+8	faces	_	Word	Word	_	2	A	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	politiquement	_	Word	Word	_	8	E	_	_
+11	et	_	Word	Word	_	10	N	_	_
+12	scientifiquement	_	Word	Word	_	10	C	_	_
+13	,	_	Punctuation	Punctuation	_	2	U	_	_
+14	et	_	Word	Word	_	2	L	_	_
+15	je	_	Word	Word	_	16	A	_	_
+16	donne	_	Word	Word	_	2	H	_	_
+17	ici	_	Word	Word	_	16	A	_	_
+18	un	_	Word	Word	_	19	E	_	_
+19	extrait	_	Word	Word	_	22	E	_	_
+20	d\u2019	_	Word	Word	_	19	R	_	_
+21	un	_	Word	Word	_	22	E	_	_
+22	article	_	Word	Word	_	16	A	_	_
+23	très	_	Word	Word	_	25	E	_	_
+24	-	_	Punctuation	Punctuation	_	25	U	_	_
+25	nourri	_	Word	Word	_	22	E	_	_
+26	que	_	Word	Word	_	28	R	_	_
+27	je	_	Word	Word	_	28	A	_	_
+28	publiai	_	Word	Word	_	22	E	_	_
+29	dans	_	Word	Word	_	31	R	_	_
+30	le	_	Word	Word	_	31	E	_	_
+31	numéro	_	Word	Word	_	28	A	_	_
+32	du	_	Word	Word	_	33	R	_	_
+33	30	_	Word	Word	_	31	E	_	_
+34	avril	_	Word	Word	_	33	Terminal	_	_
+35	.	_	Punctuation	Punctuation	_	33	U	_	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 937002
+1	Peut-être	_	Word	Word	_	11	D	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	et	_	Word	Word	_	1	N	_	_
+4	pour	_	Word	Word	_	7	R	_	_
+5	la	_	Word	Word	_	7	E	_	_
+6	première	_	Word	Word	_	7	E	_	_
+7	fois	_	Word	Word	_	1	C	_	_
+8	,	_	Punctuation	Punctuation	_	11	U	_	_
+9	ses	_	Word	Word	_	10	E	_	_
+10	nerfs	_	Word	Word	_	11	A	_	_
+11	vibraient	_	Word	Word	_	0	H	_	_
+12	-	_	Punctuation	Punctuation	_	11	U	_	_
+13	ils	_	Word	Word	_	11	F	_	_
+14	sous	_	Word	Word	_	16	R	_	_
+15	l’	_	Word	Word	_	16	E	_	_
+16	action	_	Word	Word	_	21	E	_	_
+17	d’	_	Word	Word	_	16	R	_	_
+18	un	_	Word	Word	_	19	E	_	_
+19	sentiment	_	Word	Word	_	21	E	_	_
+20	de	_	Word	Word	_	19	R	_	_
+21	curiosité	_	Word	Word	_	11	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

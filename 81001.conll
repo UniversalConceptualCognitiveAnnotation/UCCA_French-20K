@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 81001
+1	Quant	_	Word	Word	_	4	L	_	_
+2	à	_	Word	Word	_	1	Terminal	_	_
+3	la	_	Word	Word	_	4	A	_	_
+4	rejeter	_	Word	Word	_	0	H	_	_
+5	au	_	Word	Word	_	6	R	_	_
+6	rang	_	Word	Word	_	8	E	_	_
+7	des	_	Word	Word	_	6	R	_	_
+8	fables	_	Word	Word	_	4	A	_	_
+9	,	_	Punctuation	Punctuation	_	4	U	_	_
+10	il	_	Word	Word	_	13	F	_	_
+11	fallait	_	Word	Word	_	13	E	_	_
+12	y	_	Word	Word	_	13	A	_	_
+13	renoncer	_	Word	Word	_	4	H	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+
