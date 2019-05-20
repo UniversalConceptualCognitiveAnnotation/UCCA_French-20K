@@ -1,0 +1,79 @@
+#BOS 77001
+Sans	Word	--	Terminal	500
+parler	Word	--	Terminal	501
+des	Word	--	Terminal	502
+rumeurs	Word	--	Terminal	503
+qui	Word	--	Terminal	504
+agitaient	Word	--	Terminal	505
+les	Word	--	Terminal	506
+populations	Word	--	Terminal	507
+des	Word	--	Terminal	508
+ports	Word	--	Terminal	509
+et	Word	--	Terminal	510
+surexcitaient	Word	--	Terminal	511
+l\u2019	Word	--	Terminal	512
+esprit	Word	--	Terminal	513
+public	Word	--	Terminal	514
+à	Word	--	Terminal	515
+l\u2019	Word	--	Terminal	516
+intérieur	Word	--	Terminal	517
+des	Word	--	Terminal	518
+continents	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+les	Word	--	Terminal	521
+gens	Word	--	Terminal	522
+de	Word	--	Terminal	523
+mer	Word	--	Terminal	524
+furent	Word	--	Terminal	525
+particulièrement	Word	--	Terminal	526
+émus	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	L	546	LR	547
+#501	FN	--	P	545
+#502	FN	--	R	543
+#503	FN	--	C	543	A*	537	A*	538
+#504	FN	--	R	541
+#505	FN	--	P	537
+#506	FN	--	E	536
+#507	FN	--	C	536
+#508	FN	--	R	529
+#509	FN	--	C	529
+#510	FN	--	L	541	LR	542
+#511	FN	--	P	538
+#512	FN	--	E	530
+#513	FN	--	C	530
+#514	FN	--	E	530
+#515	FN	--	R	532
+#516	FN	--	E	531
+#517	FN	--	C	531
+#518	FN	--	R	531
+#519	FN	--	C	532
+#520	PNCT	--	U	546
+#521	FN	--	E	539
+#522	FN	--	C	539
+#523	FN	--	R	533
+#524	FN	--	C	533
+#525	FN	--	F	534
+#526	FN	--	D	544
+#527	FN	--	C	534
+#528	PNCT	--	U	534
+#529	FN	--	E	536
+#530	FN	--	A	538
+#531	FN	--	E	532
+#532	FN	--	A	538
+#533	FN	--	E	539
+#534	FN	--	P	544
+#535	FN	--	A	545
+#536	FN	--	A	537
+#537	FN	--	H	541	LA	542
+#538	FN	--	H	541	LA	542
+#539	FN	--	A	544
+#540	FN	--	A	544
+#541	FN	--	E	543
+#542	LKG	--	--	0
+#543	FN	--	A	545
+#544	FN	--	H	546
+#545	FN	--	H	546	LA	547
+#546	FN	--	--	0
+#547	LKG	--	--	0
+#EOS 77001

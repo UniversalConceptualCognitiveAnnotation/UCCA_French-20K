@@ -1,0 +1,38 @@
+#BOS 932001
+Elle	Word	--	Terminal	500
+eut	Word	--	Terminal	501
+tout	Word	--	Terminal	502
+d’	Word	--	Terminal	502
+abord	Word	--	Terminal	502
+pour	Word	--	Terminal	503
+résultat	Word	--	Terminal	504
+de	Word	--	Terminal	505
+ranimer	Word	--	Terminal	506
+les	Word	--	Terminal	507
+défaillances	Word	--	Terminal	508
+de	Word	--	Terminal	509
+l’	Word	--	Terminal	510
+équipage	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	519	A*	518
+#501	FN	--	F	513
+#502	FN	--	L	520
+#503	FN	--	R	513
+#504	FN	--	C	513
+#505	FN	--	F	514
+#506	FN	--	C	514
+#507	FN	--	E	515
+#508	FN	--	C	515
+#509	FN	--	R	516
+#510	FN	--	E	516
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	P	519
+#514	FN	--	P	518
+#515	FN	--	P	517
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 932001

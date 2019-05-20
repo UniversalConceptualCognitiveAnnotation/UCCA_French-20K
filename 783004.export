@@ -1,0 +1,16 @@
+#BOS 783004
+–	Punctuation	--	Terminal	500
+En	Word	--	Terminal	501
+personne	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	PNCT	--	U	504
+#501	FN	--	R	504
+#502	FN	--	C	504
+#503	PNCT	--	U	504
+#504	FN	--	D	508
+#505	FN	--	A	508
+#506	FN	--	A	508
+#507	FN	--	S	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 783004

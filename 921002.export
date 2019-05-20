@@ -1,0 +1,93 @@
+#BOS 921002
+C’	Word	--	Terminal	500
+était	Word	--	Terminal	501
+alors	Word	--	Terminal	502
+la	Word	--	Terminal	503
+mauvaise	Word	--	Terminal	504
+saison	Word	--	Terminal	505
+australe	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+car	Word	--	Terminal	508
+le	Word	--	Terminal	509
+juillet	Word	--	Terminal	510
+de	Word	--	Terminal	511
+cette	Word	--	Terminal	512
+zone	Word	--	Terminal	513
+correspond	Word	--	Terminal	514
+à	Word	--	Terminal	515
+notre	Word	--	Terminal	516
+janvier	Word	--	Terminal	517
+d’	Word	--	Terminal	518
+Europe	Word	--	Terminal	519
+;	Punctuation	--	Terminal	520
+mais	Word	--	Terminal	521
+la	Word	--	Terminal	522
+mer	Word	--	Terminal	523
+se	Word	--	Terminal	524
+maintenait	Word	--	Terminal	524
+belle	Word	--	Terminal	525
+,	Punctuation	--	Terminal	526
+et	Word	--	Terminal	527
+se	Word	--	Terminal	528
+laissait	Word	--	Terminal	528
+facilement	Word	--	Terminal	529
+observer	Word	--	Terminal	530
+dans	Word	--	Terminal	531
+un	Word	--	Terminal	532
+vaste	Word	--	Terminal	533
+périmètre	Word	--	Terminal	534
+.	Punctuation	--	Terminal	535
+#500	FN	--	F	543
+#501	FN	--	S	543
+#502	FN	--	D	543
+#503	FN	--	E	536
+#504	FN	--	E	536
+#505	FN	--	C	536
+#506	FN	--	E	536
+#507	PNCT	--	U	550
+#508	FN	--	L	550	LR	551
+#509	FN	--	E	545
+#510	FN	--	C	545
+#511	FN	--	R	537
+#512	FN	--	E	537
+#513	FN	--	C	537
+#514	FN	--	P	547
+#515	FN	--	R	546
+#516	FN	--	E	546
+#517	FN	--	C	546
+#518	FN	--	R	538
+#519	FN	--	C	538
+#520	PNCT	--	U	550
+#521	FN	--	L	550
+#522	FN	--	E	539
+#523	FN	--	C	539	A*	549
+#524	FN	--	E	540
+#525	FN	--	C	540
+#526	PNCT	--	U	550
+#527	FN	--	L	550	LR	552
+#528	FN	--	E	541
+#529	FN	--	D	549
+#530	FN	--	C	541
+#531	FN	--	R	542
+#532	FN	--	E	542
+#533	FN	--	E	542
+#534	FN	--	C	542
+#535	PNCT	--	U	542
+#536	FN	--	A	543
+#537	FN	--	E	545
+#538	FN	--	E	546
+#539	FN	--	A	544
+#540	FN	--	S	544
+#541	FN	--	P	549
+#542	FN	--	D	549
+#543	FN	--	H	550	LA	551
+#544	FN	--	H	550	LA	552
+#545	FN	--	A	547
+#546	FN	--	A	547
+#547	FN	--	H	550	LA	551
+#548	FN	--	A	549
+#549	FN	--	H	550	LA	552
+#550	FN	--	--	0
+#551	LKG	--	--	0
+#552	LKG	--	--	0
+#EOS 921002

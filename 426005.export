@@ -1,0 +1,33 @@
+#BOS 426005
+Mais	Word	--	Terminal	500
+bientôt	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+collé	Word	--	Terminal	503
+au	Word	--	Terminal	504
+mur	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+je	Word	--	Terminal	507
+dus	Word	--	Terminal	508
+m\u2019expliquer	Word	--	Terminal	509
+catégoriquement	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	517	LR	518
+#501	FN	--	D	514
+#502	PNCT	--	U	517
+#503	FN	--	P	516
+#504	FN	--	R	512
+#505	FN	--	C	512
+#506	PNCT	--	U	516
+#507	FN	--	A	514	A*	516
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	FN	--	D	514
+#511	PNCT	--	U	514
+#512	FN	--	A	516
+#513	FN	--	P	514
+#514	FN	--	H	517	LA	518
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#518	LKG	--	--	0
+#EOS 426005

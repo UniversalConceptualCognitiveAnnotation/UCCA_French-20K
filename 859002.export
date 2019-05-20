@@ -1,0 +1,53 @@
+#BOS 859002
+Ah	Word	--	Terminal	501
+!	Punctuation	--	Terminal	500
+brave	Word	--	Terminal	501
+Ned	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+je	Word	--	Terminal	503
+ne	Word	--	Terminal	504
+demande	Word	--	Terminal	505
+qu’	Word	--	Terminal	504
+à	Word	--	Terminal	506
+vivre	Word	--	Terminal	507
+cent	Word	--	Terminal	508
+ans	Word	--	Terminal	509
+encore	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+pour	Word	--	Terminal	512
+me	Word	--	Terminal	513
+souvenir	Word	--	Terminal	513
+plus	Word	--	Terminal	514
+longtemps	Word	--	Terminal	515
+de	Word	--	Terminal	516
+toi	Word	--	Terminal	517
+!	Punctuation	--	Terminal	518
+#500	PNCT	--	U	501
+#501	FN	--	H	526
+#502	PNCT	--	U	526
+#503	FN	--	A	525	A*	523	A*	524
+#504	FN	--	D	525
+#505	FN	--	P	525
+#506	FN	--	F	519
+#507	FN	--	C	519
+#508	FN	--	E	520
+#509	FN	--	C	520
+#510	FN	--	E	520
+#511	PNCT	--	U	526
+#512	FN	--	L	526	LR	527
+#513	FN	--	P	523
+#514	FN	--	E	521
+#515	FN	--	C	521
+#516	FN	--	R	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	P	524
+#520	FN	--	D	524
+#521	FN	--	D	523
+#522	FN	--	A	523
+#523	FN	--	H	526	LA	527
+#524	FN	--	A	525
+#525	FN	--	H	526	LA	527
+#526	FN	--	--	0
+#527	LKG	--	--	0
+#EOS 859002

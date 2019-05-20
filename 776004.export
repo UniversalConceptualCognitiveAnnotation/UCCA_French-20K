@@ -1,0 +1,33 @@
+#BOS 776004
+–	Punctuation	--	Terminal	500
+Oui	Word	--	Terminal	502
+,	Punctuation	--	Terminal	501
+mon	Word	--	Terminal	502
+garçon	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+Prépare	Word	--	Terminal	504
+-	Punctuation	--	Terminal	505
+moi	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+prépare	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+toi	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	PNCT	--	U	516
+#501	PNCT	--	U	502
+#502	FN	--	H	516
+#503	PNCT	--	U	516
+#504	FN	--	P	513
+#505	PNCT	--	U	513
+#506	FN	--	A	513
+#507	PNCT	--	U	516
+#508	FN	--	P	515
+#509	PNCT	--	U	515
+#510	FN	--	A	515
+#511	PNCT	--	U	515
+#512	FN	--	A	513
+#513	FN	--	H	516
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 776004

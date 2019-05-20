@@ -1,0 +1,110 @@
+#BOS 864000
+Le	Word	--	Terminal	500
+harponneur	Word	--	Terminal	501
+me	Word	--	Terminal	502
+regarda	Word	--	Terminal	503
+pendant	Word	--	Terminal	504
+quelques	Word	--	Terminal	505
+instants	Word	--	Terminal	506
+avant	Word	--	Terminal	507
+de	Word	--	Terminal	508
+répondre	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+frappa	Word	--	Terminal	511
+de	Word	--	Terminal	512
+sa	Word	--	Terminal	513
+main	Word	--	Terminal	514
+son	Word	--	Terminal	515
+large	Word	--	Terminal	516
+front	Word	--	Terminal	517
+par	Word	--	Terminal	518
+un	Word	--	Terminal	519
+geste	Word	--	Terminal	520
+qui	Word	--	Terminal	521
+lui	Word	--	Terminal	522
+était	Word	--	Terminal	523
+habituel	Word	--	Terminal	524
+,	Punctuation	--	Terminal	525
+ferma	Word	--	Terminal	526
+les	Word	--	Terminal	527
+yeux	Word	--	Terminal	528
+comme	Word	--	Terminal	529
+pour	Word	--	Terminal	530
+se	Word	--	Terminal	531
+recueillir	Word	--	Terminal	532
+,	Punctuation	--	Terminal	533
+et	Word	--	Terminal	534
+dit	Word	--	Terminal	535
+enfin	Word	--	Terminal	536
+:	Punctuation	--	Terminal	537
+«	Punctuation	--	Terminal	538
+Peut-être	Word	--	Terminal	540
+bien	Word	--	Terminal	540
+,	Punctuation	--	Terminal	539
+monsieur	Word	--	Terminal	540
+Aronnax	Word	--	Terminal	540
+.	Punctuation	--	Terminal	541
+#500	FN	--	E	542
+#501	FN	--	C	542	A*	554	A*	561	A*	555	A*	553	A*	543
+#502	FN	--	A	552
+#503	FN	--	P	552
+#504	FN	--	R	544
+#505	FN	--	E	544
+#506	FN	--	C	544
+#507	FN	--	L	562	LR	557
+#508	FN	--	F	545
+#509	FN	--	C	545
+#510	PNCT	--	U	562
+#511	FN	--	P	561
+#512	FN	--	R	546
+#513	FN	--	E	546
+#514	FN	--	C	546
+#515	FN	--	E	547
+#516	FN	--	E	547
+#517	FN	--	C	547
+#518	FN	--	R	560
+#519	FN	--	E	560
+#520	FN	--	C	560	A*	556
+#521	FN	--	R	556
+#522	FN	--	A	556
+#523	FN	--	F	548
+#524	FN	--	C	548
+#525	PNCT	--	U	562
+#526	FN	--	P	555
+#527	FN	--	E	549
+#528	FN	--	C	549
+#529	FN	--	L	562	LR	559
+#530	FN	--	R	553
+#531	FN	--	E	550
+#532	FN	--	C	550
+#533	PNCT	--	U	562
+#534	FN	--	L	562	LR	558
+#535	FN	--	P	543
+#536	FN	--	L	562	LR	551
+#537	PNCT	--	U	562
+#538	PNCT	--	U	562
+#539	PNCT	--	U	540
+#540	FN	--	H	562	A*	543
+#541	PNCT	--	U	562
+#542	FN	--	A	552
+#543	FN	--	H	562	LA	551	LA	558
+#544	FN	--	D	552
+#545	FN	--	P	554
+#546	FN	--	A	561
+#547	FN	--	A	561
+#548	FN	--	S	556
+#549	FN	--	A	555
+#550	FN	--	P	553
+#551	LKG	--	--	0
+#552	FN	--	H	562	LA	557
+#553	FN	--	H	562	LA	558	LA	559
+#554	FN	--	H	562	LA	557
+#555	FN	--	H	562	LA	559
+#556	FN	--	E	560
+#557	LKG	--	--	0
+#558	LKG	--	--	0
+#559	LKG	--	--	0
+#560	FN	--	D	561
+#561	FN	--	H	562
+#562	FN	--	--	0
+#EOS 864000

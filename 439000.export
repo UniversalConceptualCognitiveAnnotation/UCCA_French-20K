@@ -1,0 +1,103 @@
+#BOS 439000
+Ces	Word	--	Terminal	500
+derniers	Word	--	Terminal	501
+mots	Word	--	Terminal	502
+étaient	Word	--	Terminal	503
+une	Word	--	Terminal	504
+lâcheté	Word	--	Terminal	505
+de	Word	--	Terminal	506
+ma	Word	--	Terminal	507
+part	Word	--	Terminal	508
+;	Punctuation	--	Terminal	509
+mais	Word	--	Terminal	510
+je	Word	--	Terminal	511
+voulais	Word	--	Terminal	512
+jusqu\u2019	Word	--	Terminal	513
+à	Word	--	Terminal	513
+un	Word	--	Terminal	514
+certain	Word	--	Terminal	515
+point	Word	--	Terminal	516
+couvrir	Word	--	Terminal	517
+ma	Word	--	Terminal	518
+dignité	Word	--	Terminal	519
+de	Word	--	Terminal	520
+professeur	Word	--	Terminal	521
+,	Punctuation	--	Terminal	522
+et	Word	--	Terminal	523
+ne	Word	--	Terminal	524
+pas	Word	--	Terminal	524
+trop	Word	--	Terminal	525
+prêter	Word	--	Terminal	526
+à	Word	--	Terminal	527
+rire	Word	--	Terminal	528
+aux	Word	--	Terminal	529
+Américains	Word	--	Terminal	530
+,	Punctuation	--	Terminal	531
+qui	Word	--	Terminal	532
+rient	Word	--	Terminal	533
+bien	Word	--	Terminal	534
+,	Punctuation	--	Terminal	535
+quand	Word	--	Terminal	536
+ils	Word	--	Terminal	537
+rient	Word	--	Terminal	538
+.	Punctuation	--	Terminal	539
+#500	FN	--	E	540
+#501	FN	--	E	540
+#502	FN	--	C	540
+#503	FN	--	F	541
+#504	FN	--	E	541
+#505	FN	--	C	541
+#506	FN	--	R	542
+#507	FN	--	E	542
+#508	FN	--	C	542
+#509	PNCT	--	U	558
+#510	FN	--	L	558	LR	554
+#511	FN	--	A	551	A*	557	A*	556	A*	550
+#512	FN	--	P	551	P*	557
+#513	FN	--	R	543
+#514	FN	--	E	543
+#515	FN	--	E	543
+#516	FN	--	C	543
+#517	FN	--	P	550
+#518	FN	--	E	549
+#519	FN	--	C	549
+#520	FN	--	R	544
+#521	FN	--	C	544
+#522	PNCT	--	U	558
+#523	FN	--	L	558
+#524	FN	--	D	557
+#525	FN	--	D	557
+#526	FN	--	E	545
+#527	FN	--	F	545
+#528	FN	--	C	545
+#529	FN	--	R	555
+#530	FN	--	C	555	A*	546
+#531	PNCT	--	U	555
+#532	FN	--	R	546
+#533	FN	--	P	546
+#534	FN	--	D	546
+#535	PNCT	--	U	552
+#536	FN	--	L	552	LR	553
+#537	FN	--	A	547
+#538	FN	--	P	547
+#539	PNCT	--	U	547
+#540	FN	--	A	548
+#541	FN	--	S	548
+#542	FN	--	A	548
+#543	FN	--	D	551
+#544	FN	--	E	549
+#545	FN	--	P	556
+#546	FN	--	H	552	LA	553
+#547	FN	--	H	552	LA	553
+#548	FN	--	H	558	LA	554
+#549	FN	--	A	550
+#550	FN	--	A	551
+#551	FN	--	H	558	LA	554
+#552	FN	--	E	555
+#553	LKG	--	--	0
+#554	LKG	--	--	0
+#555	FN	--	A	556
+#556	FN	--	A	557
+#557	FN	--	H	558
+#558	FN	--	--	0
+#EOS 439000

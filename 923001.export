@@ -1,0 +1,25 @@
+#BOS 923001
+Est	Word	--	Terminal	509
+-	Punctuation	--	Terminal	500
+ce	Word	--	Terminal	509
+que	Word	--	Terminal	509
+nous	Word	--	Terminal	501
+ne	Word	--	Terminal	502
+courons	Word	--	Terminal	503
+pas	Word	--	Terminal	502
+à	Word	--	Terminal	504
+l’	Word	--	Terminal	505
+aventure	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+#500	PNCT	--	U	509
+#501	FN	--	A	509
+#502	FN	--	D	509
+#503	FN	--	E	508
+#504	FN	--	R	508
+#505	FN	--	E	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	P	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 923001

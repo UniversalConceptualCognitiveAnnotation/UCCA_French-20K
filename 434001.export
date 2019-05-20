@@ -1,0 +1,82 @@
+#BOS 434001
+Quintuplez	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+décuplez	Word	--	Terminal	502
+même	Word	--	Terminal	503
+cette	Word	--	Terminal	504
+dimension	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+donnez	Word	--	Terminal	507
+à	Word	--	Terminal	508
+ce	Word	--	Terminal	509
+cétacé	Word	--	Terminal	510
+une	Word	--	Terminal	511
+force	Word	--	Terminal	512
+proportionnelle	Word	--	Terminal	513
+à	Word	--	Terminal	514
+sa	Word	--	Terminal	515
+taille	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+accroissez	Word	--	Terminal	518
+ses	Word	--	Terminal	519
+armes	Word	--	Terminal	520
+offensives	Word	--	Terminal	521
+,	Punctuation	--	Terminal	522
+et	Word	--	Terminal	523
+vous	Word	--	Terminal	524
+obtenez	Word	--	Terminal	525
+l\u2019	Word	--	Terminal	526
+animal	Word	--	Terminal	527
+voulu	Word	--	Terminal	528
+.	Punctuation	--	Terminal	529
+#500	FN	--	C	535
+#501	PNCT	--	U	535
+#502	FN	--	C	530
+#503	FN	--	E	530
+#504	FN	--	E	531
+#505	FN	--	C	531
+#506	PNCT	--	U	548
+#507	FN	--	P	543
+#508	FN	--	R	532
+#509	FN	--	E	532
+#510	FN	--	C	532
+#511	FN	--	E	542
+#512	FN	--	C	542	A*	537
+#513	FN	--	S	537
+#514	FN	--	R	533
+#515	FN	--	E	533
+#516	FN	--	C	533
+#517	PNCT	--	U	548
+#518	FN	--	P	539
+#519	FN	--	E	534
+#520	FN	--	C	534
+#521	FN	--	E	534
+#522	PNCT	--	U	548
+#523	FN	--	L	548	LR	549
+#524	FN	--	A	547
+#525	FN	--	P	547
+#526	FN	--	E	546
+#527	FN	--	C	546	A*	544
+#528	FN	--	P	544
+#529	PNCT	--	U	544
+#530	FN	--	C	535
+#531	FN	--	A	545
+#532	FN	--	A	543
+#533	FN	--	A	537
+#534	FN	--	A	539
+#535	FN	--	P	545
+#536	FN	--	A	543
+#537	FN	--	E	542
+#538	FN	--	A	539
+#539	FN	--	H	548	LA	549
+#540	FN	--	A	544
+#541	FN	--	A	545
+#542	FN	--	A	543
+#543	FN	--	H	548
+#544	FN	--	E	546
+#545	FN	--	H	548
+#546	FN	--	A	547
+#547	FN	--	H	548	LA	549
+#548	FN	--	--	0
+#549	LKG	--	--	0
+#EOS 434001

@@ -1,0 +1,15 @@
+#BOS 775003
+Qu’	Word	--	Terminal	500
+allait	Word	--	Terminal	501
+dire	Word	--	Terminal	502
+Conseil	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+#500	FN	--	A	506
+#501	FN	--	E	505
+#502	FN	--	C	505
+#503	FN	--	A	506
+#504	PNCT	--	U	506
+#505	FN	--	P	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 775003

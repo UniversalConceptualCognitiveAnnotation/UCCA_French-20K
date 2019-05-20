@@ -1,0 +1,57 @@
+#BOS 856002
+Je	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+saurais	Word	--	Terminal	502
+le	Word	--	Terminal	503
+mieux	Word	--	Terminal	504
+comparer	Word	--	Terminal	505
+qu’	Word	--	Terminal	501
+à	Word	--	Terminal	506
+un	Word	--	Terminal	507
+télescope	Word	--	Terminal	508
+puissant	Word	--	Terminal	509
+qui	Word	--	Terminal	510
+serait	Word	--	Terminal	511
+en	Word	--	Terminal	512
+même	Word	--	Terminal	513
+temps	Word	--	Terminal	514
+un	Word	--	Terminal	515
+canon	Word	--	Terminal	516
+toujours	Word	--	Terminal	517
+prêt	Word	--	Terminal	518
+à	Word	--	Terminal	519
+partir	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	530
+#501	FN	--	D	530
+#502	FN	--	E	522
+#503	FN	--	E	523
+#504	FN	--	C	523
+#505	FN	--	C	522
+#506	FN	--	R	529
+#507	FN	--	E	529
+#508	FN	--	C	529	A*	528
+#509	FN	--	E	529
+#510	FN	--	R	528
+#511	FN	--	S	528
+#512	FN	--	R	524
+#513	FN	--	E	524
+#514	FN	--	C	524
+#515	FN	--	E	527
+#516	FN	--	C	527	A*	526
+#517	FN	--	D	526
+#518	FN	--	E	525
+#519	FN	--	F	525
+#520	FN	--	C	525
+#521	PNCT	--	U	525
+#522	FN	--	P	530
+#523	FN	--	D	530
+#524	FN	--	D	528
+#525	FN	--	P	526
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	E	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 856002

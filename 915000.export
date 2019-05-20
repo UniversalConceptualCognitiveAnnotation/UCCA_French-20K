@@ -1,0 +1,22 @@
+#BOS 915000
+L’équipage	Word	--	Terminal	500
+lui	Word	--	Terminal	501
+donna	Word	--	Terminal	502
+raison	Word	--	Terminal	503
+à	Word	--	Terminal	504
+l’	Word	--	Terminal	505
+unanimité	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	510
+#501	FN	--	A	510
+#502	FN	--	E	508
+#503	FN	--	C	508
+#504	FN	--	R	509
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	P	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 915000

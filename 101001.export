@@ -1,0 +1,22 @@
+#BOS 101001
+Ils	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+purent	Word	--	Terminal	502
+en	Word	--	Terminal	503
+croire	Word	--	Terminal	504
+leurs	Word	--	Terminal	505
+yeux	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	510
+#501	FN	--	D	510
+#502	FN	--	E	508
+#503	FN	--	F	508
+#504	FN	--	C	508
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	P	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 101001

@@ -1,0 +1,36 @@
+#BOS 416003
+Mon	Word	--	Terminal	500
+départ	Word	--	Terminal	501
+pour	Word	--	Terminal	502
+la	Word	--	Terminal	503
+France	Word	--	Terminal	504
+était	Word	--	Terminal	505
+fixé	Word	--	Terminal	506
+aux	Word	--	Terminal	507
+premiers	Word	--	Terminal	508
+jours	Word	--	Terminal	509
+de	Word	--	Terminal	510
+mai	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	E	517
+#501	FN	--	C	517
+#502	FN	--	R	513
+#503	FN	--	E	513
+#504	FN	--	C	513
+#505	FN	--	F	514
+#506	FN	--	C	514
+#507	FN	--	R	515
+#508	FN	--	E	515
+#509	FN	--	C	515
+#510	FN	--	R	515
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	E	517
+#514	FN	--	P	519
+#515	FN	--	E	516
+#516	FN	--	D	519
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 416003

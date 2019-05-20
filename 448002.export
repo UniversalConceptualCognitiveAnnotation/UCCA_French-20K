@@ -1,0 +1,33 @@
+#BOS 448002
+«	Punctuation	--	Terminal	500
+Très	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+cordialement	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+votre	Word	--	Terminal	508
+«	Punctuation	--	Terminal	504
+J	Word	--	Terminal	508
+.	Punctuation	--	Terminal	505
+-B	Word	--	Terminal	508
+.	Punctuation	--	Terminal	506
+HOBSON	Word	--	Terminal	508
+,	Punctuation	--	Terminal	507
+Secrétaire	Word	--	Terminal	508
+de	Word	--	Terminal	508
+la	Word	--	Terminal	508
+marine	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+»	Punctuation	--	Terminal	510
+#500	PNCT	--	U	511
+#501	PNCT	--	U	502
+#502	FN	--	H	511
+#503	PNCT	--	U	511
+#504	PNCT	--	U	508
+#505	PNCT	--	U	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	H	511
+#509	PNCT	--	U	511
+#510	PNCT	--	U	511
+#511	FN	--	--	0
+#EOS 448002

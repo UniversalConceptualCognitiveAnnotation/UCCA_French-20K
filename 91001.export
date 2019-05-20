@@ -1,0 +1,33 @@
+#BOS 91001
+Les	Word	--	Terminal	500
+officiers	Word	--	Terminal	501
+de	Word	--	Terminal	502
+quart	Word	--	Terminal	503
+se	Word	--	Terminal	504
+précipitèrent	Word	--	Terminal	505
+à	Word	--	Terminal	506
+l\u2019	Word	--	Terminal	507
+arrière	Word	--	Terminal	508
+du	Word	--	Terminal	509
+bâtiment	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	E	516
+#501	FN	--	C	516
+#502	FN	--	R	512
+#503	FN	--	C	512
+#504	FN	--	F	513
+#505	FN	--	C	513
+#506	FN	--	R	514
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	FN	--	R	514
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	E	516
+#513	FN	--	P	517
+#514	FN	--	E	515
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 91001

@@ -1,0 +1,43 @@
+#BOS 777005
+Mais	Word	--	Terminal	500
+nous	Word	--	Terminal	501
+irons	Word	--	Terminal	502
+quand	Word	--	Terminal	503
+même	Word	--	Terminal	503
+!	Punctuation	--	Terminal	504
+Nous	Word	--	Terminal	505
+avons	Word	--	Terminal	506
+un	Word	--	Terminal	507
+commandant	Word	--	Terminal	508
+qui	Word	--	Terminal	509
+n’	Word	--	Terminal	510
+a	Word	--	Terminal	511
+pas	Word	--	Terminal	510
+froid	Word	--	Terminal	511
+aux	Word	--	Terminal	511
+yeux	Word	--	Terminal	511
+!	Punctuation	--	Terminal	512
+...	Punctuation	--	Terminal	513
+#500	FN	--	L	521	LR	519
+#501	FN	--	A	516
+#502	FN	--	P	516
+#503	FN	--	L	521	LR	518
+#504	PNCT	--	U	521
+#505	FN	--	A	520
+#506	FN	--	P	520
+#507	FN	--	E	517
+#508	FN	--	C	517	A*	514
+#509	FN	--	R	514
+#510	FN	--	D	514
+#511	FN	--	P	514
+#512	PNCT	--	U	514
+#513	PNCT	--	U	514
+#514	FN	--	E	517
+#515	FN	--	A	516
+#516	FN	--	H	521	LA	518	LA	519
+#517	FN	--	A	520
+#518	LKG	--	--	0
+#519	LKG	--	--	0
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 777005

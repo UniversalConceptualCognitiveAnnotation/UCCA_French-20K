@@ -1,0 +1,22 @@
+#BOS 783005
+Soyez	Word	--	Terminal	500
+le	Word	--	Terminal	501
+bienvenu	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+monsieur	Word	--	Terminal	504
+le	Word	--	Terminal	505
+professeur	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	F	508
+#501	FN	--	E	508
+#502	FN	--	C	508
+#503	PNCT	--	U	510
+#504	FN	--	E	509
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	S	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 783005

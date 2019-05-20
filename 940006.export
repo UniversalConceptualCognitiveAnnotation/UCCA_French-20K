@@ -1,0 +1,49 @@
+#BOS 940006
+—	Punctuation	--	Terminal	500
+Comme	Word	--	Terminal	502
+tu	Word	--	Terminal	502
+dis	Word	--	Terminal	502
+,	Punctuation	--	Terminal	501
+Conseil	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+et	Word	--	Terminal	504
+sans	Word	--	Terminal	505
+compter	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+j’	Word	--	Terminal	508
+imagine	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+que	Word	--	Terminal	511
+l’	Word	--	Terminal	512
+on	Word	--	Terminal	513
+se	Word	--	Terminal	514
+moquera	Word	--	Terminal	514
+de	Word	--	Terminal	515
+nous	Word	--	Terminal	516
+!	Punctuation	--	Terminal	517
+#500	PNCT	--	U	522
+#501	PNCT	--	U	502
+#502	FN	--	H	522	LA	523	LA	524
+#503	PNCT	--	U	522
+#504	FN	--	L	522	LR	524
+#505	FN	--	R	518
+#506	FN	--	C	518
+#507	PNCT	--	U	522
+#508	FN	--	A	521
+#509	FN	--	P	521
+#510	PNCT	--	U	521
+#511	FN	--	F	520
+#512	FN	--	F	520
+#513	FN	--	A	520
+#514	FN	--	P	520
+#515	FN	--	R	519
+#516	FN	--	C	519
+#517	PNCT	--	U	519
+#518	FN	--	L	522	LR	523
+#519	FN	--	A	520
+#520	FN	--	H	522	LA	523	LA	524	A*	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#523	LKG	--	--	0
+#524	LKG	--	--	0
+#EOS 940006

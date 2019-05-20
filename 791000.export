@@ -1,0 +1,19 @@
+#BOS 791000
+«	Punctuation	--	Terminal	500
+Sommes	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+nous	Word	--	Terminal	503
+en	Word	--	Terminal	504
+pression	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+#500	PNCT	--	U	507
+#501	FN	--	F	507
+#502	PNCT	--	U	508
+#503	FN	--	A	508
+#504	FN	--	R	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	S	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 791000

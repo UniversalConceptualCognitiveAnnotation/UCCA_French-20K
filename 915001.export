@@ -1,0 +1,51 @@
+#BOS 915001
+Et	Word	--	Terminal	500
+en	Word	--	Terminal	501
+effet	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+était	Word	--	Terminal	504
+-	Punctuation	--	Terminal	505
+il	Word	--	Terminal	506
+probable	Word	--	Terminal	507
+que	Word	--	Terminal	508
+l’	Word	--	Terminal	509
+on	Word	--	Terminal	510
+pût	Word	--	Terminal	511
+rencontrer	Word	--	Terminal	512
+le	Word	--	Terminal	513
+narwal	Word	--	Terminal	514
+dans	Word	--	Terminal	515
+ce	Word	--	Terminal	516
+détroit	Word	--	Terminal	517
+resserré	Word	--	Terminal	518
+?	Punctuation	--	Terminal	519
+#500	FN	--	L	527
+#501	FN	--	R	520
+#502	FN	--	C	520
+#503	PNCT	--	U	527
+#504	FN	--	F	521
+#505	PNCT	--	U	526
+#506	FN	--	A	526
+#507	FN	--	C	521
+#508	FN	--	F	526
+#509	FN	--	F	525
+#510	FN	--	A	525
+#511	FN	--	E	522
+#512	FN	--	C	522
+#513	FN	--	E	523
+#514	FN	--	C	523
+#515	FN	--	R	524
+#516	FN	--	E	524
+#517	FN	--	C	524
+#518	FN	--	E	524
+#519	PNCT	--	U	524
+#520	FN	--	L	527	LR	528
+#521	FN	--	S	526
+#522	FN	--	P	525
+#523	FN	--	A	525
+#524	FN	--	A	525
+#525	FN	--	A	526
+#526	FN	--	H	527	LA	528
+#527	FN	--	--	0
+#528	LKG	--	--	0
+#EOS 915001

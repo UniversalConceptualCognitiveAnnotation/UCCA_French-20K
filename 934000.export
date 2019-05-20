@@ -1,0 +1,37 @@
+#BOS 934000
+Le	Word	--	Terminal	500
+lendemain	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+5	Word	--	Terminal	503
+novembre	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+à	Word	--	Terminal	505
+midi	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+expirait	Word	--	Terminal	508
+le	Word	--	Terminal	509
+délai	Word	--	Terminal	510
+de	Word	--	Terminal	511
+rigueur	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	E	514
+#501	FN	--	C	514
+#502	PNCT	--	U	514
+#503	FN	--	E	514
+#504	PNCT	--	U	518
+#505	FN	--	R	515
+#506	FN	--	C	515
+#507	PNCT	--	U	518
+#508	FN	--	P	518
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	D	518
+#515	FN	--	D	518
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 934000

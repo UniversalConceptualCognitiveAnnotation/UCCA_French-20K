@@ -1,0 +1,30 @@
+#BOS 439002
+Au	Word	--	Terminal	500
+fond	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+j\u2019	Word	--	Terminal	503
+admettais	Word	--	Terminal	504
+l\u2019existence	Word	--	Terminal	505
+du	Word	--	Terminal	506
+«	Punctuation	--	Terminal	507
+monstre	Word	--	Terminal	508
+»	Punctuation	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	R	511
+#501	FN	--	C	511
+#502	PNCT	--	U	515
+#503	FN	--	A	514
+#504	FN	--	P	514
+#505	FN	--	C	513
+#506	FN	--	R	512
+#507	PNCT	--	U	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	PNCT	--	U	512
+#511	FN	--	L	515	LR	516
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515	LA	516
+#515	FN	--	--	0
+#516	LKG	--	--	0
+#EOS 439002

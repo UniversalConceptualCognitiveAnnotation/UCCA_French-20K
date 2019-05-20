@@ -1,0 +1,17 @@
+#BOS 446002
+Ses	Word	--	Terminal	500
+vivres	Word	--	Terminal	501
+étaient	Word	--	Terminal	502
+embarqués	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	E	505
+#501	FN	--	C	505
+#502	FN	--	F	506
+#503	FN	--	C	506
+#504	PNCT	--	U	506
+#505	FN	--	A	508
+#506	FN	--	P	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 446002

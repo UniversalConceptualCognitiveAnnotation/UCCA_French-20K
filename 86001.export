@@ -1,0 +1,44 @@
+#BOS 86001
+Les	Word	--	Terminal	500
+canards	Word	--	Terminal	501
+eurent	Word	--	Terminal	502
+là	Word	--	Terminal	503
+une	Word	--	Terminal	504
+belle	Word	--	Terminal	505
+occasion	Word	--	Terminal	506
+de	Word	--	Terminal	507
+pondre	Word	--	Terminal	508
+des	Word	--	Terminal	509
+&	Punctuation	--	Terminal	510
+#x153	Word	--	Terminal	512
+;	Punctuation	--	Terminal	511
+ufs	Word	--	Terminal	512
+de	Word	--	Terminal	513
+toute	Word	--	Terminal	514
+couleur	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	E	517
+#501	FN	--	C	517	A*	520
+#502	FN	--	P	522
+#503	FN	--	A	522
+#504	FN	--	E	521
+#505	FN	--	E	521
+#506	FN	--	C	521
+#507	FN	--	R	520
+#508	FN	--	P	520
+#509	FN	--	E	519
+#510	PNCT	--	U	519
+#511	PNCT	--	U	512
+#512	FN	--	C	519
+#513	FN	--	R	518
+#514	FN	--	E	518
+#515	FN	--	C	518
+#516	PNCT	--	U	518
+#517	FN	--	A	522
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 86001

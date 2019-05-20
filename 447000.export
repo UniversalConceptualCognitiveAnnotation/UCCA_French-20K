@@ -1,0 +1,60 @@
+#BOS 447000
+Trois	Word	--	Terminal	500
+heures	Word	--	Terminal	501
+avant	Word	--	Terminal	502
+que	Word	--	Terminal	502
+l\u2019	Word	--	Terminal	503
+Abraham	Word	--	Terminal	505
+-	Punctuation	--	Terminal	504
+Lincoln	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+quittât	Word	--	Terminal	507
+la	Word	--	Terminal	508
+pier	Word	--	Terminal	509
+de	Word	--	Terminal	510
+Brooklyn	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+je	Word	--	Terminal	513
+reçus	Word	--	Terminal	514
+une	Word	--	Terminal	515
+lettre	Word	--	Terminal	516
+libellée	Word	--	Terminal	517
+en	Word	--	Terminal	518
+ces	Word	--	Terminal	519
+termes	Word	--	Terminal	520
+:	Punctuation	--	Terminal	521
+#500	FN	--	E	522
+#501	FN	--	C	522
+#502	FN	--	C	523
+#503	FN	--	E	524
+#504	PNCT	--	U	505
+#505	FN	--	C	524
+#506	FN	--	D	528
+#507	FN	--	P	528
+#508	FN	--	E	527
+#509	FN	--	C	527
+#510	FN	--	R	525
+#511	FN	--	C	525
+#512	PNCT	--	U	533
+#513	FN	--	A	532
+#514	FN	--	P	532
+#515	FN	--	E	531
+#516	FN	--	C	531	A*	529
+#517	FN	--	P	529
+#518	FN	--	R	526
+#519	FN	--	E	526
+#520	FN	--	C	526
+#521	PNCT	--	U	526
+#522	FN	--	E	523
+#523	FN	--	L	533	LR	530
+#524	FN	--	A	528
+#525	FN	--	E	527
+#526	FN	--	A	529
+#527	FN	--	A	528
+#528	FN	--	H	533	LA	530
+#529	FN	--	E	531
+#530	LKG	--	--	0
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 447000

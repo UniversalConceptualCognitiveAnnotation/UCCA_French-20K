@@ -1,0 +1,76 @@
+#BOS 875001
+—	Punctuation	--	Terminal	500
+Comme	Word	--	Terminal	502
+vous	Word	--	Terminal	502
+dites	Word	--	Terminal	502
+,	Punctuation	--	Terminal	501
+Ned	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+et	Word	--	Terminal	504
+songez	Word	--	Terminal	505
+alors	Word	--	Terminal	506
+aux	Word	--	Terminal	507
+ravages	Word	--	Terminal	508
+que	Word	--	Terminal	509
+peut	Word	--	Terminal	510
+produire	Word	--	Terminal	511
+une	Word	--	Terminal	512
+pareille	Word	--	Terminal	513
+masse	Word	--	Terminal	514
+lancée	Word	--	Terminal	515
+avec	Word	--	Terminal	516
+la	Word	--	Terminal	517
+vitesse	Word	--	Terminal	518
+d’	Word	--	Terminal	519
+un	Word	--	Terminal	520
+express	Word	--	Terminal	521
+contre	Word	--	Terminal	522
+la	Word	--	Terminal	523
+coque	Word	--	Terminal	524
+d’	Word	--	Terminal	525
+un	Word	--	Terminal	526
+navire	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	PNCT	--	U	539
+#501	PNCT	--	U	502
+#502	FN	--	H	539	LA	541
+#503	PNCT	--	U	539
+#504	FN	--	L	539	LR	541
+#505	FN	--	P	538
+#506	FN	--	L	539	LR	540
+#507	FN	--	R	537
+#508	FN	--	C	537	A*	536
+#509	FN	--	R	536
+#510	FN	--	E	529
+#511	FN	--	C	529
+#512	FN	--	E	535
+#513	FN	--	E	535
+#514	FN	--	C	535	A*	534
+#515	FN	--	P	534
+#516	FN	--	R	532
+#517	FN	--	E	532
+#518	FN	--	C	532
+#519	FN	--	R	530
+#520	FN	--	E	530
+#521	FN	--	C	530
+#522	FN	--	R	533
+#523	FN	--	E	533
+#524	FN	--	C	533
+#525	FN	--	R	531
+#526	FN	--	E	531
+#527	FN	--	C	531
+#528	PNCT	--	U	531
+#529	FN	--	P	536
+#530	FN	--	E	532
+#531	FN	--	E	533
+#532	FN	--	D	534
+#533	FN	--	A	534
+#534	FN	--	E	535
+#535	FN	--	A	536
+#536	FN	--	E	537
+#537	FN	--	A	538
+#538	FN	--	H	539	LA	540	LA	541
+#539	FN	--	--	0
+#540	LKG	--	--	0
+#541	LKG	--	--	0
+#EOS 875001

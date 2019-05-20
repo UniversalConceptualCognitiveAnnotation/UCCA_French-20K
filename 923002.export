@@ -1,0 +1,145 @@
+#BOS 923002
+On	Word	--	Terminal	500
+a	Word	--	Terminal	501
+revu	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+dit	Word	--	Terminal	504
+-	Punctuation	--	Terminal	505
+on	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+cette	Word	--	Terminal	508
+bête	Word	--	Terminal	509
+introuvable	Word	--	Terminal	510
+dans	Word	--	Terminal	511
+les	Word	--	Terminal	512
+hautes	Word	--	Terminal	513
+mers	Word	--	Terminal	514
+du	Word	--	Terminal	515
+Pacifique	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+je	Word	--	Terminal	518
+veux	Word	--	Terminal	519
+bien	Word	--	Terminal	520
+l’	Word	--	Terminal	521
+admettre	Word	--	Terminal	522
+;	Punctuation	--	Terminal	523
+mais	Word	--	Terminal	524
+deux	Word	--	Terminal	525
+mois	Word	--	Terminal	526
+déjà	Word	--	Terminal	527
+se	Word	--	Terminal	528
+sont	Word	--	Terminal	529
+écoulés	Word	--	Terminal	528
+depuis	Word	--	Terminal	530
+cette	Word	--	Terminal	531
+rencontre	Word	--	Terminal	532
+,	Punctuation	--	Terminal	533
+et	Word	--	Terminal	534
+à	Word	--	Terminal	535
+s’	Word	--	Terminal	536
+en	Word	--	Terminal	537
+rapporter	Word	--	Terminal	536
+au	Word	--	Terminal	538
+tempérament	Word	--	Terminal	539
+de	Word	--	Terminal	540
+votre	Word	--	Terminal	541
+narwal	Word	--	Terminal	542
+,	Punctuation	--	Terminal	543
+il	Word	--	Terminal	544
+n’	Word	--	Terminal	545
+aime	Word	--	Terminal	546
+point	Word	--	Terminal	545
+à	Word	--	Terminal	547
+moisir	Word	--	Terminal	548
+longtemps	Word	--	Terminal	549
+dans	Word	--	Terminal	550
+les	Word	--	Terminal	551
+mêmes	Word	--	Terminal	552
+parages	Word	--	Terminal	553
+!	Punctuation	--	Terminal	554
+#500	FN	--	A	581	A*	568
+#501	FN	--	F	555
+#502	FN	--	C	555
+#503	PNCT	--	U	582
+#504	FN	--	P	572
+#505	PNCT	--	U	572
+#506	FN	--	A	572
+#507	PNCT	--	U	582
+#508	FN	--	E	576
+#509	FN	--	C	576	A*	568	A*	575
+#510	FN	--	P	575
+#511	FN	--	R	566
+#512	FN	--	E	566
+#513	FN	--	E	566
+#514	FN	--	C	566
+#515	FN	--	R	556
+#516	FN	--	C	556
+#517	PNCT	--	U	582
+#518	FN	--	A	570
+#519	FN	--	C	557
+#520	FN	--	E	557
+#521	FN	--	A	570
+#522	FN	--	C	558
+#523	PNCT	--	U	582
+#524	FN	--	L	582	LR	584
+#525	FN	--	E	559
+#526	FN	--	C	559
+#527	FN	--	D	567
+#528	FN	--	C	560
+#529	FN	--	F	560
+#530	FN	--	L	582	LR	578
+#531	FN	--	E	561
+#532	FN	--	C	561
+#533	PNCT	--	U	582
+#534	FN	--	L	582	LR	577
+#535	FN	--	L	582	LR	583
+#536	FN	--	C	562
+#537	FN	--	F	562
+#538	FN	--	R	574
+#539	FN	--	C	574
+#540	FN	--	R	563
+#541	FN	--	E	563
+#542	FN	--	C	563
+#543	PNCT	--	U	582
+#544	FN	--	A	569
+#545	FN	--	D	569
+#546	FN	--	E	564
+#547	FN	--	F	564
+#548	FN	--	C	564
+#549	FN	--	D	569
+#550	FN	--	R	565
+#551	FN	--	E	565
+#552	FN	--	E	565
+#553	FN	--	C	565
+#554	PNCT	--	U	565
+#555	FN	--	P	581
+#556	FN	--	E	566
+#557	FN	--	E	558
+#558	FN	--	P	570
+#559	FN	--	A	567
+#560	FN	--	P	567
+#561	FN	--	P	568
+#562	FN	--	P	580
+#563	FN	--	E	574
+#564	FN	--	P	569
+#565	FN	--	A	569
+#566	FN	--	A	581
+#567	FN	--	H	582	LA	577	LA	578	LA	584
+#568	FN	--	H	582	LA	578
+#569	FN	--	H	582	LA	583	LA	577
+#570	FN	--	H	582
+#571	FN	--	A	572
+#572	FN	--	H	582
+#573	FN	--	A	575
+#574	FN	--	A	580
+#575	FN	--	E	576
+#576	FN	--	A	581
+#577	LKG	--	--	0
+#578	LKG	--	--	0
+#579	FN	--	A	580
+#580	FN	--	H	582	LA	583
+#581	FN	--	H	582	LA	584
+#582	FN	--	--	0
+#583	LKG	--	--	0
+#584	LKG	--	--	0
+#EOS 923002

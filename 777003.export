@@ -1,0 +1,22 @@
+#BOS 777003
+On	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+sait	Word	--	Terminal	502
+pas	Word	--	Terminal	501
+où	Word	--	Terminal	503
+l’	Word	--	Terminal	504
+on	Word	--	Terminal	505
+va	Word	--	Terminal	506
+!	Punctuation	--	Terminal	507
+#500	FN	--	A	509
+#501	FN	--	D	509
+#502	FN	--	P	509
+#503	FN	--	A	508
+#504	FN	--	F	508
+#505	FN	--	A	508
+#506	FN	--	P	508
+#507	PNCT	--	U	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 777003

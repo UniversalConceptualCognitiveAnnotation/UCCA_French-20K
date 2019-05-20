@@ -1,0 +1,21 @@
+#BOS 941000
+Conseil	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+put	Word	--	Terminal	502
+achever	Word	--	Terminal	503
+son	Word	--	Terminal	504
+compliment	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	510
+#501	FN	--	D	510
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	FN	--	A	509
+#505	FN	--	P	509
+#506	PNCT	--	U	509
+#507	FN	--	P	510
+#508	FN	--	A	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 941000

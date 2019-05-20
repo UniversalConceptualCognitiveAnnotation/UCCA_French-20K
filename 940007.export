@@ -1,0 +1,42 @@
+#BOS 940007
+—	Punctuation	--	Terminal	500
+Effectivement	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+répondit	Word	--	Terminal	503
+tranquillement	Word	--	Terminal	504
+Conseil	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+je	Word	--	Terminal	507
+pense	Word	--	Terminal	508
+que	Word	--	Terminal	509
+l’	Word	--	Terminal	510
+on	Word	--	Terminal	511
+se	Word	--	Terminal	512
+moquera	Word	--	Terminal	512
+de	Word	--	Terminal	513
+monsieur	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	PNCT	--	U	521
+#501	FN	--	L	521	LR	522
+#502	PNCT	--	U	521
+#503	FN	--	P	520
+#504	FN	--	D	520
+#505	FN	--	A	520
+#506	PNCT	--	U	520
+#507	FN	--	A	519
+#508	FN	--	P	519
+#509	FN	--	F	519
+#510	FN	--	F	518
+#511	FN	--	A	518
+#512	FN	--	P	518
+#513	FN	--	R	516
+#514	FN	--	C	516
+#515	PNCT	--	U	516
+#516	FN	--	A	518
+#517	FN	--	A	520
+#518	FN	--	A	519
+#519	FN	--	H	521	LA	522	A*	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#522	LKG	--	--	0
+#EOS 940007

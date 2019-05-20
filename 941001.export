@@ -1,0 +1,37 @@
+#BOS 941001
+Au	Word	--	Terminal	500
+milieu	Word	--	Terminal	501
+du	Word	--	Terminal	502
+silence	Word	--	Terminal	503
+général	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+une	Word	--	Terminal	506
+voix	Word	--	Terminal	507
+venait	Word	--	Terminal	508
+de	Word	--	Terminal	509
+se	Word	--	Terminal	510
+faire	Word	--	Terminal	511
+entendre	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	C	514
+#502	FN	--	R	514	E*	515
+#503	FN	--	C	515
+#504	FN	--	E	515
+#505	PNCT	--	U	519
+#506	FN	--	E	516
+#507	FN	--	C	516
+#508	FN	--	E	517
+#509	FN	--	F	517
+#510	FN	--	F	517
+#511	FN	--	F	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	E	515
+#515	FN	--	A	519
+#516	FN	--	A	519
+#517	FN	--	P	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 941001
