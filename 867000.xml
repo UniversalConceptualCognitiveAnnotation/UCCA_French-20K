@@ -267,6 +267,10 @@
       <attributes paragraph="1" paragraph_position="66" text="." />
       <extra orig_paragraph="1" />
     </node>
+    <node ID="0.67" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="67" text="-" />
+      <extra orig_paragraph="1" />
+    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -607,6 +611,10 @@
         <category tag="C" />
       </edge>
       <edge toID="1.102" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+      <edge toID="1.103" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -1165,6 +1173,13 @@
     <node ID="1.102" type="PNCT">
       <attributes />
       <edge toID="0.66" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.103" type="PNCT">
+      <attributes />
+      <edge toID="0.67" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
