@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 873002
-# text = - Tant que cela ?
-1	-	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Tant	_	Word	Word	_	0	H	0:H	_
-3	que	_	Word	Word	_	4	R	4:R	_
-4	cela	_	Word	Word	_	2	A	2:A	_
-5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+# text = Tant que cela ? -
+1	Tant	_	Word	Word	_	0	H	0:H	_
+2	que	_	Word	Word	_	3	R	3:R	_
+3	cela	_	Word	Word	_	1	A	1:A	_
+4	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 

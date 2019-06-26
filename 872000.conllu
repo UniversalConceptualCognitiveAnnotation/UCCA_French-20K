@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 872000
-# text = - Oh ! les chiffres ! répliqua Ned . On fait ce qu' on veut avec les chiffres !
+# text = - Oh ! les chiffres ! répliqua Ned . On fait ce qu' on veut avec les chiffres ! -
 1	-	_	Punctuation	Punctuation	_	5	U	5:U	_
 2	Oh	_	Word	Word	_	5	F	5:F	_
 3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
@@ -20,4 +20,5 @@
 17	les	_	Word	Word	_	18	E	18:E	_
 18	chiffres	_	Word	Word	_	11	A	11:A	_
 19	!	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	-	_	Punctuation	Punctuation	_	18	U	18:U	_
 

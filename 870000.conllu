@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 870000
-# text = - Remarquez , mon digne Canadien , repris - je , que si un tel animal existe , s' il habite les profondeurs de l' Océan , s' il fréquente les couches liquides situées à quelques milles au - dessous de la surface des eaux , il possède nécessairement un organisme dont la solidité défie toute comparaison .
+# text = - Remarquez , mon digne Canadien , repris - je , que si un tel animal existe , s' il habite les profondeurs de l' Océan , s' il fréquente les couches liquides situées à quelques milles au - dessous de la surface des eaux , il possède nécessairement un organisme dont la solidité défie toute comparaison . -
 1	-	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Remarquez	_	Word	Word	_	8	A	8:A	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -59,4 +59,5 @@
 56	toute	_	Word	Word	_	55	Terminal	55:Terminal	_
 57	comparaison	_	Word	Word	_	55	Terminal	55:Terminal	_
 58	.	_	Punctuation	Punctuation	_	55	U	55:U	_
+59	-	_	Punctuation	Punctuation	_	55	U	55:U	_
 

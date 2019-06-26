@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 875003
-# text = - Eh bien , vous ai - je convaincu ?
-1	-	_	Punctuation	Punctuation	_	9	U	9:U	_
-2	Eh	_	Word	Word	_	9	F	9:F	_
-3	bien	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-5	vous	_	Word	Word	_	9	A	9:A	_
-6	ai	_	Word	Word	_	9	F	9:F	_
-7	-	_	Punctuation	Punctuation	_	9	U	9:U	_
-8	je	_	Word	Word	_	9	A	9:A	_
-9	convaincu	_	Word	Word	_	0	H	0:H	_
-10	?	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = Eh bien , vous ai - je convaincu ? -
+1	Eh	_	Word	Word	_	8	F	8:F	_
+2	bien	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	vous	_	Word	Word	_	8	A	8:A	_
+5	ai	_	Word	Word	_	8	F	8:F	_
+6	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	je	_	Word	Word	_	8	A	8:A	_
+8	convaincu	_	Word	Word	_	0	H	0:H	_
+9	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
 

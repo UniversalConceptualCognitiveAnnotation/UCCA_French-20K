@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 867000
-# text = - Cependant , Ned , on cite des bâtiments que la dent du narwal a traversés de part en part . - Des navires en bois , c' est possible , répondit le Canadien , et encore , je ne les ai jamais vus . Donc , jusqu' à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet .
+# text = - Cependant , Ned , on cite des bâtiments que la dent du narwal a traversés de part en part . - Des navires en bois , c' est possible , répondit le Canadien , et encore , je ne les ai jamais vus . Donc , jusqu' à preuve contraire , je nie que baleines , cachalots ou licornes puissent produire un pareil effet . -
 1	-	_	Punctuation	Punctuation	_	7	U	7:U	_
 2	Cependant	_	Word	Word	_	32	L	32:L	_
 3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -67,4 +67,5 @@
 64	pareil	_	Word	Word	_	65	E	65:E	_
 65	effet	_	Word	Word	_	62	A	62:A	_
 66	.	_	Punctuation	Punctuation	_	65	U	65:U	_
+67	-	_	Punctuation	Punctuation	_	65	U	65:U	_
 

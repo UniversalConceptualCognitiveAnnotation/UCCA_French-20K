@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 783000
-# text = « Monsieur Pierre Aronnax ? me dit - il .
+# text = « Monsieur Pierre Aronnax ? me dit - il . -
 1	«	_	Punctuation	Punctuation	_	7	U	7:U	_
 2	Monsieur	_	Word	Word	_	3	E	3:E	_
 3	Pierre	_	Word	Word	_	7	A	7:A	_
@@ -11,4 +11,5 @@
 8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	il	_	Word	Word	_	7	A	7:A	_
 10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	-	_	Punctuation	Punctuation	_	7	U	7:U	_
 

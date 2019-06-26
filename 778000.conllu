@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 778000
-# text = - Comme fera monsieur , je ferai , répondit Conseil .
+# text = - Comme fera monsieur , je ferai , répondit Conseil . -
 1	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 2	Comme	_	Word	Word	_	3	D	3:D	_
 3	fera	_	Word	Word	_	7	A	7:A	_
@@ -12,4 +12,5 @@
 9	répondit	_	Word	Word	_	0	H	0:H	_
 10	Conseil	_	Word	Word	_	9	A	9:A	_
 11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 
