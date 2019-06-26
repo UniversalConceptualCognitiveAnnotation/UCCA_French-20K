@@ -1,6 +1,6 @@
 # ::id 776013
-# ::tok - Si ... certainement ... répondis - je évasivement , mais en faisant un crochet .
-# ::alignments 1-1.1.4.1.4 3-1.1.4.1.5 5-1.1.5 7-1.1.6 8-1.1.7 10-1.1.4.2 12-1.1.4.3.3 13-1.1.4.3.4.1 14-1.1.4.3.4.2
+# ::tok Si ... certainement ... répondis - je évasivement , mais en faisant un crochet . -
+# ::alignments 0-1.1.4.1.4 2-1.1.4.1.5 4-1.1.5 6-1.1.6 7-1.1.7 9-1.1.4.2 11-1.1.4.3.3 12-1.1.4.3.4.1 13-1.1.4.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,15 +9,15 @@
                          :A (v10 / label)
                          :P (v11 / label)
                          :A (v12 / label)
-                         :D (v13 / label~e.1)
-                         :D (v14 / label~e.3))
-                  :L (v8 / label~e.10)
+                         :D (v13 / label~e.0)
+                         :D (v14 / label~e.2))
+                  :L (v8 / label~e.9)
                   :H (v9 / label
                          :A (v15 / label)
-                         :P (v16 / label~e.12)
+                         :P (v16 / label~e.11)
                          :A (v17 / label
-                                 :E (v18 / label~e.13)
-                                 :C (v19 / label~e.14))))
-           :P (v4 / label~e.5)
-           :A (v5 / label~e.7)
-           :D (v6 / label~e.8)))
+                                 :E (v18 / label~e.12)
+                                 :C (v19 / label~e.13))))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.6)
+           :D (v6 / label~e.7)))

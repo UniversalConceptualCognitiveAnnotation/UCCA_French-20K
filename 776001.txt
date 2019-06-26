@@ -1,5 +1,5 @@
 # ::id 776001
-# ::tok Conseil parut .
+# ::tok Conseil parut . «
 # ::alignments 0-1.1.1 1-1.1.2
 # ::format ucca
 (v1 / label

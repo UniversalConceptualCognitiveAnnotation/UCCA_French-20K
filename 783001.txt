@@ -1,6 +1,6 @@
 # ::id 783001
-# ::tok - Lui - même , répondis - je . Le commandant Farragut ? - En personne . Soyez le bienvenu , monsieur le professeur . Votre cabine vous attend . »
-# ::alignments 1-1.1.1.1.3 3-1.1.1.1.3 5-1.1.2 7-1.1.3 9-1.1.1.2.3.1.1 10-1.1.1.2.3.1.2 11-1.2.3.4.4 14-1.2.3.4.3.1 15-1.2.3.4.3.2 17-1.2.3.5.2 18-1.2.3.5.2 19-1.2.3.5.2 21-1.2.3.5.3.1 22-1.2.3.5.3.2 23-1.2.3.5.3.3 25-1.2.3.1.1.1 26-1.2.3.1.1.2 27-1.2.3.1.2 28-1.2.3.1.3
+# ::tok Lui - même , répondis - je . Le commandant Farragut ? - En personne . Soyez le bienvenu , monsieur le professeur . Votre cabine vous attend . »
+# ::alignments 0-1.1.1.1.3 2-1.1.1.1.3 4-1.1.2 6-1.1.3 8-1.1.1.2.3.1.1 9-1.1.1.2.3.1.2 10-1.2.3.3.4 13-1.2.3.3.3.1 14-1.2.3.3.3.2 16-1.2.3.4.2 17-1.2.3.4.2 18-1.2.3.4.2 20-1.2.3.4.3.1 21-1.2.3.4.3.2 22-1.2.3.4.3.3 24-1.2.3.5.1.1 25-1.2.3.5.1.2 26-1.2.3.5.2 27-1.2.3.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,38 +8,38 @@
                   :H (v10 / label
                           :A (v15 / label)
                           :S (v16 / label)
-                          :A (v17 / label~e.1,3))
+                          :A (v17 / label~e.0,2))
                   :H (v11 / label
                           :A (v18 / label)
                           :S (v19 / label)
                           :A (v20 / label
                                   :E (v31 / label
-                                          :E (v39 / label~e.9)
-                                          :C (v40 / label~e.10))
-                                  :C (v27 / label~e.11))))
-           :P (v5 / label~e.5)
-           :A (v6 / label~e.7))
+                                          :E (v39 / label~e.8)
+                                          :C (v40 / label~e.9))
+                                  :C (v24 / label~e.10))))
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.6))
     :H (v3 / label
            :A (v7 / label)
            :P (v8 / label)
            :A (v9 / label
                   :H (v12 / label
-                          :A (v21 / label
-                                  :E (v32 / label~e.25)
-                                  :C (v33 / label~e.26))
-                          :A (v22 / label~e.27)
-                          :P (v23 / label~e.28))
+                          :A (v21 / label)
+                          :S (v22 / label)
+                          :D (v23 / label
+                                  :R (v32 / label~e.13)
+                                  :C (v33 / label~e.14))
+                          :A v24)
                   :H (v13 / label
-                          :A (v24 / label)
-                          :S (v25 / label)
-                          :D (v26 / label
-                                  :R (v34 / label~e.14)
-                                  :C (v35 / label~e.15))
-                          :A v27)
+                          :A (v25 / label)
+                          :S (v26 / label~e.16,17,18)
+                          :G (v27 / label
+                                  :E (v34 / label~e.20)
+                                  :E (v35 / label~e.21)
+                                  :C (v36 / label~e.22)))
                   :H (v14 / label
-                          :A (v28 / label)
-                          :S (v29 / label~e.17,18,19)
-                          :G (v30 / label
-                                  :E (v36 / label~e.21)
-                                  :E (v37 / label~e.22)
-                                  :C (v38 / label~e.23))))))
+                          :A (v28 / label
+                                  :E (v37 / label~e.24)
+                                  :C (v38 / label~e.25))
+                          :A (v29 / label~e.26)
+                          :P (v30 / label~e.27)))))
