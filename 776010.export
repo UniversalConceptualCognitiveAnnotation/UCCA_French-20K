@@ -1,19 +1,19 @@
 #BOS 776010
--	Punctuation	--	Terminal	500
-Et	Word	--	Terminal	501
-le	Word	--	Terminal	502
-babiroussa	Word	--	Terminal	503
-vivant	Word	--	Terminal	504
-de	Word	--	Terminal	505
-monsieur	Word	--	Terminal	506
-?	Punctuation	--	Terminal	507
-#500	PNCT	--	U	514
-#501	FN	--	L	514
-#502	FN	--	E	510
-#503	FN	--	C	510	A*	508
-#504	FN	--	S	508
-#505	FN	--	R	509
-#506	FN	--	C	509
+Et	Word	--	Terminal	500
+le	Word	--	Terminal	501
+babiroussa	Word	--	Terminal	502
+vivant	Word	--	Terminal	503
+de	Word	--	Terminal	504
+monsieur	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	L	514
+#501	FN	--	E	510
+#502	FN	--	C	510	A*	508
+#503	FN	--	S	508
+#504	FN	--	R	509
+#505	FN	--	C	509
+#506	PNCT	--	U	509
 #507	PNCT	--	U	509
 #508	FN	--	E	510
 #509	FN	--	E	510

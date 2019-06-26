@@ -1,25 +1,25 @@
 #BOS 776006
--	Punctuation	--	Terminal	500
-Et	Word	--	Terminal	501
-les	Word	--	Terminal	502
-collections	Word	--	Terminal	503
-de	Word	--	Terminal	504
-monsieur	Word	--	Terminal	505
-?	Punctuation	--	Terminal	506
-fit	Word	--	Terminal	507
-observer	Word	--	Terminal	508
-Conseil	Word	--	Terminal	509
-.	Punctuation	--	Terminal	510
-#500	PNCT	--	U	519
-#501	FN	--	L	518	LR	517
-#502	FN	--	E	512
-#503	FN	--	C	512
-#504	FN	--	R	511
-#505	FN	--	C	511
-#506	PNCT	--	U	519
-#507	FN	--	F	519
-#508	FN	--	P	519
-#509	FN	--	A	519
+Et	Word	--	Terminal	500
+les	Word	--	Terminal	501
+collections	Word	--	Terminal	502
+de	Word	--	Terminal	503
+monsieur	Word	--	Terminal	504
+?	Punctuation	--	Terminal	505
+fit	Word	--	Terminal	506
+observer	Word	--	Terminal	507
+Conseil	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	L	518	LR	517
+#501	FN	--	E	512
+#502	FN	--	C	512
+#503	FN	--	R	511
+#504	FN	--	C	511
+#505	PNCT	--	U	519
+#506	FN	--	F	519
+#507	FN	--	P	519
+#508	FN	--	A	519
+#509	PNCT	--	U	519
 #510	PNCT	--	U	519
 #511	FN	--	E	512
 #512	FN	--	A	516

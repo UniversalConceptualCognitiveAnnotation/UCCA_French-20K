@@ -1,57 +1,55 @@
 #BOS 940005
--	Punctuation	--	Terminal	500
-Quand	Word	--	Terminal	501
-on	Word	--	Terminal	502
-a	Word	--	Terminal	503
-l'	Word	--	Terminal	504
-honneur	Word	--	Terminal	505
-d'	Word	--	Terminal	506
-être	Word	--	Terminal	507
-un	Word	--	Terminal	508
-savant	Word	--	Terminal	509
-comme	Word	--	Terminal	510
-monsieur	Word	--	Terminal	511
-,	Punctuation	--	Terminal	512
-on	Word	--	Terminal	513
-ne	Word	--	Terminal	514
-s'	Word	--	Terminal	515
-expose	Word	--	Terminal	516
-pas	Word	--	Terminal	514
-...	Punctuation	--	Terminal	517
-»	Punctuation	--	Terminal	518
-#500	PNCT	--	U	530
-#501	FN	--	L	530	LR	529
-#502	FN	--	A	527
-#503	FN	--	F	527
-#504	FN	--	E	519
-#505	FN	--	C	519
-#506	FN	--	F	520
-#507	FN	--	C	520	S*	524
-#508	FN	--	E	525
-#509	FN	--	S	523
-#510	FN	--	L	530	LR	528
-#511	FN	--	A	524
-#512	PNCT	--	U	530
-#513	FN	--	A	521
-#514	FN	--	D	521
-#515	FN	--	A	521
-#516	FN	--	P	521
-#517	PNCT	--	U	521
-#518	PNCT	--	U	521
-#519	FN	--	S	527
-#520	FN	--	S	526
-#521	FN	--	H	530	LA	529
-#522	FN	--	A	523
-#523	FN	--	C	525	A*	524
-#524	FN	--	H	530	LA	528
+Quand	Word	--	Terminal	500
+on	Word	--	Terminal	501
+a	Word	--	Terminal	502
+l'	Word	--	Terminal	503
+honneur	Word	--	Terminal	504
+d'	Word	--	Terminal	505
+être	Word	--	Terminal	506
+un	Word	--	Terminal	507
+savant	Word	--	Terminal	508
+comme	Word	--	Terminal	509
+monsieur	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+on	Word	--	Terminal	512
+ne	Word	--	Terminal	513
+s'	Word	--	Terminal	514
+expose	Word	--	Terminal	515
+pas	Word	--	Terminal	513
+...	Punctuation	--	Terminal	516
+»	Punctuation	--	Terminal	517
+#500	FN	--	L	529	LR	528
+#501	FN	--	A	526
+#502	FN	--	F	526
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	FN	--	F	519
+#506	FN	--	C	519	S*	523
+#507	FN	--	E	524
+#508	FN	--	S	522
+#509	FN	--	L	529	LR	527
+#510	FN	--	A	523
+#511	PNCT	--	U	529
+#512	FN	--	A	520
+#513	FN	--	D	520
+#514	FN	--	A	520
+#515	FN	--	P	520
+#516	PNCT	--	U	520
+#517	PNCT	--	U	520
+#518	FN	--	S	526
+#519	FN	--	S	525
+#520	FN	--	H	529	LA	528
+#521	FN	--	A	522
+#522	FN	--	C	524	A*	523
+#523	FN	--	H	529	LA	527
+#524	FN	--	A	525
 #525	FN	--	A	526
-#526	FN	--	A	527
-#527	FN	--	H	530	LA	528	LA	529
+#526	FN	--	H	529	LA	527	LA	528
+#527	LKG	--	--	0
 #528	LKG	--	--	0
-#529	LKG	--	--	0
-#530	FN	--	A	533
-#531	FN	--	P	533
-#532	FN	--	A	533
-#533	FN	--	H	534
-#534	FN	--	--	0
+#529	FN	--	A	532
+#530	FN	--	P	532
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
 #EOS 940005

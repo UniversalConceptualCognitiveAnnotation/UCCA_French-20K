@@ -1,10 +1,10 @@
 #BOS 875007
--	Punctuation	--	Terminal	500
-Allez	Word	--	Terminal	501
-donc	Word	--	Terminal	501
-!	Punctuation	--	Terminal	502
-#500	PNCT	--	U	501
-#501	FN	--	P	504
+Allez	Word	--	Terminal	500
+donc	Word	--	Terminal	500
+!	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+#500	FN	--	P	504
+#501	PNCT	--	U	504
 #502	PNCT	--	U	504
 #503	FN	--	A	504
 #504	FN	--	H	505

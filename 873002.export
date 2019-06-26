@@ -1,13 +1,13 @@
 #BOS 873002
--	Punctuation	--	Terminal	500
-Tant	Word	--	Terminal	501
-que	Word	--	Terminal	502
-cela	Word	--	Terminal	503
-?	Punctuation	--	Terminal	504
-#500	PNCT	--	U	506
-#501	FN	--	S	506
-#502	FN	--	R	505
-#503	FN	--	C	505
+Tant	Word	--	Terminal	500
+que	Word	--	Terminal	501
+cela	Word	--	Terminal	502
+?	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+#500	FN	--	S	506
+#501	FN	--	R	505
+#502	FN	--	C	505
+#503	PNCT	--	U	505
 #504	PNCT	--	U	505
 #505	FN	--	A	506
 #506	FN	--	A	509
