@@ -57,4 +57,5 @@
 56	toute	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
 57	comparaison	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
 58	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+59	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
