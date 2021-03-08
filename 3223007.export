@@ -1,0 +1,32 @@
+#BOS 3223007
+D'	Word	--	Terminal	500
+ailleurs	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+le	Word	--	Terminal	503
+commandant	Word	--	Terminal	504
+Farragut	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+demandait	Word	--	Terminal	507
+qu'	Word	--	Terminal	508
+à	Word	--	Terminal	509
+partir	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	R	512
+#501	FN	--	C	512
+#502	PNCT	--	U	517
+#503	FN	--	F	514
+#504	FN	--	A	513
+#505	FN	--	C	514	A*	515
+#506	FN	--	D	516
+#507	FN	--	P	516
+#508	FN	--	L	517
+#509	FN	--	F	515
+#510	FN	--	P	515
+#511	PNCT	--	U	515
+#512	FN	--	L	517
+#513	FN	--	E	514
+#514	FN	--	A	516
+#515	FN	--	H	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 3223007

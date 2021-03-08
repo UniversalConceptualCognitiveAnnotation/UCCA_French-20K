@@ -1,0 +1,42 @@
+#BOS 3320003
+L'	Word	--	Terminal	500
+équipage	Word	--	Terminal	501
+entier	Word	--	Terminal	502
+subissait	Word	--	Terminal	503
+une	Word	--	Terminal	504
+surexcitation	Word	--	Terminal	505
+nerveuse	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+dont	Word	--	Terminal	508
+je	Word	--	Terminal	509
+ne	Word	--	Terminal	510
+saurais	Word	--	Terminal	511
+donner	Word	--	Terminal	512
+l'	Word	--	Terminal	513
+idée	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	F	516
+#501	FN	--	C	516
+#502	FN	--	Q	516
+#503	FN	--	P	522
+#504	FN	--	F	517
+#505	FN	--	C	517	A*	520
+#506	FN	--	D	518
+#507	PNCT	--	U	521
+#508	FN	--	R	520
+#509	FN	--	A	520
+#510	FN	--	D	520
+#511	FN	--	D	520
+#512	FN	--	P	520
+#513	FN	--	F	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	A	522
+#517	FN	--	S	518
+#518	FN	--	C	521
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 3320003

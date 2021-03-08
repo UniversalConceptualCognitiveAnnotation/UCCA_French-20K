@@ -1,0 +1,28 @@
+#BOS 3338002
+Ses	Word	--	Terminal	500
+roues	Word	--	Terminal	501
+battaient	Word	--	Terminal	502
+la	Word	--	Terminal	503
+mer	Word	--	Terminal	504
+avec	Word	--	Terminal	505
+une	Word	--	Terminal	506
+régularité	Word	--	Terminal	507
+parfaite	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	C	510
+#502	FN	--	P	514
+#503	FN	--	F	511
+#504	FN	--	C	511
+#505	FN	--	R	513
+#506	FN	--	F	512
+#507	FN	--	C	512
+#508	FN	--	D	513
+#509	PNCT	--	U	513
+#510	FN	--	A	514
+#511	FN	--	A	514
+#512	FN	--	S	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 3338002

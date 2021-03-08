@@ -1,0 +1,93 @@
+#BOS 3217004
+Or	Word	--	Terminal	500
+la	Word	--	Terminal	501
+mer	Word	--	Terminal	502
+est	Word	--	Terminal	503
+précisément	Word	--	Terminal	504
+leur	Word	--	Terminal	505
+meilleur	Word	--	Terminal	506
+véhicule	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+le	Word	--	Terminal	509
+seul	Word	--	Terminal	510
+milieu	Word	--	Terminal	511
+où	Word	--	Terminal	512
+ces	Word	--	Terminal	513
+géants	Word	--	Terminal	514
+près	Word	--	Terminal	515
+desquels	Word	--	Terminal	516
+les	Word	--	Terminal	517
+animaux	Word	--	Terminal	518
+terrestres	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+éléphants	Word	--	Terminal	521
+ou	Word	--	Terminal	522
+rhinocéros	Word	--	Terminal	523
+,	Punctuation	--	Terminal	524
+ne	Word	--	Terminal	525
+sont	Word	--	Terminal	526
+que	Word	--	Terminal	525
+des	Word	--	Terminal	527
+nains	Word	--	Terminal	528
+,	Punctuation	--	Terminal	529
+-	Punctuation	--	Terminal	530
+puissent	Word	--	Terminal	531
+se	Word	--	Terminal	532
+produire	Word	--	Terminal	532
+et	Word	--	Terminal	533
+se	Word	--	Terminal	534
+développer	Word	--	Terminal	534
+.	Punctuation	--	Terminal	535
+#500	FN	--	L	551
+#501	FN	--	F	536
+#502	FN	--	C	536
+#503	FN	--	S	550
+#504	FN	--	D	550
+#505	FN	--	E	549
+#506	FN	--	S	537
+#507	FN	--	C	549	A*	537
+#508	PNCT	--	U	549
+#509	FN	--	F	548
+#510	FN	--	E	548
+#511	FN	--	C	548	A*	545	A*	546
+#512	FN	--	R	547
+#513	FN	--	E	544
+#514	FN	--	C	544	C*	538
+#515	FN	--	R	538
+#516	FN	--	R	543
+#517	FN	--	F	542
+#518	FN	--	C	542	A*	539
+#519	FN	--	S	539
+#520	PNCT	--	U	542
+#521	FN	--	C	540
+#522	FN	--	N	540
+#523	FN	--	C	540
+#524	PNCT	--	U	543
+#525	FN	--	D	543
+#526	FN	--	S	543
+#527	FN	--	E	541
+#528	FN	--	C	541
+#529	PNCT	--	U	545
+#530	PNCT	--	U	545
+#531	FN	--	D	545	D*	546
+#532	FN	--	P	545
+#533	FN	--	L	547
+#534	FN	--	P	546
+#535	PNCT	--	U	546
+#536	FN	--	A	550
+#537	FN	--	E	549
+#538	FN	--	A	543
+#539	FN	--	E	542
+#540	FN	--	E	542
+#541	FN	--	A	543
+#542	FN	--	A	543
+#543	FN	--	E	544
+#544	FN	--	A	545	A*	546
+#545	FN	--	H	547
+#546	FN	--	H	547
+#547	FN	--	E	548
+#548	FN	--	E	549
+#549	FN	--	A	550
+#550	FN	--	H	551
+#551	FN	--	--	0
+#EOS 3217004

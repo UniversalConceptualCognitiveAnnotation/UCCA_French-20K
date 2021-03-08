@@ -1,0 +1,32 @@
+#BOS 3320001
+Et	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+pour	Word	--	Terminal	502
+tout	Word	--	Terminal	503
+dire	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+on	Word	--	Terminal	506
+ne	Word	--	Terminal	507
+vivait	Word	--	Terminal	508
+plus	Word	--	Terminal	509
+à	Word	--	Terminal	510
+bord	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	516
+#501	PNCT	--	U	516
+#502	FN	--	R	513
+#503	FN	--	A	513
+#504	FN	--	P	513
+#505	PNCT	--	U	515
+#506	FN	--	A	515
+#507	FN	--	D	515
+#508	FN	--	P	515
+#509	FN	--	T	515
+#510	FN	--	R	514
+#511	FN	--	C	514
+#512	PNCT	--	U	514
+#513	FN	--	G	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 3320001

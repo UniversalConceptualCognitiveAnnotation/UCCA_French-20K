@@ -1,0 +1,24 @@
+#BOS 3320004
+On	Word	--	Terminal	500
+ne	Word	--	Terminal	501
+mangeait	Word	--	Terminal	502
+pas	Word	--	Terminal	501
+,	Punctuation	--	Terminal	503
+on	Word	--	Terminal	504
+ne	Word	--	Terminal	505
+dormait	Word	--	Terminal	506
+plus	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509
+#501	FN	--	D	509
+#502	FN	--	P	509
+#503	PNCT	--	U	511
+#504	FN	--	A	510
+#505	FN	--	D	510
+#506	FN	--	P	510
+#507	FN	--	T	510
+#508	PNCT	--	U	510
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 3320004

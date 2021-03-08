@@ -1,0 +1,17 @@
+#BOS 3273001
+Mais	Word	--	Terminal	500
+il	Word	--	Terminal	501
+avait	Word	--	Terminal	502
+mieux	Word	--	Terminal	503
+encore	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	L	508
+#501	FN	--	A	507
+#502	FN	--	P	507
+#503	FN	--	S	506
+#504	FN	--	D	506
+#505	PNCT	--	U	506
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 3273001

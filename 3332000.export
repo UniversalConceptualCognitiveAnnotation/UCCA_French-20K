@@ -1,0 +1,44 @@
+#BOS 3332000
+En	Word	--	Terminal	500
+observant	Word	--	Terminal	501
+Conseil	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+je	Word	--	Terminal	504
+constatai	Word	--	Terminal	505
+que	Word	--	Terminal	506
+ce	Word	--	Terminal	507
+brave	Word	--	Terminal	508
+garçon	Word	--	Terminal	509
+subissait	Word	--	Terminal	510
+tant	Word	--	Terminal	511
+soit	Word	--	Terminal	511
+peu	Word	--	Terminal	511
+l'	Word	--	Terminal	512
+influence	Word	--	Terminal	513
+générale	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	523
+#501	FN	--	P	516
+#502	FN	--	A	516
+#503	PNCT	--	U	516
+#504	FN	--	A	522	A*	516
+#505	FN	--	P	522
+#506	FN	--	R	521
+#507	FN	--	E	518
+#508	FN	--	S	517
+#509	FN	--	C	518	A*	517
+#510	FN	--	P	521
+#511	FN	--	D	521
+#512	FN	--	F	519
+#513	FN	--	C	519
+#514	FN	--	D	520
+#515	PNCT	--	U	520
+#516	FN	--	H	523
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	S	520
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 3332000

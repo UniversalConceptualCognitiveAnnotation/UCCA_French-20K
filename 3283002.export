@@ -1,0 +1,48 @@
+#BOS 3283002
+Puis	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+voyant	Word	--	Terminal	502
+que	Word	--	Terminal	503
+Ned	Word	--	Terminal	504
+me	Word	--	Terminal	505
+laissait	Word	--	Terminal	506
+parler	Word	--	Terminal	507
+sans	Word	--	Terminal	508
+trop	Word	--	Terminal	509
+rien	Word	--	Terminal	510
+dire	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+je	Word	--	Terminal	513
+le	Word	--	Terminal	514
+poussai	Word	--	Terminal	515
+plus	Word	--	Terminal	516
+directement	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	526
+#501	PNCT	--	U	526
+#502	FN	--	P	525
+#503	FN	--	R	524
+#504	FN	--	A	519	A*	521
+#505	FN	--	A	519
+#506	FN	--	D	519
+#507	FN	--	P	519
+#508	FN	--	L	524	D*	521
+#509	FN	--	C	520
+#510	FN	--	C	520
+#511	FN	--	P	521
+#512	PNCT	--	U	525
+#513	FN	--	A	523	A*	525
+#514	FN	--	A	523
+#515	FN	--	P	523
+#516	FN	--	E	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	H	524
+#520	FN	--	A	521
+#521	FN	--	H	524
+#522	FN	--	D	523
+#523	FN	--	H	526
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 3283002

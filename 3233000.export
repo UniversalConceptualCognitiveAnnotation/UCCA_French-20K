@@ -1,0 +1,51 @@
+#BOS 3233000
+À	Word	--	Terminal	500
+se	Word	--	Terminal	501
+frotter	Word	--	Terminal	501
+aux	Word	--	Terminal	502
+savants	Word	--	Terminal	503
+de	Word	--	Terminal	504
+notre	Word	--	Terminal	505
+petit	Word	--	Terminal	506
+monde	Word	--	Terminal	507
+du	Word	--	Terminal	508
+Jardin	Word	--	Terminal	509
+des	Word	--	Terminal	509
+Plantes	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+Conseil	Word	--	Terminal	511
+en	Word	--	Terminal	512
+était	Word	--	Terminal	512
+venu	Word	--	Terminal	512
+à	Word	--	Terminal	513
+savoir	Word	--	Terminal	514
+quelque	Word	--	Terminal	515
+chose	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	525
+#501	FN	--	P	524
+#502	FN	--	R	523
+#503	FN	--	A	517
+#504	FN	--	R	522
+#505	FN	--	A	518
+#506	FN	--	S	519
+#507	FN	--	C	522	A*	518	A*	519
+#508	FN	--	R	520
+#509	FN	--	C	520
+#510	PNCT	--	U	524
+#511	FN	--	A	521	A*	524
+#512	FN	--	D	521
+#513	FN	--	F	521
+#514	FN	--	P	521
+#515	FN	--	A	521
+#516	PNCT	--	U	521
+#517	FN	--	C	523
+#518	FN	--	E	522
+#519	FN	--	E	522
+#520	FN	--	E	522
+#521	FN	--	H	525
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 3233000

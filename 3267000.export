@@ -1,0 +1,45 @@
+#BOS 3267000
+﻿	Punctuation	--	Terminal	500
+Le	Word	--	Terminal	501
+commandant	Word	--	Terminal	502
+Farragut	Word	--	Terminal	503
+était	Word	--	Terminal	504
+un	Word	--	Terminal	505
+bon	Word	--	Terminal	506
+marin	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+digne	Word	--	Terminal	509
+de	Word	--	Terminal	510
+la	Word	--	Terminal	511
+frégate	Word	--	Terminal	512
+qu'	Word	--	Terminal	513
+il	Word	--	Terminal	514
+commandait	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	PNCT	--	U	525
+#501	FN	--	F	518
+#502	FN	--	A	517
+#503	FN	--	C	518	A*	524
+#504	FN	--	S	523
+#505	FN	--	F	519
+#506	FN	--	D	520
+#507	FN	--	C	519
+#508	PNCT	--	U	525
+#509	FN	--	S	524
+#510	FN	--	R	522
+#511	FN	--	F	522
+#512	FN	--	C	522	A*	521
+#513	FN	--	R	521
+#514	FN	--	A	521
+#515	FN	--	P	521
+#516	PNCT	--	U	521
+#517	FN	--	E	518
+#518	FN	--	A	523
+#519	FN	--	A	520
+#520	FN	--	A	523
+#521	FN	--	E	522
+#522	FN	--	A	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 3267000

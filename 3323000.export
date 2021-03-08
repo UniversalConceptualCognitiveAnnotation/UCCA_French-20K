@@ -1,0 +1,47 @@
+#BOS 3323000
+Avec	Word	--	Terminal	500
+la	Word	--	Terminal	501
+mobilité	Word	--	Terminal	502
+naturelle	Word	--	Terminal	503
+à	Word	--	Terminal	504
+l'	Word	--	Terminal	505
+esprit	Word	--	Terminal	506
+humain	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+d'	Word	--	Terminal	509
+un	Word	--	Terminal	510
+excès	Word	--	Terminal	511
+on	Word	--	Terminal	512
+se	Word	--	Terminal	513
+jeta	Word	--	Terminal	513
+dans	Word	--	Terminal	514
+un	Word	--	Terminal	515
+autre	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	523
+#501	FN	--	F	518
+#502	FN	--	C	518
+#503	FN	--	D	523
+#504	FN	--	R	522
+#505	FN	--	F	522
+#506	FN	--	C	522	A*	519
+#507	FN	--	S	519
+#508	PNCT	--	U	524
+#509	FN	--	R	520
+#510	FN	--	F	520
+#511	FN	--	C	520	C*	521
+#512	FN	--	A	524
+#513	FN	--	P	524
+#514	FN	--	R	521
+#515	FN	--	F	521
+#516	FN	--	E	521
+#517	PNCT	--	U	521
+#518	FN	--	S	523
+#519	FN	--	E	522
+#520	FN	--	A	524
+#521	FN	--	A	524
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 3323000

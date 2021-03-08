@@ -1,0 +1,56 @@
+#BOS 3297005
+Mais	Word	--	Terminal	500
+s'	Word	--	Terminal	501
+ils	Word	--	Terminal	502
+n'	Word	--	Terminal	503
+existent	Word	--	Terminal	504
+pas	Word	--	Terminal	503
+,	Punctuation	--	Terminal	505
+entêté	Word	--	Terminal	506
+harponneur	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+comment	Word	--	Terminal	509
+expliquez	Word	--	Terminal	510
+-	Punctuation	--	Terminal	511
+vous	Word	--	Terminal	512
+l'	Word	--	Terminal	513
+accident	Word	--	Terminal	514
+arrivé	Word	--	Terminal	515
+au	Word	--	Terminal	516
+Scotia	Word	--	Terminal	517
+?	Punctuation	--	Terminal	518
+-	Punctuation	--	Terminal	519
+#500	FN	--	L	528
+#501	FN	--	L	528
+#502	FN	--	A	526
+#503	FN	--	D	526
+#504	FN	--	S	526
+#505	PNCT	--	U	526
+#506	FN	--	S	522
+#507	FN	--	A	520
+#508	PNCT	--	U	528
+#509	FN	--	D	527
+#510	FN	--	P	527
+#511	PNCT	--	U	527
+#512	FN	--	A	527
+#513	FN	--	F	525
+#514	FN	--	C	525	A*	523
+#515	FN	--	P	523
+#516	FN	--	R	521
+#517	FN	--	C	521
+#518	PNCT	--	U	521
+#519	PNCT	--	U	521
+#520	FN	--	C	524	A*	522
+#521	FN	--	A	523
+#522	FN	--	E	524
+#523	FN	--	E	525
+#524	FN	--	G	526
+#525	FN	--	A	527
+#526	FN	--	H	528
+#527	FN	--	H	528
+#528	FN	--	A	531
+#529	FN	--	P	531
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 3297005

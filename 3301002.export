@@ -1,0 +1,22 @@
+#BOS 3301002
+La	Word	--	Terminal	500
+question	Word	--	Terminal	501
+prit	Word	--	Terminal	502
+une	Word	--	Terminal	503
+tout	Word	--	Terminal	504
+autre	Word	--	Terminal	505
+face	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	F	508
+#501	FN	--	C	508
+#502	FN	--	P	510
+#503	FN	--	F	509
+#504	FN	--	E	509
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 3301002

@@ -1,0 +1,33 @@
+#BOS 3235001
+Qu'	Word	--	Terminal	500
+on	Word	--	Terminal	501
+m'	Word	--	Terminal	502
+excuse	Word	--	Terminal	503
+de	Word	--	Terminal	504
+dire	Word	--	Terminal	505
+ainsi	Word	--	Terminal	506
+que	Word	--	Terminal	507
+j'	Word	--	Terminal	508
+avais	Word	--	Terminal	509
+quarante	Word	--	Terminal	510
+ans	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	A	514
+#502	FN	--	A	514	A*	513
+#503	FN	--	P	514
+#504	FN	--	F	513
+#505	FN	--	P	513
+#506	FN	--	D	513
+#507	FN	--	L	517
+#508	FN	--	A	516
+#509	FN	--	S	516
+#510	FN	--	Q	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	T	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 3235001

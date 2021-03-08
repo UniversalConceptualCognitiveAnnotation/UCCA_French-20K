@@ -1,0 +1,43 @@
+#BOS 3301003
+Le	Word	--	Terminal	500
+monstre	Word	--	Terminal	501
+redevint	Word	--	Terminal	502
+îlot	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+rocher	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+écueil	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+mais	Word	--	Terminal	509
+écueil	Word	--	Terminal	510
+fuyant	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+indéterminable	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+insaisissable	Word	--	Terminal	515
+#500	FN	--	F	516
+#501	FN	--	C	516	A*	523	A*	517	A*	518
+#502	FN	--	P	521	P*	523	D*	517	D*	518
+#503	FN	--	C	519
+#504	PNCT	--	U	519
+#505	FN	--	C	519
+#506	PNCT	--	U	519
+#507	FN	--	C	519
+#508	PNCT	--	U	524
+#509	FN	--	L	524
+#510	FN	--	C	522	A*	520
+#511	FN	--	S	520
+#512	PNCT	--	U	524
+#513	FN	--	S	517
+#514	PNCT	--	U	524
+#515	FN	--	S	518
+#516	FN	--	A	521
+#517	FN	--	H	524
+#518	FN	--	H	524
+#519	FN	--	A	521
+#520	FN	--	E	522
+#521	FN	--	H	524
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 3301003

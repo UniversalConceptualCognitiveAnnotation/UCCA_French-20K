@@ -1,0 +1,42 @@
+#BOS 3234001
+Jamais	Word	--	Terminal	500
+une	Word	--	Terminal	501
+réflexion	Word	--	Terminal	502
+de	Word	--	Terminal	503
+lui	Word	--	Terminal	504
+sur	Word	--	Terminal	505
+la	Word	--	Terminal	506
+longueur	Word	--	Terminal	507
+ou	Word	--	Terminal	508
+la	Word	--	Terminal	509
+fatigue	Word	--	Terminal	510
+d'	Word	--	Terminal	511
+un	Word	--	Terminal	512
+voyage	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	T	523
+#501	FN	--	F	515
+#502	FN	--	C	515
+#503	FN	--	R	516
+#504	FN	--	C	516
+#505	FN	--	R	522
+#506	FN	--	F	517
+#507	FN	--	C	517
+#508	FN	--	L	521
+#509	FN	--	F	518
+#510	FN	--	C	518
+#511	FN	--	R	522
+#512	FN	--	F	522
+#513	FN	--	C	522	A*	519	A*	520
+#514	PNCT	--	U	522
+#515	FN	--	P	523
+#516	FN	--	A	523
+#517	FN	--	S	519
+#518	FN	--	S	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 3234001

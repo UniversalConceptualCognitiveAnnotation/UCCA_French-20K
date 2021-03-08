@@ -1,0 +1,16 @@
+#BOS 3194002
+Ce	Word	--	Terminal	500
+mystère	Word	--	Terminal	501
+m'	Word	--	Terminal	502
+intriguait	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	E	505
+#501	FN	--	C	505
+#502	FN	--	A	507
+#503	FN	--	P	507
+#504	PNCT	--	U	507
+#505	FN	--	S	506
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 3194002

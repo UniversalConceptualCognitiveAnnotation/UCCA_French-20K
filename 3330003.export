@@ -1,0 +1,20 @@
+#BOS 3330003
+On	Word	--	Terminal	500
+venait	Word	--	Terminal	501
+de	Word	--	Terminal	502
+piquer	Word	--	Terminal	503
+huit	Word	--	Terminal	504
+heures	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	509
+#501	FN	--	D	509
+#502	FN	--	R	507
+#503	FN	--	C	507
+#504	FN	--	Q	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	P	509
+#508	FN	--	T	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 3330003

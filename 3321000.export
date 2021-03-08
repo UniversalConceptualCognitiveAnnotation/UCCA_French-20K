@@ -1,0 +1,31 @@
+#BOS 3321000
+Et	Word	--	Terminal	500
+en	Word	--	Terminal	501
+effet	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+la	Word	--	Terminal	504
+réaction	Word	--	Terminal	505
+ne	Word	--	Terminal	506
+tarda	Word	--	Terminal	506
+pas	Word	--	Terminal	506
+à	Word	--	Terminal	507
+se	Word	--	Terminal	508
+produire	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	515
+#501	FN	--	R	510
+#502	FN	--	C	510
+#503	PNCT	--	U	515
+#504	FN	--	F	511
+#505	FN	--	C	511
+#506	FN	--	D	514
+#507	FN	--	R	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	L	515
+#511	FN	--	P	513
+#512	FN	--	P	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 3321000

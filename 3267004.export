@@ -1,0 +1,49 @@
+#BOS 3267004
+Il	Word	--	Terminal	500
+y	Word	--	Terminal	501
+croyait	Word	--	Terminal	502
+comme	Word	--	Terminal	503
+certaines	Word	--	Terminal	504
+bonnes	Word	--	Terminal	505
+femmes	Word	--	Terminal	506
+croient	Word	--	Terminal	507
+au	Word	--	Terminal	508
+Léviathan	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+par	Word	--	Terminal	512
+foi	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+non	Word	--	Terminal	515
+par	Word	--	Terminal	516
+raison	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	524	A*	526
+#501	FN	--	A	524	A*	526
+#502	FN	--	P	524	P*	526
+#503	FN	--	L	527
+#504	FN	--	E	520
+#505	FN	--	S	519
+#506	FN	--	C	520	A*	519
+#507	FN	--	P	525
+#508	FN	--	R	521
+#509	FN	--	C	521
+#510	PNCT	--	U	527
+#511	PNCT	--	U	527
+#512	FN	--	R	522
+#513	FN	--	S	522
+#514	PNCT	--	U	527
+#515	FN	--	D	526
+#516	FN	--	R	523
+#517	FN	--	C	523
+#518	PNCT	--	U	523
+#519	FN	--	E	520
+#520	FN	--	A	525
+#521	FN	--	A	525
+#522	FN	--	A	524
+#523	FN	--	A	526
+#524	FN	--	H	527
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 3267004

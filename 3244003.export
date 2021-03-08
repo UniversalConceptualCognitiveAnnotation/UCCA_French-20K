@@ -1,0 +1,57 @@
+#BOS 3244003
+Je	Word	--	Terminal	500
+donnai	Word	--	Terminal	501
+l'	Word	--	Terminal	502
+ordre	Word	--	Terminal	503
+d'	Word	--	Terminal	504
+expédier	Word	--	Terminal	505
+pour	Word	--	Terminal	506
+Paris	Word	--	Terminal	507
+(	Punctuation	--	Terminal	508
+France	Word	--	Terminal	509
+)	Punctuation	--	Terminal	510
+mes	Word	--	Terminal	511
+ballots	Word	--	Terminal	512
+d'	Word	--	Terminal	513
+animaux	Word	--	Terminal	514
+empaillés	Word	--	Terminal	515
+et	Word	--	Terminal	516
+de	Word	--	Terminal	517
+plantes	Word	--	Terminal	518
+desséchées	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	532
+#501	FN	--	E	521
+#502	FN	--	F	521
+#503	FN	--	C	521
+#504	FN	--	F	531
+#505	FN	--	P	531
+#506	FN	--	R	522
+#507	FN	--	C	522
+#508	PNCT	--	U	522
+#509	FN	--	E	522
+#510	PNCT	--	U	531
+#511	FN	--	A	523
+#512	FN	--	C	530	A*	523
+#513	FN	--	R	527
+#514	FN	--	C	527	A*	524
+#515	FN	--	S	524
+#516	FN	--	N	529
+#517	FN	--	R	528
+#518	FN	--	C	528	A*	525
+#519	FN	--	S	525
+#520	PNCT	--	U	525
+#521	FN	--	P	532
+#522	FN	--	A	531
+#523	FN	--	E	530
+#524	FN	--	E	527
+#525	FN	--	E	528
+#526	FN	--	A	531
+#527	FN	--	C	529
+#528	FN	--	C	529
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 3244003

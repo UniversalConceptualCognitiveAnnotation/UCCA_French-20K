@@ -1,0 +1,39 @@
+#BOS 3323001
+Les	Word	--	Terminal	500
+plus	Word	--	Terminal	501
+chauds	Word	--	Terminal	502
+partisans	Word	--	Terminal	503
+de	Word	--	Terminal	504
+l'	Word	--	Terminal	505
+entreprise	Word	--	Terminal	506
+devinrent	Word	--	Terminal	507
+fatalement	Word	--	Terminal	508
+ses	Word	--	Terminal	509
+plus	Word	--	Terminal	510
+ardents	Word	--	Terminal	511
+détracteurs	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	518
+#501	FN	--	D	514
+#502	FN	--	S	514
+#503	FN	--	C	518	A*	514
+#504	FN	--	R	517
+#505	FN	--	F	515
+#506	FN	--	C	515
+#507	FN	--	P	521
+#508	FN	--	D	521
+#509	FN	--	E	520
+#510	FN	--	D	519
+#511	FN	--	S	519
+#512	FN	--	A	516
+#513	PNCT	--	U	516
+#514	FN	--	E	518
+#515	FN	--	P	517
+#516	FN	--	C	520	A*	519
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 3323001

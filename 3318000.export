@@ -1,0 +1,24 @@
+#BOS 3318000
+À	Word	--	Terminal	500
+cela	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+je	Word	--	Terminal	503
+ne	Word	--	Terminal	504
+savais	Word	--	Terminal	505
+que	Word	--	Terminal	506
+répondre	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	R	509
+#501	FN	--	C	509
+#502	PNCT	--	U	511
+#503	FN	--	A	511	A*	510
+#504	FN	--	D	511
+#505	FN	--	P	511
+#506	FN	--	A	510
+#507	FN	--	P	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 3318000

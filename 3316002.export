@@ -1,0 +1,46 @@
+#BOS 3316002
+Mais	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+huit	Word	--	Terminal	502
+heures	Word	--	Terminal	503
+sur	Word	--	Terminal	504
+douze	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+cet	Word	--	Terminal	507
+entêté	Word	--	Terminal	508
+Canadien	Word	--	Terminal	509
+lisait	Word	--	Terminal	510
+ou	Word	--	Terminal	511
+dormait	Word	--	Terminal	512
+dans	Word	--	Terminal	513
+sa	Word	--	Terminal	514
+cabine	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	526
+#501	PNCT	--	U	526
+#502	FN	--	Q	518
+#503	FN	--	C	518	C*	517
+#504	FN	--	R	517
+#505	FN	--	Q	517
+#506	PNCT	--	U	524
+#507	FN	--	E	523
+#508	FN	--	S	522
+#509	FN	--	A	519
+#510	FN	--	P	524
+#511	FN	--	L	526
+#512	FN	--	P	525
+#513	FN	--	R	521
+#514	FN	--	A	520
+#515	FN	--	C	521	A*	520
+#516	PNCT	--	U	521
+#517	FN	--	E	518
+#518	FN	--	T	524	T*	525
+#519	FN	--	C	523	A*	522
+#520	FN	--	E	521
+#521	FN	--	A	524	A*	525
+#522	FN	--	E	523
+#523	FN	--	A	524	A*	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 3316002

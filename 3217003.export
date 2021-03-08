@@ -1,0 +1,34 @@
+#BOS 3217003
+L'	Word	--	Terminal	500
+esprit	Word	--	Terminal	501
+humain	Word	--	Terminal	502
+se	Word	--	Terminal	503
+plaît	Word	--	Terminal	503
+à	Word	--	Terminal	504
+ces	Word	--	Terminal	505
+conceptions	Word	--	Terminal	506
+grandioses	Word	--	Terminal	507
+d'	Word	--	Terminal	508
+êtres	Word	--	Terminal	509
+surnaturels	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	F	513
+#501	FN	--	C	513	A*	512
+#502	FN	--	S	512
+#503	FN	--	P	517
+#504	FN	--	R	516
+#505	FN	--	E	514
+#506	FN	--	C	514
+#507	FN	--	D	516
+#508	FN	--	R	515
+#509	FN	--	A	515
+#510	FN	--	D	515
+#511	PNCT	--	U	515
+#512	FN	--	E	513
+#513	FN	--	A	517
+#514	FN	--	S	516
+#515	FN	--	A	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 3217003

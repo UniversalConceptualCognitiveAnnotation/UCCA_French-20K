@@ -1,0 +1,47 @@
+#BOS 3217008
+Le	Word	--	Terminal	500
+Créateur	Word	--	Terminal	501
+les	Word	--	Terminal	502
+avait	Word	--	Terminal	503
+jetés	Word	--	Terminal	504
+dans	Word	--	Terminal	505
+un	Word	--	Terminal	506
+moule	Word	--	Terminal	507
+colossal	Word	--	Terminal	508
+que	Word	--	Terminal	509
+le	Word	--	Terminal	510
+temps	Word	--	Terminal	511
+a	Word	--	Terminal	512
+réduit	Word	--	Terminal	513
+peu	Word	--	Terminal	514
+à	Word	--	Terminal	515
+peu	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	F	518
+#501	FN	--	C	518
+#502	FN	--	A	525
+#503	FN	--	F	525
+#504	FN	--	P	525
+#505	FN	--	R	524
+#506	FN	--	F	524
+#507	FN	--	C	524	A*	519	A*	523
+#508	FN	--	S	519
+#509	FN	--	R	523
+#510	FN	--	F	520
+#511	FN	--	C	520
+#512	FN	--	F	523
+#513	FN	--	P	523
+#514	FN	--	C	521
+#515	FN	--	R	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	A	522
+#519	FN	--	E	524
+#520	FN	--	A	523
+#521	FN	--	D	523
+#522	FN	--	A	525
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 3217008

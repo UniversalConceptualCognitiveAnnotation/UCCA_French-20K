@@ -1,0 +1,46 @@
+#BOS 3303004
+Le	Word	--	Terminal	500
+relèvement	Word	--	Terminal	501
+du	Word	--	Terminal	502
+lieu	Word	--	Terminal	503
+fut	Word	--	Terminal	504
+exactement	Word	--	Terminal	505
+pris	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+et	Word	--	Terminal	508
+le	Word	--	Terminal	509
+Moravian	Word	--	Terminal	510
+continua	Word	--	Terminal	511
+sa	Word	--	Terminal	512
+route	Word	--	Terminal	513
+sans	Word	--	Terminal	514
+avaries	Word	--	Terminal	515
+apparentes	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	F	522
+#501	FN	--	C	522
+#502	FN	--	R	518
+#503	FN	--	C	518
+#504	FN	--	F	523
+#505	FN	--	D	523
+#506	FN	--	P	523
+#507	PNCT	--	U	525
+#508	FN	--	L	525
+#509	FN	--	F	519
+#510	FN	--	C	519	A*	520
+#511	FN	--	P	524
+#512	FN	--	E	521
+#513	FN	--	C	521
+#514	FN	--	L	525	D*	520
+#515	FN	--	P	520
+#516	FN	--	D	520
+#517	PNCT	--	U	520
+#518	FN	--	E	522
+#519	FN	--	A	524
+#520	FN	--	H	525
+#521	FN	--	A	524
+#522	FN	--	A	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 3303004

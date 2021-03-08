@@ -1,0 +1,39 @@
+#BOS 3227000
+Cependant	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+je	Word	--	Terminal	502
+revenais	Word	--	Terminal	503
+d'	Word	--	Terminal	504
+un	Word	--	Terminal	505
+pénible	Word	--	Terminal	506
+voyage	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+fatigué	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+avide	Word	--	Terminal	511
+de	Word	--	Terminal	512
+repos	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	521
+#501	PNCT	--	U	521
+#502	FN	--	A	519	A*	515	A*	520
+#503	FN	--	P	519
+#504	FN	--	R	517
+#505	FN	--	F	516
+#506	FN	--	D	517
+#507	FN	--	C	516
+#508	PNCT	--	U	521
+#509	FN	--	S	515
+#510	PNCT	--	U	521
+#511	FN	--	D	520
+#512	FN	--	R	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	H	521
+#516	FN	--	P	517
+#517	FN	--	A	519
+#518	FN	--	S	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 3227000

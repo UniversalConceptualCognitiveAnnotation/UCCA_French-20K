@@ -1,0 +1,24 @@
+#BOS 3316003
+Cent	Word	--	Terminal	500
+fois	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+je	Word	--	Terminal	503
+lui	Word	--	Terminal	504
+reprochai	Word	--	Terminal	505
+son	Word	--	Terminal	506
+indifférence	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	Q	509
+#501	FN	--	C	509
+#502	PNCT	--	U	511
+#503	FN	--	A	511
+#504	FN	--	A	511
+#505	FN	--	P	511
+#506	FN	--	A	510
+#507	FN	--	S	510
+#508	PNCT	--	U	510
+#509	FN	--	D	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 3316003

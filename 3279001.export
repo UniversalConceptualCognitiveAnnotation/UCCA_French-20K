@@ -1,0 +1,63 @@
+#BOS 3279001
+C'	Word	--	Terminal	500
+est	Word	--	Terminal	500
+que	Word	--	Terminal	500
+nous	Word	--	Terminal	501
+sommes	Word	--	Terminal	502
+devenus	Word	--	Terminal	503
+de	Word	--	Terminal	504
+vieux	Word	--	Terminal	505
+amis	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+unis	Word	--	Terminal	508
+de	Word	--	Terminal	509
+cette	Word	--	Terminal	510
+inaltérable	Word	--	Terminal	511
+amitié	Word	--	Terminal	512
+qui	Word	--	Terminal	513
+naît	Word	--	Terminal	514
+et	Word	--	Terminal	515
+se	Word	--	Terminal	516
+cimente	Word	--	Terminal	516
+dans	Word	--	Terminal	517
+les	Word	--	Terminal	518
+plus	Word	--	Terminal	519
+effrayantes	Word	--	Terminal	520
+conjonctures	Word	--	Terminal	521
+!	Punctuation	--	Terminal	522
+#500	FN	--	F	528
+#501	FN	--	A	528	A*	533
+#502	FN	--	F	528
+#503	FN	--	S	528
+#504	FN	--	F	523
+#505	FN	--	D	523
+#506	FN	--	A	523
+#507	PNCT	--	U	534
+#508	FN	--	P	533
+#509	FN	--	R	532
+#510	FN	--	E	524
+#511	FN	--	D	525
+#512	FN	--	C	524	A*	529	A*	530
+#513	FN	--	R	531
+#514	FN	--	P	529
+#515	FN	--	L	531
+#516	FN	--	P	530
+#517	FN	--	R	527
+#518	FN	--	F	527
+#519	FN	--	E	527
+#520	FN	--	S	526
+#521	FN	--	C	527	A*	526
+#522	PNCT	--	U	527
+#523	FN	--	A	528
+#524	FN	--	S	525
+#525	FN	--	C	532
+#526	FN	--	E	527
+#527	FN	--	A	529	A*	530
+#528	FN	--	H	534
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	E	532
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 3279001

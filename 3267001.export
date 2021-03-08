@@ -1,0 +1,24 @@
+#BOS 3267001
+Son	Word	--	Terminal	500
+navire	Word	--	Terminal	501
+et	Word	--	Terminal	502
+lui	Word	--	Terminal	503
+ne	Word	--	Terminal	504
+faisaient	Word	--	Terminal	505
+qu'	Word	--	Terminal	504
+un	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	508
+#501	FN	--	C	509	A*	508
+#502	FN	--	N	510
+#503	FN	--	C	510
+#504	FN	--	D	511
+#505	FN	--	P	511
+#506	FN	--	A	511
+#507	PNCT	--	U	511
+#508	FN	--	E	509
+#509	FN	--	C	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 3267001

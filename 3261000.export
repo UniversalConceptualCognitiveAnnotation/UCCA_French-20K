@@ -1,0 +1,64 @@
+#BOS 3261000
+Trois	Word	--	Terminal	500
+heures	Word	--	Terminal	501
+sonnaient	Word	--	Terminal	502
+alors	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+Le	Word	--	Terminal	505
+pilote	Word	--	Terminal	506
+descendit	Word	--	Terminal	507
+dans	Word	--	Terminal	508
+son	Word	--	Terminal	509
+canot	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+et	Word	--	Terminal	512
+rejoignit	Word	--	Terminal	513
+la	Word	--	Terminal	514
+petite	Word	--	Terminal	515
+goélette	Word	--	Terminal	516
+qui	Word	--	Terminal	517
+l'	Word	--	Terminal	518
+attendait	Word	--	Terminal	519
+sous	Word	--	Terminal	520
+le	Word	--	Terminal	521
+vent	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	C	524
+#501	FN	--	C	524
+#502	FN	--	P	531
+#503	FN	--	L	537
+#504	PNCT	--	U	537
+#505	FN	--	F	525
+#506	FN	--	C	525	A*	536
+#507	FN	--	P	533
+#508	FN	--	R	527
+#509	FN	--	A	526
+#510	FN	--	C	527	A*	526
+#511	PNCT	--	U	537
+#512	FN	--	L	537
+#513	FN	--	P	536
+#514	FN	--	F	535
+#515	FN	--	S	528
+#516	FN	--	C	535	A*	528	A*	534
+#517	FN	--	R	534
+#518	FN	--	A	534
+#519	FN	--	P	534
+#520	FN	--	R	529
+#521	FN	--	F	529
+#522	FN	--	C	529
+#523	PNCT	--	U	529
+#524	FN	--	T	531
+#525	FN	--	A	532
+#526	FN	--	E	527
+#527	FN	--	A	533
+#528	FN	--	E	535
+#529	FN	--	A	534
+#530	FN	--	A	531
+#531	FN	--	H	537
+#532	FN	--	A	533
+#533	FN	--	H	537
+#534	FN	--	E	535
+#535	FN	--	A	536
+#536	FN	--	H	537
+#537	FN	--	--	0
+#EOS 3261000

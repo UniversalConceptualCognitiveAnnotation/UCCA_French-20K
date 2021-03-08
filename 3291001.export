@@ -1,0 +1,28 @@
+#BOS 3291001
+La	Word	--	Terminal	500
+«	Punctuation	--	Terminal	501
+question	Word	--	Terminal	502
+du	Word	--	Terminal	503
+monstre	Word	--	Terminal	504
+»	Punctuation	--	Terminal	505
+enflamma	Word	--	Terminal	506
+les	Word	--	Terminal	507
+esprits	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	F	513
+#501	PNCT	--	U	513
+#502	FN	--	S	512
+#503	FN	--	R	510
+#504	FN	--	C	510
+#505	PNCT	--	U	514
+#506	FN	--	P	514
+#507	FN	--	F	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	A	512
+#511	FN	--	A	514
+#512	FN	--	C	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 3291001

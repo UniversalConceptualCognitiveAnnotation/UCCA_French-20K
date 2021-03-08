@@ -1,0 +1,15 @@
+#BOS 3231000
+Conseil	Word	--	Terminal	500
+était	Word	--	Terminal	501
+mon	Word	--	Terminal	502
+domestique	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	A	506
+#501	FN	--	S	506
+#502	FN	--	A	505
+#503	FN	--	A	505
+#504	PNCT	--	U	505
+#505	FN	--	A	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 3231000

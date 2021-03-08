@@ -1,0 +1,56 @@
+#BOS 3236001
+Formaliste	Word	--	Terminal	500
+enragé	Word	--	Terminal	501
+il	Word	--	Terminal	502
+ne	Word	--	Terminal	503
+me	Word	--	Terminal	504
+parlait	Word	--	Terminal	505
+jamais	Word	--	Terminal	506
+qu'	Word	--	Terminal	507
+à	Word	--	Terminal	508
+la	Word	--	Terminal	509
+troisième	Word	--	Terminal	510
+personne	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+au	Word	--	Terminal	514
+point	Word	--	Terminal	515
+d'	Word	--	Terminal	516
+en	Word	--	Terminal	517
+être	Word	--	Terminal	518
+agaçant	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	521
+#501	FN	--	S	522
+#502	FN	--	A	523	A*	528	A*	524
+#503	FN	--	D	523
+#504	FN	--	A	523	A*	528
+#505	FN	--	P	523	P*	528
+#506	FN	--	T	523
+#507	FN	--	L	532
+#508	FN	--	R	525
+#509	FN	--	F	525
+#510	FN	--	Q	525
+#511	FN	--	C	525
+#512	PNCT	--	U	532
+#513	PNCT	--	U	532
+#514	FN	--	R	526
+#515	FN	--	C	526
+#516	FN	--	R	524
+#517	FN	--	F	524
+#518	FN	--	F	524
+#519	FN	--	S	524
+#520	PNCT	--	U	524
+#521	FN	--	C	527	A*	522
+#522	FN	--	E	527
+#523	FN	--	H	532
+#524	FN	--	H	532
+#525	FN	--	A	528
+#526	FN	--	L	532
+#527	FN	--	A	531
+#528	FN	--	H	532
+#529	FN	--	A	531
+#530	FN	--	S	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 3236001

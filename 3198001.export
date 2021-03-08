@@ -1,0 +1,46 @@
+#BOS 3198001
+Qu'	Word	--	Terminal	500
+un	Word	--	Terminal	501
+simple	Word	--	Terminal	502
+particulier	Word	--	Terminal	503
+eût	Word	--	Terminal	504
+à	Word	--	Terminal	505
+sa	Word	--	Terminal	506
+disposition	Word	--	Terminal	507
+un	Word	--	Terminal	508
+tel	Word	--	Terminal	509
+engin	Word	--	Terminal	510
+mécanique	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+c'	Word	--	Terminal	513
+était	Word	--	Terminal	514
+peu	Word	--	Terminal	515
+probable	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	523
+#501	FN	--	F	519
+#502	FN	--	S	518
+#503	FN	--	C	519	A*	518
+#504	FN	--	F	523
+#505	FN	--	R	520
+#506	FN	--	E	520
+#507	FN	--	C	520
+#508	FN	--	F	522
+#509	FN	--	E	522
+#510	FN	--	C	522	A*	521
+#511	FN	--	S	521
+#512	PNCT	--	U	524
+#513	FN	--	F	524
+#514	FN	--	F	524
+#515	FN	--	D	524
+#516	FN	--	S	524
+#517	PNCT	--	U	524
+#518	FN	--	E	519
+#519	FN	--	A	523
+#520	FN	--	S	523
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 3198001

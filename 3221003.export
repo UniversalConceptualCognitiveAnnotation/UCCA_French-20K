@@ -1,0 +1,35 @@
+#BOS 3221003
+Il	Word	--	Terminal	500
+semblait	Word	--	Terminal	500
+que	Word	--	Terminal	501
+cette	Word	--	Terminal	502
+Licorne	Word	--	Terminal	503
+eût	Word	--	Terminal	504
+connaissance	Word	--	Terminal	505
+des	Word	--	Terminal	506
+complots	Word	--	Terminal	507
+qui	Word	--	Terminal	508
+se	Word	--	Terminal	509
+tramaient	Word	--	Terminal	509
+contre	Word	--	Terminal	510
+elle	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	G	516
+#501	FN	--	L	517
+#502	FN	--	E	513
+#503	FN	--	C	513
+#504	FN	--	F	516
+#505	FN	--	P	516
+#506	FN	--	R	515
+#507	FN	--	P	515
+#508	FN	--	F	515
+#509	FN	--	D	515
+#510	FN	--	R	514
+#511	FN	--	C	514
+#512	PNCT	--	U	514
+#513	FN	--	A	516
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 3221003

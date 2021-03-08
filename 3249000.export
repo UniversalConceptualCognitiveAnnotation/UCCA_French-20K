@@ -1,0 +1,36 @@
+#BOS 3249000
+L'	Word	--	Terminal	500
+Abraham	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+Lincoln	Word	--	Terminal	502
+avait	Word	--	Terminal	503
+été	Word	--	Terminal	504
+parfaitement	Word	--	Terminal	505
+choisi	Word	--	Terminal	506
+et	Word	--	Terminal	507
+aménagé	Word	--	Terminal	508
+pour	Word	--	Terminal	509
+sa	Word	--	Terminal	510
+destination	Word	--	Terminal	511
+nouvelle	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	PNCT	--	U	502
+#502	FN	--	C	514
+#503	FN	--	F	516
+#504	FN	--	F	516
+#505	FN	--	D	516	D*	517
+#506	FN	--	P	516
+#507	FN	--	L	518
+#508	FN	--	P	517
+#509	FN	--	R	515
+#510	FN	--	A	515
+#511	FN	--	S	515
+#512	FN	--	D	515
+#513	PNCT	--	U	515
+#514	FN	--	A	516	A*	517
+#515	FN	--	A	516	A*	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 3249000

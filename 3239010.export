@@ -1,0 +1,29 @@
+#BOS 3239010
+Et	Word	--	Terminal	500
+le	Word	--	Terminal	501
+babiroussa	Word	--	Terminal	502
+vivant	Word	--	Terminal	503
+de	Word	--	Terminal	504
+monsieur	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	L	514
+#501	FN	--	F	510
+#502	FN	--	C	510	A*	508
+#503	FN	--	S	508
+#504	FN	--	R	509
+#505	FN	--	C	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	FN	--	E	510
+#509	FN	--	E	510
+#510	FN	--	A	513
+#511	FN	--	A	513
+#512	FN	--	S	513
+#513	FN	--	H	514
+#514	FN	--	A	517
+#515	FN	--	A	517
+#516	FN	--	P	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 3239010

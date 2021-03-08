@@ -1,0 +1,34 @@
+#BOS 3279000
+Je	Word	--	Terminal	500
+dépeins	Word	--	Terminal	501
+maintenant	Word	--	Terminal	502
+ce	Word	--	Terminal	503
+hardi	Word	--	Terminal	504
+compagnon	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+tel	Word	--	Terminal	507
+que	Word	--	Terminal	507
+je	Word	--	Terminal	508
+le	Word	--	Terminal	509
+connais	Word	--	Terminal	510
+actuellement	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	516
+#501	FN	--	P	516
+#502	FN	--	T	516
+#503	FN	--	E	513
+#504	FN	--	D	514
+#505	FN	--	C	513
+#506	PNCT	--	U	517
+#507	FN	--	L	517
+#508	FN	--	A	515
+#509	FN	--	A	515
+#510	FN	--	P	515
+#511	FN	--	T	515
+#512	PNCT	--	U	515
+#513	FN	--	A	514
+#514	FN	--	A	516
+#515	FN	--	H	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 3279000

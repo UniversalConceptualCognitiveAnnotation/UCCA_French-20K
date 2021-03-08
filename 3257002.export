@@ -1,0 +1,36 @@
+#BOS 3257002
+Les	Word	--	Terminal	500
+longs	Word	--	Terminal	501
+pistons	Word	--	Terminal	502
+horizontaux	Word	--	Terminal	503
+gémirent	Word	--	Terminal	504
+et	Word	--	Terminal	505
+poussèrent	Word	--	Terminal	506
+les	Word	--	Terminal	507
+bielles	Word	--	Terminal	508
+de	Word	--	Terminal	509
+l'	Word	--	Terminal	510
+arbre	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	F	516
+#501	FN	--	S	513
+#502	FN	--	C	516	A*	519	A*	513	A*	514
+#503	FN	--	S	514
+#504	FN	--	P	518
+#505	FN	--	L	520
+#506	FN	--	P	519
+#507	FN	--	F	517
+#508	FN	--	C	517
+#509	FN	--	R	515
+#510	FN	--	F	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	E	516
+#514	FN	--	E	516
+#515	FN	--	E	517
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 3257002

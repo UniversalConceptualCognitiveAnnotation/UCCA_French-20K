@@ -1,0 +1,42 @@
+#BOS 3331003
+Les	Word	--	Terminal	500
+officiers	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+armes	Word	--	Terminal	503
+de	Word	--	Terminal	504
+leur	Word	--	Terminal	505
+lorgnette	Word	--	Terminal	506
+de	Word	--	Terminal	507
+nuit	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+fouillaient	Word	--	Terminal	510
+l'	Word	--	Terminal	511
+obscurité	Word	--	Terminal	512
+croissante	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	F	515
+#501	FN	--	C	515	A*	521
+#502	PNCT	--	U	521
+#503	FN	--	S	521
+#504	FN	--	R	520
+#505	FN	--	E	520
+#506	FN	--	C	520
+#507	FN	--	R	516
+#508	FN	--	C	516
+#509	PNCT	--	U	523
+#510	FN	--	P	523
+#511	FN	--	F	518
+#512	FN	--	C	518	A*	517
+#513	FN	--	P	517
+#514	PNCT	--	U	517
+#515	FN	--	A	519
+#516	FN	--	E	520
+#517	FN	--	E	518
+#518	FN	--	A	523
+#519	FN	--	C	522
+#520	FN	--	A	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 3331003

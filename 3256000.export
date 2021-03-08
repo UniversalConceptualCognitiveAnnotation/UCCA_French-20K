@@ -1,0 +1,36 @@
+#BOS 3256000
+«	Punctuation	--	Terminal	500
+Sommes	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+nous	Word	--	Terminal	503
+en	Word	--	Terminal	504
+pression	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+lui	Word	--	Terminal	507
+demanda	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+t	Word	--	Terminal	510
+-	Punctuation	--	Terminal	511
+il	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+-	Punctuation	--	Terminal	514
+#500	PNCT	--	U	517
+#501	FN	--	F	516
+#502	PNCT	--	U	516
+#503	FN	--	A	516
+#504	FN	--	R	515
+#505	FN	--	C	515
+#506	PNCT	--	U	517
+#507	FN	--	A	517
+#508	FN	--	P	517
+#509	PNCT	--	U	517
+#510	FN	--	F	517
+#511	PNCT	--	U	517
+#512	FN	--	A	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	FN	--	S	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 3256000

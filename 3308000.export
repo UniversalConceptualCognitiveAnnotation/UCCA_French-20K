@@ -1,0 +1,26 @@
+#BOS 3308000
+L	Word	--	Terminal	500
+'	Punctuation	--	Terminal	501
+équipage	Word	--	Terminal	502
+lui	Word	--	Terminal	503
+donna	Word	--	Terminal	504
+raison	Word	--	Terminal	504
+à	Word	--	Terminal	505
+l'	Word	--	Terminal	506
+unanimité	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	F	509
+#501	PNCT	--	U	509
+#502	FN	--	C	509
+#503	FN	--	A	512
+#504	FN	--	P	512
+#505	FN	--	R	510
+#506	FN	--	F	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	D	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 3308000

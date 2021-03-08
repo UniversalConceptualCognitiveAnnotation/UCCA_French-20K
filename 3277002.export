@@ -1,0 +1,75 @@
+#BOS 3277002
+C'	Word	--	Terminal	500
+était	Word	--	Terminal	501
+une	Word	--	Terminal	502
+occasion	Word	--	Terminal	503
+pour	Word	--	Terminal	504
+lui	Word	--	Terminal	505
+de	Word	--	Terminal	506
+parler	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+et	Word	--	Terminal	509
+pour	Word	--	Terminal	510
+moi	Word	--	Terminal	511
+d'	Word	--	Terminal	512
+entendre	Word	--	Terminal	513
+cette	Word	--	Terminal	514
+vieille	Word	--	Terminal	515
+langue	Word	--	Terminal	516
+de	Word	--	Terminal	517
+Rabelais	Word	--	Terminal	518
+qui	Word	--	Terminal	519
+est	Word	--	Terminal	520
+encore	Word	--	Terminal	521
+en	Word	--	Terminal	522
+usage	Word	--	Terminal	523
+dans	Word	--	Terminal	524
+quelques	Word	--	Terminal	525
+provinces	Word	--	Terminal	526
+canadiennes	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	A	534	A*	542
+#501	FN	--	F	534
+#502	FN	--	F	529
+#503	FN	--	C	529	S*	542
+#504	FN	--	R	530
+#505	FN	--	C	530	A*	531
+#506	FN	--	F	531
+#507	FN	--	P	531
+#508	PNCT	--	U	543
+#509	FN	--	L	543
+#510	FN	--	R	532
+#511	FN	--	C	532	A*	541
+#512	FN	--	F	541
+#513	FN	--	P	541
+#514	FN	--	E	540
+#515	FN	--	S	533
+#516	FN	--	C	540	A*	534	A*	533	A*	539
+#517	FN	--	R	535
+#518	FN	--	C	535
+#519	FN	--	R	539
+#520	FN	--	F	539
+#521	FN	--	T	539
+#522	FN	--	R	536
+#523	FN	--	C	536
+#524	FN	--	R	538
+#525	FN	--	Q	538
+#526	FN	--	C	538	A*	537
+#527	FN	--	S	537
+#528	PNCT	--	U	537
+#529	FN	--	S	534
+#530	FN	--	A	534
+#531	FN	--	A	534
+#532	FN	--	A	542
+#533	FN	--	E	540
+#534	FN	--	H	543
+#535	FN	--	E	540
+#536	FN	--	P	539
+#537	FN	--	E	538
+#538	FN	--	A	539
+#539	FN	--	E	540
+#540	FN	--	A	541
+#541	FN	--	A	542
+#542	FN	--	H	543
+#543	FN	--	--	0
+#EOS 3277002

@@ -1,0 +1,45 @@
+#BOS 3281002
+Il	Word	--	Terminal	500
+évitait	Word	--	Terminal	501
+même	Word	--	Terminal	502
+de	Word	--	Terminal	503
+traiter	Word	--	Terminal	504
+ce	Word	--	Terminal	505
+sujet	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+sur	Word	--	Terminal	508
+lequel	Word	--	Terminal	509
+je	Word	--	Terminal	510
+crus	Word	--	Terminal	511
+devoir	Word	--	Terminal	512
+l'	Word	--	Terminal	513
+entreprendre	Word	--	Terminal	514
+un	Word	--	Terminal	515
+jour	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	D	523
+#503	FN	--	F	522
+#504	FN	--	P	522
+#505	FN	--	E	521
+#506	FN	--	C	521	C*	518
+#507	PNCT	--	U	521
+#508	FN	--	R	518
+#509	FN	--	R	520
+#510	FN	--	A	520
+#511	FN	--	D	520
+#512	FN	--	D	520
+#513	FN	--	A	520
+#514	FN	--	P	520
+#515	FN	--	F	519
+#516	FN	--	C	519
+#517	PNCT	--	U	519
+#518	FN	--	A	520
+#519	FN	--	T	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 3281002

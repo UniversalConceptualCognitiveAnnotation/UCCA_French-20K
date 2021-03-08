@@ -1,0 +1,57 @@
+#BOS 3278002
+Son	Word	--	Terminal	500
+récit	Word	--	Terminal	501
+prenait	Word	--	Terminal	502
+une	Word	--	Terminal	503
+forme	Word	--	Terminal	504
+épique	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+et	Word	--	Terminal	507
+je	Word	--	Terminal	508
+croyais	Word	--	Terminal	509
+écouter	Word	--	Terminal	510
+quelque	Word	--	Terminal	511
+Homère	Word	--	Terminal	512
+canadien	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+chantant	Word	--	Terminal	515
+l'	Word	--	Terminal	516
+Iliade	Word	--	Terminal	517
+des	Word	--	Terminal	518
+régions	Word	--	Terminal	519
+hyperboréennes	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	522
+#501	FN	--	P	522
+#502	FN	--	D	524
+#503	FN	--	F	523
+#504	FN	--	C	523
+#505	FN	--	S	524
+#506	PNCT	--	U	532
+#507	FN	--	L	532
+#508	FN	--	A	531
+#509	FN	--	D	531
+#510	FN	--	P	531
+#511	FN	--	Q	530
+#512	FN	--	C	530	A*	525	A*	529
+#513	FN	--	S	525
+#514	PNCT	--	U	530
+#515	FN	--	P	529
+#516	FN	--	F	528
+#517	FN	--	C	528
+#518	FN	--	R	527
+#519	FN	--	C	527	A*	526
+#520	FN	--	S	526
+#521	PNCT	--	U	526
+#522	FN	--	A	524
+#523	FN	--	D	524
+#524	FN	--	H	532
+#525	FN	--	E	530
+#526	FN	--	E	527
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 3278002

@@ -1,0 +1,31 @@
+#BOS 3258001
+Trois	Word	--	Terminal	500
+hurrahs	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+partis	Word	--	Terminal	503
+de	Word	--	Terminal	504
+cinq	Word	--	Terminal	505
+cent	Word	--	Terminal	505
+mille	Word	--	Terminal	505
+poitrines	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+éclatèrent	Word	--	Terminal	508
+successivement	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	Q	513
+#501	FN	--	C	513	A*	512
+#502	PNCT	--	U	513
+#503	FN	--	P	512
+#504	FN	--	R	511
+#505	FN	--	Q	511
+#506	FN	--	C	511
+#507	PNCT	--	U	514
+#508	FN	--	P	514
+#509	FN	--	D	514
+#510	PNCT	--	U	514
+#511	FN	--	A	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 3258001

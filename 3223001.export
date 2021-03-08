@@ -1,0 +1,31 @@
+#BOS 3223001
+On	Word	--	Terminal	500
+n'	Word	--	Terminal	501
+accorda	Word	--	Terminal	502
+pas	Word	--	Terminal	501
+vingt-quatre	Word	--	Terminal	503
+heures	Word	--	Terminal	504
+de	Word	--	Terminal	505
+répit	Word	--	Terminal	506
+au	Word	--	Terminal	507
+commandant	Word	--	Terminal	508
+Farragut	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	515
+#501	FN	--	D	515
+#502	FN	--	D	515
+#503	FN	--	Q	511
+#504	FN	--	C	511
+#505	FN	--	R	512
+#506	FN	--	C	512
+#507	FN	--	R	514
+#508	FN	--	A	513
+#509	FN	--	C	514
+#510	PNCT	--	U	514
+#511	FN	--	T	515
+#512	FN	--	S	515
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 3223001

@@ -1,0 +1,29 @@
+#BOS 3312004
+Le	Word	--	Terminal	500
+pont	Word	--	Terminal	501
+de	Word	--	Terminal	502
+la	Word	--	Terminal	503
+frégate	Word	--	Terminal	504
+se	Word	--	Terminal	505
+peuplait	Word	--	Terminal	505
+en	Word	--	Terminal	506
+un	Word	--	Terminal	507
+instant	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	F	512
+#501	FN	--	C	512
+#502	FN	--	R	510
+#503	FN	--	F	510
+#504	FN	--	C	510
+#505	FN	--	P	514
+#506	FN	--	R	511
+#507	FN	--	F	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	E	512
+#511	FN	--	T	514
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 3312004
