@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 3318002
+# text = Mais le moyen de procéder autrement ?
+1	Mais	_	Word	Word	_	3	L	3:L	_
+2	le	_	Word	Word	_	3	F	3:F	_
+3	moyen	_	Word	Word	_	0	H	0:H	_
+4	de	_	Word	Word	_	5	R	5:R	_
+5	procéder	_	Word	Word	_	3	E	3:E	_
+6	autrement	_	Word	Word	_	5	D	5:D	_
+7	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+

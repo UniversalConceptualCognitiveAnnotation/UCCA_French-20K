@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 3205000
+# text = « Ainsi donc , disais - je , après avoir examiné une à une les diverses hypothèses , toute autre supposition étant rejetée , il faut nécessairement admettre l' existence d' un animal marin d' une puissance excessive .
+1	«	_	Punctuation	Punctuation	_	11	U	11:U	_
+2	Ainsi	_	Word	Word	_	23	L	23:L	_
+3	donc	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	disais	_	Word	Word	_	0	H	0:H	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	je	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	après	_	Word	Word	_	23	L	23:L	_
+10	avoir	_	Word	Word	_	11	F	11:F	_
+11	examiné	_	Word	Word	_	5	A	5:A	_
+12	une	_	Word	Word	_	11	D	11:D	_
+13	à	_	Word	Word	_	12	R	12:R	_
+14	une	_	Word	Word	_	12	C	12:C	_
+15	les	_	Word	Word	_	17	F	17:F	_
+16	diverses	_	Word	Word	_	17	D	17:D	_
+17	hypothèses	_	Word	Word	_	11	A	11:A	_
+18	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+19	toute	_	Word	Word	_	21	Q	21:Q	_
+20	autre	_	Word	Word	_	21	E	21:E	_
+21	supposition	_	Word	Word	_	23	A	23:A	_
+22	étant	_	Word	Word	_	23	F	23:F	_
+23	rejetée	_	Word	Word	_	11	H	11:H	_
+24	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+25	il	_	Word	Word	_	28	F	28:F	_
+26	faut	_	Word	Word	_	28	D	28:D	_
+27	nécessairement	_	Word	Word	_	28	D	28:D	_
+28	admettre	_	Word	Word	_	11	H	11:H	_
+29	l'	_	Word	Word	_	30	F	30:F	_
+30	existence	_	Word	Word	_	28	A	28:A	_
+31	d'	_	Word	Word	_	33	R	33:R	_
+32	un	_	Word	Word	_	33	F	33:F	_
+33	animal	_	Word	Word	_	30	A	30:A	_
+34	marin	_	Word	Word	_	33	E	33:E	_
+35	d'	_	Word	Word	_	37	R	37:R	_
+36	une	_	Word	Word	_	37	F	37:F	_
+37	puissance	_	Word	Word	_	33	E	33:E	_
+38	excessive	_	Word	Word	_	37	D	37:D	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

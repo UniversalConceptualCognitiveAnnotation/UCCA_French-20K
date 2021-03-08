@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 3282000
+# text = Par une magnifique soirée du 30 juillet , c ' est - à - dire trois semaines après notre départ , la frégate se trouvait à la hauteur du cap Blanc , à trente milles sous le vent des côtes patagonnes .
+1	Par	_	Word	Word	_	20	L	20:L	_
+2	une	_	Word	Word	_	4	F	4:F	_
+3	magnifique	_	Word	Word	_	4	E	4:E	_
+4	soirée	_	Word	Word	_	24	T	24:T	_
+5	du	_	Word	Word	_	6	R	6:R	_
+6	30	_	Word	Word	_	4	C	4:C	_
+7	juillet	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+9	c	_	Word	Word	_	20	L	20:L	_
+10	'	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	est	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	à	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	dire	_	Word	Word	_	9	Terminal	9:Terminal	_
+16	trois	_	Word	Word	_	17	Q	17:Q	_
+17	semaines	_	Word	Word	_	18	E	18:E	_
+18	après	_	Word	Word	_	20	L	20:L	_
+19	notre	_	Word	Word	_	20	A	20:A	_
+20	départ	_	Word	Word	_	24	H	24:H	_
+21	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+22	la	_	Word	Word	_	23	F	23:F	_
+23	frégate	_	Word	Word	_	24	A	24:A	_
+24	se	_	Word	Word	_	0	H	0:H	_
+25	trouvait	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	à	_	Word	Word	_	28	R	28:R	_
+27	la	_	Word	Word	_	28	F	28:F	_
+28	hauteur	_	Word	Word	_	24	A	24:A	_
+29	du	_	Word	Word	_	30	R	30:R	_
+30	cap	_	Word	Word	_	28	A	28:A	_
+31	Blanc	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+33	à	_	Word	Word	_	35	R	35:R	_
+34	trente	_	Word	Word	_	35	Q	35:Q	_
+35	milles	_	Word	Word	_	28	E	28:E	_
+36	sous	_	Word	Word	_	38	R	38:R	_
+37	le	_	Word	Word	_	38	F	38:F	_
+38	vent	_	Word	Word	_	35	E	35:E	_
+39	des	_	Word	Word	_	40	R	40:R	_
+40	côtes	_	Word	Word	_	38	E	38:E	_
+41	patagonnes	_	Word	Word	_	40	E	40:E	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

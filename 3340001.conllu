@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 3340001
+# text = L' abordage avait semblé si léger que personne ne s' en fût inquiété à bord , sans le cri des caliers qui remontèrent sur le pont en s' écriant : « Nous coulons ! nous coulons ! »
+1	L'	_	Word	Word	_	2	F	2:F	_
+2	abordage	_	Word	Word	_	0	H	0:H	_
+3	avait	_	Word	Word	_	2	F	2:F	_
+4	semblé	_	Word	Word	_	2	G	2:G	_
+5	si	_	Word	Word	_	6	E	6:E	_
+6	léger	_	Word	Word	_	2	D	2:D	_
+7	que	_	Word	Word	_	10	L	10:L	_
+8	personne	_	Word	Word	_	10	A	10:A	_
+9	ne	_	Word	Word	_	10	D	10:D	_
+10	s'	_	Word	Word	_	2	H	2:H	_
+11	en	_	Word	Word	_	10	A	10:A	_
+12	fût	_	Word	Word	_	10	F	10:F	_
+13	inquiété	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	à	_	Word	Word	_	15	R	15:R	_
+15	bord	_	Word	Word	_	10	A	10:A	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	sans	_	Word	Word	_	19	L	19:L|19:D	_
+18	le	_	Word	Word	_	19	F	19:F	_
+19	cri	_	Word	Word	_	2	H	2:H	_
+20	des	_	Word	Word	_	21	R	21:R	_
+21	caliers	_	Word	Word	_	0	A	0:A|23:A|28:A	_
+22	qui	_	Word	Word	_	23	R	23:R	_
+23	remontèrent	_	Word	Word	_	21	E	21:E	_
+24	sur	_	Word	Word	_	26	R	26:R	_
+25	le	_	Word	Word	_	26	F	26:F	_
+26	pont	_	Word	Word	_	23	A	23:A	_
+27	en	_	Word	Word	_	28	L	28:L	_
+28	s'	_	Word	Word	_	2	H	2:H	_
+29	écriant	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	:	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	«	_	Punctuation	Punctuation	_	28	U	28:U	_
+32	Nous	_	Word	Word	_	33	A	33:A	_
+33	coulons	_	Word	Word	_	28	A	28:A	_
+34	!	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	nous	_	Word	Word	_	36	A	36:A	_
+36	coulons	_	Word	Word	_	33	H	33:H	_
+37	!	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	»	_	Punctuation	Punctuation	_	36	U	36:U	_
+

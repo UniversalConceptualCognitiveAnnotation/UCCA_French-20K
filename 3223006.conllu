@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 3223006
+# text = On ne lui eût pas pardonné une demi - journée de retard !
+1	On	_	Word	Word	_	6	A	6:A	_
+2	ne	_	Word	Word	_	6	D	6:D	_
+3	lui	_	Word	Word	_	6	A	6:A	_
+4	eût	_	Word	Word	_	6	F	6:F	_
+5	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	pardonné	_	Word	Word	_	0	H	0:H	_
+7	une	_	Word	Word	_	10	F	10:F	_
+8	demi	_	Word	Word	_	10	Q	10:Q	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	journée	_	Word	Word	_	12	T	12:T	_
+11	de	_	Word	Word	_	12	R	12:R	_
+12	retard	_	Word	Word	_	6	A	6:A	_
+13	!	_	Punctuation	Punctuation	_	12	U	12:U	_
+

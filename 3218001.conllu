@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 3218001
+# text = Trêve à ces chimères que le temps a changées pour moi en réalités terribles .
+1	Trêve	_	Word	Word	_	0	H	0:H	_
+2	à	_	Word	Word	_	4	R	4:R	_
+3	ces	_	Word	Word	_	4	E	4:E	_
+4	chimères	_	Word	Word	_	1	A	1:A	_
+5	que	_	Word	Word	_	9	R	9:R	_
+6	le	_	Word	Word	_	7	F	7:F	_
+7	temps	_	Word	Word	_	9	A	9:A	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	changées	_	Word	Word	_	4	E	4:E	_
+10	pour	_	Word	Word	_	11	R	11:R	_
+11	moi	_	Word	Word	_	9	A	9:A	_
+12	en	_	Word	Word	_	13	R	13:R	_
+13	réalités	_	Word	Word	_	9	A	9:A	_
+14	terribles	_	Word	Word	_	13	D	13:D	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

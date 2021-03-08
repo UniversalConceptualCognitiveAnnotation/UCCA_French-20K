@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 3316000
+# text = Ned Land montrait toujours la plus tenace incrédulité ; il affectait même de ne point examiner la surface des flots en dehors de son temps de bordée , - du moins quand aucune baleine n' était en vue .
+1	Ned	_	Word	Word	_	8	A	8:A	_
+2	Land	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	montrait	_	Word	Word	_	8	D	8:D	_
+4	toujours	_	Word	Word	_	8	T	8:T	_
+5	la	_	Word	Word	_	7	F	7:F	_
+6	plus	_	Word	Word	_	7	E	7:E	_
+7	tenace	_	Word	Word	_	8	D	8:D	_
+8	incrédulité	_	Word	Word	_	0	H	0:H	_
+9	;	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	il	_	Word	Word	_	11	A	11:A|16:A	_
+11	affectait	_	Word	Word	_	8	H	8:H	_
+12	même	_	Word	Word	_	11	D	11:D	_
+13	de	_	Word	Word	_	16	F	16:F	_
+14	ne	_	Word	Word	_	16	D	16:D	_
+15	point	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	examiner	_	Word	Word	_	11	A	11:A	_
+17	la	_	Word	Word	_	18	F	18:F	_
+18	surface	_	Word	Word	_	16	A	16:A	_
+19	des	_	Word	Word	_	20	R	20:R	_
+20	flots	_	Word	Word	_	18	E	18:E	_
+21	en	_	Word	Word	_	22	R	22:R	_
+22	dehors	_	Word	Word	_	27	R	27:R	_
+23	de	_	Word	Word	_	27	R	27:R	_
+24	son	_	Word	Word	_	27	A	27:A	_
+25	temps	_	Word	Word	_	27	T	27:T	_
+26	de	_	Word	Word	_	27	R	27:R	_
+27	bordée	_	Word	Word	_	16	A	16:A	_
+28	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+29	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+30	du	_	Word	Word	_	38	L	38:L	_
+31	moins	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	quand	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	aucune	_	Word	Word	_	34	Q	34:Q	_
+34	baleine	_	Word	Word	_	38	A	38:A	_
+35	n'	_	Word	Word	_	38	F	38:F	_
+36	était	_	Word	Word	_	38	F	38:F	_
+37	en	_	Word	Word	_	38	R	38:R	_
+38	vue	_	Word	Word	_	8	H	8:H	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

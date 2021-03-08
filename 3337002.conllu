@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 3337002
+# text = C' était la voix de Ned Land , et Ned Land s' écriait : « Ohé ! la chose en question , sous le vent , par le travers à nous ! »
+1	C'	_	Word	Word	_	2	A	2:A	_
+2	était	_	Word	Word	_	0	H	0:H	_
+3	la	_	Word	Word	_	4	F	4:F	_
+4	voix	_	Word	Word	_	2	A	2:A	_
+5	de	_	Word	Word	_	6	R	6:R	_
+6	Ned	_	Word	Word	_	4	E	4:E	_
+7	Land	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	et	_	Word	Word	_	12	L	12:L	_
+10	Ned	_	Word	Word	_	12	A	12:A	_
+11	Land	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	s'	_	Word	Word	_	2	H	2:H	_
+13	écriait	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	:	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	«	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	Ohé	_	Word	Word	_	19	F	19:F	_
+17	!	_	Punctuation	Punctuation	_	19	U	19:U	_
+18	la	_	Word	Word	_	19	F	19:F	_
+19	chose	_	Word	Word	_	12	A	12:A	_
+20	en	_	Word	Word	_	21	R	21:R	_
+21	question	_	Word	Word	_	19	E	19:E	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	sous	_	Word	Word	_	25	R	25:R	_
+24	le	_	Word	Word	_	25	F	25:F	_
+25	vent	_	Word	Word	_	19	A	19:A	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	par	_	Word	Word	_	31	R	31:R	_
+28	le	_	Word	Word	_	27	F	27:F	_
+29	travers	_	Word	Word	_	27	C	27:C	_
+30	à	_	Word	Word	_	31	R	31:R	_
+31	nous	_	Word	Word	_	25	E	25:E	_
+32	!	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	»	_	Punctuation	Punctuation	_	31	U	31:U	_
+

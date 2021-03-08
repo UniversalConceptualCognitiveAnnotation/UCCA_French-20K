@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 3335004
+# text = Ceci dit , personne ne s' étonnera du retentissement que provoqua l' accident arrivé à l' un de ses plus beaux steamers .
+1	Ceci	_	Word	Word	_	6	L	6:L	_
+2	dit	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	personne	_	Word	Word	_	6	A	6:A	_
+5	ne	_	Word	Word	_	6	D	6:D	_
+6	s'	_	Word	Word	_	0	H	0:H	_
+7	étonnera	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	du	_	Word	Word	_	9	R	9:R	_
+9	retentissement	_	Word	Word	_	6	A	6:A	_
+10	que	_	Word	Word	_	13	R	13:R	_
+11	provoqua	_	Word	Word	_	13	D	13:D	_
+12	l'	_	Word	Word	_	13	F	13:F	_
+13	accident	_	Word	Word	_	9	A	9:A	_
+14	arrivé	_	Word	Word	_	13	A	13:A	_
+15	à	_	Word	Word	_	17	R	17:R	_
+16	l'	_	Word	Word	_	17	F	17:F	_
+17	un	_	Word	Word	_	14	A	14:A	_
+18	de	_	Word	Word	_	22	R	22:R	_
+19	ses	_	Word	Word	_	22	E	22:E	_
+20	plus	_	Word	Word	_	21	D	21:D	_
+21	beaux	_	Word	Word	_	22	E	22:E	_
+22	steamers	_	Word	Word	_	17	E	17:E	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

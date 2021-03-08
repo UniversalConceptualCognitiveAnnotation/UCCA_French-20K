@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 3196000
+# text = De même fut repoussée l' existence d' une coque flottante , d' une énorme épave , et toujours à cause de la rapidité du déplacement .
+1	De	_	Word	Word	_	4	L	4:L	_
+2	même	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	fut	_	Word	Word	_	4	F	4:F	_
+4	repoussée	_	Word	Word	_	0	H	0:H	_
+5	l'	_	Word	Word	_	6	F	6:F	_
+6	existence	_	Word	Word	_	4	A	4:A	_
+7	d'	_	Word	Word	_	9	R	9:R	_
+8	une	_	Word	Word	_	9	F	9:F	_
+9	coque	_	Word	Word	_	6	A	6:A	_
+10	flottante	_	Word	Word	_	9	E	9:E	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	d'	_	Word	Word	_	15	R	15:R	_
+13	une	_	Word	Word	_	15	F	15:F	_
+14	énorme	_	Word	Word	_	15	E	15:E	_
+15	épave	_	Word	Word	_	9	C	9:C	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	et	_	Word	Word	_	4	F	4:F	_
+18	toujours	_	Word	Word	_	23	T	23:T	_
+19	à	_	Word	Word	_	20	R	20:R	_
+20	cause	_	Word	Word	_	23	D	23:D	_
+21	de	_	Word	Word	_	23	R	23:R	_
+22	la	_	Word	Word	_	23	F	23:F	_
+23	rapidité	_	Word	Word	_	4	A	4:A	_
+24	du	_	Word	Word	_	25	R	25:R	_
+25	déplacement	_	Word	Word	_	23	A	23:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

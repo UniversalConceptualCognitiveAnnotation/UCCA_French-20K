@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 3280001
+# text = Les canards eurent là une belle occasion de pondre des œufs de toute couleur .
+1	Les	_	Word	Word	_	2	F	2:F	_
+2	canards	_	Word	Word	_	3	A	3:A	_
+3	eurent	_	Word	Word	_	0	H	0:H	_
+4	là	_	Word	Word	_	3	A	3:A	_
+5	une	_	Word	Word	_	7	F	7:F	_
+6	belle	_	Word	Word	_	7	E	7:E	_
+7	occasion	_	Word	Word	_	3	A	3:A	_
+8	de	_	Word	Word	_	9	R	9:R	_
+9	pondre	_	Word	Word	_	7	E	7:E	_
+10	des	_	Word	Word	_	11	F	11:F	_
+11	œufs	_	Word	Word	_	9	A	9:A	_
+12	de	_	Word	Word	_	14	R	14:R	_
+13	toute	_	Word	Word	_	14	D	14:D	_
+14	couleur	_	Word	Word	_	11	E	11:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

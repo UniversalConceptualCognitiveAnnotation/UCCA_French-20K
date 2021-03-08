@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 3273001
+# text = Mais il avait mieux encore .
+1	Mais	_	Word	Word	_	3	L	3:L	_
+2	il	_	Word	Word	_	3	A	3:A	_
+3	avait	_	Word	Word	_	0	H	0:H	_
+4	mieux	_	Word	Word	_	3	A	3:A	_
+5	encore	_	Word	Word	_	4	D	4:D	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 3234000
+# text = Conseil , jusqu' ici et depuis dix ans , m' avait suivi partout où m' entraînait la science .
+1	Conseil	_	Word	Word	_	12	A	12:A	_
+2	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+3	jusqu'	_	Word	Word	_	4	R	4:R	_
+4	ici	_	Word	Word	_	12	T	12:T	_
+5	et	_	Word	Word	_	4	N	4:N	_
+6	depuis	_	Word	Word	_	8	R	8:R	_
+7	dix	_	Word	Word	_	8	Q	8:Q	_
+8	ans	_	Word	Word	_	4	C	4:C	_
+9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	m'	_	Word	Word	_	12	A	12:A	_
+11	avait	_	Word	Word	_	12	F	12:F	_
+12	suivi	_	Word	Word	_	0	H	0:H	_
+13	partout	_	Word	Word	_	12	A	12:A	_
+14	où	_	Word	Word	_	16	R	16:R	_
+15	m'	_	Word	Word	_	16	A	16:A	_
+16	entraînait	_	Word	Word	_	13	E	13:E	_
+17	la	_	Word	Word	_	18	F	18:F	_
+18	science	_	Word	Word	_	16	A	16:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

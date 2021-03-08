@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 3293001
+# text = Vraiment , et quelques chiffres vous le prouveront sans peine .
+1	Vraiment	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	et	_	Word	Word	_	8	L	8:L	_
+4	quelques	_	Word	Word	_	5	Q	5:Q	_
+5	chiffres	_	Word	Word	_	8	A	8:A	_
+6	vous	_	Word	Word	_	8	A	8:A	_
+7	le	_	Word	Word	_	8	A	8:A	_
+8	prouveront	_	Word	Word	_	1	H	1:H	_
+9	sans	_	Word	Word	_	10	R	10:R	_
+10	peine	_	Word	Word	_	8	D	8:D	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

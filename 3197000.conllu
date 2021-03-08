@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 3197000
+# text = Restaient donc deux solutions possibles de la question , qui créaient deux clans très - distincts de partisans : d' un côté , ceux qui tenaient pour un monstre d' une force colossale ; de l' autre , ceux qui tenaient pour un bateau « sous-marin » d' une extrême puissance motrice
+1	Restaient	_	Word	Word	_	0	H	0:H	_
+2	donc	_	Word	Word	_	1	L	1:L	_
+3	deux	_	Word	Word	_	4	Q	4:Q	_
+4	solutions	_	Word	Word	_	1	A	1:A	_
+5	possibles	_	Word	Word	_	4	D	4:D	_
+6	de	_	Word	Word	_	8	R	8:R	_
+7	la	_	Word	Word	_	8	F	8:F	_
+8	question	_	Word	Word	_	1	A	1:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	qui	_	Word	Word	_	11	R	11:R	_
+11	créaient	_	Word	Word	_	8	E	8:E	_
+12	deux	_	Word	Word	_	13	Q	13:Q	_
+13	clans	_	Word	Word	_	11	A	11:A	_
+14	très	_	Word	Word	_	16	D	16:D	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	distincts	_	Word	Word	_	13	E	13:E	_
+17	de	_	Word	Word	_	18	R	18:R	_
+18	partisans	_	Word	Word	_	13	E	13:E	_
+19	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	d'	_	Word	Word	_	22	R	22:R	_
+21	un	_	Word	Word	_	22	F	22:F	_
+22	côté	_	Word	Word	_	0	C	0:C|37:C	_
+23	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	ceux	_	Word	Word	_	13	E	13:E	_
+25	qui	_	Word	Word	_	26	R	26:R	_
+26	tenaient	_	Word	Word	_	24	E	24:E	_
+27	pour	_	Word	Word	_	29	R	29:R	_
+28	un	_	Word	Word	_	29	F	29:F	_
+29	monstre	_	Word	Word	_	26	A	26:A	_
+30	d'	_	Word	Word	_	32	R	32:R	_
+31	une	_	Word	Word	_	32	F	32:F	_
+32	force	_	Word	Word	_	29	E	29:E	_
+33	colossale	_	Word	Word	_	32	D	32:D	_
+34	;	_	Punctuation	Punctuation	_	24	U	24:U	_
+35	de	_	Word	Word	_	37	R	37:R	_
+36	l'	_	Word	Word	_	37	F	37:F	_
+37	autre	_	Word	Word	_	39	E	39:E	_
+38	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+39	ceux	_	Word	Word	_	24	C	24:C	_
+40	qui	_	Word	Word	_	41	R	41:R	_
+41	tenaient	_	Word	Word	_	39	E	39:E	_
+42	pour	_	Word	Word	_	44	R	44:R	_
+43	un	_	Word	Word	_	44	F	44:F	_
+44	bateau	_	Word	Word	_	41	A	41:A	_
+45	«	_	Punctuation	Punctuation	_	44	U	44:U	_
+46	sous-marin	_	Word	Word	_	44	E	44:E	_
+47	»	_	Punctuation	Punctuation	_	44	U	44:U	_
+48	d'	_	Word	Word	_	51	R	51:R	_
+49	une	_	Word	Word	_	51	F	51:F	_
+50	extrême	_	Word	Word	_	51	D	51:D	_
+51	puissance	_	Word	Word	_	44	E	44:E	_
+52	motrice	_	Word	Word	_	51	D	51:D	_
+

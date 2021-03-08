@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 3218000
+# text = Mais je me laisse entraîner à des rêveries qu' il ne m' appartient plus d' entretenir !
+1	Mais	_	Word	Word	_	5	L	5:L	_
+2	je	_	Word	Word	_	5	A	5:A	_
+3	me	_	Word	Word	_	5	D	5:D	_
+4	laisse	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	entraîner	_	Word	Word	_	0	H	0:H	_
+6	à	_	Word	Word	_	8	R	8:R	_
+7	des	_	Word	Word	_	8	F	8:F	_
+8	rêveries	_	Word	Word	_	5	A	5:A	_
+9	qu'	_	Word	Word	_	8	F	8:F	_
+10	il	_	Word	Word	_	8	F	8:F	_
+11	ne	_	Word	Word	_	8	D	8:D	_
+12	m'	_	Word	Word	_	8	D	8:D	_
+13	appartient	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	plus	_	Word	Word	_	8	T	8:T	_
+15	d'	_	Word	Word	_	16	R	16:R	_
+16	entretenir	_	Word	Word	_	8	D	8:D	_
+17	!	_	Punctuation	Punctuation	_	16	U	16:U	_
+

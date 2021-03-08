@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 3327000
+# text = Cette promesse fut faite le 2 novembre .
+1	Cette	_	Word	Word	_	2	E	2:E	_
+2	promesse	_	Word	Word	_	0	H	0:H	_
+3	fut	_	Word	Word	_	2	F	2:F	_
+4	faite	_	Word	Word	_	2	D	2:D	_
+5	le	_	Word	Word	_	6	F	6:F	_
+6	2	_	Word	Word	_	2	T	2:T	_
+7	novembre	_	Word	Word	_	6	C	6:C	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

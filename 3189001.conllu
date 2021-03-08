@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 3189001
+# text = Quelques instants après , on constatait l' existence d' un trou large de deux mètres dans la carène du steamer .
+1	Quelques	_	Word	Word	_	2	Q	2:Q	_
+2	instants	_	Word	Word	_	3	E	3:E	_
+3	après	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	on	_	Word	Word	_	6	A	6:A	_
+6	constatait	_	Word	Word	_	0	H	0:H	_
+7	l'	_	Word	Word	_	8	F	8:F	_
+8	existence	_	Word	Word	_	6	A	6:A	_
+9	d'	_	Word	Word	_	11	R	11:R	_
+10	un	_	Word	Word	_	11	F	11:F	_
+11	trou	_	Word	Word	_	8	A	8:A	_
+12	large	_	Word	Word	_	11	E	11:E	_
+13	de	_	Word	Word	_	15	R	15:R	_
+14	deux	_	Word	Word	_	15	Q	15:Q	_
+15	mètres	_	Word	Word	_	12	A	12:A	_
+16	dans	_	Word	Word	_	18	R	18:R	_
+17	la	_	Word	Word	_	18	F	18:F	_
+18	carène	_	Word	Word	_	11	E	11:E	_
+19	du	_	Word	Word	_	20	R	20:R	_
+20	steamer	_	Word	Word	_	18	E	18:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

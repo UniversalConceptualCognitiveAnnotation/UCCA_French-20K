@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 3263001
+# text = Quant à la rejeter au rang des fables , il fallait y renoncer .
+1	Quant	_	Word	Word	_	13	L	13:L	_
+2	à	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	la	_	Word	Word	_	4	A	4:A	_
+4	rejeter	_	Word	Word	_	0	H	0:H	_
+5	au	_	Word	Word	_	6	R	6:R	_
+6	rang	_	Word	Word	_	4	A	4:A	_
+7	des	_	Word	Word	_	8	R	8:R	_
+8	fables	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	il	_	Word	Word	_	13	F	13:F	_
+11	fallait	_	Word	Word	_	13	D	13:D	_
+12	y	_	Word	Word	_	13	A	13:A	_
+13	renoncer	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

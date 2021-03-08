@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 3217003
+# text = L' esprit humain se plaît à ces conceptions grandioses d' êtres surnaturels .
+1	L'	_	Word	Word	_	2	F	2:F	_
+2	esprit	_	Word	Word	_	4	A	4:A	_
+3	humain	_	Word	Word	_	2	E	2:E	_
+4	se	_	Word	Word	_	0	H	0:H	_
+5	plaît	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	à	_	Word	Word	_	8	R	8:R	_
+7	ces	_	Word	Word	_	8	E	8:E	_
+8	conceptions	_	Word	Word	_	4	A	4:A	_
+9	grandioses	_	Word	Word	_	8	D	8:D	_
+10	d'	_	Word	Word	_	11	R	11:R	_
+11	êtres	_	Word	Word	_	8	A	8:A	_
+12	surnaturels	_	Word	Word	_	11	D	11:D	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

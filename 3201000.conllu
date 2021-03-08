@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 3201000
+# text = Donc , après enquêtes faites en Angleterre , en France , en Russie , en Prusse , en Espagne , en Italie , en Amérique , voire même en Turquie , l' hypothèse d' un Monitor sous - marin fut définitivement rejetée .
+1	Donc	_	Word	Word	_	42	L	42:L	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	après	_	Word	Word	_	42	L	42:L	_
+4	enquêtes	_	Word	Word	_	0	H	0:H	_
+5	faites	_	Word	Word	_	4	D	4:D	_
+6	en	_	Word	Word	_	7	R	7:R	_
+7	Angleterre	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	en	_	Word	Word	_	10	R	10:R	_
+10	France	_	Word	Word	_	7	C	7:C	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	en	_	Word	Word	_	13	R	13:R	_
+13	Russie	_	Word	Word	_	7	C	7:C	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	en	_	Word	Word	_	16	R	16:R	_
+16	Prusse	_	Word	Word	_	7	C	7:C	_
+17	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+18	en	_	Word	Word	_	19	R	19:R	_
+19	Espagne	_	Word	Word	_	7	C	7:C	_
+20	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	en	_	Word	Word	_	22	R	22:R	_
+22	Italie	_	Word	Word	_	7	C	7:C	_
+23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+24	en	_	Word	Word	_	25	R	25:R	_
+25	Amérique	_	Word	Word	_	7	C	7:C	_
+26	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+27	voire	_	Word	Word	_	30	E	30:E	_
+28	même	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	en	_	Word	Word	_	30	R	30:R	_
+30	Turquie	_	Word	Word	_	7	C	7:C	_
+31	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+32	l'	_	Word	Word	_	33	F	33:F	_
+33	hypothèse	_	Word	Word	_	42	A	42:A	_
+34	d'	_	Word	Word	_	36	R	36:R	_
+35	un	_	Word	Word	_	36	F	36:F	_
+36	Monitor	_	Word	Word	_	33	A	33:A	_
+37	sous	_	Word	Word	_	39	R	39:R	_
+38	-	_	Punctuation	Punctuation	_	39	U	39:U	_
+39	marin	_	Word	Word	_	36	E	36:E	_
+40	fut	_	Word	Word	_	42	F	42:F	_
+41	définitivement	_	Word	Word	_	42	D	42:D	_
+42	rejetée	_	Word	Word	_	4	H	4:H	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 3338001
+# text = Il marchait avec une vitesse de treize nuds quarante-trois centièmes sous la poussée de ses mille chevaux - vapeur .
+1	Il	_	Word	Word	_	2	A	2:A	_
+2	marchait	_	Word	Word	_	0	H	0:H	_
+3	avec	_	Word	Word	_	5	R	5:R	_
+4	une	_	Word	Word	_	5	F	5:F	_
+5	vitesse	_	Word	Word	_	2	A	2:A	_
+6	de	_	Word	Word	_	8	R	8:R	_
+7	treize	_	Word	Word	_	8	Q	8:Q	_
+8	nuds	_	Word	Word	_	5	A	5:A	_
+9	quarante-trois	_	Word	Word	_	10	Q	10:Q	_
+10	centièmes	_	Word	Word	_	8	C	8:C	_
+11	sous	_	Word	Word	_	13	R	13:R	_
+12	la	_	Word	Word	_	13	F	13:F	_
+13	poussée	_	Word	Word	_	2	A	2:A	_
+14	de	_	Word	Word	_	17	R	17:R	_
+15	ses	_	Word	Word	_	17	E	17:E	_
+16	mille	_	Word	Word	_	17	Q	17:Q	_
+17	chevaux	_	Word	Word	_	13	A	13:A	_
+18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	vapeur	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 3312005
+# text = Les capots vomissaient un torrent de matelots et d' officiers . Chacun , la poitrine haletante , l' œil trouble , observait la marche du cétacé .
+1	Les	_	Word	Word	_	2	F	2:F	_
+2	capots	_	Word	Word	_	3	A	3:A	_
+3	vomissaient	_	Word	Word	_	0	H	0:H	_
+4	un	_	Word	Word	_	5	F	5:F	_
+5	torrent	_	Word	Word	_	7	Q	7:Q	_
+6	de	_	Word	Word	_	7	R	7:R	_
+7	matelots	_	Word	Word	_	0	C	0:C|12:C	_
+8	et	_	Word	Word	_	7	N	7:N	_
+9	d'	_	Word	Word	_	10	F	10:F	_
+10	officiers	_	Word	Word	_	7	C	7:C	_
+11	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	Chacun	_	Word	Word	_	22	A	22:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	la	_	Word	Word	_	15	F	15:F	_
+15	poitrine	_	Word	Word	_	12	E	12:E	_
+16	haletante	_	Word	Word	_	15	E	15:E	_
+17	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+18	l'	_	Word	Word	_	19	F	19:F	_
+19	œil	_	Word	Word	_	12	E	12:E	_
+20	trouble	_	Word	Word	_	19	E	19:E	_
+21	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	observait	_	Word	Word	_	3	H	3:H	_
+23	la	_	Word	Word	_	24	F	24:F	_
+24	marche	_	Word	Word	_	22	A	22:A	_
+25	du	_	Word	Word	_	26	R	26:R	_
+26	cétacé	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

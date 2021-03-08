@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 3298003
+# text = Le trou existait si bien qu' il avait fallu le boucher , et je ne pense pas que l' existence du trou puisse se démontrer plus catégoriquement .
+1	Le	_	Word	Word	_	2	F	2:F	_
+2	trou	_	Word	Word	_	3	A	3:A	_
+3	existait	_	Word	Word	_	0	H	0:H	_
+4	si	_	Word	Word	_	5	E	5:E	_
+5	bien	_	Word	Word	_	3	D	3:D	_
+6	qu'	_	Word	Word	_	11	L	11:L	_
+7	il	_	Word	Word	_	11	F	11:F	_
+8	avait	_	Word	Word	_	11	F	11:F	_
+9	fallu	_	Word	Word	_	11	D	11:D	_
+10	le	_	Word	Word	_	11	A	11:A	_
+11	boucher	_	Word	Word	_	3	H	3:H	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	et	_	Word	Word	_	16	L	16:L	_
+14	je	_	Word	Word	_	16	A	16:A	_
+15	ne	_	Word	Word	_	16	D	16:D	_
+16	pense	_	Word	Word	_	3	H	3:H	_
+17	pas	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	que	_	Word	Word	_	24	R	24:R	_
+19	l'	_	Word	Word	_	20	F	20:F	_
+20	existence	_	Word	Word	_	24	A	24:A	_
+21	du	_	Word	Word	_	22	R	22:R	_
+22	trou	_	Word	Word	_	20	A	20:A	_
+23	puisse	_	Word	Word	_	24	D	24:D	_
+24	se	_	Word	Word	_	16	A	16:A	_
+25	démontrer	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	plus	_	Word	Word	_	27	E	27:E	_
+27	catégoriquement	_	Word	Word	_	24	D	24:D	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 3331004
+# text = Parfois le sombre Océan étincelait sous un rayon que la lune dardait entre la frange de deux nuages .
+1	Parfois	_	Word	Word	_	5	T	5:T	_
+2	le	_	Word	Word	_	4	F	4:F	_
+3	sombre	_	Word	Word	_	4	E	4:E	_
+4	Océan	_	Word	Word	_	5	A	5:A	_
+5	étincelait	_	Word	Word	_	0	H	0:H	_
+6	sous	_	Word	Word	_	8	R	8:R	_
+7	un	_	Word	Word	_	8	F	8:F	_
+8	rayon	_	Word	Word	_	5	A	5:A	_
+9	que	_	Word	Word	_	12	R	12:R	_
+10	la	_	Word	Word	_	11	F	11:F	_
+11	lune	_	Word	Word	_	12	A	12:A	_
+12	dardait	_	Word	Word	_	8	E	8:E	_
+13	entre	_	Word	Word	_	15	R	15:R	_
+14	la	_	Word	Word	_	15	F	15:F	_
+15	frange	_	Word	Word	_	12	A	12:A	_
+16	de	_	Word	Word	_	18	R	18:R	_
+17	deux	_	Word	Word	_	18	Q	18:Q	_
+18	nuages	_	Word	Word	_	15	E	15:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

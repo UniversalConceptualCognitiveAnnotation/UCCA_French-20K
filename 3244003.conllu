@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 3244003
+# text = Je donnai l' ordre d' expédier pour Paris ( France ) mes ballots d' animaux empaillés et de plantes desséchées .
+1	Je	_	Word	Word	_	4	A	4:A	_
+2	donnai	_	Word	Word	_	4	E	4:E	_
+3	l'	_	Word	Word	_	4	F	4:F	_
+4	ordre	_	Word	Word	_	0	H	0:H	_
+5	d'	_	Word	Word	_	6	F	6:F	_
+6	expédier	_	Word	Word	_	4	A	4:A	_
+7	pour	_	Word	Word	_	8	R	8:R	_
+8	Paris	_	Word	Word	_	6	A	6:A	_
+9	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	France	_	Word	Word	_	8	E	8:E	_
+11	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	mes	_	Word	Word	_	13	E	13:E	_
+13	ballots	_	Word	Word	_	6	A	6:A	_
+14	d'	_	Word	Word	_	15	R	15:R	_
+15	animaux	_	Word	Word	_	13	E	13:E	_
+16	empaillés	_	Word	Word	_	15	E	15:E	_
+17	et	_	Word	Word	_	15	N	15:N	_
+18	de	_	Word	Word	_	19	R	19:R	_
+19	plantes	_	Word	Word	_	15	C	15:C	_
+20	desséchées	_	Word	Word	_	19	E	19:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

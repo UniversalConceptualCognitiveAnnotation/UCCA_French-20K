@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 3258002
+# text = Des milliers de mouchoirs s' agitèrent au - dessus de la masse compacte et saluèrent l' Abraham - Lincoln jusqu' à son arrivée dans les eaux de l' Hudson , à la pointe de cette presqu ' île allongée qui forme la ville de New York .
+1	Des	_	Word	Word	_	4	F	4:F	_
+2	milliers	_	Word	Word	_	4	Q	4:Q	_
+3	de	_	Word	Word	_	4	R	4:R	_
+4	mouchoirs	_	Word	Word	_	0	C	0:C|15:A	_
+5	s'	_	Word	Word	_	0	H	0:H	_
+6	agitèrent	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	au	_	Word	Word	_	9	R	9:R	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	dessus	_	Word	Word	_	12	R	12:R	_
+10	de	_	Word	Word	_	12	R	12:R	_
+11	la	_	Word	Word	_	12	F	12:F	_
+12	masse	_	Word	Word	_	5	A	5:A	_
+13	compacte	_	Word	Word	_	12	E	12:E	_
+14	et	_	Word	Word	_	15	L	15:L	_
+15	saluèrent	_	Word	Word	_	5	H	5:H	_
+16	l'	_	Word	Word	_	17	F	17:F	_
+17	Abraham	_	Word	Word	_	15	A	15:A	_
+18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	Lincoln	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	jusqu'	_	Word	Word	_	23	L	23:L	_
+21	à	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	son	_	Word	Word	_	23	A	23:A	_
+23	arrivée	_	Word	Word	_	5	H	5:H	_
+24	dans	_	Word	Word	_	26	R	26:R	_
+25	les	_	Word	Word	_	26	F	26:F	_
+26	eaux	_	Word	Word	_	23	A	23:A	_
+27	de	_	Word	Word	_	29	R	29:R	_
+28	l'	_	Word	Word	_	29	F	29:F	_
+29	Hudson	_	Word	Word	_	26	E	26:E	_
+30	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+31	à	_	Word	Word	_	33	R	33:R	_
+32	la	_	Word	Word	_	33	F	33:F	_
+33	pointe	_	Word	Word	_	26	E	26:E	_
+34	de	_	Word	Word	_	36	R	36:R	_
+35	cette	_	Word	Word	_	36	E	36:E	_
+36	presqu	_	Word	Word	_	33	E	33:E	_
+37	'	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	île	_	Word	Word	_	36	Terminal	36:Terminal	_
+39	allongée	_	Word	Word	_	36	E	36:E	_
+40	qui	_	Word	Word	_	41	R	41:R	_
+41	forme	_	Word	Word	_	36	E	36:E	_
+42	la	_	Word	Word	_	43	F	43:F	_
+43	ville	_	Word	Word	_	41	A	41:A	_
+44	de	_	Word	Word	_	45	R	45:R	_
+45	New	_	Word	Word	_	43	E	43:E	_
+46	York	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

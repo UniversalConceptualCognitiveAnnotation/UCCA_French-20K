@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 3272003
+# text = Sur le gaillard d' avant s' allongeait un canon perfectionné , se chargeant par la culasse , très - épais de parois , très - étroit d' âme , et dont le modèle doit figurer à l' Exposition universelle de 1867 .
+1	Sur	_	Word	Word	_	3	R	3:R	_
+2	le	_	Word	Word	_	3	F	3:F	_
+3	gaillard	_	Word	Word	_	6	A	6:A	_
+4	d'	_	Word	Word	_	5	R	5:R	_
+5	avant	_	Word	Word	_	3	E	3:E	_
+6	s'	_	Word	Word	_	0	H	0:H	_
+7	allongeait	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	un	_	Word	Word	_	9	F	9:F	_
+9	canon	_	Word	Word	_	6	A	6:A	_
+10	perfectionné	_	Word	Word	_	9	E	9:E	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	se	_	Word	Word	_	9	E	9:E	_
+13	chargeant	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	par	_	Word	Word	_	16	R	16:R	_
+15	la	_	Word	Word	_	16	F	16:F	_
+16	culasse	_	Word	Word	_	12	A	12:A	_
+17	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+18	très	_	Word	Word	_	20	E	20:E	_
+19	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	épais	_	Word	Word	_	12	H	12:H	_
+21	de	_	Word	Word	_	22	R	22:R	_
+22	parois	_	Word	Word	_	20	A	20:A	_
+23	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+24	très	_	Word	Word	_	26	E	26:E	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	étroit	_	Word	Word	_	12	H	12:H	_
+27	d'	_	Word	Word	_	28	R	28:R	_
+28	âme	_	Word	Word	_	26	A	26:A	_
+29	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+30	et	_	Word	Word	_	35	L	35:L	_
+31	dont	_	Word	Word	_	35	L	35:L	_
+32	le	_	Word	Word	_	33	F	33:F	_
+33	modèle	_	Word	Word	_	35	A	35:A	_
+34	doit	_	Word	Word	_	35	D	35:D	_
+35	figurer	_	Word	Word	_	12	H	12:H	_
+36	à	_	Word	Word	_	38	R	38:R	_
+37	l'	_	Word	Word	_	38	F	38:F	_
+38	Exposition	_	Word	Word	_	35	A	35:A	_
+39	universelle	_	Word	Word	_	38	D	38:D	_
+40	de	_	Word	Word	_	41	R	41:R	_
+41	1867	_	Word	Word	_	35	T	35:T	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 3232001
+# text = Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l' esprit public à l' intérieur des continents , les gens de mer furent particulièrement émus .
+1	Sans	_	Word	Word	_	0	root	0:root	_
+2	parler	_	Word	Word	_	0	H	0:H	_
+3	des	_	Word	Word	_	4	R	4:R	_
+4	rumeurs	_	Word	Word	_	2	A	2:A	_
+5	qui	_	Word	Word	_	6	R	6:R	_
+6	agitaient	_	Word	Word	_	4	E	4:E	_
+7	les	_	Word	Word	_	8	F	8:F	_
+8	populations	_	Word	Word	_	6	A	6:A	_
+9	des	_	Word	Word	_	10	R	10:R	_
+10	ports	_	Word	Word	_	8	A	8:A	_
+11	et	_	Word	Word	_	12	L	12:L	_
+12	surexcitaient	_	Word	Word	_	6	H	6:H	_
+13	l'	_	Word	Word	_	14	F	14:F	_
+14	esprit	_	Word	Word	_	12	A	12:A	_
+15	public	_	Word	Word	_	14	E	14:E	_
+16	à	_	Word	Word	_	18	R	18:R	_
+17	l'	_	Word	Word	_	18	F	18:F	_
+18	intérieur	_	Word	Word	_	12	A	12:A	_
+19	des	_	Word	Word	_	20	R	20:R	_
+20	continents	_	Word	Word	_	18	E	18:E	_
+21	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+22	les	_	Word	Word	_	23	F	23:F	_
+23	gens	_	Word	Word	_	28	A	28:A	_
+24	de	_	Word	Word	_	25	R	25:R	_
+25	mer	_	Word	Word	_	23	E	23:E	_
+26	furent	_	Word	Word	_	28	F	28:F	_
+27	particulièrement	_	Word	Word	_	28	D	28:D	_
+28	émus	_	Word	Word	_	2	H	2:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

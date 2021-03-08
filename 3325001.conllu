@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 3325001
+# text = L ' Abraham - Lincoln n' avait rien à se reprocher , ayant tout fait pour réussir .
+1	L	_	Word	Word	_	3	F	3:F	_
+2	'	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	Abraham	_	Word	Word	_	0	C	0:C|15:A|17:A	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Lincoln	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	n'	_	Word	Word	_	10	D	10:D	_
+7	avait	_	Word	Word	_	10	F	10:F	_
+8	rien	_	Word	Word	_	10	A	10:A	_
+9	à	_	Word	Word	_	10	R	10:R	_
+10	se	_	Word	Word	_	0	H	0:H	_
+11	reprocher	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	ayant	_	Word	Word	_	15	F	15:F	_
+14	tout	_	Word	Word	_	15	A	15:A	_
+15	fait	_	Word	Word	_	10	H	10:H	_
+16	pour	_	Word	Word	_	17	L	17:L	_
+17	réussir	_	Word	Word	_	10	H	10:H	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

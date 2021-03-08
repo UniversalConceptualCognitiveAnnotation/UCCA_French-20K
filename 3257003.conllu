@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 3257003
+# text = Les branches de l' hélice battirent les flots avec une rapidité croissante , et l' Abraham - Lincoln s' avança majestueusement au milieu d' une centaine de ferry - boats et de tenders chargés de spectateurs , qui lui faisaient cortège .
+1	Les	_	Word	Word	_	2	F	2:F	_
+2	branches	_	Word	Word	_	6	A	6:A	_
+3	de	_	Word	Word	_	5	R	5:R	_
+4	l'	_	Word	Word	_	5	F	5:F	_
+5	hélice	_	Word	Word	_	2	E	2:E	_
+6	battirent	_	Word	Word	_	0	H	0:H	_
+7	les	_	Word	Word	_	8	F	8:F	_
+8	flots	_	Word	Word	_	6	A	6:A	_
+9	avec	_	Word	Word	_	11	R	11:R	_
+10	une	_	Word	Word	_	11	F	11:F	_
+11	rapidité	_	Word	Word	_	6	D	6:D	_
+12	croissante	_	Word	Word	_	11	E	11:E	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	et	_	Word	Word	_	19	L	19:L	_
+15	l'	_	Word	Word	_	16	F	16:F	_
+16	Abraham	_	Word	Word	_	19	A	19:A	_
+17	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Lincoln	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	s'	_	Word	Word	_	6	H	6:H	_
+20	avança	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	majestueusement	_	Word	Word	_	19	D	19:D	_
+22	au	_	Word	Word	_	23	R	23:R	_
+23	milieu	_	Word	Word	_	19	A	19:A	_
+24	d'	_	Word	Word	_	30	R	30:R	_
+25	une	_	Word	Word	_	26	F	26:F	_
+26	centaine	_	Word	Word	_	30	Q	30:Q	_
+27	de	_	Word	Word	_	30	R	30:R	_
+28	ferry	_	Word	Word	_	30	E	30:E	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	boats	_	Word	Word	_	23	E	23:E	_
+31	et	_	Word	Word	_	30	N	30:N	_
+32	de	_	Word	Word	_	33	R	33:R	_
+33	tenders	_	Word	Word	_	30	C	30:C	_
+34	chargés	_	Word	Word	_	23	E	23:E	_
+35	de	_	Word	Word	_	36	R	36:R	_
+36	spectateurs	_	Word	Word	_	34	A	34:A	_
+37	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+38	qui	_	Word	Word	_	41	R	41:R	_
+39	lui	_	Word	Word	_	41	A	41:A	_
+40	faisaient	_	Word	Word	_	41	D	41:D	_
+41	cortège	_	Word	Word	_	23	E	23:E	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

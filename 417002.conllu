@@ -1,9 +1,0 @@
-# format = ucca
-# sent_id = 417002
-# text = Ce mystère m' intriguait .
-1	Ce	_	Word	Word	_	2	E	2:E	_
-2	mystère	_	Word	Word	_	4	A	4:A	_
-3	m'	_	Word	Word	_	4	A	4:A	_
-4	intriguait	_	Word	Word	_	0	H	0:H	_
-5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
-

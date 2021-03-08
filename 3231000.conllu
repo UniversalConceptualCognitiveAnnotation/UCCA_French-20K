@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 3231000
+# text = Conseil était mon domestique .
+1	Conseil	_	Word	Word	_	2	A	2:A	_
+2	était	_	Word	Word	_	0	H	0:H	_
+3	mon	_	Word	Word	_	2	A	2:A	_
+4	domestique	_	Word	Word	_	3	A	3:A	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

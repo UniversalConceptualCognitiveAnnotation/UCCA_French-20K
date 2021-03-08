@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 3223001
+# text = On n' accorda pas vingt-quatre heures de répit au commandant Farragut .
+1	On	_	Word	Word	_	8	A	8:A	_
+2	n'	_	Word	Word	_	8	D	8:D	_
+3	accorda	_	Word	Word	_	8	D	8:D	_
+4	pas	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	vingt-quatre	_	Word	Word	_	6	Q	6:Q	_
+6	heures	_	Word	Word	_	8	T	8:T	_
+7	de	_	Word	Word	_	8	R	8:R	_
+8	répit	_	Word	Word	_	0	H	0:H	_
+9	au	_	Word	Word	_	11	R	11:R	_
+10	commandant	_	Word	Word	_	11	E	11:E	_
+11	Farragut	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

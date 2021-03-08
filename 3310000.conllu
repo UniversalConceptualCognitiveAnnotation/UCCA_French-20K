@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 3310000
+# text = « Ouvre l' œ il ! ouvre l' œ il ! » répétaient les matelots de l' Abraham Lincoln .
+1	«	_	Punctuation	Punctuation	_	13	U	13:U	_
+2	Ouvre	_	Word	Word	_	13	A	13:A	_
+3	l'	_	Word	Word	_	4	F	4:F	_
+4	œ	_	Word	Word	_	2	A	2:A	_
+5	il	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	!	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	ouvre	_	Word	Word	_	2	H	2:H	_
+8	l'	_	Word	Word	_	9	F	9:F	_
+9	œ	_	Word	Word	_	7	A	7:A	_
+10	il	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	!	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	»	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	répétaient	_	Word	Word	_	0	H	0:H	_
+14	les	_	Word	Word	_	15	F	15:F	_
+15	matelots	_	Word	Word	_	13	A	13:A	_
+16	de	_	Word	Word	_	18	R	18:R	_
+17	l'	_	Word	Word	_	18	F	18:F	_
+18	Abraham	_	Word	Word	_	15	E	15:E	_
+19	Lincoln	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

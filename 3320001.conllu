@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 3320001
+# text = Et , pour tout dire , on ne vivait plus à bord .
+1	Et	_	Word	Word	_	9	L	9:L	_
+2	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	pour	_	Word	Word	_	5	R	5:R	_
+4	tout	_	Word	Word	_	5	A	5:A	_
+5	dire	_	Word	Word	_	9	G	9:G	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	on	_	Word	Word	_	9	A	9:A	_
+8	ne	_	Word	Word	_	9	D	9:D	_
+9	vivait	_	Word	Word	_	0	H	0:H	_
+10	plus	_	Word	Word	_	9	T	9:T	_
+11	à	_	Word	Word	_	12	R	12:R	_
+12	bord	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

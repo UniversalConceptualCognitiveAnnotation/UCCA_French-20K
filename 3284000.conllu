@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 3284000
+# text = « Comment , Ned , lui demandai - je , comment pouvez - vous ne pas être convaincu de l' existence du cétacé que nous poursuivons ? Avez - vous donc des raisons particulières de vous montrer si incrédule ? »
+1	«	_	Punctuation	Punctuation	_	18	U	18:U	_
+2	Comment	_	Word	Word	_	18	D	18:D	_
+3	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+4	Ned	_	Word	Word	_	18	G	18:G	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	lui	_	Word	Word	_	7	A	7:A	_
+7	demandai	_	Word	Word	_	0	H	0:H	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	je	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	comment	_	Word	Word	_	18	F	18:F	_
+12	pouvez	_	Word	Word	_	18	D	18:D	_
+13	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+14	vous	_	Word	Word	_	18	A	18:A	_
+15	ne	_	Word	Word	_	18	D	18:D	_
+16	pas	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	être	_	Word	Word	_	18	F	18:F	_
+18	convaincu	_	Word	Word	_	7	A	7:A	_
+19	de	_	Word	Word	_	21	R	21:R	_
+20	l'	_	Word	Word	_	21	F	21:F	_
+21	existence	_	Word	Word	_	18	A	18:A	_
+22	du	_	Word	Word	_	23	R	23:R	_
+23	cétacé	_	Word	Word	_	21	A	21:A	_
+24	que	_	Word	Word	_	26	R	26:R	_
+25	nous	_	Word	Word	_	26	A	26:A	_
+26	poursuivons	_	Word	Word	_	23	E	23:E	_
+27	?	_	Punctuation	Punctuation	_	18	U	18:U	_
+28	Avez	_	Word	Word	_	33	D	33:D	_
+29	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+30	vous	_	Word	Word	_	33	A	33:A	_
+31	donc	_	Word	Word	_	33	L	33:L	_
+32	des	_	Word	Word	_	33	F	33:F	_
+33	raisons	_	Word	Word	_	18	H	18:H	_
+34	particulières	_	Word	Word	_	33	D	33:D	_
+35	de	_	Word	Word	_	39	R	39:R	_
+36	vous	_	Word	Word	_	39	A	39:A	_
+37	montrer	_	Word	Word	_	39	D	39:D	_
+38	si	_	Word	Word	_	39	D	39:D	_
+39	incrédule	_	Word	Word	_	33	A	33:A	_
+40	?	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	»	_	Punctuation	Punctuation	_	39	U	39:U	_
+

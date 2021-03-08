@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 3270001
+# text = Il surveillait la mer avec une scrupuleuse attention .
+1	Il	_	Word	Word	_	2	A	2:A	_
+2	surveillait	_	Word	Word	_	0	H	0:H	_
+3	la	_	Word	Word	_	4	F	4:F	_
+4	mer	_	Word	Word	_	2	A	2:A	_
+5	avec	_	Word	Word	_	8	R	8:R	_
+6	une	_	Word	Word	_	8	F	8:F	_
+7	scrupuleuse	_	Word	Word	_	8	E	8:E	_
+8	attention	_	Word	Word	_	2	D	2:D	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

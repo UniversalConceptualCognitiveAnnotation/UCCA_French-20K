@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 3303006
+# text = On ne put le savoir ; mais , examen fait de sa carène dans les bassins de radoub , il fut reconnu qu' une partie de la quille avait été brisée .
+1	On	_	Word	Word	_	5	A	5:A	_
+2	ne	_	Word	Word	_	5	D	5:D	_
+3	put	_	Word	Word	_	5	D	5:D	_
+4	le	_	Word	Word	_	5	A	5:A	_
+5	savoir	_	Word	Word	_	0	H	0:H	_
+6	;	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	mais	_	Word	Word	_	9	L	9:L	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	examen	_	Word	Word	_	5	H	5:H	_
+10	fait	_	Word	Word	_	9	D	9:D	_
+11	de	_	Word	Word	_	13	R	13:R	_
+12	sa	_	Word	Word	_	13	E	13:E	_
+13	carène	_	Word	Word	_	9	A	9:A	_
+14	dans	_	Word	Word	_	16	R	16:R	_
+15	les	_	Word	Word	_	16	F	16:F	_
+16	bassins	_	Word	Word	_	9	A	9:A	_
+17	de	_	Word	Word	_	18	R	18:R	_
+18	radoub	_	Word	Word	_	16	E	16:E	_
+19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+20	il	_	Word	Word	_	22	A	22:A	_
+21	fut	_	Word	Word	_	22	F	22:F	_
+22	reconnu	_	Word	Word	_	5	H	5:H	_
+23	qu'	_	Word	Word	_	31	R	31:R	_
+24	une	_	Word	Word	_	25	F	25:F	_
+25	partie	_	Word	Word	_	31	A	31:A	_
+26	de	_	Word	Word	_	28	R	28:R	_
+27	la	_	Word	Word	_	28	F	28:F	_
+28	quille	_	Word	Word	_	25	E	25:E	_
+29	avait	_	Word	Word	_	31	F	31:F	_
+30	été	_	Word	Word	_	31	F	31:F	_
+31	brisée	_	Word	Word	_	22	A	22:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

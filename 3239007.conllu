@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 3239007
+# text = On s' en occupera plus tard . -
+1	On	_	Word	Word	_	2	A	2:A	_
+2	s'	_	Word	Word	_	0	H	0:H	_
+3	en	_	Word	Word	_	2	A	2:A	_
+4	occupera	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	plus	_	Word	Word	_	6	E	6:E	_
+6	tard	_	Word	Word	_	2	T	2:T	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

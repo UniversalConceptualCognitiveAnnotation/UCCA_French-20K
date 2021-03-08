@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 3235000
+# text = Ce garçon avait trente ans , et son âge était à celui de son maître comme quinze est à vingt .
+1	Ce	_	Word	Word	_	2	E	2:E	_
+2	garçon	_	Word	Word	_	3	A	3:A	_
+3	avait	_	Word	Word	_	0	H	0:H	_
+4	trente	_	Word	Word	_	5	Q	5:Q	_
+5	ans	_	Word	Word	_	3	T	3:T	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	et	_	Word	Word	_	11	L	11:L	_
+8	son	_	Word	Word	_	9	A	9:A	_
+9	âge	_	Word	Word	_	11	A	11:A	_
+10	était	_	Word	Word	_	11	F	11:F	_
+11	à	_	Word	Word	_	3	H	3:H	_
+12	celui	_	Word	Word	_	11	A	11:A	_
+13	de	_	Word	Word	_	14	R	14:R	_
+14	son	_	Word	Word	_	12	E	12:E	_
+15	maître	_	Word	Word	_	14	A	14:A	_
+16	comme	_	Word	Word	_	19	L	19:L	_
+17	quinze	_	Word	Word	_	19	A	19:A	_
+18	est	_	Word	Word	_	19	F	19:F	_
+19	à	_	Word	Word	_	3	H	3:H	_
+20	vingt	_	Word	Word	_	19	A	19:A	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 3328000
+# text = Deux jours se passèrent .
+1	Deux	_	Word	Word	_	2	Q	2:Q	_
+2	jours	_	Word	Word	_	3	T	3:T	_
+3	se	_	Word	Word	_	0	H	0:H	_
+4	passèrent	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

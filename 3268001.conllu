@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 3268001
+# text = Il fallait les entendre causer , discuter , disputer , calculer les diverses chances d' une rencontre , et observer la vaste étendue de l' Océan .
+1	Il	_	Word	Word	_	4	F	4:F	_
+2	fallait	_	Word	Word	_	4	F	4:F	_
+3	les	_	Word	Word	_	4	A	4:A|5:A|7:A|9:A|11:A|20:A	_
+4	entendre	_	Word	Word	_	0	H	0:H	_
+5	causer	_	Word	Word	_	11	H	11:H	_
+6	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+7	discuter	_	Word	Word	_	11	H	11:H	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	disputer	_	Word	Word	_	11	H	11:H	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	calculer	_	Word	Word	_	4	A	4:A	_
+12	les	_	Word	Word	_	14	F	14:F	_
+13	diverses	_	Word	Word	_	14	E	14:E	_
+14	chances	_	Word	Word	_	11	A	11:A	_
+15	d'	_	Word	Word	_	17	R	17:R	_
+16	une	_	Word	Word	_	17	F	17:F	_
+17	rencontre	_	Word	Word	_	14	E	14:E	_
+18	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+19	et	_	Word	Word	_	20	L	20:L	_
+20	observer	_	Word	Word	_	11	H	11:H	_
+21	la	_	Word	Word	_	23	F	23:F	_
+22	vaste	_	Word	Word	_	23	D	23:D	_
+23	étendue	_	Word	Word	_	20	A	20:A	_
+24	de	_	Word	Word	_	26	R	26:R	_
+25	l'	_	Word	Word	_	26	F	26:F	_
+26	Océan	_	Word	Word	_	23	A	23:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

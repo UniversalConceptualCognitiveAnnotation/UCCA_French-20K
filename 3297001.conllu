@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 3297001
+# text = Comme vous dites , Ned , et songez alors aux ravages que peut produire une pareille masse lancée avec la vitesse d' un express contre la coque d' un navire . -
+1	Comme	_	Word	Word	_	3	D	3:D	_
+2	vous	_	Word	Word	_	3	A	3:A	_
+3	dites	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Ned	_	Word	Word	_	3	G	3:G|8:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	et	_	Word	Word	_	8	L	8:L	_
+8	songez	_	Word	Word	_	3	H	3:H	_
+9	alors	_	Word	Word	_	3	L	3:L	_
+10	aux	_	Word	Word	_	11	R	11:R	_
+11	ravages	_	Word	Word	_	8	A	8:A	_
+12	que	_	Word	Word	_	14	R	14:R	_
+13	peut	_	Word	Word	_	14	D	14:D	_
+14	produire	_	Word	Word	_	11	E	11:E	_
+15	une	_	Word	Word	_	17	F	17:F	_
+16	pareille	_	Word	Word	_	17	E	17:E	_
+17	masse	_	Word	Word	_	14	A	14:A	_
+18	lancée	_	Word	Word	_	17	E	17:E	_
+19	avec	_	Word	Word	_	21	R	21:R	_
+20	la	_	Word	Word	_	21	F	21:F	_
+21	vitesse	_	Word	Word	_	18	A	18:A	_
+22	d'	_	Word	Word	_	24	R	24:R	_
+23	un	_	Word	Word	_	24	F	24:F	_
+24	express	_	Word	Word	_	21	A	21:A	_
+25	contre	_	Word	Word	_	27	R	27:R	_
+26	la	_	Word	Word	_	27	F	27:F	_
+27	coque	_	Word	Word	_	18	A	18:A	_
+28	d'	_	Word	Word	_	30	R	30:R	_
+29	un	_	Word	Word	_	30	F	30:F	_
+30	navire	_	Word	Word	_	27	E	27:E	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+

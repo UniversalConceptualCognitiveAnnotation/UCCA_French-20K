@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 3283002
+# text = Puis , voyant que Ned me laissait parler sans trop rien dire , je le poussai plus directement .
+1	Puis	_	Word	Word	_	16	L	16:L	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	voyant	_	Word	Word	_	0	H	0:H	_
+4	que	_	Word	Word	_	8	R	8:R	_
+5	Ned	_	Word	Word	_	8	A	8:A|12:A	_
+6	me	_	Word	Word	_	8	A	8:A	_
+7	laissait	_	Word	Word	_	8	D	8:D	_
+8	parler	_	Word	Word	_	3	A	3:A	_
+9	sans	_	Word	Word	_	12	L	12:L|12:D	_
+10	trop	_	Word	Word	_	12	A	12:A	_
+11	rien	_	Word	Word	_	10	C	10:C	_
+12	dire	_	Word	Word	_	8	H	8:H	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	je	_	Word	Word	_	16	A	16:A|3:A	_
+15	le	_	Word	Word	_	16	A	16:A	_
+16	poussai	_	Word	Word	_	3	H	3:H	_
+17	plus	_	Word	Word	_	18	E	18:E	_
+18	directement	_	Word	Word	_	16	D	16:D	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+
