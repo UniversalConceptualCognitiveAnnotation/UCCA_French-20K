@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 3291001
+1	La	_	Word	Word	_	3	F	_	_
+2	«	_	Punctuation	Punctuation	_	3	U	_	_
+3	question	_	Word	Word	_	7	A	_	_
+4	du	_	Word	Word	_	5	R	_	_
+5	monstre	_	Word	Word	_	3	A	_	_
+6	»	_	Punctuation	Punctuation	_	7	U	_	_
+7	enflamma	_	Word	Word	_	0	H	_	_
+8	les	_	Word	Word	_	9	F	_	_
+9	esprits	_	Word	Word	_	7	A	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

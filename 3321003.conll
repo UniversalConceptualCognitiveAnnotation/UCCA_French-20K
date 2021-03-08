@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 3321003
+1	rien	_	Word	Word	_	0	H	_	_
+2	que	_	Word	Word	_	1	L	_	_
+3	l'	_	Word	Word	_	4	F	_	_
+4	immensité	_	Word	Word	_	1	H	_	_
+5	des	_	Word	Word	_	6	R	_	_
+6	flots	_	Word	Word	_	4	A	_	_
+7	déserts	_	Word	Word	_	6	E	_	_
+8	!	_	Punctuation	Punctuation	_	7	U	_	_
+

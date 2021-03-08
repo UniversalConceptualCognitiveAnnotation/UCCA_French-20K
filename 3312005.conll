@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 3312005
+1	Les	_	Word	Word	_	2	F	_	_
+2	capots	_	Word	Word	_	3	A	_	_
+3	vomissaient	_	Word	Word	_	0	H	_	_
+4	un	_	Word	Word	_	5	F	_	_
+5	torrent	_	Word	Word	_	7	Q	_	_
+6	de	_	Word	Word	_	7	R	_	_
+7	matelots	_	Word	Word	_	0	C	_	_
+7	matelots	_	Word	Word	_	12	C*	_	_
+8	et	_	Word	Word	_	7	N	_	_
+9	d'	_	Word	Word	_	10	F	_	_
+10	officiers	_	Word	Word	_	7	C	_	_
+11	.	_	Punctuation	Punctuation	_	12	U	_	_
+12	Chacun	_	Word	Word	_	22	A	_	_
+13	,	_	Punctuation	Punctuation	_	12	U	_	_
+14	la	_	Word	Word	_	15	F	_	_
+15	poitrine	_	Word	Word	_	12	E	_	_
+16	haletante	_	Word	Word	_	15	E	_	_
+17	,	_	Punctuation	Punctuation	_	12	U	_	_
+18	l'	_	Word	Word	_	19	F	_	_
+19	œil	_	Word	Word	_	12	E	_	_
+20	trouble	_	Word	Word	_	19	E	_	_
+21	,	_	Punctuation	Punctuation	_	22	U	_	_
+22	observait	_	Word	Word	_	3	H	_	_
+23	la	_	Word	Word	_	24	F	_	_
+24	marche	_	Word	Word	_	22	A	_	_
+25	du	_	Word	Word	_	26	R	_	_
+26	cétacé	_	Word	Word	_	24	A	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+

@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 3319000
+1	Le	_	Word	Word	_	2	F	_	_
+2	20	_	Word	Word	_	10	T	_	_
+3	juillet	_	Word	Word	_	2	C	_	_
+4	,	_	Punctuation	Punctuation	_	10	U	_	_
+5	le	_	Word	Word	_	6	F	_	_
+6	tropique	_	Word	Word	_	10	A	_	_
+7	du	_	Word	Word	_	8	R	_	_
+8	Capricorne	_	Word	Word	_	6	E	_	_
+9	fut	_	Word	Word	_	10	F	_	_
+10	coupé	_	Word	Word	_	0	H	_	_
+11	par	_	Word	Word	_	12	R	_	_
+12	105	_	Word	Word	_	10	A	_	_
+13	°	_	Punctuation	Punctuation	_	12	U	_	_
+14	de	_	Word	Word	_	15	R	_	_
+15	longitude	_	Word	Word	_	12	E	_	_
+16	,	_	Punctuation	Punctuation	_	10	U	_	_
+17	et	_	Word	Word	_	10	L	_	_
+18	le	_	Word	Word	_	19	F	_	_
+19	27	_	Word	Word	_	25	T	_	_
+20	du	_	Word	Word	_	22	R	_	_
+21	même	_	Word	Word	_	22	E	_	_
+22	mois	_	Word	Word	_	19	E	_	_
+23	,	_	Punctuation	Punctuation	_	25	U	_	_
+24	nous	_	Word	Word	_	25	A	_	_
+25	franchissions	_	Word	Word	_	10	H	_	_
+26	l'	_	Word	Word	_	27	F	_	_
+27	équateur	_	Word	Word	_	25	A	_	_
+28	sur	_	Word	Word	_	32	R	_	_
+29	le	_	Word	Word	_	32	F	_	_
+30	cent	_	Word	Word	_	32	Q	_	_
+31	dixième	_	Word	Word	_	30	Terminal	_	_
+32	méridien	_	Word	Word	_	25	A	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+

@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 3274001
+1	Adresse	_	Word	Word	_	10	H	_	_
+2	et	_	Word	Word	_	10	L	_	_
+3	sang-froid	_	Word	Word	_	10	H	_	_
+4	,	_	Punctuation	Punctuation	_	10	U	_	_
+5	audace	_	Word	Word	_	10	H	_	_
+6	et	_	Word	Word	_	10	L	_	_
+7	ruse	_	Word	Word	_	10	H	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	il	_	Word	Word	_	10	A	_	_
+9	il	_	Word	Word	_	1	A*	_	_
+9	il	_	Word	Word	_	3	A*	_	_
+9	il	_	Word	Word	_	5	A*	_	_
+9	il	_	Word	Word	_	7	A*	_	_
+10	possédait	_	Word	Word	_	0	H	_	_
+11	ces	_	Word	Word	_	12	E	_	_
+12	qualités	_	Word	Word	_	10	A	_	_
+13	à	_	Word	Word	_	15	R	_	_
+14	un	_	Word	Word	_	15	F	_	_
+15	degré	_	Word	Word	_	10	D	_	_
+16	supérieur	_	Word	Word	_	15	E	_	_
+17	,	_	Punctuation	Punctuation	_	10	U	_	_
+18	et	_	Word	Word	_	10	L	_	_
+19	il	_	Word	Word	_	21	F	_	_
+20	fallait	_	Word	Word	_	21	D	_	_
+21	être	_	Word	Word	_	10	H	_	_
+22	une	_	Word	Word	_	23	F	_	_
+23	baleine	_	Word	Word	_	21	A	_	_
+24	bien	_	Word	Word	_	25	D	_	_
+25	maligne	_	Word	Word	_	23	E	_	_
+26	,	_	Punctuation	Punctuation	_	23	U	_	_
+27	ou	_	Word	Word	_	23	N	_	_
+28	un	_	Word	Word	_	29	F	_	_
+29	cachalot	_	Word	Word	_	23	C	_	_
+30	singulièrement	_	Word	Word	_	31	D	_	_
+31	astucieux	_	Word	Word	_	29	E	_	_
+32	pour	_	Word	Word	_	10	L	_	_
+33	échapper	_	Word	Word	_	10	H	_	_
+34	à	_	Word	Word	_	36	R	_	_
+35	son	_	Word	Word	_	36	A	_	_
+36	coup	_	Word	Word	_	33	A	_	_
+37	de	_	Word	Word	_	38	R	_	_
+38	harpon	_	Word	Word	_	36	A	_	_
+39	.	_	Punctuation	Punctuation	_	38	U	_	_
+

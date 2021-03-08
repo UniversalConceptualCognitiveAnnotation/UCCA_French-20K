@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 3298000
+1	Mais	_	Word	Word	_	4	L	_	_
+2	cette	_	Word	Word	_	3	E	_	_
+3	réponse	_	Word	Word	_	0	C	_	_
+3	réponse	_	Word	Word	_	12	A*	_	_
+4	prouvait	_	Word	Word	_	0	H	_	_
+5	l'	_	Word	Word	_	6	F	_	_
+6	obstination	_	Word	Word	_	4	A	_	_
+7	du	_	Word	Word	_	8	R	_	_
+8	harponneur	_	Word	Word	_	6	A	_	_
+9	et	_	Word	Word	_	4	L	_	_
+10	pas	_	Word	Word	_	12	D	_	_
+11	autre	_	Word	Word	_	12	E	_	_
+12	chose	_	Word	Word	_	4	H	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+

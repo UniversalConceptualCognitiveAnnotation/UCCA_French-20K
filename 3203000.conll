@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 3203000
+1	À	_	Word	Word	_	3	L	_	_
+2	mon	_	Word	Word	_	3	A	_	_
+3	arrivée	_	Word	Word	_	0	H	_	_
+4	à	_	Word	Word	_	5	R	_	_
+5	New	_	Word	Word	_	3	A	_	_
+6	York	_	Word	Word	_	5	Terminal	_	_
+7	,	_	Punctuation	Punctuation	_	3	U	_	_
+8	plusieurs	_	Word	Word	_	9	Q	_	_
+9	personnes	_	Word	Word	_	15	A	_	_
+10	m	_	Word	Word	_	15	A	_	_
+11	'	_	Punctuation	Punctuation	_	15	U	_	_
+12	avaient	_	Word	Word	_	15	F	_	_
+13	fait	_	Word	Word	_	15	D	_	_
+14	l'	_	Word	Word	_	15	F	_	_
+15	honneur	_	Word	Word	_	3	H	_	_
+16	de	_	Word	Word	_	18	R	_	_
+17	me	_	Word	Word	_	18	A	_	_
+18	consulter	_	Word	Word	_	15	A	_	_
+19	sur	_	Word	Word	_	23	R	_	_
+20	le	_	Word	Word	_	21	F	_	_
+21	phénomène	_	Word	Word	_	23	A	_	_
+22	en	_	Word	Word	_	23	R	_	_
+23	question	_	Word	Word	_	18	A	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+

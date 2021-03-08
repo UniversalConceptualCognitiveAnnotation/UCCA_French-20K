@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 3257001
+1	La	_	Word	Word	_	2	F	_	_
+2	vapeur	_	Word	Word	_	0	C	_	_
+2	vapeur	_	Word	Word	_	5	A*	_	_
+3	siffla	_	Word	Word	_	0	H	_	_
+4	en	_	Word	Word	_	3	L	_	_
+5	se	_	Word	Word	_	3	H	_	_
+6	précipitant	_	Word	Word	_	5	Terminal	_	_
+7	dans	_	Word	Word	_	9	R	_	_
+8	les	_	Word	Word	_	9	F	_	_
+9	tiroirs	_	Word	Word	_	5	A	_	_
+10	entr'ouverts	_	Word	Word	_	9	E	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+

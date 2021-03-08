@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 3281001
+1	Je	_	Word	Word	_	3	A	_	_
+2	dois	_	Word	Word	_	3	D	_	_
+3	avouer	_	Word	Word	_	0	H	_	_
+4	qu'	_	Word	Word	_	7	R	_	_
+5	il	_	Word	Word	_	7	A	_	_
+6	ne	_	Word	Word	_	7	D	_	_
+7	croyait	_	Word	Word	_	3	A	_	_
+8	guère	_	Word	Word	_	7	D	_	_
+9	à	_	Word	Word	_	11	R	_	_
+10	la	_	Word	Word	_	11	F	_	_
+11	licorne	_	Word	Word	_	7	A	_	_
+12	,	_	Punctuation	Punctuation	_	7	U	_	_
+13	et	_	Word	Word	_	7	L	_	_
+14	que	_	Word	Word	_	22	R	_	_
+15	,	_	Punctuation	Punctuation	_	22	U	_	_
+16	seul	_	Word	Word	_	22	D	_	_
+17	à	_	Word	Word	_	18	R	_	_
+18	bord	_	Word	Word	_	16	E	_	_
+19	,	_	Punctuation	Punctuation	_	22	U	_	_
+20	il	_	Word	Word	_	22	A	_	_
+21	ne	_	Word	Word	_	22	D	_	_
+22	partageait	_	Word	Word	_	7	H	_	_
+23	pas	_	Word	Word	_	21	Terminal	_	_
+24	la	_	Word	Word	_	25	F	_	_
+25	conviction	_	Word	Word	_	22	A	_	_
+26	générale	_	Word	Word	_	25	D	_	_
+27	.	_	Punctuation	Punctuation	_	25	U	_	_
+

@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 3295006
+1	Oui	_	Word	Word	_	4	G	_	_
+2	,	_	Punctuation	Punctuation	_	4	U	_	_
+3	je	_	Word	Word	_	4	A	_	_
+4	comprends	_	Word	Word	_	6	A	_	_
+5	,	_	Punctuation	Punctuation	_	6	U	_	_
+6	répondit	_	Word	Word	_	0	H	_	_
+7	Ned	_	Word	Word	_	6	A	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	devenu	_	Word	Word	_	11	D	_	_
+10	plus	_	Word	Word	_	11	D	_	_
+11	attentif	_	Word	Word	_	7	E	_	_
+12	,	_	Punctuation	Punctuation	_	6	U	_	_
+13	parce	_	Word	Word	_	4	L	_	_
+14	que	_	Word	Word	_	13	Terminal	_	_
+15	l'	_	Word	Word	_	16	F	_	_
+16	eau	_	Word	Word	_	0	C	_	_
+16	eau	_	Word	Word	_	22	A*	_	_
+17	m'	_	Word	Word	_	18	A	_	_
+18	entoure	_	Word	Word	_	4	H	_	_
+19	et	_	Word	Word	_	4	L	_	_
+20	ne	_	Word	Word	_	22	D	_	_
+21	me	_	Word	Word	_	22	A	_	_
+22	pénètre	_	Word	Word	_	4	H	_	_
+23	pas	_	Word	Word	_	20	Terminal	_	_
+24	.	_	Punctuation	Punctuation	_	22	U	_	_
+25	-	_	Punctuation	Punctuation	_	22	U	_	_
+

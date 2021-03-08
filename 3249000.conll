@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 3249000
+1	L'	_	Word	Word	_	2	F	_	_
+2	Abraham	_	Word	Word	_	8	A	_	_
+2	Abraham	_	Word	Word	_	10	A*	_	_
+3	-	_	Punctuation	Punctuation	_	2	U	_	_
+4	Lincoln	_	Word	Word	_	2	Terminal	_	_
+5	avait	_	Word	Word	_	8	F	_	_
+6	été	_	Word	Word	_	8	F	_	_
+7	parfaitement	_	Word	Word	_	8	D	_	_
+7	parfaitement	_	Word	Word	_	10	D*	_	_
+8	choisi	_	Word	Word	_	0	H	_	_
+9	et	_	Word	Word	_	8	L	_	_
+10	aménagé	_	Word	Word	_	8	H	_	_
+11	pour	_	Word	Word	_	13	R	_	_
+12	sa	_	Word	Word	_	13	A	_	_
+13	destination	_	Word	Word	_	8	A	_	_
+13	destination	_	Word	Word	_	10	A*	_	_
+14	nouvelle	_	Word	Word	_	13	D	_	_
+15	.	_	Punctuation	Punctuation	_	13	U	_	_
+
