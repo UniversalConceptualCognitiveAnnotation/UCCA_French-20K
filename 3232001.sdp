@@ -1,0 +1,31 @@
+# format = ucca
+1	Sans	_	Word	-	-	_	D*	_	_	_	_	_	_	_	_	_	_	_
+2	parler	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	des	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+4	rumeurs	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+5	qui	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+6	agitaient	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_
+7	les	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+8	populations	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+9	des	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+10	ports	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+11	et	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+12	surexcitaient	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_
+13	l'	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+14	esprit	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+15	public	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+16	à	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+17	l'	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+18	intérieur	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+19	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+20	continents	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
+21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+22	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+23	gens	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
+24	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+25	mer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+26	furent	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+27	particulièrement	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+28	émus	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

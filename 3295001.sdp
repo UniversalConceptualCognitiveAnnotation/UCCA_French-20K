@@ -1,0 +1,7 @@
+# format = ucca
+1	Environ	_	Word	-	-	_	D
+2	dix-sept	_	Word	-	-	_	Q
+3	mille	_	Word	-	+	_	_
+4	.	_	Punctuation	-	-	_	U
+5	-	_	Punctuation	-	-	_	U
+

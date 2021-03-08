@@ -1,0 +1,29 @@
+# format = ucca
+1	Les	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+2	capots	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+3	vomissaient	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+4	un	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+5	torrent	_	Word	-	+	_	_	_	_	Q	_	_	_	_	_	_	_
+6	de	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+7	matelots	_	Word	-	+	_	_	_	_	_	_	C*	_	_	_	_	_
+8	et	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_
+9	d'	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+10	officiers	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_
+11	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+12	Chacun	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+14	la	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+15	poitrine	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+16	haletante	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+18	l'	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+19	œil	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+20	trouble	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+22	observait	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+23	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+24	marche	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+25	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+26	cétacé	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

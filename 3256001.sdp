@@ -1,0 +1,20 @@
+# format = ucca
+1	Oui	_	Word	-	+	_	_	A	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+3	monsieur	_	Word	-	-	_	G	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+5	répondit	_	Word	-	+	_	_	_	_	_	_	_
+6	l'	_	Word	-	-	_	_	_	F	_	_	_
+7	ingénieur	_	Word	-	+	_	_	_	_	A*	_	_
+8	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+9	-	_	Punctuation	-	-	_	_	_	_	U	_	_
+10	Go	_	Word	-	+	_	_	_	_	_	A	_
+11	head	_	Word	-	-	_	_	_	_	Terminal	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+13	»	_	Punctuation	-	-	_	_	_	_	_	U	_
+14	cria	_	Word	-	+	_	_	H	_	_	_	_
+15	le	_	Word	-	-	_	_	_	_	_	_	F
+16	commandant	_	Word	-	-	_	_	_	_	_	_	E
+17	Farragut	_	Word	-	+	_	_	_	_	_	A	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

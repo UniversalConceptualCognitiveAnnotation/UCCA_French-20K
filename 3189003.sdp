@@ -1,0 +1,35 @@
+# format = ucca
+1	Il	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	se	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	trouvait	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+4	alors	_	Word	-	-	_	T	_	_	_	_	_	_	_	_	_	_	_
+5	à	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+6	trois	_	Word	-	+	_	_	_	Q	_	_	_	_	_	_	_	_	_
+7	cent	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+8	mille	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+9	du	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+10	cap	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+11	Clear	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+13	et	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+14	après	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+15	trois	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_	_
+16	jours	_	Word	-	+	_	_	_	_	_	_	_	T	_	_	_	_	_
+17	d'	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+18	un	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+19	retard	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+20	qui	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+21	inquiéta	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+22	vivement	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+23	Liverpool	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+25	il	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+26	entra	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+27	dans	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+28	les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+29	bassins	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+30	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+31	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+32	Compagnie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

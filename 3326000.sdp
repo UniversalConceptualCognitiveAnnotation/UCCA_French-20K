@@ -1,0 +1,12 @@
+# format = ucca
+1	Une	_	Word	-	-	_	F	_	_
+2	représentation	_	Word	-	+	_	_	_	_
+3	dans	_	Word	-	-	_	_	R	_
+4	ce	_	Word	-	-	_	_	E	_
+5	sens	_	Word	-	+	_	D	_	_
+6	fut	_	Word	-	-	_	F	_	_
+7	faite	_	Word	-	-	_	D	_	_
+8	au	_	Word	-	-	_	_	_	R
+9	commandant	_	Word	-	+	_	A	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

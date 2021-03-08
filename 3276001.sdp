@@ -1,0 +1,19 @@
+# format = ucca
+1	Il	_	Word	-	-	_	A	_	_	_	_
+2	valait	_	Word	-	+	_	_	_	_	_	_
+3	tout	_	Word	-	-	_	_	Q	_	_	_
+4	l'	_	Word	-	-	_	_	F	_	_	_
+5	équipage	_	Word	-	+	_	A	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_
+7	à	_	Word	-	-	_	_	_	R	_	_
+8	lui	_	Word	-	+	_	D	_	_	_	_
+9	seul	_	Word	-	-	_	_	_	E	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_
+11	pour	_	Word	-	-	_	_	_	_	R	_
+12	l'	_	Word	-	-	_	_	_	_	F	_
+13	œil	_	Word	-	+	_	A	_	_	_	_
+14	et	_	Word	-	-	_	_	_	_	N	_
+15	le	_	Word	-	-	_	_	_	_	_	F
+16	bras	_	Word	-	+	_	_	_	_	C	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

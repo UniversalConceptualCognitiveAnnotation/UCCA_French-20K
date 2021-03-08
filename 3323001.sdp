@@ -1,0 +1,16 @@
+# format = ucca
+1	Les	_	Word	-	-	_	_	F	_	_	_	_
+2	plus	_	Word	-	-	_	D	_	_	_	_	_
+3	chauds	_	Word	-	+	_	_	E	_	_	_	_
+4	partisans	_	Word	-	+	_	_	_	_	A	_	_
+5	de	_	Word	-	-	_	_	_	R	_	_	_
+6	l'	_	Word	-	-	_	_	_	F	_	_	_
+7	entreprise	_	Word	-	+	_	_	E	_	_	_	_
+8	devinrent	_	Word	-	+	_	_	_	_	_	_	_
+9	fatalement	_	Word	-	-	_	_	_	_	D	_	_
+10	ses	_	Word	-	-	_	_	_	_	_	_	E
+11	plus	_	Word	-	-	_	_	_	_	_	D	_
+12	ardents	_	Word	-	+	_	_	_	_	_	_	E
+13	détracteurs	_	Word	-	+	_	_	_	_	A	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

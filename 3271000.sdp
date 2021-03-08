@@ -1,0 +1,28 @@
+# format = ucca
+1	Pour	_	Word	-	+	_	_	_	G	_	_	_	_	_
+2	mon	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+3	compte	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+5	je	_	Word	-	-	_	_	_	A	_	_	_	_	_
+6	n'	_	Word	-	+	_	_	_	D	_	_	_	_	_
+7	étais	_	Word	-	+	_	_	_	_	_	_	_	_	_
+8	pas	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+9	en	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+10	reste	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+11	avec	_	Word	-	-	_	_	_	_	R	_	_	_	_
+12	les	_	Word	-	-	_	_	_	_	F	_	_	_	_
+13	autres	_	Word	-	+	_	_	_	A	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+15	et	_	Word	-	-	_	_	_	L	_	_	_	_	_
+16	je	_	Word	-	-	_	_	_	_	_	A	_	_	_
+17	ne	_	Word	-	-	_	_	_	_	_	D	_	_	_
+18	laissais	_	Word	-	+	_	_	_	H	_	_	_	_	_
+19	à	_	Word	-	-	_	_	_	_	_	_	R	_	_
+20	personne	_	Word	-	+	_	_	_	_	_	A	_	_	_
+21	ma	_	Word	-	-	_	_	_	_	_	_	_	E	_
+22	part	_	Word	-	+	_	_	_	_	_	A	_	_	_
+23	d'	_	Word	-	-	_	_	_	_	_	_	_	_	R
+24	observations	_	Word	-	+	_	_	_	_	_	_	_	E	_
+25	quotidiennes	_	Word	-	-	_	_	_	_	_	_	_	_	T
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

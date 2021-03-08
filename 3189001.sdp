@@ -1,0 +1,23 @@
+# format = ucca
+1	Quelques	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_
+2	instants	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+3	après	_	Word	-	+	_	_	_	T	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+5	on	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+6	constatait	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	l'	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+8	existence	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+9	d'	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+10	un	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+11	trou	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+12	large	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+13	de	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+14	deux	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_
+15	mètres	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+16	dans	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+17	la	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+18	carène	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+19	du	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+20	steamer	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

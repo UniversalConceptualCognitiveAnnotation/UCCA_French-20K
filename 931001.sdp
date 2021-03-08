@@ -1,7 +1,0 @@
-# format = ucca
-1	Le	_	Word	-	-	_	E	_
-2	commandant	_	Word	-	+	_	_	A
-3	tint	_	Word	-	+	_	_	_
-4	bon	_	Word	-	-	_	_	Terminal
-5	.	_	Punctuation	-	-	_	_	U
-

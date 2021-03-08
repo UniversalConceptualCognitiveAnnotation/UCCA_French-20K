@@ -1,0 +1,10 @@
+# format = ucca
+1	Sans	_	Word	-	-	_	D*
+2	que	_	Word	-	-	_	L
+3	je	_	Word	-	-	_	A
+4	m'	_	Word	-	+	_	_
+5	en	_	Word	-	-	_	A
+6	aperçoive	_	Word	-	-	_	Terminal
+7	?	_	Punctuation	-	-	_	U
+8	-	_	Punctuation	-	-	_	U
+

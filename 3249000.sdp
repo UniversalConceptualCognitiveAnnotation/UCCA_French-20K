@@ -1,0 +1,17 @@
+# format = ucca
+1	L'	_	Word	-	-	_	F	_	_	_
+2	Abraham	_	Word	-	+	_	_	A	A*	_
+3	-	_	Punctuation	-	-	_	U	_	_	_
+4	Lincoln	_	Word	-	-	_	Terminal	_	_	_
+5	avait	_	Word	-	-	_	_	F	_	_
+6	été	_	Word	-	-	_	_	F	_	_
+7	parfaitement	_	Word	-	-	_	_	D	D*	_
+8	choisi	_	Word	-	+	_	_	_	_	_
+9	et	_	Word	-	-	_	_	L	_	_
+10	aménagé	_	Word	-	+	_	_	H	_	_
+11	pour	_	Word	-	-	_	_	_	_	R
+12	sa	_	Word	-	-	_	_	_	_	A
+13	destination	_	Word	-	+	_	_	A	A*	_
+14	nouvelle	_	Word	-	-	_	_	_	_	D
+15	.	_	Punctuation	-	-	_	_	_	_	U
+

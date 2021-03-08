@@ -1,0 +1,37 @@
+# format = ucca
+1	Sous	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	cette	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+3	pression	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+5	l'	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+6	Abraham	_	Word	-	+	_	A*	_	_	_	_	_	_	_	A*	_
+7	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+8	Lincoln	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+9	atteignait	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
+10	une	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
+11	vitesse	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+12	moyenne	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
+13	de	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+14	dix-huit	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_
+15	milles	_	Word	-	+	_	_	_	_	_	_	Q	_	_	_	_
+16	et	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_
+17	trois	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_
+18	dixièmes	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+19	à	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+20	l'	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+21	heure	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+23	vitesse	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
+24	considérable	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+26	mais	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_
+27	cependant	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+28	insuffisante	_	Word	-	-	_	_	_	H	_	_	_	_	_	_	_
+29	pour	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_
+30	lutter	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
+31	avec	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+32	le	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+33	gigantesque	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+34	cétacé	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,29 @@
+# format = ucca
+1	Un	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+2	des	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+3	matelots	_	Word	-	+	_	C*	_	_	_	_	_	_	_	_	_
+4	me	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+5	conduisit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	sur	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+7	la	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+8	dunette	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+10	où	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_
+11	je	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
+12	me	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_
+13	trouvai	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+14	en	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+15	présence	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
+16	d'	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+17	un	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+18	officier	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_
+19	de	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+20	bonne	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+21	mine	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+22	qui	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+23	me	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
+24	tendit	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+25	la	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+26	main	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

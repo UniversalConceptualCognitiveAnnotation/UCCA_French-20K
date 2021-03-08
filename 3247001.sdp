@@ -1,0 +1,32 @@
+# format = ucca
+1	Lui	_	Word	-	+	_	_	A	_	_	_	_	_	_
+2	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+3	même	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+5	répondis	_	Word	-	+	_	_	_	_	_	_	_	_	_
+6	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	je	_	Word	-	-	_	_	A	_	_	_	_	_	_
+8	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+9	Le	_	Word	-	-	_	_	_	F	_	_	_	_	_
+10	commandant	_	Word	-	-	_	_	_	E	_	_	_	_	_
+11	Farragut	_	Word	-	+	_	_	_	_	A*	_	_	_	_
+12	?	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+13	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+14	En	_	Word	-	-	_	_	_	_	R	_	_	_	_
+15	personne	_	Word	-	+	_	_	H	_	_	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+17	Soyez	_	Word	-	+	_	_	_	_	H	_	_	_	_
+18	le	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+19	bienvenu	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
+21	monsieur	_	Word	-	-	_	_	_	_	_	_	E	_	_
+22	le	_	Word	-	-	_	_	_	_	_	_	F	_	_
+23	professeur	_	Word	-	+	_	_	_	_	_	G	_	_	_
+24	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+25	Votre	_	Word	-	-	_	_	_	_	_	_	_	E	_
+26	cabine	_	Word	-	+	_	_	_	_	_	_	_	_	A
+27	vous	_	Word	-	-	_	_	_	_	_	_	_	_	A
+28	attend	_	Word	-	+	_	_	_	_	H	_	_	_	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+30	»	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+
