@@ -1,0 +1,23 @@
+# ::id 3288001
+# ::tok Écoutez - moi , Ned ... - Non , monsieur le professeur , non .
+# ::alignments 0-1.2.2 2-1.1.3.3 4-1.1.3.4 7-1.2.7 9-1.2.8.1 11-1.2.8.2.1.2 13-1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :A (v12 / label)
+                  :P (v8 / label~e.0)
+                  :A (v13 / label~e.2)
+                  :G (v14 / label~e.4)))
+    :H (v3 / label
+           :D (v7 / label~e.13)
+           :P v8
+           :A (v9 / label)
+           :D (v10 / label~e.7)
+           :G (v11 / label
+                   :C (v15 / label~e.9)
+                   :C (v16 / label
+                           :A (v17 / label
+                                   :C (v18 / label~e.11))))))

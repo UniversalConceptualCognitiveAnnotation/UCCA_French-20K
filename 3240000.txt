@@ -1,0 +1,120 @@
+# ::id 3240000
+# ::tok - Tu sais , mon ami , il s' agit du monstre ... du fameux narwal ... Nous allons en purger les mers ! ... L' auteur d' un ouvrage in - quarto en deux volumes sur les Mystères des grands fonds sous - marins ne peut se dispenser de s' embarquer avec le commandant Farragut . Mission glorieuse , mais ... dangereuse aussi ! On ne sait pas où l' on va ! Ces bêtes - là peuvent être très - capricieuses ! Mais nous irons quand même ! Nous avons un commandant qui n' a pas froid aux yeux ! ...
+# ::alignments 1-1.1.3.20.1 2-1.1.3.20.2 4-1.1.3.20.3.1 5-1.1.3.20.3.2 8-1.1.3.20.4.2 9-1.1.3.20.4.2 10-1.1.3.20.4.3.1.1 11-1.1.3.20.4.3.1.2 13-1.1.3.20.4.3.2.1 14-1.1.3.20.4.3.2.2.2 15-1.1.3.20.4.3.2.3 17-1.1.3.21.1 18-1.1.3.21.2 19-1.1.3.21.3 20-1.1.3.21.4 22-1.1.3.21.5.2 26-1.1.3.22.1.2.1 27-1.1.3.22.1.3.1 29-1.1.3.22.1.3.3 30-1.1.3.22.1.3.4 32-1.1.3.22.1.3.4 33-1.1.3.22.1.3.5.1 34-1.1.3.22.1.3.5.2 35-1.1.3.22.1.3.5.3 36-1.1.3.22.1.3.6.1 38-1.1.3.22.1.3.6.2.2 39-1.1.3.22.1.3.6.3.1 40-1.1.3.22.1.3.6.3.2.1 41-1.1.3.22.1.3.6.3.3 42-1.1.3.22.1.3.6.3.4.1.1 44-1.1.3.22.1.3.6.3.4.1.2 45-1.1.3.22.2 46-1.1.3.22.3 47-1.1.3.22.4 48-1.1.3.22.4 50-1.1.3.22.6 51-1.1.3.22.6 52-1.1.3.22.7.1 54-1.1.3.22.7.3.1 55-1.1.3.22.7.4 57-1.1.3.2.3 58-1.1.3.23.3.2.2 60-1.1.3.1 62-1.1.3.2.1 63-1.1.3.2.2 65-1.1.3.3.1 66-1.1.3.3.2 67-1.1.3.3.3 68-1.1.3.3.2 69-1.1.3.3.4.1 71-1.1.3.3.4.3 72-1.1.3.3.4.4 74-1.1.3.5.2.2 75-1.1.3.5.2.3 77-1.1.3.5.2.4.3 78-1.1.3.5.3 80-1.1.3.5.5 82-1.1.3.5.6 84-1.1.3.6 85-1.1.3.15.1 86-1.1.3.15.2 87-1.1.3.18 88-1.1.3.18 90-1.1.3.19.1 91-1.1.3.19.2 93-1.1.3.19.3.2.6 94-1.1.3.19.3.2.3 95-1.1.3.19.3.2.4 96-1.1.3.19.3.2.5 97-1.1.3.19.3.2.4 98-1.1.3.19.3.2.5 99-1.1.3.19.3.2.5 100-1.1.3.19.3.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.60)
+                  :H (v7 / label
+                         :S (v18 / label~e.62)
+                         :D (v19 / label~e.63)
+                         :A (v20 / label~e.57))
+                  :H (v8 / label
+                         :A (v21 / label~e.65)
+                         :D (v22 / label~e.66,68)
+                         :P (v23 / label~e.67)
+                         :A (v24 / label
+                                 :A (v52 / label~e.69)
+                                 :A (v53 / label~e.71)
+                                 :P (v54 / label~e.72)))
+                  :H (v9 / label
+                         :A (v25 / label
+                                 :E (v55 / label~e.74)
+                                 :C (v56 / label~e.75)
+                                 :E (v57 / label
+                                         :A v56
+                                         :S (v71 / label)
+                                         :A (v72 / label~e.77)))
+                         :D (v26 / label~e.78)
+                         :D (v27 / label~e.80)
+                         :S (v28 / label~e.82))
+                  :L (v10 / label~e.84)
+                  :H (v11 / label
+                          :A (v29 / label~e.85)
+                          :P (v30 / label~e.86)
+                          :A v20)
+                  :L (v12 / label~e.87,88)
+                  :H (v13 / label
+                          :A (v31 / label~e.90)
+                          :S (v32 / label~e.91)
+                          :A (v33 / label
+                                  :C (v58 / label
+                                          :A (v73 / label
+                                                  :C (v77 / label~e.93)))
+                                  :E (v59 / label
+                                          :R (v74 / label~e.94)
+                                          :D (v75 / label~e.95,97)
+                                          :P (v76 / label~e.96,98,99,100)
+                                          :A v77)))
+                  :H (v14 / label
+                          :A (v34 / label~e.1)
+                          :P (v35 / label~e.2)
+                          :G (v36 / label
+                                  :A (v60 / label~e.4)
+                                  :A (v61 / label~e.5))
+                          :A (v37 / label
+                                  :S (v62 / label~e.8,9)
+                                  :A (v63 / label
+                                          :C (v78 / label
+                                                  :R (v88 / label~e.10)
+                                                  :C (v89 / label~e.11))
+                                          :C (v79 / label
+                                                  :R (v90 / label~e.13)
+                                                  :E (v91 / label
+                                                          :A (v92 / label~e.15)
+                                                          :S (v99 / label~e.14))
+                                                  :C v92))))
+                  :H (v15 / label
+                          :A (v38 / label~e.17)
+                          :D (v39 / label~e.18)
+                          :A (v40 / label~e.19)
+                          :P (v41 / label~e.20)
+                          :A (v42 / label
+                                  :C (v64 / label~e.22)))
+                  :H (v16 / label
+                          :A (v43 / label
+                                  :C (v65 / label
+                                          :A (v80 / label~e.26))
+                                  :E (v66 / label
+                                          :R (v81 / label~e.27)
+                                          :C (v82 / label~e.29)
+                                          :E (v83 / label~e.30,32)
+                                          :E (v84 / label
+                                                  :R (v93 / label~e.33)
+                                                  :Q (v94 / label~e.34)
+                                                  :C (v95 / label~e.35))
+                                          :E (v85 / label
+                                                  :R (v96 / label~e.36)
+                                                  :S (v97 / label
+                                                          :C (v100 / label~e.38))
+                                                  :A (v98 / label
+                                                          :R (v101 / label~e.39)
+                                                          :E (v102 / label
+                                                                   :S (v105 / label~e.40)
+                                                                   :A (v103 / label~e.41))
+                                                          :C v103
+                                                          :E (v104 / label
+                                                                   :S (v106 / label
+                                                                            :R (v107 / label~e.42)
+                                                                            :C (v108 / label~e.44))
+                                                                   :A v103)))))
+                          :D (v44 / label~e.45)
+                          :D (v45 / label~e.46)
+                          :D (v46 / label~e.47,48)
+                          :P (v47 / label~e.50,51)
+                          :A (v48 / label
+                                  :R (v67 / label~e.52)
+                                  :E (v68 / label
+                                          :A (v86 / label~e.54))
+                                  :C (v69 / label~e.55)))
+                  :H (v17 / label
+                          :A (v49 / label)
+                          :S (v50 / label)
+                          :A (v51 / label
+                                  :C v20
+                                  :E (v70 / label
+                                          :A v20
+                                          :S (v87 / label~e.58)))))))

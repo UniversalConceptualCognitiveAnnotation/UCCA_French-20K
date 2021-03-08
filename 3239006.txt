@@ -1,0 +1,18 @@
+# ::id 3239006
+# ::tok Et les collections de monsieur ? fit observer Conseil . -
+# ::alignments 0-1.1.4.1 2-1.1.4.2.3.2 3-1.1.4.2.3.3.1 4-1.1.4.2.3.3.2 7-1.1.6 8-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :A (v8 / label)
+                         :P (v9 / label)
+                         :A (v10 / label
+                                 :C (v11 / label~e.2)
+                                 :E (v12 / label
+                                         :R (v13 / label~e.3)
+                                         :C (v14 / label~e.4)))))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)))

@@ -1,0 +1,14 @@
+# ::id 3288003
+# ::tok Un poulpe gigantesque , peut-être ? ... -
+# ::alignments 1-1.1.7.2 2-1.1.7.3.2 4-1.1.8
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :C (v7 / label~e.1)
+                  :E (v8 / label
+                         :A v7
+                         :S (v9 / label~e.2)))
+           :D (v6 / label~e.4)))

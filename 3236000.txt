@@ -1,0 +1,10 @@
+# ::id 3236000
+# ::tok Seulement , Conseil avait un défaut .
+# ::alignments 0-1.1 2-1.2.1 5-1.2.3.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.2)
+           :S (v5 / label
+                  :C (v6 / label~e.5))))

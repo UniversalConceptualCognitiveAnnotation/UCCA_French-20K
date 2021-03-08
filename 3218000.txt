@@ -1,0 +1,20 @@
+# ::id 3218000
+# ::tok Mais je me laisse entraîner à des rêveries qu' il ne m' appartient plus d' entretenir !
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.2 4-1.2.3 5-1.2.4.8 7-1.2.4.1.2 10-1.2.4.4 11-1.2.4.5 12-1.2.4.5 13-1.2.4.6 14-1.2.4.7.1 15-1.2.4.7.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :D (v5 / label~e.2,3)
+           :P (v6 / label~e.4)
+           :A (v7 / label
+                  :P (v8 / label
+                         :C (v14 / label~e.7))
+                  :D (v9 / label~e.10)
+                  :D (v10 / label~e.11,12)
+                  :T (v11 / label~e.13)
+                  :D (v12 / label
+                          :R (v15 / label~e.14)
+                          :C (v16 / label~e.15))
+                  :R (v13 / label~e.5))))
