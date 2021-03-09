@@ -1,4 +1,4 @@
-#BOS 3280000
+#BOS 3843000
 Partout	Word	--	Terminal	500
 dans	Word	--	Terminal	501
 les	Word	--	Terminal	502
@@ -80,4 +80,4 @@ théâtres	Word	--	Terminal	532
 #544	FN	--	H	546
 #545	FN	--	H	546
 #546	FN	--	--	0
-#EOS 3280000
+#EOS 3843000

@@ -1,16 +1,16 @@
-#BOS 3280002
+#BOS 3843002
 On	Word	--	Terminal	500
 vit	Word	--	Terminal	501
 réapparaître	Word	--	Terminal	502
 dans	Word	--	Terminal	503
 les	Word	--	Terminal	504
 journaux	Word	--	Terminal	505
-\u2013	Word	--	Terminal	506
+—	Punctuation	--	Terminal	506
 à	Word	--	Terminal	507
 court	Word	--	Terminal	508
 de	Word	--	Terminal	509
 copie	Word	--	Terminal	510
-\u2013	Word	--	Terminal	511
+—	Punctuation	--	Terminal	511
 tous	Word	--	Terminal	512
 les	Word	--	Terminal	513
 êtres	Word	--	Terminal	514
@@ -65,12 +65,12 @@ Océan	Word	--	Terminal	554
 #503	FN	--	R	568
 #504	FN	--	F	568
 #505	FN	--	C	568
-#506	FN	--	F	568
+#506	PNCT	--	U	568
 #507	FN	--	R	556
 #508	FN	--	C	556
 #509	FN	--	R	567
 #510	FN	--	C	567	A*	557
-#511	FN	--	F	580
+#511	PNCT	--	U	580
 #512	FN	--	Q	579
 #513	FN	--	F	579
 #514	FN	--	C	579	A*	558	A*	559
@@ -142,4 +142,4 @@ Océan	Word	--	Terminal	554
 #580	FN	--	A	581
 #581	FN	--	H	582
 #582	FN	--	--	0
-#EOS 3280002
+#EOS 3843002

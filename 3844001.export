@@ -1,4 +1,4 @@
-#BOS 3302001
+#BOS 3844001
 Sous	Word	--	Terminal	500
 l'	Word	--	Terminal	501
 effort	Word	--	Terminal	502
@@ -19,7 +19,7 @@ la	Word	--	Terminal	515
 vitesse	Word	--	Terminal	516
 de	Word	--	Terminal	517
 treize	Word	--	Terminal	518
-nuds	Word	--	Terminal	519
+nœuds	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
 #500	FN	--	R	526
 #501	FN	--	F	521
@@ -51,4 +51,4 @@ nuds	Word	--	Terminal	519
 #527	FN	--	A	528
 #528	FN	--	H	529
 #529	FN	--	--	0
-#EOS 3302001
+#EOS 3844001

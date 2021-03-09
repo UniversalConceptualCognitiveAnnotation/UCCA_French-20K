@@ -1,4 +1,4 @@
-#BOS 3280001
+#BOS 3843001
 Les	Word	--	Terminal	500
 canards	Word	--	Terminal	501
 eurent	Word	--	Terminal	502
@@ -37,4 +37,4 @@ couleur	Word	--	Terminal	513
 #520	FN	--	A	521
 #521	FN	--	H	522
 #522	FN	--	--	0
-#EOS 3280001
+#EOS 3843001
