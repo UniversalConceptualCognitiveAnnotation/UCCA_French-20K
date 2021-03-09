@@ -1,17 +1,17 @@
 # format = ucca
-# sent_id = 3280002
+# sent_id = 3843002
 1	On	_	Word	Word	_	2	A	_	_
 2	vit	_	Word	Word	_	0	H	_	_
 3	réapparaître	_	Word	Word	_	2	A	_	_
 4	dans	_	Word	Word	_	6	R	_	_
 5	les	_	Word	Word	_	6	F	_	_
 6	journaux	_	Word	Word	_	3	A	_	_
-7	\u2013	_	Word	Word	_	6	F	_	_
+7	—	_	Punctuation	Punctuation	_	6	U	_	_
 8	à	_	Word	Word	_	9	R	_	_
 9	court	_	Word	Word	_	11	E	_	_
 10	de	_	Word	Word	_	11	R	_	_
 11	copie	_	Word	Word	_	6	E	_	_
-12	\u2013	_	Word	Word	_	3	F	_	_
+12	—	_	Punctuation	Punctuation	_	3	U	_	_
 13	tous	_	Word	Word	_	15	Q	_	_
 14	les	_	Word	Word	_	15	F	_	_
 15	êtres	_	Word	Word	_	3	A	_	_
